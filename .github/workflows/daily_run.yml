@@ -1,0 +1,52 @@
+name: Main Workflow
+
+on:
+  schedule:
+    - cron: "10 0 * * *" # Runs every day
+  workflow_dispatch:
+
+concurrency:
+  group: workflow-group
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2000
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # Updated to v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5  # Updated to v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Install Playwright for Python
+        run: |
+          pip install playwright
+          python -m playwright install
+          
+      - name: Fix PhantomJS Issue
+        run: |
+          npm uninstall phantomjs-prebuilt
+          npm install phantomjs-prebuilt@2.1.13
+          npm cache clear --force
+          npm install
+
+      - name: Run the scraper
+        env:
+          TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
+        run: |
+          python main.py
+            
+      - name: Cleanup
+        if: always()
+        run: |
+          rm -rf node_modules  # Clean up npm modules
+          rm -rf ~/.cache/ms-playwright  # Clean up Playwright cache
