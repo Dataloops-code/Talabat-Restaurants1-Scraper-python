@@ -7,7 +7,7 @@ import pandas as pd
 from openpyxl import Workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 from openpyxl.utils import get_column_letter
-from talabat_scraper import TalabatScraper
+from talabat_main_scraper import TalabatScraper
 from SavingOnDrive import SavingOnDrive
 
 
