@@ -1,5 +1,6 @@
 aiofiles==24.1.0
 asgiref==3.8.1
+asyncio==3.4.3
 beautifulsoup4==4.12.3
 blinker==1.9.0
 cachetools==5.5.0
@@ -14,9 +15,9 @@ google-api-core==2.23.0
 google-api-python-client==2.154.0
 google-auth==2.36.0
 google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
 googleapis-common-protos==1.66.0
 greenlet==3.1.1
-tenacity==8.2.3
 h11==0.14.0
 h2==4.1.0
 hpack==4.0.0
@@ -44,8 +45,10 @@ pytz==2024.2
 Quart==0.19.9
 requests==2.32.3
 rsa==4.9
+selenium==4.15.2
 six==1.16.0
 soupsieve==2.6
+tenacity==8.2.3
 typing_extensions==4.12.2
 tzdata==2024.2
 uritemplate==4.1.1
