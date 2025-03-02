@@ -1,18 +1,21 @@
 import asyncio
 import json
 import os
+import sys
 from typing import Dict, List, Tuple
 import pandas as pd
 from openpyxl import Workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 from openpyxl.utils import get_column_letter
 from talabat_scraper import TalabatScraper
+from SavingOnDrive import SavingOnDrive
 
 
 class MainScraper:
     def __init__(self):
         self.talabat_scraper = TalabatScraper()
         self.output_dir = "output"
+        self.drive_uploader = SavingOnDrive('credentials.json')
         
         # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
@@ -116,6 +119,39 @@ class MainScraper:
         else:
             sheet.cell(row=1, column=1, value="No data found for this area")
     
+    def upload_to_drive(self, file_path):
+        """
+        Upload Excel file to Google Drive folders
+        
+        Args:
+            file_path: Path to the Excel file to upload
+            
+        Returns:
+            bool: True if upload successful, False otherwise
+        """
+        print(f"\nUploading {file_path} to Google Drive...")
+        
+        try:
+            # Authenticate with Google Drive
+            if not self.drive_uploader.authenticate():
+                print("Failed to authenticate with Google Drive")
+                return False
+            
+            # Upload the file to both folders
+            file_ids = self.drive_uploader.upload_to_multiple_folders(file_path)
+            
+            if len(file_ids) == 2:
+                print(f"Successfully uploaded file to both Google Drive folders")
+                print(f"File IDs: {file_ids}")
+                return True
+            else:
+                print(f"Partially uploaded file to {len(file_ids)} out of 2 folders")
+                return False
+                
+        except Exception as e:
+            print(f"Error uploading to Google Drive: {str(e)}")
+            return False
+    
     async def run(self):
         """Main execution function to scrape all areas."""
         # Define governorate and its areas with their URLs
@@ -195,10 +231,28 @@ class MainScraper:
         print(f"SCRAPING COMPLETED")
         print(f"Excel file saved: {excel_filename}")
         print(f"Combined JSON saved: {combined_json_filename}")
+        
+        # Upload Excel to Google Drive
+        excel_file_path = os.path.join(os.getcwd(), excel_filename)
+        upload_success = self.upload_to_drive(excel_file_path)
+        
+        if upload_success:
+            print(f"Successfully uploaded Excel file to Google Drive")
+        else:
+            print(f"Failed to upload Excel file to Google Drive")
+            
         print(f"{'='*50}\n")
+
 
 async def main():
     """Entry point for the application."""
+    # Check if credentials file exists
+    if not os.path.exists('credentials.json'):
+        print("ERROR: credentials.json not found!")
+        print("Please create a service account in Google Cloud Console and download the credentials")
+        print("Save the file as 'credentials.json' in the same directory as this script")
+        sys.exit(1)
+        
     scraper = MainScraper()
     await scraper.run()
 
