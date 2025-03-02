@@ -244,8 +244,36 @@ class MainScraper:
         print(f"{'='*50}\n")
 
 
+def create_credentials_file():
+    """Create the credentials.json file from environment variable."""
+    try:
+        # Get credentials from environment variable
+        credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
+        
+        if not credentials_json:
+            print("ERROR: TALABAT_GCLOUD_KEY_JSON environment variable not found!")
+            print("Please set the TALABAT_GCLOUD_KEY_JSON environment variable with the Google service account credentials")
+            return False
+        
+        # Write credentials to file
+        with open('credentials.json', 'w') as f:
+            f.write(credentials_json)
+        
+        print("Successfully created credentials.json from environment variable")
+        return True
+    
+    except Exception as e:
+        print(f"ERROR: Failed to create credentials.json: {str(e)}")
+        return False
+
+
 async def main():
     """Entry point for the application."""
+    # Create credentials file from environment variable
+    if not create_credentials_file():
+        print("Could not create credentials.json from environment variable")
+        sys.exit(1)
+        
     # Check if credentials file exists
     if not os.path.exists('credentials.json'):
         print("ERROR: credentials.json not found!")
