@@ -6,7 +6,7 @@ from googleapiclient.http import MediaFileUpload
 
 
 class SavingOnDrive:
-    """Class to handle uploading files to Google Drive"""
+    """Class to handle uploading files to Google Drive with date-based folders"""
     
     def __init__(self, credentials_path='credentials.json'):
         """
@@ -46,6 +46,55 @@ class SavingOnDrive:
         except Exception as e:
             print(f"Authentication error: {str(e)}")
             return False
+    
+    def create_date_folder(self, parent_folder_id):
+        """
+        Create a folder with today's date in the specified parent folder
+        
+        Args:
+            parent_folder_id: ID of the parent folder
+            
+        Returns:
+            str: Folder ID of the created date folder, None if failed
+        """
+        try:
+            # Get today's date in YYYY-MM-DD format
+            today_date = datetime.datetime.now().strftime("%Y-%m-%d")
+            
+            # Check if folder already exists
+            query = f"name='{today_date}' and mimeType='application/vnd.google-apps.folder' and '{parent_folder_id}' in parents and trashed=false"
+            results = self.drive_service.files().list(
+                q=query,
+                spaces='drive',
+                fields='files(id, name)'
+            ).execute()
+            
+            existing_folders = results.get('files', [])
+            
+            # If folder already exists, return its ID
+            if existing_folders:
+                print(f"Folder {today_date} already exists in parent folder {parent_folder_id}")
+                return existing_folders[0]['id']
+            
+            # Create new folder
+            folder_metadata = {
+                'name': today_date,
+                'mimeType': 'application/vnd.google-apps.folder',
+                'parents': [parent_folder_id]
+            }
+            
+            folder = self.drive_service.files().create(
+                body=folder_metadata,
+                fields='id'
+            ).execute()
+            
+            folder_id = folder.get('id')
+            print(f"Created folder {today_date} with ID: {folder_id} in parent folder {parent_folder_id}")
+            return folder_id
+            
+        except Exception as e:
+            print(f"Error creating date folder: {str(e)}")
+            return None
     
     def upload_file(self, file_path, folder_id, file_name=None):
         """
@@ -102,7 +151,7 @@ class SavingOnDrive:
     
     def upload_to_multiple_folders(self, file_path, file_name=None):
         """
-        Upload a file to multiple Google Drive folders
+        Upload a file to date-based folders within multiple parent folders
         
         Args:
             file_path: Path to the file to upload
@@ -111,11 +160,22 @@ class SavingOnDrive:
         Returns:
             list: List of file IDs for each successful upload
         """
+        if not self.authenticate():
+            print("Failed to authenticate with Google Drive")
+            return []
+        
         file_ids = []
         
-        for folder_id in self.target_folders:
-            file_id = self.upload_file(file_path, folder_id, file_name)
-            if file_id:
-                file_ids.append(file_id)
+        for parent_folder_id in self.target_folders:
+            # Create or get date folder
+            date_folder_id = self.create_date_folder(parent_folder_id)
+            
+            if date_folder_id:
+                # Upload file to the date folder
+                file_id = self.upload_file(file_path, date_folder_id, file_name)
+                if file_id:
+                    file_ids.append(file_id)
+            else:
+                print(f"Failed to create/find date folder in parent folder {parent_folder_id}")
         
         return file_ids
