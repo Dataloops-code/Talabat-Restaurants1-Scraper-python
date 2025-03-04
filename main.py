@@ -2,6 +2,7 @@ import asyncio
 import json
 import os
 import sys
+import subprocess
 from typing import Dict, List, Tuple
 import pandas as pd
 from openpyxl import Workbook
@@ -23,6 +24,22 @@ class MainScraper:
         
         # Load progress if exists
         self.progress = self.load_progress()
+        
+        # Ensure Playwright browsers are installed
+        self.ensure_playwright_browsers()
+    
+    def ensure_playwright_browsers(self):
+        """Ensure Playwright browsers are properly installed"""
+        try:
+            print("Installing Playwright browsers...")
+            subprocess.run([sys.executable, "-m", "playwright", "install", "chromium", "firefox"], 
+                          check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            print("Playwright browsers installed successfully")
+        except subprocess.CalledProcessError as e:
+            print(f"Error installing Playwright browsers: {e}")
+            print(f"STDOUT: {e.stdout.decode() if e.stdout else 'None'}")
+            print(f"STDERR: {e.stderr.decode() if e.stderr else 'None'}")
+            print("Will continue and let TalabatScraper try to handle browser fallbacks")
     
     def load_progress(self) -> Dict:
         """Load progress from JSON file if it exists"""
@@ -369,7 +386,6 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
 
 
 # import asyncio
