@@ -67,7 +67,7 @@ jobs:
         env:
           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
         run: |
-          python main_resume.py
+          python main.py
             
       - name: Save Progress Cache
         uses: actions/cache/save@v4
