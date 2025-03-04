@@ -2,7 +2,7 @@ name: Main Workflow
 
 on:
   schedule:
-    - cron: "10 0 * * *" # Runs every day
+    - cron: "0 */6 * * *" # Runs every day
   workflow_dispatch:
 
 concurrency:
@@ -32,6 +32,20 @@ jobs:
           pip install playwright
           python -m playwright install
           
+      - name: Update geckodriver 
+        run: |
+          # Remove the existing geckodriver
+          sudo rm -f /usr/bin/geckodriver
+          
+          # Download and install geckodriver 0.36.0
+          wget https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz
+          tar -xvzf geckodriver-v0.36.0-linux64.tar.gz
+          chmod +x geckodriver
+          sudo mv geckodriver /usr/bin/
+          
+          # Verify installation
+          geckodriver --version
+      
       - name: Fix PhantomJS Issue
         run: |
           npm uninstall phantomjs-prebuilt
