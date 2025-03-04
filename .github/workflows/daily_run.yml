@@ -1,24 +1,23 @@
-name: Main Workflow
-
+name: Talabat Scraper Workflow
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every day
-  workflow_dispatch:
-
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering
 concurrency:
-  group: workflow-group
-  cancel-in-progress: true
+  group: scraper-workflow
+  cancel-in-progress: false  # Don't cancel in-progress runs to avoid data loss
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 2000
+    timeout-minutes: 350  # ~5.8 hours to ensure clean shutdown before 6-hour mark
+    
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Updated to v4
+        uses: actions/checkout@v4
         
       - name: Set up Python
-        uses: actions/setup-python@v5  # Updated to v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           
@@ -30,7 +29,7 @@ jobs:
       - name: Install Playwright for Python
         run: |
           pip install playwright
-          python -m playwright install
+          python -m playwright install firefox
           
       - name: Update geckodriver 
         run: |
@@ -52,13 +51,33 @@ jobs:
           npm install phantomjs-prebuilt@2.1.13
           npm cache clear --force
           npm install
-
+          
+      - name: Restore Progress Cache
+        id: restore-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            progress.json
+            output/**
+          key: ${{ runner.os }}-talabat-scraper-progress
+          restore-keys: |
+            ${{ runner.os }}-talabat-scraper-progress
+            
       - name: Run the scraper
         env:
           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
         run: |
-          python main.py
+          python main_resume.py
             
+      - name: Save Progress Cache
+        uses: actions/cache/save@v4
+        if: always()  # Run this step even if the job fails
+        with:
+          path: |
+            progress.json
+            output/**
+          key: ${{ runner.os }}-talabat-scraper-progress
+          
       - name: Cleanup
         if: always()
         run: |
