@@ -48,17 +48,38 @@ class MainScraper:
                 with open(self.progress_file, 'r', encoding='utf-8') as f:
                     progress = json.load(f)
                 print(f"Loaded progress from {self.progress_file}")
+                print(f"Current area index: {progress.get('current_area_index', 0)}")
+                print(f"Completed areas: {len(progress.get('completed_areas', []))}")
+                
+                # Ensure all required keys exist
+                if 'completed_areas' not in progress:
+                    progress['completed_areas'] = []
+                if 'current_area_index' not in progress:
+                    progress['current_area_index'] = 0
+                if 'all_results' not in progress:
+                    progress['all_results'] = {}
+                if 'last_updated' not in progress:
+                    progress['last_updated'] = None
+                    
                 return progress
             except Exception as e:
                 print(f"Error loading progress file: {str(e)}")
+                print("Creating new progress file...")
         
         # Return default empty progress
-        return {
+        default_progress = {
             "completed_areas": [],
             "current_area_index": 0,
             "last_updated": None,
             "all_results": {}
         }
+        
+        # Save the default progress to ensure the file exists
+        with open(self.progress_file, 'w', encoding='utf-8') as f:
+            json.dump(default_progress, f, indent=2, ensure_ascii=False)
+        
+        print("Created new default progress file")
+        return default_progress
     
     def save_progress(self):
         """Save current progress to JSON file"""
