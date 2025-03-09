@@ -1,10 +1,8 @@
 name: Talabat Scraper Workflow
-
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    - cron: "0 */6 * * *" # Runs every 6 hours (fixed the syntax)
   workflow_dispatch: # Allows manual triggering
-
 concurrency:
   group: scraper-workflow
   cancel-in-progress: false # Don't cancel in-progress runs to avoid data loss
@@ -13,25 +11,26 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 350 # ~5.8 hours to ensure clean shutdown before 6-hour mark
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
+        
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
+          
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
+          
       - name: Install Playwright for Python
         run: |
           pip install playwright
           python -m playwright install chromium firefox # Install both browsers
-
+          
       - name: Update geckodriver
         run: |
           # Remove the existing geckodriver
@@ -43,42 +42,159 @@ jobs:
           sudo mv geckodriver /usr/bin/
           # Verify installation
           geckodriver --version
-
+          
       - name: Fix PhantomJS Issue
         run: |
           npm uninstall phantomjs-prebuilt
           npm install phantomjs-prebuilt@2.1.13
           npm cache clear --force
           npm install
-
-      - name: Restore Progress Cache
-        id: restore-cache
+      
+      # Download progress state from previous runs
+      - name: Download Progress Data
         uses: actions/cache/restore@v4
+        id: cache-restore
         with:
           path: |
             progress.json
-            output/**
-          key: ${{ runner.os }}-talabat-scraper-progress
+            output
+          key: talabat-scraper-progress-${{ github.run_id }}
           restore-keys: |
-            ${{ runner.os }}-talabat-scraper-progress
-
+            talabat-scraper-progress-
+      
+      # Make sure output directory exists
+      - name: Create Output Directory
+        run: mkdir -p output
+      
+      # Debug - check what was restored
+      - name: Check Progress State
+        run: |
+          echo "Cache restore status: ${{ steps.cache-restore.outputs.cache-hit }}"
+          if [ -f "progress.json" ]; then
+            echo "progress.json exists - resuming from previous state"
+            cat progress.json | jq .current_area_index || echo "Not valid JSON"
+            cat progress.json | jq '.completed_areas | length' || echo "Not valid JSON"
+          else
+            echo "No progress.json found - starting fresh"
+            echo "{\"completed_areas\": [], \"current_area_index\": 0, \"last_updated\": null, \"all_results\": {}}" > progress.json
+          fi
+          ls -la output/ || echo "Output directory is empty"
+      
+      # Run the scraper
       - name: Run the scraper
         env:
           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
         run: |
           python main.py
-
-      - name: Save Progress Cache
+          
+      # Save the progress for the next run
+      - name: Save Progress State
         uses: actions/cache/save@v4
-        if: always() # Run this step even if the job fails
+        if: always() # Run this even if the script fails
         with:
           path: |
             progress.json
-            output/**
-          key: ${{ runner.os }}-talabat-scraper-progress
-
+            output
+          key: talabat-scraper-progress-${{ github.run_id }}
+      
+      # Upload artifacts for debugging
+      - name: Upload Progress as Artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: progress-data
+          path: |
+            progress.json
+            output/*.json
+          retention-days: 7
+      
       - name: Cleanup
         if: always()
         run: |
           rm -rf node_modules # Clean up npm modules
           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
+
+# name: Talabat Scraper Workflow
+
+# on:
+#   schedule:
+#     - cron: "0 */6 * * *" # Runs every 6 hours
+#   workflow_dispatch: # Allows manual triggering
+
+# concurrency:
+#   group: scraper-workflow
+#   cancel-in-progress: false # Don't cancel in-progress runs to avoid data loss
+
+# jobs:
+#   scrape:
+#     runs-on: ubuntu-latest
+#     timeout-minutes: 350 # ~5.8 hours to ensure clean shutdown before 6-hour mark
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v4
+
+#       - name: Set up Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: '3.10'
+
+#       - name: Install Dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install -r requirements.txt
+
+#       - name: Install Playwright for Python
+#         run: |
+#           pip install playwright
+#           python -m playwright install chromium firefox # Install both browsers
+
+#       - name: Update geckodriver
+#         run: |
+#           # Remove the existing geckodriver
+#           sudo rm -f /usr/bin/geckodriver
+#           # Download and install geckodriver 0.36.0
+#           wget https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-linux64.tar.gz
+#           tar -xvzf geckodriver-v0.36.0-linux64.tar.gz
+#           chmod +x geckodriver
+#           sudo mv geckodriver /usr/bin/
+#           # Verify installation
+#           geckodriver --version
+
+#       - name: Fix PhantomJS Issue
+#         run: |
+#           npm uninstall phantomjs-prebuilt
+#           npm install phantomjs-prebuilt@2.1.13
+#           npm cache clear --force
+#           npm install
+
+#       - name: Restore Progress Cache
+#         id: restore-cache
+#         uses: actions/cache/restore@v4
+#         with:
+#           path: |
+#             progress.json
+#             output/**
+#           key: ${{ runner.os }}-talabat-scraper-progress
+#           restore-keys: |
+#             ${{ runner.os }}-talabat-scraper-progress
+
+#       - name: Run the scraper
+#         env:
+#           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
+#         run: |
+#           python main.py
+
+#       - name: Save Progress Cache
+#         uses: actions/cache/save@v4
+#         if: always() # Run this step even if the job fails
+#         with:
+#           path: |
+#             progress.json
+#             output/**
+#           key: ${{ runner.os }}-talabat-scraper-progress
+
+#       - name: Cleanup
+#         if: always()
+#         run: |
+#           rm -rf node_modules # Clean up npm modules
+#           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
