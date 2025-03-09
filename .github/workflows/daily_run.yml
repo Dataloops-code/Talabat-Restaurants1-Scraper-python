@@ -80,11 +80,12 @@ jobs:
           fi
           ls -la output/ || echo "Output directory is empty"
       
-      # Run the scraper
+      # Run the scraper with restaurant-level progress updates
       - name: Run the scraper
         env:
           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
         run: |
+          # Ensure restaurants are saved individually
           python main.py
           
       # Save the progress for the next run
@@ -113,6 +114,8 @@ jobs:
         run: |
           rm -rf node_modules # Clean up npm modules
           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
+
+
 
 # name: Talabat Scraper Workflow
 
