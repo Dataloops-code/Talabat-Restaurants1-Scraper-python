@@ -699,59 +699,59 @@ class MainScraper:
         print(f"{'='*50}\n")
 
 
-    def create_credentials_file():
-        """Create the credentials.json file from environment variable."""
-        try:
-            # Get credentials from environment variable
-            credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
-            
-            if not credentials_json:
-                print("ERROR: TALABAT_GCLOUD_KEY_JSON environment variable not found!")
-                print("Please set the TALABAT_GCLOUD_KEY_JSON environment variable with the Google service account credentials")
-                return False
-            
-            # Write credentials to file
-            with open('credentials.json', 'w') as f:
-                f.write(credentials_json)
-            
-            print("Successfully created credentials.json from environment variable")
-            return True
+def create_credentials_file():
+    """Create the credentials.json file from environment variable."""
+    try:
+        # Get credentials from environment variable
+        credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
         
-        except Exception as e:
-            print(f"ERROR: Failed to create credentials.json: {str(e)}")
+        if not credentials_json:
+            print("ERROR: TALABAT_GCLOUD_KEY_JSON environment variable not found!")
+            print("Please set the TALABAT_GCLOUD_KEY_JSON environment variable with the Google service account credentials")
             return False
-    
-    
-    async def main():
-        """Entry point for the application."""
-        # Create credentials file from environment variable
-        if not create_credentials_file():
-            print("Could not create credentials.json from environment variable")
-            sys.exit(1)
-            
-        # Check if credentials file exists
-        if not os.path.exists('credentials.json'):
-            print("ERROR: credentials.json not found!")
-            print("Please create a service account in Google Cloud Console and download the credentials")
-            print("Save the file as 'credentials.json' in the same directory as this script")
-            sys.exit(1)
         
-        try:
-            # Initialize and run the scraper
-            scraper = MainScraper()
-            await scraper.run()
-        except KeyboardInterrupt:
-            print("\nProcess interrupted by user. Saving progress before exit...")
-            if 'scraper' in locals():
-                scraper.save_progress()
-            print("Progress saved. Exiting.")
-        except Exception as e:
-            print(f"Critical error in main execution: {e}")
-            import traceback
-            traceback.print_exc()
-            if 'scraper' in locals():
-                scraper.save_progress()
-            sys.exit(1)
+        # Write credentials to file
+        with open('credentials.json', 'w') as f:
+            f.write(credentials_json)
+        
+        print("Successfully created credentials.json from environment variable")
+        return True
+    
+    except Exception as e:
+        print(f"ERROR: Failed to create credentials.json: {str(e)}")
+        return False
+
+
+async def main():
+    """Entry point for the application."""
+    # Create credentials file from environment variable
+    if not create_credentials_file():
+        print("Could not create credentials.json from environment variable")
+        sys.exit(1)
+        
+    # Check if credentials file exists
+    if not os.path.exists('credentials.json'):
+        print("ERROR: credentials.json not found!")
+        print("Please create a service account in Google Cloud Console and download the credentials")
+        print("Save the file as 'credentials.json' in the same directory as this script")
+        sys.exit(1)
+    
+    try:
+        # Initialize and run the scraper
+        scraper = MainScraper()
+        await scraper.run()
+    except KeyboardInterrupt:
+        print("\nProcess interrupted by user. Saving progress before exit...")
+        if 'scraper' in locals():
+            scraper.save_progress()
+        print("Progress saved. Exiting.")
+    except Exception as e:
+        print(f"Critical error in main execution: {e}")
+        import traceback
+        traceback.print_exc()
+        if 'scraper' in locals():
+            scraper.save_progress()
+        sys.exit(1)
 
 if __name__ == "__main__":
     asyncio.run(main())
