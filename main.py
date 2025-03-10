@@ -3,11 +3,13 @@ import json
 import os
 import sys
 import subprocess
+import re  # Ensure re is imported for regex operations
 from typing import Dict, List, Tuple
 import pandas as pd
 from openpyxl import Workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 from openpyxl.utils import get_column_letter
+from playwright.async_api import async_playwright  # Add this import
 from talabat_main_scraper import TalabatScraper
 from SavingOnDrive import SavingOnDrive
 
