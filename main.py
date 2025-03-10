@@ -42,19 +42,25 @@ class MainScraper:
             print("Will continue and let TalabatScraper try to handle browser fallbacks")
     
     def load_progress(self) -> Dict:
-        """Load progress from JSON file if it exists with enhanced error checking"""
+        """Load progress from JSON file if it exists with comprehensive error checking"""
         if os.path.exists(self.progress_file):
             try:
                 with open(self.progress_file, 'r', encoding='utf-8') as f:
                     progress = json.load(f)
                 print(f"Loaded progress from {self.progress_file}")
+                
+                # Log current progress state
                 print(f"Current area index: {progress.get('current_area_index', 0)}")
                 print(f"Completed areas: {len(progress.get('completed_areas', []))}")
                 
-                if 'current_area_restaurants' in progress:
-                    print(f"Current area restaurant progress: {progress['current_area_restaurants'].get('processed', 0)}/{progress['current_area_restaurants'].get('total', 0)}")
+                # Log more detailed progress
+                if 'current_progress' in progress:
+                    curr = progress['current_progress']
+                    print(f"Current status: Area {curr.get('area_name', 'None')} - "
+                          f"Page {curr.get('current_page', 0)}/{curr.get('total_pages', 0)} - "
+                          f"Restaurant {curr.get('current_restaurant', 0)}/{curr.get('total_restaurants', 0)}")
                 
-                # Ensure all required keys exist
+                # Ensure all required keys exist with proper default values
                 if 'completed_areas' not in progress:
                     progress['completed_areas'] = []
                 if 'current_area_index' not in progress:
@@ -63,13 +69,35 @@ class MainScraper:
                     progress['all_results'] = {}
                 if 'last_updated' not in progress:
                     progress['last_updated'] = None
-                if 'current_area_restaurants' not in progress:
-                    progress['current_area_restaurants'] = {
+                
+                # Ensure current_progress structure is complete
+                if 'current_progress' not in progress:
+                    progress['current_progress'] = {
                         'area_name': None,
-                        'processed': 0,
-                        'total': 0,
-                        'restaurant_results': []
+                        'current_page': 0, 
+                        'total_pages': 0,
+                        'current_restaurant': 0,
+                        'total_restaurants': 0,
+                        'processed_restaurants': [],
+                        'completed_pages': []
                     }
+                else:
+                    # Ensure all keys exist in current_progress
+                    curr_progress = progress['current_progress']
+                    if 'area_name' not in curr_progress:
+                        curr_progress['area_name'] = None
+                    if 'current_page' not in curr_progress:
+                        curr_progress['current_page'] = 0
+                    if 'total_pages' not in curr_progress:
+                        curr_progress['total_pages'] = 0
+                    if 'current_restaurant' not in curr_progress:
+                        curr_progress['current_restaurant'] = 0
+                    if 'total_restaurants' not in curr_progress:
+                        curr_progress['total_restaurants'] = 0
+                    if 'processed_restaurants' not in curr_progress:
+                        curr_progress['processed_restaurants'] = []
+                    if 'completed_pages' not in curr_progress:
+                        curr_progress['completed_pages'] = []
                 
                 return progress
             except Exception as e:
@@ -82,11 +110,14 @@ class MainScraper:
             "current_area_index": 0,
             "last_updated": None,
             "all_results": {},
-            "current_area_restaurants": {
+            "current_progress": {
                 "area_name": None,
-                "processed": 0,
-                "total": 0,
-                "restaurant_results": []
+                "current_page": 0,
+                "total_pages": 0,
+                "current_restaurant": 0,
+                "total_restaurants": 0,
+                "processed_restaurants": [],
+                "completed_pages": []
             }
         }
         
@@ -98,7 +129,7 @@ class MainScraper:
         return default_progress
     
     def save_progress(self):
-        """Save current progress to JSON file"""
+        """Save current progress to JSON file with timestamp"""
         try:
             # Update timestamp
             import datetime
@@ -112,7 +143,7 @@ class MainScraper:
     
     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
-        Scrape restaurants for a specific area and save to JSON
+        Scrape restaurants for a specific area with detailed progress tracking
         
         Args:
             area_name: Name of the area (in Arabic)
@@ -126,120 +157,300 @@ class MainScraper:
         print(f"URL: {area_url}")
         print(f"{'='*50}\n")
         
+        # Initialize area results
+        all_area_results = []
+        current_progress = self.progress["current_progress"]
+        
         # Check if we're resuming within this area
-        current_area = self.progress["current_area_restaurants"]
-        resume_in_area = current_area["area_name"] == area_name and current_area["processed"] > 0
+        is_resuming = current_progress["area_name"] == area_name
         
-        if resume_in_area:
-            print(f"Resuming area {area_name} from restaurant {current_area['processed']}/{current_area['total']}")
-            results = current_area["restaurant_results"]
-        else:
-            # Reset the current area restaurant tracking
-            self.progress["current_area_restaurants"] = {
-                "area_name": area_name,
-                "processed": 0,
-                "total": 0,
-                "restaurant_results": []
-            }
-            results = []
-        
-        # If we're not resuming or we don't have restaurant listings yet, get them
-        if not resume_in_area or len(results) == 0:
-            # Scrape the restaurant listings
-            print("Fetching restaurant listings...")
-            results = await self.talabat_scraper.scrape_all_restaurants_by_page(area_url)
+        if is_resuming:
+            print(f"Resuming area {area_name} from page {current_progress['current_page']} "
+                  f"restaurant {current_progress['current_restaurant']}")
             
-            # Update progress with total count
-            self.progress["current_area_restaurants"]["total"] = len(results)
+            # Load processed results from previous run
+            if os.path.exists(os.path.join(self.output_dir, f"{area_name}_partial.json")):
+                try:
+                    with open(os.path.join(self.output_dir, f"{area_name}_partial.json"), 'r', encoding='utf-8') as f:
+                        all_area_results = json.load(f)
+                    print(f"Loaded {len(all_area_results)} previously processed restaurants")
+                except Exception as e:
+                    print(f"Error loading partial area results: {e}")
+                    all_area_results = []
+        else:
+            # Reset progress for new area
+            current_progress["area_name"] = area_name
+            current_progress["current_page"] = 0
+            current_progress["total_pages"] = 0
+            current_progress["current_restaurant"] = 0
+            current_progress["total_restaurants"] = 0
+            current_progress["processed_restaurants"] = []
+            current_progress["completed_pages"] = []
             self.save_progress()
         
-        # Get the filtered restaurants we need to process
         skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
-        restaurants_to_process = []
         
-        # Start from where we left off
-        start_idx = self.progress["current_area_restaurants"]["processed"]
+        # First determine total pages if not already known
+        if current_progress["total_pages"] == 0:
+            total_pages = await self.determine_total_pages(area_url)
+            current_progress["total_pages"] = total_pages
+            self.save_progress()
+        else:
+            total_pages = current_progress["total_pages"]
         
-        # Filter restaurants that need processing
-        for idx, restaurant in enumerate(results):
-            if idx < start_idx:
-                # Already processed this restaurant
+        print(f"Total pages for {area_name}: {total_pages}")
+        
+        # Process each page in the area
+        for page_num in range(1, total_pages + 1):
+            # Skip already completed pages
+            if page_num < current_progress["current_page"] or page_num in current_progress["completed_pages"]:
+                print(f"Skipping already completed page {page_num}")
                 continue
+            
+            # Construct page URL
+            if page_num == 1:
+                page_url = area_url
+            else:
+                # Check if the base URL already has query parameters
+                if "?" in area_url:
+                    # Add page parameter to existing query string
+                    if "page=" in area_url:
+                        # Replace existing page parameter
+                        page_url = re.sub(r'page=\d+', f'page={page_num}', area_url)
+                    else:
+                        # Add page parameter
+                        page_url = f"{area_url}&page={page_num}"
+                else:
+                    # Add page parameter as the first query parameter
+                    page_url = f"{area_url}?page={page_num}"
+            
+            print(f"\n--- Processing Page {page_num}/{total_pages} for {area_name} ---")
+            current_progress["current_page"] = page_num
+            self.save_progress()
+            
+            # Get restaurant listings for this page
+            restaurants_on_page = await self.get_page_restaurants(page_url, page_num)
+            print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
+            
+            # Update total restaurants on page
+            if current_progress["current_restaurant"] == 0 or page_num > current_progress["current_page"]:
+                current_progress["total_restaurants"] = len(restaurants_on_page)
+                current_progress["current_restaurant"] = 0
+            
+            # Process each restaurant on the page
+            for rest_idx, restaurant in enumerate(restaurants_on_page):
+                # Skip already processed restaurants on this page
+                if rest_idx < current_progress["current_restaurant"]:
+                    print(f"Skipping already processed restaurant {rest_idx+1}/{len(restaurants_on_page)}")
+                    continue
                 
-            # Check if this is a restaurant (not a grocery store, etc.)
-            if any(category in restaurant['cuisine'] for category in skip_categories):
-                print(f"\nSkipping {restaurant['name']} - Category: {restaurant['cuisine']}")
-                # Mark as processed
-                self.progress["current_area_restaurants"]["processed"] += 1
-                self.save_progress()
-                continue
+                # Set current restaurant position
+                current_progress["current_restaurant"] = rest_idx
                 
-            restaurants_to_process.append((idx, restaurant))
-        
-        # Process each restaurant
-        for idx, restaurant in restaurants_to_process:
-            try:
-                print(f"\nProcessing restaurant {idx+1}/{len(results)} in {area_name}: {restaurant['name']}")
-                
-                # Initialize fields if not already present
-                if "menu_items" not in restaurant:
-                    restaurant['menu_items'] = {}
-                if "info" not in restaurant:
-                    restaurant['info'] = {}
-                if "reviews" not in restaurant:
-                    restaurant['reviews'] = {}
+                # Check if restaurant is in a category we want to skip
+                if any(category in restaurant['cuisine'] for category in skip_categories):
+                    print(f"\nSkipping {restaurant['name']} - Category: {restaurant['cuisine']}")
+                    # Save progress to mark this as processed
+                    current_progress["processed_restaurants"].append(restaurant["name"])
+                    self.save_progress()
+                    continue
                 
                 try:
-                    # Get menu data
-                    print(f"Scraping menu for {restaurant['name']}...")
-                    menu_data = await self.talabat_scraper.get_restaurant_menu(restaurant['url'])
-                    if menu_data:
-                        restaurant['menu_items'] = menu_data
-                    else:
-                        print(f"Failed to get menu for {restaurant['name']}")
+                    print(f"\nProcessing restaurant {rest_idx+1}/{len(restaurants_on_page)} on page {page_num}: {restaurant['name']}")
+                    
+                    # Initialize fields if not already present
+                    if "menu_items" not in restaurant:
+                        restaurant['menu_items'] = {}
+                    if "info" not in restaurant:
+                        restaurant['info'] = {}
+                    if "reviews" not in restaurant:
+                        restaurant['reviews'] = {}
+                    
+                    try:
+                        # Get menu data
+                        print(f"Scraping menu for {restaurant['name']}...")
+                        menu_data = await self.talabat_scraper.get_restaurant_menu(restaurant['url'])
+                        if menu_data:
+                            restaurant['menu_items'] = menu_data
+                        else:
+                            print(f"Failed to get menu for {restaurant['name']}")
                         
-                    # Get restaurant info with retry
-                    info_data = await self.talabat_scraper.get_restaurant_info(restaurant['url'])
-                    if info_data:
-                        restaurant['info'] = info_data
+                        # Get restaurant info with retry
+                        info_data = await self.talabat_scraper.get_restaurant_info(restaurant['url'])
+                        if info_data:
+                            restaurant['info'] = info_data
                         
-                    # Get reviews if we have a reviews URL
-                    if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
-                        print(f"Scraping reviews for {restaurant['name']}...")
-                        reviews_data = self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
-                        if reviews_data:
-                            restaurant['reviews'] = reviews_data
-                            
+                        # Get reviews if we have a reviews URL
+                        if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
+                            print(f"Scraping reviews for {restaurant['name']}...")
+                            reviews_data = self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
+                            if reviews_data:
+                                restaurant['reviews'] = reviews_data
+                        
+                    except Exception as e:
+                        print(f"Error processing restaurant data for {restaurant['name']}: {str(e)}")
+                    
+                    # Add to results
+                    all_area_results.append(restaurant)
+                    
+                    # Mark this restaurant as processed
+                    current_progress["processed_restaurants"].append(restaurant["name"])
+                    self.save_progress()
+                    
+                    # Save partial results after each restaurant
+                    partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
+                    with open(partial_filename, 'w', encoding='utf-8') as f:
+                        json.dump(all_area_results, f, indent=2, ensure_ascii=False)
+                    
+                    # Brief delay between restaurants
+                    await asyncio.sleep(2)
+                    
                 except Exception as e:
-                    print(f"Error processing restaurant data for {restaurant['name']}: {str(e)}")
-                
-                # Update the results in the progress
-                results[idx] = restaurant
-                self.progress["current_area_restaurants"]["restaurant_results"] = results
-                
-                # Mark this restaurant as processed
-                self.progress["current_area_restaurants"]["processed"] = idx + 1
-                self.save_progress()
-                
-                # Brief delay between restaurants to avoid overwhelming the server
-                await asyncio.sleep(2)
-                
-            except Exception as e:
-                print(f"Critical error processing restaurant {restaurant['name']}: {str(e)}")
-                import traceback
-                traceback.print_exc()
-                # Still save progress to mark this as processed, even if it failed
-                self.progress["current_area_restaurants"]["processed"] = idx + 1
-                self.save_progress()
+                    print(f"Critical error processing restaurant {restaurant['name']}: {str(e)}")
+                    import traceback
+                    traceback.print_exc()
+                    # Still save progress to mark this as attempted
+                    current_progress["processed_restaurants"].append(restaurant["name"])
+                    self.save_progress()
+            
+            # Mark page as completed
+            current_progress["completed_pages"].append(page_num)
+            current_progress["current_restaurant"] = 0  # Reset for next page
+            self.save_progress()
+            
+            # Brief pause between pages
+            await asyncio.sleep(3)
         
-        # Save area results to individual JSON file
+        # Save final area results
         json_filename = os.path.join(self.output_dir, f"{area_name}.json")
         with open(json_filename, 'w', encoding='utf-8') as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
-            
-        print(f"Saved {len(results)} restaurants for {area_name} to {json_filename}")
+            json.dump(all_area_results, f, indent=2, ensure_ascii=False)
         
-        return results
+        # Clean up partial file
+        partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
+        if os.path.exists(partial_filename):
+            try:
+                os.remove(partial_filename)
+            except Exception as e:
+                print(f"Warning: Could not remove partial file: {e}")
+        
+        # Reset current progress for next area
+        current_progress["area_name"] = None
+        current_progress["current_page"] = 0
+        current_progress["total_pages"] = 0
+        current_progress["current_restaurant"] = 0
+        current_progress["total_restaurants"] = 0
+        current_progress["processed_restaurants"] = []
+        current_progress["completed_pages"] = []
+        self.save_progress()
+        
+        print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
+        return all_area_results
+    
+    async def determine_total_pages(self, area_url: str) -> int:
+        """Determine the total number of pages for an area"""
+        print(f"Determining total pages for URL: {area_url}")
+        try:
+            async with async_playwright() as p:
+                browser = await p.firefox.launch(headless=True)
+                context = await browser.new_context(
+                    viewport={'width': 1920, 'height': 1080},
+                    user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                )
+                page = await context.new_page()
+                page.set_default_timeout(120000)  # Increase timeout to 120 seconds
+                
+                response = await page.goto(area_url, wait_until='domcontentloaded')
+                if not response or not response.ok:
+                    print(f"Failed to load page: {response.status if response else 'No response'}")
+                    return 1
+                
+                # Wait for content to load
+                try:
+                    await page.wait_for_selector("ul[data-test='pagination'], .vendor-card, [data-testid='restaurant-a']", timeout=30000)
+                except Exception as e:
+                    print(f"Error waiting for content: {e}")
+                    return 1
+                
+                # Find the last page number
+                last_page = 1
+                try:
+                    # Look for pagination element
+                    pagination = await page.query_selector("ul[data-test='pagination']")
+                    
+                    if pagination:
+                        # Find the second-to-last <li> element which should contain the last page number
+                        pagination_items = await pagination.query_selector_all("li[data-testid='paginate-link']")
+                        
+                        if pagination_items and len(pagination_items) > 1:
+                            # Get the last numbered page item (second-to-last item in the list)
+                            last_page_item = pagination_items[-2]  # The last one is the "Next" button
+                            
+                            # Get the page number
+                            last_page_link = await last_page_item.query_selector("a[page]")
+                            if last_page_link:
+                                last_page_attr = await last_page_link.get_attribute("page")
+                                if last_page_attr and last_page_attr.isdigit():
+                                    last_page = int(last_page_attr)
+                                    print(f"Detected {last_page} total pages")
+                    
+                    # If we couldn't find pagination or last page, assume it's just one page
+                    if last_page == 1:
+                        print("Could not detect pagination, assuming single page")
+                except Exception as e:
+                    print(f"Error detecting pagination: {e}, defaulting to single page")
+                    last_page = 1
+                
+                await browser.close()
+                return last_page
+        except Exception as e:
+            print(f"Error determining total pages: {e}")
+            return 1
+    
+    async def get_page_restaurants(self, page_url: str, page_num: int) -> List[Dict]:
+        """Gets the restaurant listings from a specific page"""
+        browser = None
+        restaurants = []
+        
+        try:
+            async with async_playwright() as p:
+                browser = await p.firefox.launch(headless=True)
+                context = await browser.new_context(
+                    viewport={'width': 1920, 'height': 1080},
+                    user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                )
+                page = await context.new_page()
+                page.set_default_timeout(120000)  # Increase timeout to 120 seconds
+                
+                try:
+                    response = await page.goto(page_url, wait_until='domcontentloaded')
+                    if not response or not response.ok:
+                        print(f"Failed to load page {page_num}: {response.status if response else 'No response'}")
+                        return []
+                except Exception as e:
+                    print(f"Error loading page {page_num}: {str(e)}")
+                    return []
+                
+                # Wait for content to load
+                try:
+                    await page.wait_for_selector(".vendor-card, [data-testid='restaurant-a']", timeout=30000)
+                except Exception as e:
+                    print(f"Error waiting for restaurant cards on page {page_num}: {e}")
+                    return []
+                
+                # Extract restaurants from page
+                restaurants = await self.talabat_scraper._extract_restaurants_from_page(page, page_num)
+        
+        except Exception as e:
+            print(f"Critical error getting page restaurants: {e}")
+            import traceback
+            traceback.print_exc()
+        
+        finally:
+            if browser:
+                await browser.close()
+        
+        return restaurants
     
     def create_excel_sheet(self, workbook, sheet_name: str, data: List[Dict]):
         """
@@ -346,7 +557,9 @@ class MainScraper:
             return False
     
     async def run(self):
-        """Main execution function to scrape all areas with improved resume capability."""
+        """Main execution function to scrape all areas with enhanced resume capability."""
+        import re  # Import needed for regex operations
+        
         # Define governorate and its areas with their URLs
         ahmadi_areas = [
             # Area Name, URL
@@ -380,24 +593,10 @@ class MainScraper:
         # Create an Excel workbook for the governorate or load existing
         excel_filename = os.path.join(self.output_dir, "الاحمدي.xlsx")
         
-        if os.path.exists(excel_filename) and "all_results" in self.progress and self.progress["all_results"]:
-            # Load existing workbook
-            print(f"Loading existing Excel file: {excel_filename}")
-            workbook = pd.ExcelFile(excel_filename)
-            existing_sheets = workbook.sheet_names
-            
-            # Create a new workbook and copy existing sheets
-            new_workbook = Workbook()
-            if "Sheet" in new_workbook.sheetnames:
-                new_workbook.remove(new_workbook["Sheet"])
-            
-            # We'll recreate the workbook since openpyxl can't directly load for append
-            workbook = new_workbook
-        else:
-            # Create a new workbook
-            workbook = Workbook()
-            if "Sheet" in workbook.sheetnames:
-                workbook.remove(workbook["Sheet"])
+        # Initialize workbook
+        workbook = Workbook()
+        if "Sheet" in workbook.sheetnames:
+            workbook.remove(workbook["Sheet"])
         
         # Track all results for the combined JSON
         all_results = self.progress.get("all_results", {})
@@ -409,10 +608,25 @@ class MainScraper:
         print(f"Starting from area index {current_area_index}")
         print(f"Already completed areas: {', '.join(completed_areas) if completed_areas else 'None'}")
         
+        # Check if we're resuming mid-area
+        current_progress = self.progress["current_progress"]
+        resuming_area = current_progress.get("area_name")
+        
+        # Special handling for resume mid-area
+        if resuming_area:
+            # Find the area index
+            for idx, (area_name, _) in enumerate(ahmadi_areas):
+                if area_name == resuming_area:
+                    print(f"Resuming from area {resuming_area} (index {idx})")
+                    current_area_index = idx
+                    self.progress["current_area_index"] = idx
+                    self.save_progress()
+                    break
+        
         # Process each area in the governorate
         for idx, (area_name, area_url) in enumerate(ahmadi_areas):
             # Skip already completed areas
-            if area_name in completed_areas:
+            if area_name in completed_areas and area_name != resuming_area:
                 print(f"Skipping already processed area: {area_name}")
                 continue
             
@@ -441,20 +655,9 @@ class MainScraper:
                 print(f"Updated Excel file: {excel_filename}")
                 
                 # Mark as completed
-                completed_areas.append(area_name)
-                self.progress["completed_areas"] = completed_areas
-                
-                # Reset current area restaurant tracking for the next area
-                self.progress["current_area_restaurants"] = {
-                    "area_name": None,
-                    "processed": 0,
-                    "total": 0,
-                    "restaurant_results": []
-                }
-                
-                # Update timestamp
-                import datetime
-                self.progress["last_updated"] = datetime.datetime.now().isoformat()
+                if area_name not in completed_areas:
+                    completed_areas.append(area_name)
+                    self.progress["completed_areas"] = completed_areas
                 
                 # Save progress
                 self.save_progress()
@@ -496,48 +699,64 @@ class MainScraper:
         print(f"{'='*50}\n")
 
 
-def create_credentials_file():
-    """Create the credentials.json file from environment variable."""
-    try:
-        # Get credentials from environment variable
-        credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
+    def create_credentials_file():
+        """Create the credentials.json file from environment variable."""
+        try:
+            # Get credentials from environment variable
+            credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
+            
+            if not credentials_json:
+                print("ERROR: TALABAT_GCLOUD_KEY_JSON environment variable not found!")
+                print("Please set the TALABAT_GCLOUD_KEY_JSON environment variable with the Google service account credentials")
+                return False
+            
+            # Write credentials to file
+            with open('credentials.json', 'w') as f:
+                f.write(credentials_json)
+            
+            print("Successfully created credentials.json from environment variable")
+            return True
         
-        if not credentials_json:
-            print("ERROR: TALABAT_GCLOUD_KEY_JSON environment variable not found!")
-            print("Please set the TALABAT_GCLOUD_KEY_JSON environment variable with the Google service account credentials")
+        except Exception as e:
+            print(f"ERROR: Failed to create credentials.json: {str(e)}")
             return False
-        
-        # Write credentials to file
-        with open('credentials.json', 'w') as f:
-            f.write(credentials_json)
-        
-        print("Successfully created credentials.json from environment variable")
-        return True
     
-    except Exception as e:
-        print(f"ERROR: Failed to create credentials.json: {str(e)}")
-        return False
-
-
-async def main():
-    """Entry point for the application."""
-    # Create credentials file from environment variable
-    if not create_credentials_file():
-        print("Could not create credentials.json from environment variable")
-        sys.exit(1)
+    
+    async def main():
+        """Entry point for the application."""
+        # Create credentials file from environment variable
+        if not create_credentials_file():
+            print("Could not create credentials.json from environment variable")
+            sys.exit(1)
+            
+        # Check if credentials file exists
+        if not os.path.exists('credentials.json'):
+            print("ERROR: credentials.json not found!")
+            print("Please create a service account in Google Cloud Console and download the credentials")
+            print("Save the file as 'credentials.json' in the same directory as this script")
+            sys.exit(1)
         
-    # Check if credentials file exists
-    if not os.path.exists('credentials.json'):
-        print("ERROR: credentials.json not found!")
-        print("Please create a service account in Google Cloud Console and download the credentials")
-        print("Save the file as 'credentials.json' in the same directory as this script")
-        sys.exit(1)
-        
-    scraper = MainScraper()
-    await scraper.run()
+        try:
+            # Initialize and run the scraper
+            scraper = MainScraper()
+            await scraper.run()
+        except KeyboardInterrupt:
+            print("\nProcess interrupted by user. Saving progress before exit...")
+            if 'scraper' in locals():
+                scraper.save_progress()
+            print("Progress saved. Exiting.")
+        except Exception as e:
+            print(f"Critical error in main execution: {e}")
+            import traceback
+            traceback.print_exc()
+            if 'scraper' in locals():
+                scraper.save_progress()
+            sys.exit(1)
 
 if __name__ == "__main__":
     asyncio.run(main())
+    
+
 
 
 # import asyncio
