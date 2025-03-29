@@ -1782,14 +1782,14 @@ class TalabatScraper:
             return {}
 
     ### COMBINING THE METHODS AND SCRAPING ALL RESTAURANTS FOR EACH PAGE ###
-    async def scrape_all_restaurants_by_page(self, area_url: str) -> List[Dict]:
+    async def scrape_all_restaurants_by_page(self, area_url: str, start_page: int = 7, start_restaurant: int = 4) -> List[Dict]:
         """Scrapes listing, info, reviews, and menu for all restaurants page by page."""
         full_data = []
         skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
-
+    
         # First, load the first page to determine total pages
         print(f"Loading initial page: {area_url}")
-
+    
         async with async_playwright() as p:
             browser = await p.firefox.launch(headless=True)
             context = await browser.new_context(
@@ -1798,7 +1798,7 @@ class TalabatScraper:
             )
             page = await context.new_page()
             page.set_default_timeout(120000)  # Increase timeout to 120 seconds
-
+    
             try:
                 response = await page.goto(area_url, wait_until='domcontentloaded')
                 if not response or not response.ok:
@@ -1807,7 +1807,7 @@ class TalabatScraper:
             except Exception as e:
                 print(f"Error loading initial page: {str(e)}")
                 return []
-
+    
             # Wait for content to load
             print("Waiting for initial content...")
             try:
@@ -1816,21 +1816,21 @@ class TalabatScraper:
             except Exception as e:
                 print(f"Error waiting for content: {e}")
                 return []
-
+    
             # Find the last page number
             last_page = 1
             try:
                 # Look for pagination element
                 pagination = await page.query_selector("ul[data-test='pagination']")
-
+    
                 if pagination:
                     # Find the second-to-last <li> element which should contain the last page number
                     pagination_items = await pagination.query_selector_all("li[data-testid='paginate-link']")
-
+    
                     if pagination_items and len(pagination_items) > 1:
                         # Get the last numbered page item (second-to-last item in the list)
                         last_page_item = pagination_items[-2]  # The last one is the "Next" button
-
+    
                         # Get the page number
                         last_page_link = await last_page_item.query_selector("a[page]")
                         if last_page_link:
@@ -1838,18 +1838,18 @@ class TalabatScraper:
                             if last_page_attr and last_page_attr.isdigit():
                                 last_page = int(last_page_attr)
                                 print(f"Detected {last_page} total pages")
-
+    
                 # If we couldn't find pagination or last page, assume it's just one page
                 if last_page == 1:
                     print("Could not detect pagination, scraping single page only")
             except Exception as e:
                 print(f"Error detecting pagination: {e}, defaulting to single page")
                 last_page = 1
-
+    
             await browser.close()
-
+    
         # Process each page
-        for page_num in range(1, last_page + 1):
+        for page_num in range(start_page, last_page + 1):
             # Construct the URL for the current page
             if page_num == 1:
                 current_url = area_url
@@ -1866,56 +1866,56 @@ class TalabatScraper:
                 else:
                     # Add page parameter as the first query parameter
                     current_url = f"{area_url}?page={page_num}"
-
+    
             print(f"\n=== Processing Page {page_num}/{last_page} ===")
             print(f"URL: {current_url}")
-
+    
             # Scrape restaurants on current page
-            page_restaurants = await self._extract_and_process_page(current_url, page_num)
-
+            page_restaurants = await self._extract_and_process_page(current_url, page_num, start_restaurant if page_num == start_page else 1)
+    
             # Add to our collection
             full_data.extend(page_restaurants)
-
+    
             # Save progress after each page
             try:
                 with open(f'talabat_restaurants_page_{page_num}.json', 'w', encoding='utf-8') as f:
                     json.dump(page_restaurants, f, indent=2, ensure_ascii=False)
-
+    
                 with open('talabat_restaurants_progress.json', 'w', encoding='utf-8') as f:
                     json.dump(full_data, f, indent=2, ensure_ascii=False)
-
+    
                 print(f"Saved progress for page {page_num}")
             except Exception as e:
                 print(f"Error saving progress for page {page_num}: {str(e)}")
-
+    
             # Brief pause between pages to avoid being rate-limited
             if page_num < last_page:
                 await asyncio.sleep(5)
-
+    
         print(f"Successfully extracted data for {len(full_data)} restaurants across {last_page} pages")
         return full_data
-
-    async def _extract_and_process_page(self, page_url, page_num):
+    
+    async def _extract_and_process_page(self, page_url, page_num, start_restaurant=1):
         """Extract restaurants from a page and process all their data."""
         # Get restaurants listing for this page
         page_restaurants = await self._get_page_restaurants(page_url, page_num)
         print(f"Collected {len(page_restaurants)} restaurants from page {page_num}")
-
+    
         # Process each restaurant on this page
-        for i, restaurant in enumerate(page_restaurants, 1):
+        for i, restaurant in enumerate(page_restaurants[start_restaurant - 1:], start_restaurant):
             try:
                 skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics",
                                    "Grocery, Hypermarket"}
                 if any(category in restaurant['cuisine'] for category in skip_categories):
                     print(f"\nSkipping {restaurant['name']} - Category: {restaurant['cuisine']}")
                     continue
-
+    
                 print(f"\nProcessing restaurant {i}/{len(page_restaurants)} on page {page_num}: {restaurant['name']}")
-
+    
                 restaurant['menu_items'] = {}
                 restaurant['info'] = {}
                 restaurant['reviews'] = {}
-
+    
                 try:
                     # Get menu data without timeout
                     print(f"Scraping menu for {restaurant['name']}...")
@@ -1924,30 +1924,198 @@ class TalabatScraper:
                         restaurant['menu_items'] = menu_data
                     else:
                         print(f"Failed to get menu for {restaurant['name']}")
-
+    
                     # Get restaurant info with retry
                     info_data = await self.get_restaurant_info(restaurant['url'])
                     if info_data:
                         restaurant['info'] = info_data
-
+    
                     # Get reviews if we have a reviews URL
                     if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
                         print(f"Scraping reviews for {restaurant['name']}...")
                         reviews_data = self.get_reviews_data(restaurant['info']['Reviews URL'])
                         if reviews_data:
                             restaurant['reviews'] = reviews_data
-
+    
                 except Exception as e:
                     print(f"Error processing restaurant {restaurant['name']}: {str(e)}")
-
+    
                 # Brief delay between restaurants to avoid overwhelming the server
                 await asyncio.sleep(2)
-
+    
             except Exception as e:
                 print(f"Critical error processing restaurant {restaurant['name']}: {str(e)}")
                 continue
-
+    
         return page_restaurants
+
+    
+    # async def scrape_all_restaurants_by_page(self, area_url: str) -> List[Dict]:
+    #     """Scrapes listing, info, reviews, and menu for all restaurants page by page."""
+    #     full_data = []
+    #     skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
+
+    #     # First, load the first page to determine total pages
+    #     print(f"Loading initial page: {area_url}")
+
+    #     async with async_playwright() as p:
+    #         browser = await p.firefox.launch(headless=True)
+    #         context = await browser.new_context(
+    #             viewport={'width': 1920, 'height': 1080},
+    #             user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    #         )
+    #         page = await context.new_page()
+    #         page.set_default_timeout(120000)  # Increase timeout to 120 seconds
+
+    #         try:
+    #             response = await page.goto(area_url, wait_until='domcontentloaded')
+    #             if not response or not response.ok:
+    #                 print(f"Failed to load initial page: {response.status if response else 'No response'}")
+    #                 return []
+    #         except Exception as e:
+    #             print(f"Error loading initial page: {str(e)}")
+    #             return []
+
+    #         # Wait for content to load
+    #         print("Waiting for initial content...")
+    #         try:
+    #             await page.wait_for_selector("ul[data-test='pagination'], .vendor-card, [data-testid='restaurant-a']",
+    #                                          timeout=30000)
+    #         except Exception as e:
+    #             print(f"Error waiting for content: {e}")
+    #             return []
+
+    #         # Find the last page number
+    #         last_page = 1
+    #         try:
+    #             # Look for pagination element
+    #             pagination = await page.query_selector("ul[data-test='pagination']")
+
+    #             if pagination:
+    #                 # Find the second-to-last <li> element which should contain the last page number
+    #                 pagination_items = await pagination.query_selector_all("li[data-testid='paginate-link']")
+
+    #                 if pagination_items and len(pagination_items) > 1:
+    #                     # Get the last numbered page item (second-to-last item in the list)
+    #                     last_page_item = pagination_items[-2]  # The last one is the "Next" button
+
+    #                     # Get the page number
+    #                     last_page_link = await last_page_item.query_selector("a[page]")
+    #                     if last_page_link:
+    #                         last_page_attr = await last_page_link.get_attribute("page")
+    #                         if last_page_attr and last_page_attr.isdigit():
+    #                             last_page = int(last_page_attr)
+    #                             print(f"Detected {last_page} total pages")
+
+    #             # If we couldn't find pagination or last page, assume it's just one page
+    #             if last_page == 1:
+    #                 print("Could not detect pagination, scraping single page only")
+    #         except Exception as e:
+    #             print(f"Error detecting pagination: {e}, defaulting to single page")
+    #             last_page = 1
+
+    #         await browser.close()
+
+    #     # Process each page
+    #     for page_num in range(1, last_page + 1):
+    #         # Construct the URL for the current page
+    #         if page_num == 1:
+    #             current_url = area_url
+    #         else:
+    #             # Check if the base URL already has query parameters
+    #             if "?" in area_url:
+    #                 # Add page parameter to existing query string
+    #                 if "page=" in area_url:
+    #                     # Replace existing page parameter
+    #                     current_url = re.sub(r'page=\d+', f'page={page_num}', area_url)
+    #                 else:
+    #                     # Add page parameter
+    #                     current_url = f"{area_url}&page={page_num}"
+    #             else:
+    #                 # Add page parameter as the first query parameter
+    #                 current_url = f"{area_url}?page={page_num}"
+
+    #         print(f"\n=== Processing Page {page_num}/{last_page} ===")
+    #         print(f"URL: {current_url}")
+
+    #         # Scrape restaurants on current page
+    #         page_restaurants = await self._extract_and_process_page(current_url, page_num)
+
+    #         # Add to our collection
+    #         full_data.extend(page_restaurants)
+
+    #         # Save progress after each page
+    #         try:
+    #             with open(f'talabat_restaurants_page_{page_num}.json', 'w', encoding='utf-8') as f:
+    #                 json.dump(page_restaurants, f, indent=2, ensure_ascii=False)
+
+    #             with open('talabat_restaurants_progress.json', 'w', encoding='utf-8') as f:
+    #                 json.dump(full_data, f, indent=2, ensure_ascii=False)
+
+    #             print(f"Saved progress for page {page_num}")
+    #         except Exception as e:
+    #             print(f"Error saving progress for page {page_num}: {str(e)}")
+
+    #         # Brief pause between pages to avoid being rate-limited
+    #         if page_num < last_page:
+    #             await asyncio.sleep(5)
+
+    #     print(f"Successfully extracted data for {len(full_data)} restaurants across {last_page} pages")
+    #     return full_data
+
+    # async def _extract_and_process_page(self, page_url, page_num):
+    #     """Extract restaurants from a page and process all their data."""
+    #     # Get restaurants listing for this page
+    #     page_restaurants = await self._get_page_restaurants(page_url, page_num)
+    #     print(f"Collected {len(page_restaurants)} restaurants from page {page_num}")
+
+    #     # Process each restaurant on this page
+    #     for i, restaurant in enumerate(page_restaurants, 1):
+    #         try:
+    #             skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics",
+    #                                "Grocery, Hypermarket"}
+    #             if any(category in restaurant['cuisine'] for category in skip_categories):
+    #                 print(f"\nSkipping {restaurant['name']} - Category: {restaurant['cuisine']}")
+    #                 continue
+
+    #             print(f"\nProcessing restaurant {i}/{len(page_restaurants)} on page {page_num}: {restaurant['name']}")
+
+    #             restaurant['menu_items'] = {}
+    #             restaurant['info'] = {}
+    #             restaurant['reviews'] = {}
+
+    #             try:
+    #                 # Get menu data without timeout
+    #                 print(f"Scraping menu for {restaurant['name']}...")
+    #                 menu_data = await self.get_restaurant_menu(restaurant['url'])
+    #                 if menu_data:
+    #                     restaurant['menu_items'] = menu_data
+    #                 else:
+    #                     print(f"Failed to get menu for {restaurant['name']}")
+
+    #                 # Get restaurant info with retry
+    #                 info_data = await self.get_restaurant_info(restaurant['url'])
+    #                 if info_data:
+    #                     restaurant['info'] = info_data
+
+    #                 # Get reviews if we have a reviews URL
+    #                 if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
+    #                     print(f"Scraping reviews for {restaurant['name']}...")
+    #                     reviews_data = self.get_reviews_data(restaurant['info']['Reviews URL'])
+    #                     if reviews_data:
+    #                         restaurant['reviews'] = reviews_data
+
+    #             except Exception as e:
+    #                 print(f"Error processing restaurant {restaurant['name']}: {str(e)}")
+
+    #             # Brief delay between restaurants to avoid overwhelming the server
+    #             await asyncio.sleep(2)
+
+    #         except Exception as e:
+    #             print(f"Critical error processing restaurant {restaurant['name']}: {str(e)}")
+    #             continue
+
+    #     return page_restaurants
 
     async def _get_page_restaurants(self, page_url, page_num):
         """Gets just the restaurant listings from a specific page."""
