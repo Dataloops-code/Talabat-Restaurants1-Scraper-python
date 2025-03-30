@@ -664,6 +664,8 @@ class MainScraper:
                     
                     # Mark this restaurant as processed
                     current_progress["processed_restaurants"].append(restaurant["name"])
+                    
+                    # Save progress after processing each restaurant
                     self.save_progress()
                     
                     # Save partial results after each restaurant
@@ -680,11 +682,15 @@ class MainScraper:
                     traceback.print_exc()
                     # Still save progress to mark this as attempted
                     current_progress["processed_restaurants"].append(restaurant["name"])
+                    
+                    # Save progress after processing each restaurant
                     self.save_progress()
             
             # Mark page as completed
             current_progress["completed_pages"].append(page_num)
             current_progress["current_restaurant"] = 0  # Reset for next page
+            
+            # Save progress after finishing each page
             self.save_progress()
             
             # Print progress after finishing each page
@@ -701,6 +707,8 @@ class MainScraper:
         
         # Update all_results in progress
         self.progress["all_results"][area_name] = all_area_results
+        
+        # Save progress after finishing the area
         self.save_progress()
         
         # Clean up partial file
@@ -736,6 +744,8 @@ class MainScraper:
         current_progress["total_restaurants"] = 0
         current_progress["processed_restaurants"] = []
         current_progress["completed_pages"] = []
+        
+        # Save progress after resetting for next area
         self.save_progress()
         
         # Print progress after finishing each area
