@@ -190,7 +190,7 @@ class MainScraper:
     #         current_progress["completed_pages"] = []
     #         self.save_progress()
         
-    #     skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
+    #     skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket", "Specialty Store"}
         
     #     # First determine total pages if not already known
     #     if current_progress["total_pages"] == 0:
