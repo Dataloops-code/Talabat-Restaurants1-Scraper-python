@@ -13,12 +13,6 @@ from playwright.async_api import async_playwright  # Add this import
 from talabat_main_scraper import TalabatScraper
 from SavingOnDrive import SavingOnDrive
 
-class MainScraper:
-    
-    
-    
-    
-    
 
 class MainScraper:
     def __init__(self):
