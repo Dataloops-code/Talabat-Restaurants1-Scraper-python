@@ -286,14 +286,18 @@ class MainScraper:
     #     except Exception as e:
     #         print(f"Error saving progress file: {str(e)}")
     
-    # async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
+
+
+    # async def scrape_and_save_area(self, area_name: str, area_url: str, start_page: int = 141, start_restaurant: int = 7) -> List[Dict]:
     #     """
     #     Scrape restaurants for a specific area with detailed progress tracking
         
     #     Args:
     #         area_name: Name of the area (in Arabic)
     #         area_url: Talabat URL for the area
-            
+    #         start_page: Page number to start scraping from
+    #         start_restaurant: Restaurant number to start scraping from on the first page
+        
     #     Returns:
     #         List of restaurant data dictionaries
     #     """
@@ -325,15 +329,15 @@ class MainScraper:
     #     else:
     #         # Reset progress for new area
     #         current_progress["area_name"] = area_name
-    #         current_progress["current_page"] = 0
+    #         current_progress["current_page"] = start_page
     #         current_progress["total_pages"] = 0
-    #         current_progress["current_restaurant"] = 0
+    #         current_progress["current_restaurant"] = start_restaurant - 1
     #         current_progress["total_restaurants"] = 0
     #         current_progress["processed_restaurants"] = []
     #         current_progress["completed_pages"] = []
     #         self.save_progress()
         
-    #     skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket", "Specialty Store"}
+    #     skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
         
     #     # First determine total pages if not already known
     #     if current_progress["total_pages"] == 0:
@@ -346,7 +350,7 @@ class MainScraper:
     #     print(f"Total pages for {area_name}: {total_pages}")
         
     #     # Process each page in the area
-    #     for page_num in range(1, total_pages + 1):
+    #     for page_num in range(start_page, total_pages + 1):
     #         # Skip already completed pages
     #         if page_num < current_progress["current_page"] or page_num in current_progress["completed_pages"]:
     #             print(f"Skipping already completed page {page_num}")
@@ -463,6 +467,10 @@ class MainScraper:
     #         current_progress["current_restaurant"] = 0  # Reset for next page
     #         self.save_progress()
             
+    #         # Print progress after finishing each page
+    #         print("\nProgress after finishing page:")
+    #         print(json.dumps(self.progress, indent=2, ensure_ascii=False))
+            
     #         # Brief pause between pages
     #         await asyncio.sleep(3)
         
@@ -470,6 +478,10 @@ class MainScraper:
     #     json_filename = os.path.join(self.output_dir, f"{area_name}.json")
     #     with open(json_filename, 'w', encoding='utf-8') as f:
     #         json.dump(all_area_results, f, indent=2, ensure_ascii=False)
+        
+    #     # Update all_results in progress
+    #     self.progress["all_results"][area_name] = all_area_results
+    #     self.save_progress()
         
     #     # Clean up partial file
     #     partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
@@ -488,6 +500,10 @@ class MainScraper:
     #     current_progress["processed_restaurants"] = []
     #     current_progress["completed_pages"] = []
     #     self.save_progress()
+        
+    #     # Print progress after finishing each area
+    #     print("\nProgress after finishing area:")
+    #     print(json.dumps(self.progress, indent=2, ensure_ascii=False))
         
     #     print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
     #     return all_area_results
@@ -695,6 +711,23 @@ class MainScraper:
             except Exception as e:
                 print(f"Warning: Could not remove partial file: {e}")
         
+        # Create Excel workbook for the area
+        workbook = Workbook()
+        sheet_name = area_name
+        self.create_excel_sheet(workbook, sheet_name, all_area_results)
+        
+        # Save the Excel file
+        excel_filename = os.path.join(self.output_dir, f"{area_name}.xlsx")
+        workbook.save(excel_filename)
+        print(f"Excel file saved: {excel_filename}")
+        
+        # Upload the Excel file to Google Drive
+        upload_success = self.upload_to_drive(excel_filename)
+        if upload_success:
+            print(f"Successfully uploaded {excel_filename} to Google Drive")
+        else:
+            print(f"Failed to upload {excel_filename} to Google Drive")
+        
         # Reset current progress for next area
         current_progress["area_name"] = None
         current_progress["current_page"] = 0
@@ -711,7 +744,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-    
+
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
