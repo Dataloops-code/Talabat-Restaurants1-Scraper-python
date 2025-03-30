@@ -130,18 +130,18 @@ class MainScraper:
         print("Created new default progress file")
         return default_progress
     
-    def save_progress(self):
-        """Save current progress to JSON file with timestamp"""
-        try:
-            # Update timestamp
-            import datetime
-            self.progress["last_updated"] = datetime.datetime.now().isoformat()
+    # def save_progress(self):
+    #     """Save current progress to JSON file with timestamp"""
+    #     try:
+    #         # Update timestamp
+    #         import datetime
+    #         self.progress["last_updated"] = datetime.datetime.now().isoformat()
             
-            with open(self.progress_file, 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
-            print(f"Saved progress to {self.progress_file}")
-        except Exception as e:
-            print(f"Error saving progress file: {str(e)}")
+    #         with open(self.progress_file, 'w', encoding='utf-8') as f:
+    #             json.dump(self.progress, f, indent=2, ensure_ascii=False)
+    #         print(f"Saved progress to {self.progress_file}")
+    #     except Exception as e:
+    #         print(f"Error saving progress file: {str(e)}")
 
     def print_progress_details(self):
         """Print the details of progress including all results and each restaurant scraped"""
@@ -508,6 +508,19 @@ class MainScraper:
     #     print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
     #     return all_area_results
 
+    def save_progress(self):
+        """Save current progress to JSON file with timestamp"""
+        try:
+            # Update timestamp
+            import datetime
+            self.progress["last_updated"] = datetime.datetime.now().isoformat()
+            
+            with open(self.progress_file, 'w', encoding='utf-8') as f:
+                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+            print(f"Saved progress to {self.progress_file}")
+        except Exception as e:
+            print(f"Error saving progress file: {str(e)}")
+
     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
         Scrape restaurants for a specific area with detailed progress tracking
@@ -597,9 +610,24 @@ class MainScraper:
             current_progress["current_page"] = page_num
             self.save_progress()
             
-            # Get restaurant listings for this page
-            restaurants_on_page = await self.get_page_restaurants(page_url, page_num)
-            print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
+            # Retry mechanism for loading restaurant cards
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    # Get restaurant listings for this page
+                    restaurants_on_page = await self.get_page_restaurants(page_url, page_num)
+                    if not restaurants_on_page:
+                        raise Exception("No restaurants found")
+                    print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
+                    break
+                except Exception as e:
+                    print(f"Error waiting for restaurant cards on page {page_num}: {e}")
+                    if attempt < max_retries - 1:
+                        print(f"Retrying page {page_num} (attempt {attempt + 1}/{max_retries})...")
+                        await asyncio.sleep(5)  # Wait before retrying
+                    else:
+                        print(f"Skipping page {page_num} after {max_retries} failed attempts")
+                        restaurants_on_page = []
             
             # Update total restaurants on page
             if current_progress["total_restaurants"] == 0 or page_num > current_progress["current_page"]:
@@ -754,7 +782,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-
+        
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
