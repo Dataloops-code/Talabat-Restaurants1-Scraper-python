@@ -1681,6 +1681,106 @@ class TalabatScraper:
             traceback.print_exc()
             return {}
 
+    # async def get_restaurant_menu(self, url):
+    #     """Menu scraping without timeouts"""
+    #     driver = None
+    #     try:
+    #         options = FirefoxOptions()
+    #         options.add_argument('--headless')
+    #         options.add_argument('--window-size=1920,1080')
+    #         options.add_argument('--disable-gpu')
+    #         options.add_argument('--no-sandbox')
+    #         options.add_argument('--disable-dev-shm-usage')
+
+    #         # Disable all timeouts
+    #         options.set_preference("page.load.timeout", 0)
+    #         options.set_preference("browser.cache.disk.enable", False)
+    #         options.set_preference("browser.cache.memory.enable", False)
+    #         options.set_preference("browser.cache.offline.enable", False)
+    #         options.set_preference("network.http.use-cache", False)
+
+    #         max_retries = 3
+    #         for attempt in range(max_retries):
+    #             try:
+    #                 driver = webdriver.Firefox(options=options)
+    #                 driver.set_page_load_timeout(999999)  # Effectively disable timeout
+
+    #                 print(f"Loading page (attempt {attempt + 1})...")
+    #                 driver.get(url)
+
+    #                 # Wait for menu elements without timeout
+    #                 menu_selectors = [
+    #                     "div[data-testid='menu-category']",
+    #                     "div.menu-category",
+    #                     "div.category-container"
+    #                 ]
+
+    #                 menu_found = False
+    #                 while not menu_found:
+    #                     for selector in menu_selectors:
+    #                         elements = driver.find_elements(By.CSS_SELECTOR, selector)
+    #                         if elements:
+    #                             print(f"Found menu elements using selector: {selector}")
+    #                             menu_found = True
+    #                             break
+    #                     if not menu_found:
+    #                         print("Menu not found, waiting...")
+    #                         await asyncio.sleep(5)
+
+    #                 # Progressive scroll until all content is loaded
+    #                 last_height = 0
+    #                 same_height_count = 0
+
+    #                 while True:
+    #                     # Scroll in smaller increments
+    #                     for _ in range(4):
+    #                         driver.execute_script("window.scrollBy(0, 500);")
+    #                         await asyncio.sleep(1)
+
+    #                     # Scroll to bottom and check height
+    #                     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    #                     await asyncio.sleep(2)
+
+    #                     new_height = driver.execute_script("return document.body.scrollHeight")
+
+    #                     if new_height == last_height:
+    #                         same_height_count += 1
+    #                         if same_height_count >= 3:
+    #                             print("Reached stable scroll position")
+    #                             break
+    #                     else:
+    #                         same_height_count = 0
+    #                         last_height = new_height
+
+    #                     # Scroll back up slightly to trigger lazy loading
+    #                     driver.execute_script(f"window.scrollTo(0, {new_height - 200});")
+    #                     await asyncio.sleep(1)
+
+    #                 # Get menu items without timeout
+    #                 menu_items = await self.get_menu_items(driver, url)
+    #                 if menu_items:
+    #                     return menu_items
+
+    #                 print("No menu items found, retrying...")
+
+    #             except Exception as e:
+    #                 print(f"Attempt {attempt + 1} failed: {e}")
+    #                 if attempt < max_retries - 1:
+    #                     await asyncio.sleep(10)
+    #                 continue
+    #             finally:
+    #                 if driver:
+    #                     try:
+    #                         driver.quit()
+    #                     except Exception:
+    #                         pass
+
+    #         return {}
+
+    #     except Exception as e:
+    #         print(f"Critical error in get_restaurant_menu: {e}")
+    #         return {}
+
     async def get_restaurant_menu(self, url):
         """Menu scraping without timeouts"""
         driver = None
@@ -1691,32 +1791,34 @@ class TalabatScraper:
             options.add_argument('--disable-gpu')
             options.add_argument('--no-sandbox')
             options.add_argument('--disable-dev-shm-usage')
-
+    
             # Disable all timeouts
             options.set_preference("page.load.timeout", 0)
             options.set_preference("browser.cache.disk.enable", False)
             options.set_preference("browser.cache.memory.enable", False)
             options.set_preference("browser.cache.offline.enable", False)
             options.set_preference("network.http.use-cache", False)
-
+    
             max_retries = 3
             for attempt in range(max_retries):
                 try:
                     driver = webdriver.Firefox(options=options)
                     driver.set_page_load_timeout(999999)  # Effectively disable timeout
-
+    
                     print(f"Loading page (attempt {attempt + 1})...")
                     driver.get(url)
-
+    
                     # Wait for menu elements without timeout
                     menu_selectors = [
                         "div[data-testid='menu-category']",
                         "div.menu-category",
                         "div.category-container"
                     ]
-
+    
                     menu_found = False
-                    while not menu_found:
+                    trials = 0
+                    max_trials = 5
+                    while not menu_found and trials < max_trials:
                         for selector in menu_selectors:
                             elements = driver.find_elements(By.CSS_SELECTOR, selector)
                             if elements:
@@ -1726,23 +1828,28 @@ class TalabatScraper:
                         if not menu_found:
                             print("Menu not found, waiting...")
                             await asyncio.sleep(5)
-
+                            trials += 1
+    
+                    if not menu_found and trials >= max_trials:
+                        print("Menu not found after multiple trials, skipping...")
+                        break
+    
                     # Progressive scroll until all content is loaded
                     last_height = 0
                     same_height_count = 0
-
+    
                     while True:
                         # Scroll in smaller increments
                         for _ in range(4):
                             driver.execute_script("window.scrollBy(0, 500);")
                             await asyncio.sleep(1)
-
+    
                         # Scroll to bottom and check height
                         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                         await asyncio.sleep(2)
-
+    
                         new_height = driver.execute_script("return document.body.scrollHeight")
-
+    
                         if new_height == last_height:
                             same_height_count += 1
                             if same_height_count >= 3:
@@ -1751,18 +1858,18 @@ class TalabatScraper:
                         else:
                             same_height_count = 0
                             last_height = new_height
-
+    
                         # Scroll back up slightly to trigger lazy loading
                         driver.execute_script(f"window.scrollTo(0, {new_height - 200});")
                         await asyncio.sleep(1)
-
+    
                     # Get menu items without timeout
                     menu_items = await self.get_menu_items(driver, url)
                     if menu_items:
                         return menu_items
-
+    
                     print("No menu items found, retrying...")
-
+    
                 except Exception as e:
                     print(f"Attempt {attempt + 1} failed: {e}")
                     if attempt < max_retries - 1:
@@ -1774,9 +1881,9 @@ class TalabatScraper:
                             driver.quit()
                         except Exception:
                             pass
-
+    
             return {}
-
+    
         except Exception as e:
             print(f"Critical error in get_restaurant_menu: {e}")
             return {}
