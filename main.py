@@ -540,9 +540,13 @@ class MainScraper:
         with open(json_filename, 'w', encoding='utf-8') as f:
             json.dump(all_area_results, f, indent=2, ensure_ascii=False)
         
+        # Update all_results in progress
+        self.progress["all_results"][area_name] = all_area_results
+        self.save_progress()
+        
         # Clean up partial file
         partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
-        if (os.path.exists(partial_filename)):
+        if os.path.exists(partial_filename):
             try:
                 os.remove(partial_filename)
             except Exception as e:
