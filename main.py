@@ -13,6 +13,12 @@ from playwright.async_api import async_playwright  # Add this import
 from talabat_main_scraper import TalabatScraper
 from SavingOnDrive import SavingOnDrive
 
+class MainScraper:
+    
+    
+    
+    
+    
 
 class MainScraper:
     def __init__(self):
@@ -29,7 +35,7 @@ class MainScraper:
         
         # Ensure Playwright browsers are installed
         self.ensure_playwright_browsers()
-    
+
     def ensure_playwright_browsers(self):
         """Ensure Playwright browsers are properly installed"""
         try:
@@ -142,6 +148,149 @@ class MainScraper:
             print(f"Saved progress to {self.progress_file}")
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
+
+    def print_progress_details(self):
+        """Print the details of progress including all results and each restaurant scraped"""
+        try:
+            with open(self.progress_file, 'r', encoding='utf-8') as f:
+                progress = json.load(f)
+            print(json.dumps(progress, indent=2, ensure_ascii=False))
+
+            if 'all_results' in progress:
+                for area, results in progress['all_results'].items():
+                    print(f"\nArea: {area}")
+                    for restaurant in results:
+                        print(json.dumps(restaurant, indent=2, ensure_ascii=False))
+        except Exception as e:
+            print(f"Error reading progress file: {str(e)}")
+    
+    
+    # def __init__(self):
+    #     self.talabat_scraper = TalabatScraper()
+    #     self.output_dir = "output"
+    #     self.drive_uploader = SavingOnDrive('credentials.json')
+    #     self.progress_file = "progress.json"
+        
+    #     # Create output directory if it doesn't exist
+    #     os.makedirs(self.output_dir, exist_ok=True)
+        
+    #     # Load progress if exists
+    #     self.progress = self.load_progress()
+        
+    #     # Ensure Playwright browsers are installed
+    #     self.ensure_playwright_browsers()         
+    # def ensure_playwright_browsers(self):
+    #     """Ensure Playwright browsers are properly installed"""
+    #     try:
+    #         print("Installing Playwright browsers...")
+    #         subprocess.run([sys.executable, "-m", "playwright", "install", "chromium", "firefox"], 
+    #                       check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    #         print("Playwright browsers installed successfully")
+    #     except subprocess.CalledProcessError as e:
+    #         print(f"Error installing Playwright browsers: {e}")
+    #         print(f"STDOUT: {e.stdout.decode() if e.stdout else 'None'}")
+    #         print(f"STDERR: {e.stderr.decode() if e.stderr else 'None'}")
+    #         print("Will continue and let TalabatScraper try to handle browser fallbacks")
+    
+    # def load_progress(self) -> Dict:
+    #     """Load progress from JSON file if it exists with comprehensive error checking"""
+    #     if os.path.exists(self.progress_file):
+    #         try:
+    #             with open(self.progress_file, 'r', encoding='utf-8') as f:
+    #                 progress = json.load(f)
+    #             print(f"Loaded progress from {self.progress_file}")
+                
+    #             # Log current progress state
+    #             print(f"Current area index: {progress.get('current_area_index', 0)}")
+    #             print(f"Completed areas: {len(progress.get('completed_areas', []))}")
+                
+    #             # Log more detailed progress
+    #             if 'current_progress' in progress:
+    #                 curr = progress['current_progress']
+    #                 print(f"Current status: Area {curr.get('area_name', 'None')} - "
+    #                       f"Page {curr.get('current_page', 0)}/{curr.get('total_pages', 0)} - "
+    #                       f"Restaurant {curr.get('current_restaurant', 0)}/{curr.get('total_restaurants', 0)}")
+                
+    #             # Ensure all required keys exist with proper default values
+    #             if 'completed_areas' not in progress:
+    #                 progress['completed_areas'] = []
+    #             if 'current_area_index' not in progress:
+    #                 progress['current_area_index'] = 0
+    #             if 'all_results' not in progress:
+    #                 progress['all_results'] = {}
+    #             if 'last_updated' not in progress:
+    #                 progress['last_updated'] = None
+                
+    #             # Ensure current_progress structure is complete
+    #             if 'current_progress' not in progress:
+    #                 progress['current_progress'] = {
+    #                     'area_name': None,
+    #                     'current_page': 0, 
+    #                     'total_pages': 0,
+    #                     'current_restaurant': 0,
+    #                     'total_restaurants': 0,
+    #                     'processed_restaurants': [],
+    #                     'completed_pages': []
+    #                 }
+    #             else:
+    #                 # Ensure all keys exist in current_progress
+    #                 curr_progress = progress['current_progress']
+    #                 if 'area_name' not in curr_progress:
+    #                     curr_progress['area_name'] = None
+    #                 if 'current_page' not in curr_progress:
+    #                     curr_progress['current_page'] = 0
+    #                 if 'total_pages' not in curr_progress:
+    #                     curr_progress['total_pages'] = 0
+    #                 if 'current_restaurant' not in curr_progress:
+    #                     curr_progress['current_restaurant'] = 0
+    #                 if 'total_restaurants' not in curr_progress:
+    #                     curr_progress['total_restaurants'] = 0
+    #                 if 'processed_restaurants' not in curr_progress:
+    #                     curr_progress['processed_restaurants'] = []
+    #                 if 'completed_pages' not in curr_progress:
+    #                     curr_progress['completed_pages'] = []
+                
+    #             return progress
+    #         except Exception as e:
+    #             print(f"Error loading progress file: {str(e)}")
+    #             print("Creating new progress file...")
+        
+    #     # Return default empty progress
+    #     default_progress = {
+    #         "completed_areas": [],
+    #         "current_area_index": 0,
+    #         "last_updated": None,
+    #         "all_results": {},
+    #         "current_progress": {
+    #             "area_name": None,
+    #             "current_page": 0,
+    #             "total_pages": 0,
+    #             "current_restaurant": 0,
+    #             "total_restaurants": 0,
+    #             "processed_restaurants": [],
+    #             "completed_pages": []
+    #         }
+    #     }
+        
+    #     # Save the default progress to ensure the file exists
+    #     with open(self.progress_file, 'w', encoding='utf-8') as f:
+    #         json.dump(default_progress, f, indent=2, ensure_ascii=False)
+        
+    #     print("Created new default progress file")
+    #     return default_progress
+    
+    # def save_progress(self):
+    #     """Save current progress to JSON file with timestamp"""
+    #     try:
+    #         # Update timestamp
+    #         import datetime
+    #         self.progress["last_updated"] = datetime.datetime.now().isoformat()
+            
+    #         with open(self.progress_file, 'w', encoding='utf-8') as f:
+    #             json.dump(self.progress, f, indent=2, ensure_ascii=False)
+    #         print(f"Saved progress to {self.progress_file}")
+    #     except Exception as e:
+    #         print(f"Error saving progress file: {str(e)}")
     
     # async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
     #     """
@@ -398,7 +547,7 @@ class MainScraper:
             current_progress["completed_pages"] = []
             self.save_progress()
         
-        skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket", "Specialty Store"}
+        skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
         
         # First determine total pages if not already known
         if current_progress["total_pages"] == 0:
@@ -975,8 +1124,13 @@ async def main():
             scraper.save_progress()
         sys.exit(1)
 
+# if __name__ == "__main__":
+#     asyncio.run(main())
+
 if __name__ == "__main__":
-    asyncio.run(main())
+    scraper = MainScraper()
+    scraper.print_progress_details()  # Print the progress details
+    asyncio.run(scraper.run())
     
 
 
