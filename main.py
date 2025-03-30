@@ -602,7 +602,7 @@ class MainScraper:
             print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
             
             # Update total restaurants on page
-            if current_progress["current_restaurant"] == 0 or page_num > current_progress["current_page"]:
+            if current_progress["total_restaurants"] == 0 or page_num > current_progress["current_page"]:
                 current_progress["total_restaurants"] = len(restaurants_on_page)
                 current_progress["current_restaurant"] = 0
             
@@ -744,7 +744,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-        
+
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
