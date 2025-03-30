@@ -508,15 +508,13 @@ class MainScraper:
     #     print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
     #     return all_area_results
 
-    async def scrape_and_save_area(self, area_name: str, area_url: str, start_page: int = 141, start_restaurant: int = 7) -> List[Dict]:
+    async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
         Scrape restaurants for a specific area with detailed progress tracking
         
         Args:
             area_name: Name of the area (in Arabic)
             area_url: Talabat URL for the area
-            start_page: Page number to start scraping from
-            start_restaurant: Restaurant number to start scraping from on the first page
         
         Returns:
             List of restaurant data dictionaries
@@ -532,6 +530,8 @@ class MainScraper:
         
         # Check if we're resuming within this area
         is_resuming = current_progress["area_name"] == area_name
+        start_page = current_progress["current_page"] if is_resuming else 1
+        start_restaurant = current_progress["current_restaurant"] if is_resuming else 0
         
         if is_resuming:
             print(f"Resuming area {area_name} from page {current_progress['current_page']} "
@@ -551,7 +551,7 @@ class MainScraper:
             current_progress["area_name"] = area_name
             current_progress["current_page"] = start_page
             current_progress["total_pages"] = 0
-            current_progress["current_restaurant"] = start_restaurant - 1
+            current_progress["current_restaurant"] = start_restaurant
             current_progress["total_restaurants"] = 0
             current_progress["processed_restaurants"] = []
             current_progress["completed_pages"] = []
@@ -744,7 +744,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-
+        
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
