@@ -349,7 +349,7 @@ class MainScraper:
     #     print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
     #     return all_area_results
 
-    async def scrape_and_save_area(self, area_name: str, area_url: str, start_page: int = 7, start_restaurant: int = 4) -> List[Dict]:
+    async def scrape_and_save_area(self, area_name: str, area_url: str, start_page: int = 141, start_restaurant: int = 7) -> List[Dict]:
         """
         Scrape restaurants for a specific area with detailed progress tracking
         
@@ -528,6 +528,10 @@ class MainScraper:
             current_progress["current_restaurant"] = 0  # Reset for next page
             self.save_progress()
             
+            # Print progress after finishing each page
+            print("\nProgress after finishing page:")
+            print(json.dumps(self.progress, indent=2, ensure_ascii=False))
+            
             # Brief pause between pages
             await asyncio.sleep(3)
         
@@ -538,7 +542,7 @@ class MainScraper:
         
         # Clean up partial file
         partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
-        if os.path.exists(partial_filename):
+        if (os.path.exists(partial_filename)):
             try:
                 os.remove(partial_filename)
             except Exception as e:
@@ -554,9 +558,13 @@ class MainScraper:
         current_progress["completed_pages"] = []
         self.save_progress()
         
+        # Print progress after finishing each area
+        print("\nProgress after finishing area:")
+        print(json.dumps(self.progress, indent=2, ensure_ascii=False))
+        
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-
+    
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
