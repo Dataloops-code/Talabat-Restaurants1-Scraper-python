@@ -650,6 +650,7 @@ class MainScraper:
                     # Save progress to mark this as processed
                     current_progress["processed_restaurants"].append(restaurant["name"])
                     self.save_progress()
+                    print(json.dumps(self.progress, indent=2, ensure_ascii=False))  # Print progress after each restaurant
                     continue
                 
                 try:
@@ -695,6 +696,7 @@ class MainScraper:
                     
                     # Save progress after processing each restaurant
                     self.save_progress()
+                    print(json.dumps(self.progress, indent=2, ensure_ascii=False))  # Print progress after each restaurant
                     
                     # Save partial results after each restaurant
                     partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
@@ -713,6 +715,7 @@ class MainScraper:
                     
                     # Save progress after processing each restaurant
                     self.save_progress()
+                    print(json.dumps(self.progress, indent=2, ensure_ascii=False))  # Print progress after each restaurant
             
             # Mark page as completed
             current_progress["completed_pages"].append(page_num)
@@ -720,8 +723,6 @@ class MainScraper:
             
             # Save progress after finishing each page
             self.save_progress()
-            
-            # Print progress after finishing each page
             print("\nProgress after finishing page:")
             print(json.dumps(self.progress, indent=2, ensure_ascii=False))
             
@@ -738,6 +739,8 @@ class MainScraper:
         
         # Save progress after finishing the area
         self.save_progress()
+        print("\nProgress after finishing area:")
+        print(json.dumps(self.progress, indent=2, ensure_ascii=False))
         
         # Clean up partial file
         partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
@@ -775,9 +778,7 @@ class MainScraper:
         
         # Save progress after resetting for next area
         self.save_progress()
-        
-        # Print progress after finishing each area
-        print("\nProgress after finishing area:")
+        print("\nProgress after resetting for next area:")
         print(json.dumps(self.progress, indent=2, ensure_ascii=False))
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
