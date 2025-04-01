@@ -520,7 +520,7 @@ class MainScraper:
             print(f"Saved progress to {self.progress_file}")
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
-
+    
     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
         Scrape restaurants for a specific area with detailed progress tracking
