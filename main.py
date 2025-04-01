@@ -509,15 +509,22 @@ class MainScraper:
     #     return all_area_results
 
     def save_progress(self):
-        """Save current progress to JSON file with timestamp"""
+        """Save current progress to JSON file and cache key with timestamp"""
         try:
             # Update timestamp
             import datetime
             self.progress["last_updated"] = datetime.datetime.now().isoformat()
             
+            # Save to progress.json file
             with open(self.progress_file, 'w', encoding='utf-8') as f:
                 json.dump(self.progress, f, indent=2, ensure_ascii=False)
             print(f"Saved progress to {self.progress_file}")
+    
+            # Save to cache key
+            with open("talabat-scraper-progress-latest", 'w', encoding='utf-8') as f:
+                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+            print(f"Saved progress to talabat-scraper-progress-latest")
+    
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
     
@@ -642,7 +649,7 @@ class MainScraper:
                     continue
                 
                 # Set current restaurant position
-                current_progress["current_restaurant"] = rest_idx
+                current_progress["current_restaurant"] = rest_idx + 1  # Increment to the next restaurant
                 
                 # Check if restaurant is in a category we want to skip
                 if any(category in restaurant['cuisine'] for category in skip_categories):
