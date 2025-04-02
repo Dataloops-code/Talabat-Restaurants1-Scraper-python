@@ -16,35 +16,29 @@ from SavingOnDrive import SavingOnDrive
 class MainScraper:
     def __init__(self):
         self.talabat_scraper = TalabatScraper()
-        self.output_dir = "output"
-        self.progress_file = "talabat-scraper-progress-latest.json"
+        self.output_dir = os.path.abspath("output")
+        self.progress_file = os.path.abspath("talabat-scraper-progress-latest.json")
         self.drive_uploader = SavingOnDrive('credentials.json')
         
         # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
         
-        # Check if progress exists in output directory (which should be cached)
-        output_progress_file = os.path.join(self.output_dir, "progress.json")
-        if os.path.exists(output_progress_file):
-            try:
-                with open(output_progress_file, 'r', encoding='utf-8') as f:
-                    self.progress = json.load(f)
-                print(f"Loaded progress from cached {output_progress_file}")
-                
-                # Copy this to the main progress file
-                with open(self.progress_file, 'w', encoding='utf-8') as f:
-                    json.dump(self.progress, f, indent=2, ensure_ascii=False)
-                print(f"Copied progress to {self.progress_file}")
-            except Exception as e:
-                print(f"Error loading progress from output directory: {str(e)}")
-                # Load from main progress file as fallback
-                self.progress = self.load_progress()
-        else:
-            # Load progress from main file
-            self.progress = self.load_progress()
+        # Print current working directory and file paths for debugging
+        print(f"Current working directory: {os.getcwd()}")
+        print(f"Progress file path: {self.progress_file}")
+        print(f"Output directory path: {self.output_dir}")
         
-        # Ensure Playwright browsers are installed
-        self.ensure_playwright_browsers()
+        # Save the default progress to ensure the file exists
+        with open(self.progress_file, 'w', encoding='utf-8') as f:
+            json.dump(default_progress, f, indent=2, ensure_ascii=False)
+        
+        # Verify file was created
+        if os.path.exists(self.progress_file):
+            print(f"Confirmed: Progress file created at {self.progress_file}")
+            with open(self.progress_file, 'r', encoding='utf-8') as f:
+                print(f"File size: {os.path.getsize(self.progress_file)} bytes")
+        else:
+            print(f"ERROR: Failed to create progress file at {self.progress_file}")
     
     def ensure_playwright_browsers(self):
         """Ensure Playwright browsers are properly installed"""
@@ -73,15 +67,52 @@ class MainScraper:
                         print(json.dumps(restaurant, indent=2, ensure_ascii=False))
         except Exception as e:
             print(f"Error reading progress file: {str(e)}")
-
+            
+    def check_file_permissions(self):
+        """Check if the script has permission to write to necessary files and directories"""
+        try:
+            # Check output directory permissions
+            if os.path.exists(self.output_dir):
+                if os.access(self.output_dir, os.W_OK):
+                    print(f"Directory {self.output_dir} is writable")
+                else:
+                    print(f"WARNING: Directory {self.output_dir} is NOT writable!")
+            
+            # Check progress file permissions
+            progress_dir = os.path.dirname(self.progress_file)
+            if os.path.exists(progress_dir):
+                if os.access(progress_dir, os.W_OK):
+                    print(f"Directory {progress_dir} is writable")
+                else:
+                    print(f"WARNING: Directory {progress_dir} is NOT writable!")
+            
+            # Try writing a test file
+            test_file = os.path.join(self.output_dir, "permission_test.txt")
+            try:
+                with open(test_file, 'w') as f:
+                    f.write("Test")
+                print(f"Successfully wrote test file to {test_file}")
+                os.remove(test_file)
+                print(f"Successfully removed test file")
+            except Exception as e:
+                print(f"ERROR: Failed to write test file: {e}")
+        
+        except Exception as e:
+            print(f"Error checking permissions: {e}")
     def load_progress(self) -> Dict:
         """Load progress from the talabat-scraper-progress-latest.json file if it exists with comprehensive error checking"""
         try:
+            print(f"Checking for progress file at: {self.progress_file}")
+            print(f"File exists: {os.path.exists(self.progress_file)}")
+            
             if os.path.exists(self.progress_file):
                 try:
+                    print(f"Attempting to open and read progress file...")
                     with open(self.progress_file, 'r', encoding='utf-8') as f:
-                        progress = json.load(f)
-                    print(f"Loaded progress from {self.progress_file}")
+                        file_content = f.read()
+                        print(f"File content length: {len(file_content)} bytes")
+                        progress = json.loads(file_content)
+                    print(f"Successfully parsed JSON from {self.progress_file}")
                     
                     # Log current progress state
                     print(f"Current area index: {progress.get('current_area_index', 0)}")
@@ -185,7 +216,7 @@ class MainScraper:
                 }
             }
             return default_progress
-    
+
     def save_progress(self):
         """Save current progress to JSON file with timestamp"""
         try:
@@ -194,13 +225,27 @@ class MainScraper:
             self.progress["last_updated"] = datetime.datetime.now().isoformat()
             
             # Save to talabat-scraper-progress-latest.json file
+            progress_json = json.dumps(self.progress, indent=2, ensure_ascii=False)
+            print(f"Writing {len(progress_json)} bytes to {self.progress_file}")
+            
             with open(self.progress_file, 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+                f.write(progress_json)
+                f.flush()  # Force flush to disk
+                os.fsync(f.fileno())  # Force OS to write to physical storage
+            
+            # Verify the file was written
+            if os.path.exists(self.progress_file):
+                file_size = os.path.getsize(self.progress_file)
+                print(f"Progress file saved successfully. Size: {file_size} bytes")
+            else:
+                print(f"ERROR: Progress file does not exist after saving!")
             
             # Also save to output directory to ensure it's included in cache
             output_progress_file = os.path.join(self.output_dir, "progress.json")
             with open(output_progress_file, 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+                f.write(progress_json)
+                f.flush()
+                os.fsync(f.fileno())
                 
             print(f"Saved progress to {self.progress_file} and {output_progress_file}")
             
@@ -210,7 +255,7 @@ class MainScraper:
                 subprocess.run(["sync"], check=False)
             except:
                 pass  # Ignore if sync command is not available
-                
+                    
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
             import traceback
@@ -887,9 +932,26 @@ async def main():
 
 
 if __name__ == "__main__":
+    print("\n" + "="*80)
+    print("STARTING TALABAT SCRAPER")
+    print("="*80)
+    
     scraper = MainScraper()
-    scraper.print_progress_details()  # Print the progress details
+    scraper.check_file_permissions()  # Check permissions
+    
+    # Attempt to print progress details, but handle if file doesn't exist
+    try:
+        print("\nCurrent Progress Details:")
+        scraper.print_progress_details()
+    except Exception as e:
+        print(f"Error displaying progress: {e}")
+    
+    print("\nRunning scraper...")
     asyncio.run(scraper.run())
+    
+    print("\n" + "="*80)
+    print("SCRAPER FINISHED")
+    print("="*80)
     
     # async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
     #     """
