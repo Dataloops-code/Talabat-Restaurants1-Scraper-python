@@ -115,16 +115,6 @@ jobs:
       
       # Save the progress for the next run
       - name: Save Progress State
-        uses: actions/cache/save@v4
-        if: always() # Run this even if the script fails
-        with:
-          path: |
-            talabat-scraper-progress-latest
-            output
-          key: talabat-scraper-progress-latest
-      
-      # Upload artifacts for debugging
-      - name: Upload Progress as Artifact
         uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -133,6 +123,16 @@ jobs:
             talabat-scraper-progress-latest
             output/*.json
           retention-days: 7
+      
+      # Save the progress to cache
+      - name: Cache Progress Data
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: |
+            talabat-scraper-progress-latest
+            output
+          key: talabat-scraper-progress-latest
       
       # Kill background process
       - name: Cleanup snapshot process
@@ -148,7 +148,6 @@ jobs:
         run: |
           rm -rf node_modules # Clean up npm modules
           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
-
 
 
 # name: Talabat Scraper Workflow
