@@ -69,6 +69,15 @@ jobs:
           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
         run: |
           python main.py
+          
+      # Commit progress file to repository
+      - name: Commit Progress File
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add talabat-scraper-progress-latest.json
+          git commit -m "Update progress file"
+          git push origin HEAD:main
       
       # Kill background process
       - name: Cleanup snapshot process
@@ -84,8 +93,9 @@ jobs:
         run: |
           rm -rf node_modules # Clean up npm modules
           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
-          
 
+
+          
 # name: Talabat Scraper Workflow
 # on:
 #   # schedule:
