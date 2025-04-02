@@ -51,13 +51,25 @@ jobs:
           npm cache clear --force
           npm install
       
-      # Download the latest progress data artifact
+      # Download the latest progress data artifact if available
       - name: Download Progress Data Artifact
-        if: steps.cache-restore.outputs.cache-hit != 'true'
         uses: actions/download-artifact@v4
         with:
           name: talabat-progress-data
           path: .
+        continue-on-error: true
+      
+      # Get progress state from previous runs
+      - name: Download Progress Data
+        uses: actions/cache/restore@v4
+        id: cache-restore
+        with:
+          path: |
+            talabat-scraper-progress-latest
+            output
+          key: talabat-scraper-progress-latest
+          restore-keys: |
+            talabat-scraper-progress-
       
       # Make sure output directory exists
       - name: Create Output Directory
@@ -145,6 +157,7 @@ jobs:
           rm -rf node_modules # Clean up npm modules
           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
 
+          
 
 # name: Talabat Scraper Workflow
 # on:
