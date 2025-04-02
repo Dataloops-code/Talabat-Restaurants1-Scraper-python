@@ -42,7 +42,7 @@ class MainScraper:
             print(f"STDERR: {e.stderr.decode() if e.stderr else 'None'}")
             print("Will continue and let TalabatScraper try to handle browser fallbacks")
     
-     def load_progress(self) -> Dict:
+    def load_progress(self) -> Dict:
         """Load progress from the specified progress file if it exists with comprehensive error checking"""
         if os.path.exists(self.progress_file):
             try:
