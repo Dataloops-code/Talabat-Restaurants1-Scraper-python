@@ -45,7 +45,7 @@ class MainScraper:
     
     def load_progress(self) -> Dict:
         """Load progress from the talabat-scraper-progress-latest file if it exists with comprehensive error checking"""
-        progress_file = "talabat-scraper-progress-latest"
+        progress_file = "الظهر_partial"
         if os.path.exists(progress_file):
             try:
                 with open(progress_file, 'r', encoding='utf-8') as f:
@@ -162,7 +162,11 @@ class MainScraper:
             with open("talabat-scraper-progress-latest", 'w', encoding='utf-8') as f:
                 json.dump(self.progress, f, indent=2, ensure_ascii=False)
             print(f"Saved progress to talabat-scraper-progress-latest")
-    
+            
+            with open("الظهر_partial", 'w', encoding='utf-8') as f:
+                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+            print(f"Saved progress to الظهر_partial")
+
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
     
