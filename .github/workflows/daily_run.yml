@@ -1,7 +1,7 @@
 name: Talabat Scraper Workflow
 on:
-  # schedule:
-  #   - cron: "0 */6 * * *" # Runs every 6 hours
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
   workflow_dispatch: # Allows manual triggering
 concurrency:
   group: scraper-workflow
@@ -57,7 +57,7 @@ jobs:
         id: cache-restore
         with:
           path: |
-            progress.json
+            talabat-scraper-progress-latest
             output
           key: talabat-scraper-progress-latest
           restore-keys: |
@@ -73,20 +73,20 @@ jobs:
       - name: Check Progress State
         run: |
           echo "Cache restore status: ${{ steps.cache-restore.outputs.cache-hit }}"
-          if [ -f "progress.json" ]; then
-            echo "progress.json exists - resuming from previous state"
+          if [ -f "talabat-scraper-progress-latest" ]; then
+            echo "talabat-scraper-progress-latest exists - resuming from previous state"
             echo "Current area:" 
-            cat progress.json | grep -o '"area_name":[^,]*' || echo "No area name found"
+            cat talabat-scraper-progress-latest | grep -o '"area_name":[^,]*' || echo "No area name found"
             echo "Current page:"
-            cat progress.json | grep -o '"current_page":[^,]*' || echo "No current page found"
+            cat talabat-scraper-progress-latest | grep -o '"current_page":[^,]*' || echo "No current page found"
             echo "Current restaurant:"
-            cat progress.json | grep -o '"current_restaurant":[^,]*' || echo "No current restaurant found"
+            cat talabat-scraper-progress-latest | grep -o '"current_restaurant":[^,]*' || echo "No current restaurant found"
             
             # Check partial files
             find output -name "*_partial.json" | sort
           else
-            echo "No progress.json found - starting fresh"
-            echo "{\"completed_areas\": [], \"current_area_index\": 0, \"last_updated\": null, \"all_results\": {}, \"current_progress\": {\"area_name\": null, \"current_page\": 0, \"total_pages\": 0, \"current_restaurant\": 0, \"total_restaurants\": 0, \"processed_restaurants\": [], \"completed_pages\": []}}" > progress.json
+            echo "No talabat-scraper-progress-latest found - starting fresh"
+            echo "{\"completed_areas\": [], \"current_area_index\": 0, \"last_updated\": null, \"all_results\": {}, \"current_progress\": {\"area_name\": null, \"current_page\": 0, \"total_pages\": 0, \"current_restaurant\": 0, \"total_restaurants\": 0, \"processed_restaurants\": [], \"completed_pages\": []}}" > talabat-scraper-progress-latest
           fi
           echo "Files in output directory:"
           ls -la output/ || echo "Output directory is empty"
@@ -104,7 +104,7 @@ jobs:
         run: |
           echo "#!/bin/bash" > snapshot.sh
           echo "while true; do" >> snapshot.sh
-          echo "  cp progress.json progress.json.bak" >> snapshot.sh 
+          echo "  cp talabat-scraper-progress-latest talabat-scraper-progress-latest.bak" >> snapshot.sh 
           echo "  find output -name '*_partial.json' -exec cp {} {}.bak \;" >> snapshot.sh
           echo "  echo \"[$(date)] Created progress backup\"" >> snapshot.sh
           echo "  sleep 900" >> snapshot.sh
@@ -119,7 +119,7 @@ jobs:
         if: always() # Run this even if the script fails
         with:
           path: |
-            progress.json
+            talabat-scraper-progress-latest
             output
           key: talabat-scraper-progress-latest
       
@@ -130,7 +130,7 @@ jobs:
         with:
           name: talabat-progress-data
           path: |
-            progress.json
+            talabat-scraper-progress-latest
             output/*.json
           retention-days: 7
       
@@ -152,12 +152,10 @@ jobs:
 
 
 # name: Talabat Scraper Workflow
-
 # on:
-#   schedule:
-#     - cron: "0 */6 * * *" # Runs every 6 hours
+#   # schedule:
+#   #   - cron: "0 */6 * * *" # Runs every 6 hours
 #   workflow_dispatch: # Allows manual triggering
-
 # concurrency:
 #   group: scraper-workflow
 #   cancel-in-progress: false # Don't cancel in-progress runs to avoid data loss
@@ -166,25 +164,27 @@ jobs:
 #   scrape:
 #     runs-on: ubuntu-latest
 #     timeout-minutes: 350 # ~5.8 hours to ensure clean shutdown before 6-hour mark
+    
 #     steps:
 #       - name: Checkout Repository
 #         uses: actions/checkout@v4
-
+        
 #       - name: Set up Python
 #         uses: actions/setup-python@v5
 #         with:
 #           python-version: '3.10'
-
+          
 #       - name: Install Dependencies
 #         run: |
 #           python -m pip install --upgrade pip
 #           pip install -r requirements.txt
-
+#           pip install jq
+          
 #       - name: Install Playwright for Python
 #         run: |
 #           pip install playwright
 #           python -m playwright install chromium firefox # Install both browsers
-
+          
 #       - name: Update geckodriver
 #         run: |
 #           # Remove the existing geckodriver
@@ -196,40 +196,106 @@ jobs:
 #           sudo mv geckodriver /usr/bin/
 #           # Verify installation
 #           geckodriver --version
-
+          
 #       - name: Fix PhantomJS Issue
 #         run: |
 #           npm uninstall phantomjs-prebuilt
 #           npm install phantomjs-prebuilt@2.1.13
 #           npm cache clear --force
 #           npm install
-
-#       - name: Restore Progress Cache
-#         id: restore-cache
+      
+#       # Get progress state from previous runs
+#       - name: Download Progress Data
 #         uses: actions/cache/restore@v4
+#         id: cache-restore
 #         with:
 #           path: |
 #             progress.json
-#             output/**
-#           key: ${{ runner.os }}-talabat-scraper-progress
+#             output
+#           key: talabat-scraper-progress-latest
 #           restore-keys: |
-#             ${{ runner.os }}-talabat-scraper-progress
-
+#             talabat-scraper-progress-
+      
+#       # Make sure output directory exists
+#       - name: Create Output Directory
+#         run: |
+#           mkdir -p output
+#           mkdir -p .cache
+      
+#       # Debug - check what was restored
+#       - name: Check Progress State
+#         run: |
+#           echo "Cache restore status: ${{ steps.cache-restore.outputs.cache-hit }}"
+#           if [ -f "progress.json" ]; then
+#             echo "progress.json exists - resuming from previous state"
+#             echo "Current area:" 
+#             cat progress.json | grep -o '"area_name":[^,]*' || echo "No area name found"
+#             echo "Current page:"
+#             cat progress.json | grep -o '"current_page":[^,]*' || echo "No current page found"
+#             echo "Current restaurant:"
+#             cat progress.json | grep -o '"current_restaurant":[^,]*' || echo "No current restaurant found"
+            
+#             # Check partial files
+#             find output -name "*_partial.json" | sort
+#           else
+#             echo "No progress.json found - starting fresh"
+#             echo "{\"completed_areas\": [], \"current_area_index\": 0, \"last_updated\": null, \"all_results\": {}, \"current_progress\": {\"area_name\": null, \"current_page\": 0, \"total_pages\": 0, \"current_restaurant\": 0, \"total_restaurants\": 0, \"processed_restaurants\": [], \"completed_pages\": []}}" > progress.json
+#           fi
+#           echo "Files in output directory:"
+#           ls -la output/ || echo "Output directory is empty"
+      
+#       # Run the scraper with 3-level tracking
 #       - name: Run the scraper
 #         env:
 #           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
 #         run: |
+#           # Run with error handling
 #           python main.py
-
-#       - name: Save Progress Cache
+      
+#       # Save intermediate snapshot every 15 minutes
+#       - name: Setup progress snapshots
+#         run: |
+#           echo "#!/bin/bash" > snapshot.sh
+#           echo "while true; do" >> snapshot.sh
+#           echo "  cp progress.json progress.json.bak" >> snapshot.sh 
+#           echo "  find output -name '*_partial.json' -exec cp {} {}.bak \;" >> snapshot.sh
+#           echo "  echo \"[$(date)] Created progress backup\"" >> snapshot.sh
+#           echo "  sleep 900" >> snapshot.sh
+#           echo "done" >> snapshot.sh
+#           chmod +x snapshot.sh
+#           ./snapshot.sh &
+#           echo $! > snapshot.pid
+      
+#       # Save the progress for the next run
+#       - name: Save Progress State
 #         uses: actions/cache/save@v4
-#         if: always() # Run this step even if the job fails
+#         if: always() # Run this even if the script fails
 #         with:
 #           path: |
 #             progress.json
-#             output/**
-#           key: ${{ runner.os }}-talabat-scraper-progress
-
+#             output
+#           key: talabat-scraper-progress-latest
+      
+#       # Upload artifacts for debugging
+#       - name: Upload Progress as Artifact
+#         uses: actions/upload-artifact@v4
+#         if: always()
+#         with:
+#           name: talabat-progress-data
+#           path: |
+#             progress.json
+#             output/*.json
+#           retention-days: 7
+      
+#       # Kill background process
+#       - name: Cleanup snapshot process
+#         if: always()
+#         run: |
+#           if [ -f snapshot.pid ]; then
+#             kill $(cat snapshot.pid) || true
+#             rm snapshot.pid
+#           fi
+      
 #       - name: Cleanup
 #         if: always()
 #         run: |
