@@ -42,10 +42,25 @@ class MainScraper:
             print(f"STDOUT: {e.stdout.decode() if e.stdout else 'None'}")
             print(f"STDERR: {e.stderr.decode() if e.stderr else 'None'}")
             print("Will continue and let TalabatScraper try to handle browser fallbacks")
+
+    def print_progress_details(self):
+        """Print the details of progress including all results and each restaurant scraped"""
+        try:
+            with open(self.progress_file, 'r', encoding='utf-8') as f:
+                progress = json.load(f)
+            print(json.dumps(progress, indent=2, ensure_ascii=False))
+
+            if 'all_results' in progress:
+                for area, results in progress['all_results'].items():
+                    print(f"\nArea: {area}")
+                    for restaurant in results:
+                        print(json.dumps(restaurant, indent=2, ensure_ascii=False))
+        except Exception as e:
+            print(f"Error reading progress file: {str(e)}")
     
     def load_progress(self) -> Dict:
         """Load progress from the talabat-scraper-progress-latest file if it exists with comprehensive error checking"""
-        progress_file = "الظهر_partial"
+        progress_file = "talabat-scraper-progress-latest"
         if os.path.exists(progress_file):
             try:
                 with open(progress_file, 'r', encoding='utf-8') as f:
@@ -130,21 +145,6 @@ class MainScraper:
         
         print("Created new default progress file")
         return default_progress
-
-    def print_progress_details(self):
-        """Print the details of progress including all results and each restaurant scraped"""
-        try:
-            with open(self.progress_file, 'r', encoding='utf-8') as f:
-                progress = json.load(f)
-            print(json.dumps(progress, indent=2, ensure_ascii=False))
-
-            if 'all_results' in progress:
-                for area, results in progress['all_results'].items():
-                    print(f"\nArea: {area}")
-                    for restaurant in results:
-                        print(json.dumps(restaurant, indent=2, ensure_ascii=False))
-        except Exception as e:
-            print(f"Error reading progress file: {str(e)}")
     
     def save_progress(self):
         """Save current progress to JSON file with timestamp"""
@@ -153,20 +153,10 @@ class MainScraper:
             import datetime
             self.progress["last_updated"] = datetime.datetime.now().isoformat()
             
-            # Save to progress.json file
-            with open(self.progress_file, 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
-            print(f"Saved progress to {self.progress_file}")
-    
-            # Save to cache key
+            # Save to talabat-scraper-progress-latest file
             with open("talabat-scraper-progress-latest", 'w', encoding='utf-8') as f:
                 json.dump(self.progress, f, indent=2, ensure_ascii=False)
             print(f"Saved progress to talabat-scraper-progress-latest")
-            
-            with open("الظهر_partial", 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
-            print(f"Saved progress to الظهر_partial")
-
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
     
@@ -432,6 +422,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
+    
     
     # async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
     #     """
