@@ -45,11 +45,11 @@ class MainScraper:
     
     def load_progress(self) -> Dict:
         """Load progress from JSON file if it exists with comprehensive error checking"""
-        if os.path.exists(self.progress_file):
+        if os.path.exists(self.progress.json):
             try:
-                with open(self.progress_file, 'r', encoding='utf-8') as f:
+                with open(self.progress.json, 'r', encoding='utf-8') as f:
                     progress = json.load(f)
-                print(f"Loaded progress from {self.progress_file}")
+                print(f"Loaded progress from {self.progress.json}")
                 
                 # Log current progress state
                 print(f"Current area index: {progress.get('current_area_index', 0)}")
