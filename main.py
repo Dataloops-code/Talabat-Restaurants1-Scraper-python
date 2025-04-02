@@ -123,7 +123,7 @@ class MainScraper:
         }
         
         return default_progress
-    
+
     def save_progress(self):
         """Save current progress to JSON file with timestamp"""
         try:
@@ -398,7 +398,8 @@ class MainScraper:
             print(f"Successfully uploaded {excel_filename} to Google Drive")
         else:
             print(f"Failed to upload {excel_filename} to Google Drive")
-        
+    
+  
         # Reset current progress for next area
         current_progress["area_name"] = None
         current_progress["current_page"] = 0
