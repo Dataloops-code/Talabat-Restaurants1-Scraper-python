@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Ensure the full history is checked out to allow commits
         
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -93,7 +95,6 @@ jobs:
         run: |
           rm -rf node_modules # Clean up npm modules
           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
-
 
           
 # name: Talabat Scraper Workflow
