@@ -23,8 +23,25 @@ class MainScraper:
         # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
         
-        # Load progress if exists
-        self.progress = self.load_progress()
+        # Check if progress exists in output directory (which should be cached)
+        output_progress_file = os.path.join(self.output_dir, "progress.json")
+        if os.path.exists(output_progress_file):
+            try:
+                with open(output_progress_file, 'r', encoding='utf-8') as f:
+                    self.progress = json.load(f)
+                print(f"Loaded progress from cached {output_progress_file}")
+                
+                # Copy this to the main progress file
+                with open(self.progress_file, 'w', encoding='utf-8') as f:
+                    json.dump(self.progress, f, indent=2, ensure_ascii=False)
+                print(f"Copied progress to {self.progress_file}")
+            except Exception as e:
+                print(f"Error loading progress from output directory: {str(e)}")
+                # Load from main progress file as fallback
+                self.progress = self.load_progress()
+        else:
+            # Load progress from main file
+            self.progress = self.load_progress()
         
         # Ensure Playwright browsers are installed
         self.ensure_playwright_browsers()
@@ -58,92 +75,116 @@ class MainScraper:
             print(f"Error reading progress file: {str(e)}")
 
     def load_progress(self) -> Dict:
-        """Load progress from the talabat-scraper-progress-latest file if it exists with comprehensive error checking"""
-        progress_file = "talabat-scraper-progress-latest"
-        if os.path.exists(progress_file):
-            try:
-                with open(progress_file, 'r', encoding='utf-8') as f:
-                    progress = json.load(f)
-                print(f"Loaded progress from {progress_file}")
-                
-                # Log current progress state
-                print(f"Current area index: {progress.get('current_area_index', 0)}")
-                print(f"Completed areas: {len(progress.get('completed_areas', []))}")
-                
-                # Log more detailed progress
-                if 'current_progress' in progress:
-                    curr = progress['current_progress']
-                    print(f"Current status: Area {curr.get('area_name', 'None')} - "
-                          f"Page {curr.get('current_page', 0)}/{curr.get('total_pages', 0)} - "
-                          f"Restaurant {curr.get('current_restaurant', 0)}/{curr.get('total_restaurants', 0)}")
-                
-                # Ensure all required keys exist with proper default values
-                if 'completed_areas' not in progress:
-                    progress['completed_areas'] = []
-                if 'current_area_index' not in progress:
-                    progress['current_area_index'] = 0
-                if 'all_results' not in progress:
-                    progress['all_results'] = {}
-                if 'last_updated' not in progress:
-                    progress['last_updated'] = None
-                
-                # Ensure current_progress structure is complete
-                if 'current_progress' not in progress:
-                    progress['current_progress'] = {
-                        'area_name': None,
-                        'current_page': 0, 
-                        'total_pages': 0,
-                        'current_restaurant': 0,
-                        'total_restaurants': 0,
-                        'processed_restaurants': [],
-                        'completed_pages': []
-                    }
-                else:
-                    # Ensure all keys exist in current_progress
-                    curr_progress = progress['current_progress']
-                    if 'area_name' not in curr_progress:
-                        curr_progress['area_name'] = None
-                    if 'current_page' not in curr_progress:
-                        curr_progress['current_page'] = 0
-                    if 'total_pages' not in curr_progress:
-                        curr_progress['total_pages'] = 0
-                    if 'current_restaurant' not in curr_progress:
-                        curr_progress['current_restaurant'] = 0
-                    if 'total_restaurants' not in curr_progress:
-                        curr_progress['total_restaurants'] = 0
-                    if 'processed_restaurants' not in curr_progress:
-                        curr_progress['processed_restaurants'] = []
-                    if 'completed_pages' not in curr_progress:
-                        curr_progress['completed_pages'] = []
-                
-                return progress
-            except Exception as e:
-                print(f"Error loading progress file: {str(e)}")
-                print("Creating new progress file...")
-        
-        # Return default empty progress
-        default_progress = {
-            "completed_areas": [],
-            "current_area_index": 0,
-            "last_updated": None,
-            "all_results": {},
-            "current_progress": {
-                "area_name": None,
-                "current_page": 0,
-                "total_pages": 0,
-                "current_restaurant": 0,
-                "total_restaurants": 0,
-                "processed_restaurants": [],
-                "completed_pages": []
+        """Load progress from the talabat-scraper-progress-latest.json file if it exists with comprehensive error checking"""
+        try:
+            if os.path.exists(self.progress_file):
+                try:
+                    with open(self.progress_file, 'r', encoding='utf-8') as f:
+                        progress = json.load(f)
+                    print(f"Loaded progress from {self.progress_file}")
+                    
+                    # Log current progress state
+                    print(f"Current area index: {progress.get('current_area_index', 0)}")
+                    print(f"Completed areas: {len(progress.get('completed_areas', []))}")
+                    
+                    # Log more detailed progress
+                    if 'current_progress' in progress:
+                        curr = progress['current_progress']
+                        print(f"Current status: Area {curr.get('area_name', 'None')} - "
+                              f"Page {curr.get('current_page', 0)}/{curr.get('total_pages', 0)} - "
+                              f"Restaurant {curr.get('current_restaurant', 0)}/{curr.get('total_restaurants', 0)}")
+                    
+                    # Ensure all required keys exist with proper default values
+                    if 'completed_areas' not in progress:
+                        progress['completed_areas'] = []
+                    if 'current_area_index' not in progress:
+                        progress['current_area_index'] = 0
+                    if 'all_results' not in progress:
+                        progress['all_results'] = {}
+                    if 'last_updated' not in progress:
+                        progress['last_updated'] = None
+                    
+                    # Ensure current_progress structure is complete
+                    if 'current_progress' not in progress:
+                        progress['current_progress'] = {
+                            'area_name': None,
+                            'current_page': 0, 
+                            'total_pages': 0,
+                            'current_restaurant': 0,
+                            'total_restaurants': 0,
+                            'processed_restaurants': [],
+                            'completed_pages': []
+                        }
+                    else:
+                        # Ensure all keys exist in current_progress
+                        curr_progress = progress['current_progress']
+                        if 'area_name' not in curr_progress:
+                            curr_progress['area_name'] = None
+                        if 'current_page' not in curr_progress:
+                            curr_progress['current_page'] = 0
+                        if 'total_pages' not in curr_progress:
+                            curr_progress['total_pages'] = 0
+                        if 'current_restaurant' not in curr_progress:
+                            curr_progress['current_restaurant'] = 0
+                        if 'total_restaurants' not in curr_progress:
+                            curr_progress['total_restaurants'] = 0
+                        if 'processed_restaurants' not in curr_progress:
+                            curr_progress['processed_restaurants'] = []
+                        if 'completed_pages' not in curr_progress:
+                            curr_progress['completed_pages'] = []
+                    
+                    return progress
+                except Exception as e:
+                    print(f"Error loading progress file: {str(e)}")
+                    print("Creating new progress file...")
+            else:
+                print(f"Progress file {self.progress_file} not found. Creating new progress file...")
+            
+            # Return default empty progress
+            default_progress = {
+                "completed_areas": [],
+                "current_area_index": 0,
+                "last_updated": None,
+                "all_results": {},
+                "current_progress": {
+                    "area_name": None,
+                    "current_page": 0,
+                    "total_pages": 0,
+                    "current_restaurant": 0,
+                    "total_restaurants": 0,
+                    "processed_restaurants": [],
+                    "completed_pages": []
+                }
             }
-        }
-        
-        # Save the default progress to ensure the file exists
-        with open(progress_file, 'w', encoding='utf-8') as f:
-            json.dump(default_progress, f, indent=2, ensure_ascii=False)
-        
-        print("Created new default progress file")
-        return default_progress
+            
+            # Save the default progress to ensure the file exists
+            with open(self.progress_file, 'w', encoding='utf-8') as f:
+                json.dump(default_progress, f, indent=2, ensure_ascii=False)
+            
+            print("Created new default progress file")
+            return default_progress
+        except Exception as e:
+            print(f"Critical error in load_progress: {str(e)}")
+            import traceback
+            traceback.print_exc()
+            
+            # Emergency recovery - create a new progress file
+            default_progress = {
+                "completed_areas": [],
+                "current_area_index": 0,
+                "last_updated": None,
+                "all_results": {},
+                "current_progress": {
+                    "area_name": None,
+                    "current_page": 0,
+                    "total_pages": 0,
+                    "current_restaurant": 0,
+                    "total_restaurants": 0,
+                    "processed_restaurants": [],
+                    "completed_pages": []
+                }
+            }
+            return default_progress
     
     def save_progress(self):
         """Save current progress to JSON file with timestamp"""
@@ -152,12 +193,28 @@ class MainScraper:
             import datetime
             self.progress["last_updated"] = datetime.datetime.now().isoformat()
             
-            # Save to talabat-scraper-progress-latest file
-            with open("talabat-scraper-progress-latest", 'w', encoding='utf-8') as f:
+            # Save to talabat-scraper-progress-latest.json file
+            with open(self.progress_file, 'w', encoding='utf-8') as f:
                 json.dump(self.progress, f, indent=2, ensure_ascii=False)
-            print(f"Saved progress to talabat-scraper-progress-latest")
+            
+            # Also save to output directory to ensure it's included in cache
+            output_progress_file = os.path.join(self.output_dir, "progress.json")
+            with open(output_progress_file, 'w', encoding='utf-8') as f:
+                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+                
+            print(f"Saved progress to {self.progress_file} and {output_progress_file}")
+            
+            # Flush to disk to ensure data is written
+            import subprocess
+            try:
+                subprocess.run(["sync"], check=False)
+            except:
+                pass  # Ignore if sync command is not available
+                
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
+            import traceback
+            traceback.print_exc()
     
     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
