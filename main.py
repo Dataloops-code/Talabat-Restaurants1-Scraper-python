@@ -44,12 +44,13 @@ class MainScraper:
             print("Will continue and let TalabatScraper try to handle browser fallbacks")
     
     def load_progress(self) -> Dict:
-        """Load progress from JSON file if it exists with comprehensive error checking"""
-        if os.path.exists(self.progress_file):
+        """Load progress from the talabat-scraper-progress-latest file if it exists with comprehensive error checking"""
+        progress_file = "talabat-scraper-progress-latest"
+        if os.path.exists(progress_file):
             try:
-                with open(self.progress_file, 'r', encoding='utf-8') as f:
+                with open(progress_file, 'r', encoding='utf-8') as f:
                     progress = json.load(f)
-                print(f"Loaded progress from {self.progress_file}")
+                print(f"Loaded progress from {progress_file}")
                 
                 # Log current progress state
                 print(f"Current area index: {progress.get('current_area_index', 0)}")
@@ -124,12 +125,11 @@ class MainScraper:
         }
         
         # Save the default progress to ensure the file exists
-        with open(self.progress_file, 'w', encoding='utf-8') as f:
+        with open(progress_file, 'w', encoding='utf-8') as f:
             json.dump(default_progress, f, indent=2, ensure_ascii=False)
         
         print("Created new default progress file")
         return default_progress
-    
 
     def print_progress_details(self):
         """Print the details of progress including all results and each restaurant scraped"""
