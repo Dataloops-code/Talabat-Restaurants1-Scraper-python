@@ -42,7 +42,7 @@ class MainScraper:
             print(f"STDERR: {e.stderr.decode() if e.stderr else 'None'}")
             print("Will continue and let TalabatScraper try to handle browser fallbacks")
     
-    def load_progress(self) -> Dict:
+     def load_progress(self) -> Dict:
         """Load progress from the specified progress file if it exists with comprehensive error checking"""
         if os.path.exists(self.progress_file):
             try:
@@ -153,7 +153,7 @@ class MainScraper:
         except Exception as e:
             print(f"Error reading progress file: {str(e)}")
 
-    async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
+   async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
         Scrape restaurants for a specific area with detailed progress tracking
         
@@ -415,7 +415,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-    
+       
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
