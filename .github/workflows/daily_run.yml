@@ -51,17 +51,13 @@ jobs:
           npm cache clear --force
           npm install
       
-      # Get progress state from previous runs
-      - name: Download Progress Data
-        uses: actions/cache/restore@v4
-        id: cache-restore
+      # Download the latest progress data artifact
+      - name: Download Progress Data Artifact
+        if: steps.cache-restore.outputs.cache-hit != 'true'
+        uses: actions/download-artifact@v4
         with:
-          path: |
-            talabat-scraper-progress-latest
-            output
-          key: talabat-scraper-progress-latest
-          restore-keys: |
-            talabat-scraper-progress-
+          name: talabat-progress-data
+          path: .
       
       # Make sure output directory exists
       - name: Create Output Directory
