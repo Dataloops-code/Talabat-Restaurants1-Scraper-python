@@ -74,13 +74,13 @@ class MainScraper:
                 # Ensure current_progress structure is complete
                 if 'current_progress' not in progress:
                     progress['current_progress'] = {
-                        'area_name': None,
-                        'current_page': 0, 
-                        'total_pages': 0,
-                        'current_restaurant': 0,
-                        'total_restaurants': 0,
-                        'processed_restaurants': [],
-                        'completed_pages': []
+                        "area_name": None,
+                        "current_page": 0,
+                        "total_pages": 0,
+                        "current_restaurant": 0,
+                        "total_restaurants": 0,
+                        "processed_restaurants": [],
+                        "completed_pages": []
                     }
                 else:
                     # Ensure all keys exist in current_progress
@@ -103,9 +103,9 @@ class MainScraper:
                 return progress
             except Exception as e:
                 print(f"Error loading progress file: {str(e)}")
-                print("Creating new progress file...")
+                print("Using default progress values...")
         
-        # Return default empty progress
+        # Return default empty progress if file does not exist or cannot be loaded
         default_progress = {
             "completed_areas": [],
             "current_area_index": 0,
@@ -122,13 +122,8 @@ class MainScraper:
             }
         }
         
-        # Save the default progress to ensure the file exists
-        with open(self.progress_file, 'w', encoding='utf-8') as f:
-            json.dump(default_progress, f, indent=2, ensure_ascii=False)
-        
-        print("Created new default progress file")
         return default_progress
-
+    
     def save_progress(self):
         """Save current progress to JSON file with timestamp"""
         try:
@@ -420,7 +415,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-
+    
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
