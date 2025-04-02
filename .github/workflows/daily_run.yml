@@ -43,33 +43,6 @@ jobs:
           sudo mv geckodriver /usr/bin/
           # Verify installation
           geckodriver --version
-          
-      - name: Fix PhantomJS Issue
-        run: |
-          npm uninstall phantomjs-prebuilt
-          npm install phantomjs-prebuilt@2.1.13
-          npm cache clear --force
-          npm install
-      
-      # Download the latest progress data artifact if available
-      - name: Download Progress Data Artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: talabat-progress-data
-          path: .
-        continue-on-error: true
-      
-      # Get progress state from previous runs
-      - name: Download Progress Data
-        uses: actions/cache/restore@v4
-        id: cache-restore
-        with:
-          path: |
-            talabat-scraper-progress-latest
-            output
-          key: talabat-scraper-progress-latest
-          restore-keys: |
-            talabat-scraper-progress-
       
       # Make sure output directory exists
       - name: Create Output Directory
@@ -77,24 +50,15 @@ jobs:
           mkdir -p output
           mkdir -p .cache
       
-      # Debug - check what was restored
+      # Debug - check if progress file exists
       - name: Check Progress State
         run: |
-          echo "Cache restore status: ${{ steps.cache-restore.outputs.cache-hit }}"
-          if [ -f "talabat-scraper-progress-latest" ]; then
-            echo "talabat-scraper-progress-latest exists - resuming from previous state"
-            echo "Current area:" 
-            cat talabat-scraper-progress-latest | grep -o '"area_name":[^,]*' || echo "No area name found"
-            echo "Current page:"
-            cat talabat-scraper-progress-latest | grep -o '"current_page":[^,]*' || echo "No current page found"
-            echo "Current restaurant:"
-            cat talabat-scraper-progress-latest | grep -o '"current_restaurant":[^,]*' || echo "No current restaurant found"
-            
-            # Check partial files
-            find output -name "*_partial.json" | sort
+          if [ -f "talabat-scraper-progress-latest.json" ]; then
+            echo "talabat-scraper-progress-latest.json exists - resuming from previous state"
+            cat talabat-scraper-progress-latest.json
           else
-            echo "No talabat-scraper-progress-latest found - starting fresh"
-            echo "{\"completed_areas\": [], \"current_area_index\": 0, \"last_updated\": null, \"all_results\": {}, \"current_progress\": {\"area_name\": null, \"current_page\": 0, \"total_pages\": 0, \"current_restaurant\": 0, \"total_restaurants\": 0, \"processed_restaurants\": [], \"completed_pages\": []}}" > talabat-scraper-progress-latest
+            echo "No talabat-scraper-progress-latest.json found - starting fresh"
+            echo "{\"completed_areas\": [], \"current_area_index\": 0, \"last_updated\": null, \"all_results\": {}, \"current_progress\": {\"area_name\": null, \"current_page\": 0, \"total_pages\": 0, \"current_restaurant\": 0, \"total_restaurants\": 0, \"processed_restaurants\": [], \"completed_pages\": []}}" > talabat-scraper-progress-latest.json
           fi
           echo "Files in output directory:"
           ls -la output/ || echo "Output directory is empty"
@@ -104,43 +68,7 @@ jobs:
         env:
           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
         run: |
-          # Run with error handling
           python main.py
-      
-      # Save intermediate snapshot every 15 minutes
-      - name: Setup progress snapshots
-        run: |
-          echo "#!/bin/bash" > snapshot.sh
-          echo "while true; do" >> snapshot.sh
-          echo "  cp talabat-scraper-progress-latest talabat-scraper-progress-latest.bak" >> snapshot.sh 
-          echo "  find output -name '*_partial.json' -exec cp {} {}.bak \;" >> snapshot.sh
-          echo "  echo \"[$(date)] Created progress backup\"" >> snapshot.sh
-          echo "  sleep 900" >> snapshot.sh
-          echo "done" >> snapshot.sh
-          chmod +x snapshot.sh
-          ./snapshot.sh &
-          echo $! > snapshot.pid
-      
-      # Save the progress for the next run
-      - name: Save Progress State
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: talabat-progress-data
-          path: |
-            talabat-scraper-progress-latest
-            output/*.json
-          retention-days: 7
-      
-      # Save the progress to cache
-      - name: Cache Progress Data
-        uses: actions/cache/save@v4
-        if: always()
-        with:
-          path: |
-            talabat-scraper-progress-latest
-            output
-          key: talabat-scraper-progress-latest
       
       # Kill background process
       - name: Cleanup snapshot process
@@ -156,7 +84,6 @@ jobs:
         run: |
           rm -rf node_modules # Clean up npm modules
           rm -rf ~/.cache/ms-playwright # Clean up Playwright cache
-
           
 
 # name: Talabat Scraper Workflow
