@@ -19,7 +19,7 @@ class MainScraper:
         self.talabat_scraper = TalabatScraper()
         self.output_dir = "output"
         self.drive_uploader = SavingOnDrive('credentials.json')
-        self.progress_file = "progress.json"
+        self.progress_file = "talabat-scraper-progress-latest.json"
         
         # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
