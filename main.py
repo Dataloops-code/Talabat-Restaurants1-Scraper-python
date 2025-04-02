@@ -45,11 +45,11 @@ class MainScraper:
     
     def load_progress(self) -> Dict:
         """Load progress from JSON file if it exists with comprehensive error checking"""
-        if os.path.exists(self.progress.json):
+        if os.path.exists(self.progress_file):
             try:
-                with open(self.progress.json, 'r', encoding='utf-8') as f:
+                with open(self.progress_file, 'r', encoding='utf-8') as f:
                     progress = json.load(f)
-                print(f"Loaded progress from {self.progress.json}")
+                print(f"Loaded progress from {self.progress_file}")
                 
                 # Log current progress state
                 print(f"Current area index: {progress.get('current_area_index', 0)}")
@@ -130,18 +130,6 @@ class MainScraper:
         print("Created new default progress file")
         return default_progress
     
-    def save_progress(self):
-        """Save current progress to JSON file with timestamp"""
-        try:
-            # Update timestamp
-            import datetime
-            self.progress["last_updated"] = datetime.datetime.now().isoformat()
-            
-            with open(self.progress_file, 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
-            print(f"Saved progress to {self.progress_file}")
-        except Exception as e:
-            print(f"Error saving progress file: {str(e)}")
 
     def print_progress_details(self):
         """Print the details of progress including all results and each restaurant scraped"""
@@ -158,15 +146,33 @@ class MainScraper:
         except Exception as e:
             print(f"Error reading progress file: {str(e)}")
     
-    async def scrape_and_save_area(self, area_name: str, area_url: str, start_page: int = 141, start_restaurant: int = 7) -> List[Dict]:
+    def save_progress(self):
+        """Save current progress to JSON file with timestamp"""
+        try:
+            # Update timestamp
+            import datetime
+            self.progress["last_updated"] = datetime.datetime.now().isoformat()
+            
+            # Save to progress.json file
+            with open(self.progress_file, 'w', encoding='utf-8') as f:
+                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+            print(f"Saved progress to {self.progress_file}")
+    
+            # Save to cache key
+            with open("talabat-scraper-progress-latest", 'w', encoding='utf-8') as f:
+                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+            print(f"Saved progress to talabat-scraper-progress-latest")
+    
+        except Exception as e:
+            print(f"Error saving progress file: {str(e)}")
+    
+    async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
         Scrape restaurants for a specific area with detailed progress tracking
         
         Args:
             area_name: Name of the area (in Arabic)
             area_url: Talabat URL for the area
-            start_page: Page number to start scraping from
-            start_restaurant: Restaurant number to start scraping from on the first page
         
         Returns:
             List of restaurant data dictionaries
@@ -182,6 +188,8 @@ class MainScraper:
         
         # Check if we're resuming within this area
         is_resuming = current_progress["area_name"] == area_name
+        start_page = current_progress["current_page"] if is_resuming else 1
+        start_restaurant = current_progress["current_restaurant"] if is_resuming else 0
         
         if is_resuming:
             print(f"Resuming area {area_name} from page {current_progress['current_page']} "
@@ -247,12 +255,27 @@ class MainScraper:
             current_progress["current_page"] = page_num
             self.save_progress()
             
-            # Get restaurant listings for this page
-            restaurants_on_page = await self.get_page_restaurants(page_url, page_num)
-            print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
+            # Retry mechanism for loading restaurant cards
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    # Get restaurant listings for this page
+                    restaurants_on_page = await self.get_page_restaurants(page_url, page_num)
+                    if not restaurants_on_page:
+                        raise Exception("No restaurants found")
+                    print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
+                    break
+                except Exception as e:
+                    print(f"Error waiting for restaurant cards on page {page_num}: {e}")
+                    if attempt < max_retries - 1:
+                        print(f"Retrying page {page_num} (attempt {attempt + 1}/{max_retries})...")
+                        await asyncio.sleep(5)  # Wait before retrying
+                    else:
+                        print(f"Skipping page {page_num} after {max_retries} failed attempts")
+                        restaurants_on_page = []
             
             # Update total restaurants on page
-            if current_progress["current_restaurant"] == 0 or page_num > current_progress["current_page"]:
+            if current_progress["total_restaurants"] == 0 or page_num > current_progress["current_page"]:
                 current_progress["total_restaurants"] = len(restaurants_on_page)
                 current_progress["current_restaurant"] = 0
             
@@ -264,7 +287,7 @@ class MainScraper:
                     continue
                 
                 # Set current restaurant position
-                current_progress["current_restaurant"] = rest_idx
+                current_progress["current_restaurant"] = rest_idx + 1  # Increment to the next restaurant
                 
                 # Check if restaurant is in a category we want to skip
                 if any(category in restaurant['cuisine'] for category in skip_categories):
@@ -272,6 +295,7 @@ class MainScraper:
                     # Save progress to mark this as processed
                     current_progress["processed_restaurants"].append(restaurant["name"])
                     self.save_progress()
+                    print(json.dumps(self.progress, indent=2, ensure_ascii=False))  # Print progress after each restaurant
                     continue
                 
                 try:
@@ -314,7 +338,10 @@ class MainScraper:
                     
                     # Mark this restaurant as processed
                     current_progress["processed_restaurants"].append(restaurant["name"])
+                    
+                    # Save progress after processing each restaurant
                     self.save_progress()
+                    print(json.dumps(self.progress, indent=2, ensure_ascii=False))  # Print progress after each restaurant
                     
                     # Save partial results after each restaurant
                     partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
@@ -330,14 +357,17 @@ class MainScraper:
                     traceback.print_exc()
                     # Still save progress to mark this as attempted
                     current_progress["processed_restaurants"].append(restaurant["name"])
+                    
+                    # Save progress after processing each restaurant
                     self.save_progress()
+                    print(json.dumps(self.progress, indent=2, ensure_ascii=False))  # Print progress after each restaurant
             
             # Mark page as completed
             current_progress["completed_pages"].append(page_num)
             current_progress["current_restaurant"] = 0  # Reset for next page
-            self.save_progress()
             
-            # Print progress after finishing each page
+            # Save progress after finishing each page
+            self.save_progress()
             print("\nProgress after finishing page:")
             print(json.dumps(self.progress, indent=2, ensure_ascii=False))
             
@@ -351,7 +381,11 @@ class MainScraper:
         
         # Update all_results in progress
         self.progress["all_results"][area_name] = all_area_results
+        
+        # Save progress after finishing the area
         self.save_progress()
+        print("\nProgress after finishing area:")
+        print(json.dumps(self.progress, indent=2, ensure_ascii=False))
         
         # Clean up partial file
         partial_filename = os.path.join(self.output_dir, f"{area_name}_partial.json")
@@ -361,6 +395,23 @@ class MainScraper:
             except Exception as e:
                 print(f"Warning: Could not remove partial file: {e}")
         
+        # Create Excel workbook for the area
+        workbook = Workbook()
+        sheet_name = area_name
+        self.create_excel_sheet(workbook, sheet_name, all_area_results)
+        
+        # Save the Excel file
+        excel_filename = os.path.join(self.output_dir, f"{area_name}.xlsx")
+        workbook.save(excel_filename)
+        print(f"Excel file saved: {excel_filename}")
+        
+        # Upload the Excel file to Google Drive
+        upload_success = self.upload_to_drive(excel_filename)
+        if upload_success:
+            print(f"Successfully uploaded {excel_filename} to Google Drive")
+        else:
+            print(f"Failed to upload {excel_filename} to Google Drive")
+        
         # Reset current progress for next area
         current_progress["area_name"] = None
         current_progress["current_page"] = 0
@@ -369,15 +420,15 @@ class MainScraper:
         current_progress["total_restaurants"] = 0
         current_progress["processed_restaurants"] = []
         current_progress["completed_pages"] = []
-        self.save_progress()
         
-        # Print progress after finishing each area
-        print("\nProgress after finishing area:")
+        # Save progress after resetting for next area
+        self.save_progress()
+        print("\nProgress after resetting for next area:")
         print(json.dumps(self.progress, indent=2, ensure_ascii=False))
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-        
+    
     # async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
     #     """
     #     Scrape restaurants for a specific area with detailed progress tracking
