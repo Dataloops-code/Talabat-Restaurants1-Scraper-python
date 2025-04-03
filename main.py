@@ -28,6 +28,23 @@ class MainScraper:
         print(f"Progress file path: {self.progress_file}")
         print(f"Output directory path: {self.output_dir}")
         
+        # Default progress dictionary
+        default_progress = {
+            "completed_areas": [],
+            "current_area_index": 0,
+            "last_updated": None,
+            "all_results": {},
+            "current_progress": {
+                "area_name": None,
+                "current_page": 0,
+                "total_pages": 0,
+                "current_restaurant": 0,
+                "total_restaurants": 0,
+                "processed_restaurants": [],
+                "completed_pages": []
+            }
+        }
+        
         # Save the default progress to ensure the file exists
         with open(self.progress_file, 'w', encoding='utf-8') as f:
             json.dump(default_progress, f, indent=2, ensure_ascii=False)
@@ -260,7 +277,7 @@ class MainScraper:
             print(f"Error saving progress file: {str(e)}")
             import traceback
             traceback.print_exc()
-    
+
     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         """
         Scrape restaurants for a specific area with detailed progress tracking
@@ -421,7 +438,7 @@ class MainScraper:
                         # Get reviews if we have a reviews URL
                         if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
                             print(f"Scraping reviews for {restaurant['name']}...")
-                            reviews_data = self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
+                            reviews_data = await self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
                             if reviews_data:
                                 restaurant['reviews'] = reviews_data
                         
@@ -523,7 +540,7 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name} to {json_filename}")
         return all_area_results
-       
+
     async def determine_total_pages(self, area_url: str) -> int:
         """Determine the total number of pages for an area"""
         print(f"Determining total pages for URL: {area_url}")
@@ -699,6 +716,7 @@ class MainScraper:
                 sheet.column_dimensions[column_letter].width = min(adjusted_width, 50)
         else:
             sheet.cell(row=1, column=1, value="No data found for this area")
+    
     
     def upload_to_drive(self, file_path):
         """
