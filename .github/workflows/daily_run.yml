@@ -10,27 +10,27 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          
+
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           pip install jq
-          
+
       - name: Install Playwright for Python
         run: |
           pip install playwright
           python -m playwright install chromium firefox
-          
+
       - name: Update geckodriver
         run: |
           sudo rm -f /usr/bin/geckodriver
@@ -39,29 +39,26 @@ jobs:
           chmod +x geckodriver
           sudo mv geckodriver /usr/bin/
           geckodriver --version
-          
+
       - name: Fix PhantomJS Issue
         run: |
           npm uninstall phantomjs-prebuilt
           npm install phantomjs-prebuilt@2.1.13
           npm cache clear --force
           npm install
-      
-      # - name: Set File Permissions
-      #   run: chmod 777 talabat-scraper-progress-latest
-      
+
       - name: Download Progress Data
         uses: actions/cache/restore@v4
         id: cache-restore
         with:
           path: talabat-scraper-progress-latest
           key: talabat-scraper-progress-${{ github.run_id }} # Use unique key for each run
-      
+
       - name: Create Output Directory
         run: |
           mkdir -p output
           mkdir -p .cache
-      
+
       - name: Check Progress State
         run: |
           echo "Cache restore status: ${{ steps.cache-restore.outputs.cache-hit }}"
@@ -73,19 +70,19 @@ jobs:
             echo '{"completed_areas": [], "current_area_index": 0, "last_updated": null, "all_results": {}, "current_progress": {"area_name": null, "current_page": 0, "total_pages": 0, "current_restaurant": 0, "total_restaurants": 0, "processed_restaurants": [], "completed_pages": []}}' > talabat-scraper-progress-latest
           fi
           ls -la output/
-      
+
       - name: Run the scraper
         env:
           TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
         run: python main.py
-      
+
       - name: Save Progress State
         uses: actions/cache/save@v4
         if: always()
         with:
           path: talabat-scraper-progress-latest
           key: talabat-scraper-progress-${{ github.run_id }} # Use unique key for each run
-      
+
       - name: Upload Progress as Artifact
         uses: actions/upload-artifact@v4
         if: always()
@@ -93,12 +90,13 @@ jobs:
           name: talabat-progress-data
           path: talabat-scraper-progress-latest
           retention-days: 7
-      
+
       - name: Cleanup
         if: always()
         run: |
           rm -rf node_modules
           rm -rf ~/.cache/ms-playwright
+
           
           
 # name: Talabat Scraper Workflow
