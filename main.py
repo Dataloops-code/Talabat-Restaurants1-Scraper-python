@@ -147,8 +147,24 @@ class MainScraper:
         except Exception as e:
             print(f"Error reading progress file: {str(e)}")
         
+    # def save_progress(self):
+    #     """Save current progress to JSON file with timestamp"""    
+    #     try:
+    #         import datetime
+    #         self.progress["last_updated"] = datetime.datetime.now().isoformat()
+            
+    #         with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
+    #             json.dump(self.progress, temp_file, indent=2, ensure_ascii=False)
+    #             temp_file.flush()
+    #             os.fsync(temp_file.fileno())
+    #             temp_filename = temp_file.name
+            
+    #         os.replace(temp_filename, self.progress_file)
+    #         print(f"Saved progress to {self.progress_file}")
+    #     except Exception as e:
+    #         print(f"Error saving progress file: {str(e)}")
+    
     def save_progress(self):
-        """Save current progress to JSON file with timestamp"""    
         try:
             import datetime
             self.progress["last_updated"] = datetime.datetime.now().isoformat()
