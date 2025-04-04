@@ -47,8 +47,8 @@ jobs:
           npm cache clear --force
           npm install
       
-      - name: Set File Permissions
-        run: chmod 777 talabat-scraper-progress-latest
+      # - name: Set File Permissions
+      #   run: chmod 777 talabat-scraper-progress-latest
       
       - name: Download Progress Data
         uses: actions/cache/restore@v4
