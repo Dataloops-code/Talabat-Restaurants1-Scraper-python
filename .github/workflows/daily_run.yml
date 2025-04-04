@@ -96,7 +96,6 @@ jobs:
         run: |
           rm -rf node_modules
           rm -rf ~/.cache/ms-playwright
-
           
           
 # name: Talabat Scraper Workflow
