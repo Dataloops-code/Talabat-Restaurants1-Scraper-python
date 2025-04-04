@@ -163,7 +163,7 @@ class MainScraper:
     #         print(f"Saved progress to {self.progress_file}")
     #     except Exception as e:
     #         print(f"Error saving progress file: {str(e)}")
-        
+
     def save_progress(self):
         try:
             import datetime
