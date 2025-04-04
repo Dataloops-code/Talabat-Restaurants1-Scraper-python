@@ -145,7 +145,7 @@ class MainScraper:
         except Exception as e:
             print(f"Error reading progress file: {str(e)}")
     
-     def save_progress(self):
+    def save_progress(self):
         """Save current progress to JSON file with timestamp"""
         try:
             # Update timestamp
