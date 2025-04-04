@@ -52,8 +52,7 @@ jobs:
         id: cache-restore
         with:
           path: talabat-scraper-progress-latest
-          key: talabat-scraper-progress-latest
-          restore-keys: talabat-scraper-progress-
+          key: talabat-scraper-progress-${{ github.run_id }} # Use unique key for each run
       
       - name: Create Output Directory
         run: |
@@ -82,7 +81,7 @@ jobs:
         if: always()
         with:
           path: talabat-scraper-progress-latest
-          key: talabat-scraper-progress-latest
+          key: talabat-scraper-progress-${{ github.run_id }} # Use unique key for each run
       
       - name: Upload Progress as Artifact
         uses: actions/upload-artifact@v4
@@ -97,7 +96,7 @@ jobs:
         run: |
           rm -rf node_modules
           rm -rf ~/.cache/ms-playwright
-
+          
           
 # name: Talabat Scraper Workflow
 # on:
