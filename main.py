@@ -168,13 +168,13 @@ class MainScraper:
         try:
             import datetime
             self.progress["last_updated"] = datetime.datetime.now().isoformat()
-            
+
             with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
                 json.dump(self.progress, temp_file, indent=2, ensure_ascii=False)
                 temp_file.flush()
                 os.fsync(temp_file.fileno())
                 temp_filename = temp_file.name
-            
+
             os.replace(temp_filename, self.progress_file)
             print(f"Saved progress to {self.progress_file}")
         except Exception as e:
