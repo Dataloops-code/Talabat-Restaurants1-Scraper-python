@@ -47,6 +47,9 @@ jobs:
           npm cache clear --force
           npm install
       
+      - name: Set File Permissions
+        run: chmod 777 talabat-scraper-progress-latest
+      
       - name: Download Progress Data
         uses: actions/cache/restore@v4
         id: cache-restore
@@ -67,7 +70,7 @@ jobs:
             cat talabat-scraper-progress-latest
           else
             echo "No talabat-scraper-progress-latest found - starting fresh"
-            echo "{\"completed_areas\": [], \"current_area_index\": 0, \"last_updated\": null, \"all_results\": {}, \"current_progress\": {\"area_name\": null, \"current_page\": 0, \"total_pages\": 0, \"current_restaurant\": 0, \"total_restaurants\": 0, \"processed_restaurants\": [], \"completed_pages\": []}}" > talabat-scraper-progress-latest
+            echo '{"completed_areas": [], "current_area_index": 0, "last_updated": null, "all_results": {}, "current_progress": {"area_name": null, "current_page": 0, "total_pages": 0, "current_restaurant": 0, "total_restaurants": 0, "processed_restaurants": [], "completed_pages": []}}' > talabat-scraper-progress-latest
           fi
           ls -la output/
       
