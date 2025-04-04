@@ -1,6 +1,8 @@
 import asyncio
 import json
 import os
+import json
+import tempfile
 import sys
 import subprocess
 import re  # Ensure re is imported for regex operations
@@ -19,7 +21,7 @@ class MainScraper:
         self.talabat_scraper = TalabatScraper()
         self.output_dir = "output"
         self.drive_uploader = SavingOnDrive('credentials.json')
-        self.progress_file = "progress.json"
+        self.progress_file = "talabat-scraper-progress-latest"
         
         # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
@@ -144,16 +146,20 @@ class MainScraper:
                         print(json.dumps(restaurant, indent=2, ensure_ascii=False))
         except Exception as e:
             print(f"Error reading progress file: {str(e)}")
-    
+        
     def save_progress(self):
-        """Save current progress to JSON file with timestamp"""
+        """Save current progress to JSON file with timestamp"""    
         try:
-            # Update timestamp
             import datetime
             self.progress["last_updated"] = datetime.datetime.now().isoformat()
             
-            with open(self.progress_file, 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
+            with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
+                json.dump(self.progress, temp_file, indent=2, ensure_ascii=False)
+                temp_file.flush()
+                os.fsync(temp_file.fileno())
+                temp_filename = temp_file.name
+            
+            os.replace(temp_filename, self.progress_file)
             print(f"Saved progress to {self.progress_file}")
         except Exception as e:
             print(f"Error saving progress file: {str(e)}")
