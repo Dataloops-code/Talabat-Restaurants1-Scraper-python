@@ -17,6 +17,7 @@ from SavingOnDrive import SavingOnDrive
 
 
 class MainScraper:
+    progress_file = "talabat-scraper-progress-latest"
     def __init__(self):
         self.talabat_scraper = TalabatScraper()
         self.output_dir = "output"
@@ -45,92 +46,92 @@ class MainScraper:
             print(f"STDERR: {e.stderr.decode() if e.stderr else 'None'}")
             print("Will continue and let TalabatScraper try to handle browser fallbacks")
     
-    def load_progress(self) -> Dict:
-        """Load progress from JSON file if it exists with comprehensive error checking"""
-        if os.path.exists(self.progress_file):
-            try:
-                with open(self.progress_file, 'r', encoding='utf-8') as f:
-                    progress = json.load(f)
-                print(f"Loaded progress from {self.progress_file}")
+    # def load_progress(self) -> Dict:
+    #     """Load progress from JSON file if it exists with comprehensive error checking"""
+    #     if os.path.exists(self.progress_file):
+    #         try:
+    #             with open(self.progress_file, 'r', encoding='utf-8') as f:
+    #                 progress = json.load(f)
+    #             print(f"Loaded progress from {self.progress_file}")
                 
-                # Log current progress state
-                print(f"Current area index: {progress.get('current_area_index', 0)}")
-                print(f"Completed areas: {len(progress.get('completed_areas', []))}")
+    #             # Log current progress state
+    #             print(f"Current area index: {progress.get('current_area_index', 0)}")
+    #             print(f"Completed areas: {len(progress.get('completed_areas', []))}")
                 
-                # Log more detailed progress
-                if 'current_progress' in progress:
-                    curr = progress['current_progress']
-                    print(f"Current status: Area {curr.get('area_name', 'None')} - "
-                          f"Page {curr.get('current_page', 0)}/{curr.get('total_pages', 0)} - "
-                          f"Restaurant {curr.get('current_restaurant', 0)}/{curr.get('total_restaurants', 0)}")
+    #             # Log more detailed progress
+    #             if 'current_progress' in progress:
+    #                 curr = progress['current_progress']
+    #                 print(f"Current status: Area {curr.get('area_name', 'None')} - "
+    #                       f"Page {curr.get('current_page', 0)}/{curr.get('total_pages', 0)} - "
+    #                       f"Restaurant {curr.get('current_restaurant', 0)}/{curr.get('total_restaurants', 0)}")
                 
-                # Ensure all required keys exist with proper default values
-                if 'completed_areas' not in progress:
-                    progress['completed_areas'] = []
-                if 'current_area_index' not in progress:
-                    progress['current_area_index'] = 0
-                if 'all_results' not in progress:
-                    progress['all_results'] = {}
-                if 'last_updated' not in progress:
-                    progress['last_updated'] = None
+    #             # Ensure all required keys exist with proper default values
+    #             if 'completed_areas' not in progress:
+    #                 progress['completed_areas'] = []
+    #             if 'current_area_index' not in progress:
+    #                 progress['current_area_index'] = 0
+    #             if 'all_results' not in progress:
+    #                 progress['all_results'] = {}
+    #             if 'last_updated' not in progress:
+    #                 progress['last_updated'] = None
                 
-                # Ensure current_progress structure is complete
-                if 'current_progress' not in progress:
-                    progress['current_progress'] = {
-                        'area_name': None,
-                        'current_page': 0, 
-                        'total_pages': 0,
-                        'current_restaurant': 0,
-                        'total_restaurants': 0,
-                        'processed_restaurants': [],
-                        'completed_pages': []
-                    }
-                else:
-                    # Ensure all keys exist in current_progress
-                    curr_progress = progress['current_progress']
-                    if 'area_name' not in curr_progress:
-                        curr_progress['area_name'] = None
-                    if 'current_page' not in curr_progress:
-                        curr_progress['current_page'] = 0
-                    if 'total_pages' not in curr_progress:
-                        curr_progress['total_pages'] = 0
-                    if 'current_restaurant' not in curr_progress:
-                        curr_progress['current_restaurant'] = 0
-                    if 'total_restaurants' not in curr_progress:
-                        curr_progress['total_restaurants'] = 0
-                    if 'processed_restaurants' not in curr_progress:
-                        curr_progress['processed_restaurants'] = []
-                    if 'completed_pages' not in curr_progress:
-                        curr_progress['completed_pages'] = []
+    #             # Ensure current_progress structure is complete
+    #             if 'current_progress' not in progress:
+    #                 progress['current_progress'] = {
+    #                     'area_name': None,
+    #                     'current_page': 0, 
+    #                     'total_pages': 0,
+    #                     'current_restaurant': 0,
+    #                     'total_restaurants': 0,
+    #                     'processed_restaurants': [],
+    #                     'completed_pages': []
+    #                 }
+    #             else:
+    #                 # Ensure all keys exist in current_progress
+    #                 curr_progress = progress['current_progress']
+    #                 if 'area_name' not in curr_progress:
+    #                     curr_progress['area_name'] = None
+    #                 if 'current_page' not in curr_progress:
+    #                     curr_progress['current_page'] = 0
+    #                 if 'total_pages' not in curr_progress:
+    #                     curr_progress['total_pages'] = 0
+    #                 if 'current_restaurant' not in curr_progress:
+    #                     curr_progress['current_restaurant'] = 0
+    #                 if 'total_restaurants' not in curr_progress:
+    #                     curr_progress['total_restaurants'] = 0
+    #                 if 'processed_restaurants' not in curr_progress:
+    #                     curr_progress['processed_restaurants'] = []
+    #                 if 'completed_pages' not in curr_progress:
+    #                     curr_progress['completed_pages'] = []
                 
-                return progress
-            except Exception as e:
-                print(f"Error loading progress file: {str(e)}")
-                print("Creating new progress file...")
+    #             return progress
+    #         except Exception as e:
+    #             print(f"Error loading progress file: {str(e)}")
+    #             print("Creating new progress file...")
         
-        # Return default empty progress
-        default_progress = {
-            "completed_areas": [],
-            "current_area_index": 0,
-            "last_updated": None,
-            "all_results": {},
-            "current_progress": {
-                "area_name": None,
-                "current_page": 0,
-                "total_pages": 0,
-                "current_restaurant": 0,
-                "total_restaurants": 0,
-                "processed_restaurants": [],
-                "completed_pages": []
-            }
-        }
+    #     # Return default empty progress
+    #     default_progress = {
+    #         "completed_areas": [],
+    #         "current_area_index": 0,
+    #         "last_updated": None,
+    #         "all_results": {},
+    #         "current_progress": {
+    #             "area_name": None,
+    #             "current_page": 0,
+    #             "total_pages": 0,
+    #             "current_restaurant": 0,
+    #             "total_restaurants": 0,
+    #             "processed_restaurants": [],
+    #             "completed_pages": []
+    #         }
+    #     }
         
-        # Save the default progress to ensure the file exists
-        with open(self.progress_file, 'w', encoding='utf-8') as f:
-            json.dump(default_progress, f, indent=2, ensure_ascii=False)
+    #     # Save the default progress to ensure the file exists
+    #     with open(self.progress_file, 'w', encoding='utf-8') as f:
+    #         json.dump(default_progress, f, indent=2, ensure_ascii=False)
         
-        print("Created new default progress file")
-        return default_progress
+    #     print("Created new default progress file")
+    #     return default_progress
 
     def print_progress_details(self):
         """Print the details of progress including all results and each restaurant scraped"""
@@ -164,17 +165,35 @@ class MainScraper:
     #     except Exception as e:
     #         print(f"Error saving progress file: {str(e)}")
 
+    def load_progress(self):
+        if os.path.exists(self.progress_file):
+            with open(self.progress_file, 'r') as f:
+                return json.load(f)
+        else:
+            return {
+                "completed_areas": [],
+                "current_area_index": 0,
+                "last_updated": None,
+                "all_results": {},
+                "current_progress": {
+                    "area_name": None,
+                    "current_page": 0,
+                    "total_pages": 0,
+                    "current_restaurant": 0,
+                    "total_restaurants": 0,
+                    "processed_restaurants": [],
+                    "completed_pages": []
+                }
+            }
+    
     def save_progress(self):
         try:
-            import datetime
-            self.progress["last_updated"] = datetime.datetime.now().isoformat()
-
+            self.progress["last_updated"] = datetime.now().isoformat()
             with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
                 json.dump(self.progress, temp_file, indent=2, ensure_ascii=False)
                 temp_file.flush()
                 os.fsync(temp_file.fileno())
                 temp_filename = temp_file.name
-
             os.replace(temp_filename, self.progress_file)
             print(f"Saved progress to {self.progress_file}")
         except Exception as e:
