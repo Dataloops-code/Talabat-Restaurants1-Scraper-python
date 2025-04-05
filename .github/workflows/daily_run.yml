@@ -52,7 +52,7 @@ jobs:
         id: cache-restore
         with:
           path: talabat-scraper-progress-latest
-          key: talabat-scraper-progress-${{ github.run_id }} # Use unique key for each run
+          key: talabat-scraper-progress
 
       - name: Create Output Directory
         run: |
@@ -81,7 +81,7 @@ jobs:
         if: always()
         with:
           path: talabat-scraper-progress-latest
-          key: talabat-scraper-progress-${{ github.run_id }} # Use unique key for each run
+          key: talabat-scraper-progress
 
       - name: Upload Progress as Artifact
         uses: actions/upload-artifact@v4
