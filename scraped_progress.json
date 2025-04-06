@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:57:33.418634",
+  "last_updated": "2025-04-06T12:03:59.158469",
   "all_results": {
     "الظهر": [
       {
@@ -45434,6 +45434,2584 @@
             }
           ]
         }
+      },
+      {
+        "name": "Al Anode",
+        "cuisine": "Kuwaiti, Breakfast, Grills",
+        "url": "https://www.talabat.com/kuwait/restaurant/621443/al-anode-ardiya-small-industrial?aid=59",
+        "rating": "Amazing",
+        "page": 2,
+        "delivery_time": "Within 45 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Almarai Yogurt",
+              "description": "Almarai yogurt 170 gram.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Lentil Soup",
+              "description": "Lentil soup with special flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Al Anode Laban",
+              "description": "Laban prepared with Al Anode way",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Al Anode Laban",
+                "price_details": {
+                  "SIze Laban (Choose 1)": [
+                    "330 Ml (0.500)",
+                    "1 Liter (1.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Um Ali",
+              "description": "Umm Ali bread with nuts and milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Um Ali",
+                "price_details": {
+                  "Umm Ali (Choose 1)": [
+                    "Small (1.250)",
+                    "Large (2.250)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mahashi Mixed",
+              "description": "It consists of 12 mixed pieces zucchini, pepper, vine leaves and cabbage",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Green Salad",
+              "description": "Lettuce, cucumber, tomato, parsley, mint, olive oil, vinegar and lemon juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chicken And Duck": [
+            {
+              "index": 6,
+              "name": "Chicken Majboos Anode",
+              "description": "Kuwaiti dish made of basmati rice cooked on the way Anoud with cardamom and saffron. Served with yogurt with your choice of sauce and Broth",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Chicken Majboos",
+              "description": "Kuwaiti dish made of basmati rice cooked with marinated kuwaiti chicken stew, cardamom and saffron. Served with anode and special marinated chicken.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Chicken Biryani",
+              "description": "Basmati rice, indian spices, biryani stew, majboos, achari and biryani sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Chicken Wild Kabsa",
+              "description": "Served with broth and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Chicken Makloba",
+              "description": "Basmati bread with chicken pieces, vegetables and special Soad mixture.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Mix Green Vegetables Biryani",
+              "description": "Served with broth and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Chicken Machwee Geder",
+              "description": "Half a chicken. served with basmati rice, warm Lebanese bread, long peppers and crunchy onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Half Fried Chicken",
+              "description": "Half Fried Chicken served with bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Whole Chicken Majboos 500 Grams",
+              "description": "Premium basmati rice with al Muttahida whole chicken 500 gm, stuffing, and traditional spices on Anode way with broth, green maabouj, and agar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Majboos Duck",
+              "description": "Whole duck, serves 3 to 4 persons, with your choice of maraq.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Pigeon Majboos",
+              "description": "Basmati rice and 2 stuffed pigeons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "1 Stuffed Pigeon With Rice",
+              "description": "1 fresh large size pigeon stuffed with rice, served with majboos rice and broth.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Meat": [
+            {
+              "index": 18,
+              "name": "Shank Majboos",
+              "description": "Kuwaiti dish made of basmati rice cooked with marinated lamb stew, cardamom, and saffron. Served with stuffed shank marinated with our special style.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Meat Grilled Geder",
+              "description": "Fresh meat pieces, served with rice, warm bread, long chilli and crispy onion.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Meat Majboos",
+              "description": "Kuwaiti dish made of basmati rice cooked with marinated meat stew, cardamom, and saffron. Served with stuffed meat marinated with our special style.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Meat Makloba",
+              "description": "Basmati rice with meat pieces, vegetables and special al anode mixture.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Meat Biryani",
+              "description": "Basmati rice, fresh stuffed meat and traditional spices prepared in the old kuwaiti style.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Meat Wild Kabsa",
+              "description": "Served with broth and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Extra Meat Without Rice",
+              "description": "Extra Meat Without Rice From 150 to 200 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Grills On Charcoal": [
+            {
+              "index": 25,
+              "name": "Meat Kebab",
+              "description": "Fresh marinated minced lamb meat, onion and parsley served with grilled vegetables and fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Kebab Khashkhash",
+              "description": "Grilled tomato, 3 grilled kebab skewers and pickles.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Meat Tikka",
+              "description": "Fresh meat cubes marinated with coriander and garlic. Served with grilled vegetables and rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Shish Tawook",
+              "description": "Fresh chicken cubes marinated with coriander and garlic. Served with grilled vegetables and rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Half Grilled Chicken On Charcoa",
+              "description": "Half grilled chicken. Served with oarz bread, and pickles",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Arayes",
+              "description": "Stuffed pita bread with minced meat. Served with fresh vegetables and french fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Arayes",
+                "price_details": {
+                  "Arays (Choose 1)": [
+                    "Cheese Arays (2.000)",
+                    "Meat Arays (1.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Al Anood Kabab",
+              "description": "3 skewers, beef kabab, spicy kabab and cheese kabab",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Mix Grill 1 Person",
+              "description": "Consists of 1 shish tawook skewer, 1 tikka skewer and 2 kebab skewer",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Mix Grill For 3 Persons",
+              "description": "A grilled meal consisting of 3 kebab skewers, 6 pieces shish tawook, 6 pieces meat tikka, 1 Arayes, , 1 rice plate, 1 broth, 1 hummus, 1 muttabal, and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Mix Grill Meal For 4 Persons",
+              "description": "A grilled meal consisting of 4 kebab skewers, 8 pieces shish tawook, 8 pieces meat tikka, 2 arrays, 1/2 grilled chicken, 1 rice plates, 2 broths, 1 French fries, 1 salad, 1 hummus, 1 mutable and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Mix Grill Meal For 5 Persons",
+              "description": "Grilled meal consists of 5 kebab skewers, 10 shish tawook pieces, 10 meat tikka pieces, 2 arays bread, 1/2 grilled chicken, 1 rice plate, 2 stews, 1 french fries, 1 salad, 1 hummus, muttabal, bread and 5 drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Mix Grill Meal For 6 Persons",
+              "description": "6 skewers halabi kebab, 16 pieces shish tawook, 16 pieces meat tikka, 3 bakes of meat arayes, 1/2 chicken on charcoal, 1 rice bowl, 3 broth, 1 potato plate, 2 salad plates, 2 plates of hummus, 2 bowls of plates and 6 drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Mix Grill Meal for 10 Pax",
+              "description": "Grilled meal consists of 10 kebab skewers, 16 shish tawook pieces, 16 meat tikka pieces, 4 arays bread, 1 grilled chicken, 2 rice dishes, 5 stews, 2 French fries, 2 salads, 2 hummus, 2 muttabal, bread and 10 drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "26.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Meals": [
+            {
+              "index": 38,
+              "name": "Grill Meal",
+              "description": "Grilled meal consisting of 2 skewer kebab, 6 pieces of shish tawook, 1 arayes, 1 hummus, 1 soft drink, and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Arayes Meal",
+              "description": "2 meat arayes bread, 1 Pepsi and 1 hummus.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Seafood": [
+            {
+              "index": 40,
+              "name": "Mutabbaq Supreme",
+              "description": "Basmati rice, supreme fish from 400 to 600 grams with daqoos, red maboj, green maboj and achar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Mutabbaq  Supreme With Shrimp",
+              "description": "Basmati rice, supreme fish from 400 to 600 grams, served with shrimp, daqoos, red maboj, green maboj and agar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Soft Shrimp Memoosh",
+              "description": "Shrimp, red daqoos cooked in a tangy majboos and tamarind sauce. Served with rice, lemon and mint leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Soft Shrimp Memoosh Anode",
+              "description": "Extra shrimp, red daqoos cooked in a tangy majboos and tamarind sauce. Served with rice, lemon and mint leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Murabian",
+              "description": "Basmati rice, shrimp, daqoos, majboos and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Murabian Anode",
+              "description": "Basmati rice, extra shrimp, daqoos, majboos and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Shrimp Biryani",
+              "description": "Basmati rice, biryani indian spices, nuts, majboos and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Shrimp Biryani Anode",
+              "description": "Basmati rice, biryani indian spices, nuts, biryani stew, majboos and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Zubaidi Mutabbaq",
+              "description": "Basmati rice, zubaidi fish, majboos and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Zubaidi Mutabbaq Anode",
+              "description": "Basmati rice, zubaidi fish, shrimp, nuts, maabouj and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Mutabbaq Hammour",
+              "description": "Basmati rice, fish fillet piece, daqoos, majboos and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Hammour Mutabbaq Anode",
+              "description": "Basmati rice, fish filet piece, shrimp, daqoos, majboos and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Sea Bass Mutabbaq",
+              "description": "Basmati rice, Indian spices, sea bass fish from 400 to 600 grams, daqoos, and maabouj.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Sea Bass Mutabbaq anode",
+              "description": "Basmati rice, Indian spices, sea bass fish 400 to 600 grams, 10 pieces of shrimp and daqoos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Hamour Grilled Geder",
+              "description": "Fresh hamour pieces, served with rice, warm bread, long chili and crispy onion",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Extra Shrimp Without Rice",
+              "description": "Extra shrimp without rice 12 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Soft Shrimp Memoosh Soad",
+              "description": "Extra shrimp, red daqoos cooked in a tangy majbooj and tamarind sauce. Served with rice, lemon.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Murabian Soad",
+              "description": "Basmati rice, extra shrimp, daqoos, mabooj and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Shrimp Biryani Soad",
+              "description": "Basmati rice, biryani indian spices, biryani stew, majbooj and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Mutabbaq Hammour Soad",
+              "description": "Basmati rice, fish filet piece, shrimp, daqoos, mabooj and achari.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Hammour Without Ricr",
+              "description": "Hammour Without Ricr",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Zubaidi Without Rice",
+              "description": "Zubaidi Without Rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Trays": [
+            {
+              "index": 62,
+              "name": "Chicken Majboos Tray",
+              "description": "Kuwaiti dish made of basmati rice cooked with marinated kuwaiti chicken stew, cardamom and saffron served with special stuffed chicken marinated.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Majboos Tray",
+                "price_details": {
+                  "Majboos Chicken Tray (Choose 1)": [
+                    "2 Persons (5.750)",
+                    "3 Persons (9.750)",
+                    "4 Persons (12.500)",
+                    "5 Persons (15.500)",
+                    "6 Persons (18.000)"
+                  ],
+                  "Stew (Choose min-of 1 & max-of 6)": [
+                    "Daqoos",
+                    "Potato Stew",
+                    "Okra Stew"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 63,
+              "name": "Meat Majboos Tray",
+              "description": "Kuwaiti dish made of basmati rice cooked with marinated lamb stew, cardamom and saffron. Served with special stuffed lamb meat marinated with Al Anode style.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Meat Majboos Tray",
+                "price_details": {
+                  "Meat Majboos Tray (Choose 1)": [
+                    "2 Persons (10.300)",
+                    "3 Persons (15.750)",
+                    "4 Persons (20.500)",
+                    "5 Persons (25.250)",
+                    "6 Persons (30.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 64,
+              "name": "Meat Biryani Tray",
+              "description": "Basmati rice, cooked meat, biryani sauce, original indian spices, biryani broth, maabouj and agar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Meat Biryani Tray",
+                "price_details": {
+                  "Meat Biryani Tray (Choose 1)": [
+                    "2 Persons (10.000)",
+                    "3 Persons (16.500)",
+                    "4 Persons (21.500)",
+                    "5 Persons (26.500)",
+                    "6 Persons (31.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 65,
+              "name": "Chicken Biryani Tray",
+              "description": "Basmati rice with chicken pieces with biryani sauce, original Indian spices with biryani gravy with red maabouj, green maabouj and char.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Biryani Tray",
+                "price_details": {
+                  "Chicken Biryani Tray (Choose 1)": [
+                    "2 Persons (6.300)",
+                    "3 Persons (10.500)",
+                    "4 Persons (13.500)",
+                    "5 Persons (16.500)",
+                    "6 Persons (19.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 66,
+              "name": "Chicken Makloba Tray",
+              "description": "Fresh chicken with seasonal vegetables served with broth, red maboj, green maboj and agar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Makloba Tray",
+                "price_details": {
+                  "Chicken Makloba Tray (Choose 1)": [
+                    "2 Persons (7.000)",
+                    "3 Persons (12.000)",
+                    "4 Persons (15.500)",
+                    "5 Persons (19.000)",
+                    "6 Persons (22.500)"
+                  ],
+                  "Stew (Choose min-of 1 & max-of 6)": [
+                    "Daqoos",
+                    "Potato Stew",
+                    "Okra Stew"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 67,
+              "name": "Maqlouba Meat Tray",
+              "description": "Maqlouba lamb meat with seasonal vegetables, served with broth, red maboj, green maboj.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Maqlouba Meat Tray",
+                "price_details": {
+                  "Stew (Choose 1)": [
+                    "Daqoos",
+                    "Potato Stew",
+                    "Okra Stew"
+                  ],
+                  "Maqlouba Meat Tray (Choose 1)": [
+                    "2 Persons (12.000)",
+                    "3 Persons (18.000)",
+                    "4 Persons (24.000)",
+                    "5 Persons (30.000)",
+                    "6 Persons (36.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 68,
+              "name": "Whole Chicken Majboos 500 Grams Tray",
+              "description": "Premium basmati rice with a Mutaheda whole chicken, stuffing and traditional spices, garnished with nuts on Al Anode way with broth, green maabooch and agar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Whole Chicken Majboos 500 Grams Tray",
+                "price_details": {
+                  "Chicken Majboos whole Tray (Choose 1)": [
+                    "2 Persons (7.000)",
+                    "3 Persons (12.000)",
+                    "4 Persons (15.500)",
+                    "5 Persons (19.000)",
+                    "6 Persons (22.500)"
+                  ],
+                  "Stew (Choose min-of 1 & max-of 6)": [
+                    "Daqoos",
+                    "Potato Stew",
+                    "Okra Stew"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 69,
+              "name": "Pigeon Tray Stuffed With Rice",
+              "description": "Premium basmati rice with kuwaiti pigeon cooked with traditional spices stuffed in the old kuwaiti way served in Al Anode style served with broth.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pigeon Tray Stuffed With Rice",
+                "price_details": {
+                  "Pigeon Tray Stuffed With Rice (Choose 1)": [
+                    "2 Persons (12.500)",
+                    "3 Persons (20.250)",
+                    "4 Persons (26.500)",
+                    "5 Persons (33.750)",
+                    "6 Persons (40.500)"
+                  ],
+                  "Stew (Choose min-of 2 & max-of 6)": [
+                    "Daqoos",
+                    "Potato Stew",
+                    "Okra Stew"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 70,
+              "name": "Zubaidi Mutabbaq Tray",
+              "description": "Premium basmati rice with zubaidi fish and fillings served on the Anoud style with Maaboj and Ashar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Zubaidi Mutabbaq Tray",
+                "price_details": {
+                  "Zubaidi Mutabbaq Tray (Choose 1)": [
+                    "2 Persons (12.500)",
+                    "3 Persons (20.000)",
+                    "4 Persons (26.500)",
+                    "5 Persons (32.500)",
+                    "6 Persons (39.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 71,
+              "name": "Zubaidi Mutabbaq Tray Al Anode",
+              "description": "Premium basmati rice with zubaidi fish, shrimp and fillings served on the Anoud style with Maabouj and Ashar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Zubaidi Mutabbaq Tray Al Anode",
+                "price_details": {
+                  "Zubaidi Anode Mutabbaq Tray (Choose 1)": [
+                    "2 Persons (16.000)",
+                    "3 Persons (25.500)",
+                    "4 Persons (33.500)",
+                    "5 Persons (41.500)",
+                    "6 Persons (49.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 72,
+              "name": "Murabian Tray",
+              "description": "Basmati rice with a quantity of delicious shrimp, filling served on the way of al anode way with red daqoos, red mabooj, green mabooj and agar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Murabian Tray",
+                "price_details": {
+                  "Murabian Tray (Choose 1)": [
+                    "2 Persons (9.000)",
+                    "3 Persons (15.000)",
+                    "4 Persons (19.500)",
+                    "5 Persons (24.000)",
+                    "6 Persons (28.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 73,
+              "name": "Murabian Tray Al Anode",
+              "description": "The basmati rice with the delicious shrimp with red dukas, red marbach, green marbach and achar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Murabian Tray Al Anode",
+                "price_details": {
+                  "Murabian Anode Try (Choose 1)": [
+                    "2 Persons (13.000)",
+                    "3 Persons (21.000)",
+                    "4 Persons (27.500)",
+                    "5 Persons (34.000)",
+                    "6 Persons (40.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 74,
+              "name": "Mmowash Shrimp Tray",
+              "description": "Rice cooked with lentils on the traditional Kuwaiti way with shrimp, served on the Al Anoud style with maabouj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mmowash Shrimp Tray",
+                "price_details": {
+                  "Soft Shrimp Memoosh Tray (Choose 1)": [
+                    "2 Persons (9.000)",
+                    "3 Persons (15.000)",
+                    "4 Persons (19.500)",
+                    "5 Persons (24.000)",
+                    "6 Persons (28.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 75,
+              "name": "Mmowash Shrimp Anode Tray",
+              "description": "Rice cooked with lentils on the traditional kuwaiti way with an extra shrimp and fillings, served on the al anoud style with maabouj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mmowash Shrimp Anode Tray",
+                "price_details": {
+                  "Soft Shrimp Anode Memoosh Tray (Choose 1)": [
+                    "2 Persons (13.000)",
+                    "3 Persons (21.000)",
+                    "4 Persons (27.500)",
+                    "5 Persons (34.000)",
+                    "6 Persons (40.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 76,
+              "name": "Mutabbaq Hammour Tray",
+              "description": "Luxurious basmati rice with pieces of delicious Hammour fish and stuffing served on anoud way with types of Maabouj and agar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mutabbaq Hammour Tray",
+                "price_details": {
+                  "Mutabbaq Hammour Tray (Choose 1)": [
+                    "2 Persons (9.000)",
+                    "3 Persons (16.000)",
+                    "4 Persons (20.500)",
+                    "5 Persons (25.000)",
+                    "6 Persons (29.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 77,
+              "name": "Mutabbaq Hamour With Shrimp Tray",
+              "description": "Premium basmati rice with pieces of delicious hamour fish, delicious shrimp and stuffing, served on Al Anode way with types of maabouj and agar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mutabbaq Hamour With Shrimp Tray",
+                "price_details": {
+                  "Mutabbaq Hammour Anode Tray (Choose 1)": [
+                    "2 Persons (13.000)",
+                    "3 Persons (21.000)",
+                    "4 Persons (27.500)",
+                    "5 Persons (34.000)",
+                    "6 Persons (40.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 78,
+              "name": "Sea Bass Mutabbaq Tray",
+              "description": "Premium basmati rice with Sea Bass fish form 400 to 600 grams cooked with traditional spices stuffed in the old Kuwaiti way served in the way of Al Anode with your choice of your favorite soup, served with different types of pastries and ejar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sea Bass Mutabbaq Tray",
+                "price_details": {
+                  "Mutabbaq Sea Bass Tray (Choose 1)": [
+                    "2 Persons (9.800)",
+                    "3 Persons (15.700)",
+                    "4 Persons (20.600)",
+                    "5 Persons (25.500)",
+                    "6 Persons (30.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 79,
+              "name": "Sea Bass Mutabbaq Tray Anode",
+              "description": "Premium basmati rice with Sea Bass fish form 400 to 600 grams and shrimp, cooked with traditional spices stuffed in the old Kuwaiti way served in the way of Anode with your choice of your favorite soup, served with different types of pastries and ejar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sea Bass Mutabbaq Tray Anode",
+                "price_details": {
+                  "Mutabbaq Sea Bass Al Anoud Tray (Choose 1)": [
+                    "2 Persons (13.800)",
+                    "3 Persons (24.750)",
+                    "4 Persons (31.000)",
+                    "5 Persons (40.250)",
+                    "6 Persons (48.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 80,
+              "name": "A Quarter Of A Lamb Hand And Side",
+              "description": "Basmati rice with cardamom and saffron served with a quarter of a lamb and a side of spiced anodized, potato broth, vegetable broth, milk, and water, preparation time 2 hours, enough for 5 to 6 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "37.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Royal Sea Food Tray",
+              "description": "Sea food tray 1 zaubaidi and, 1 seabase fish, 1 hamour fish pieces and served with shrimp.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "24.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Mahashi": [
+            {
+              "index": 82,
+              "name": "Grape Leaves And Lahana",
+              "description": "Special dish of grape leaves and lahana stuffed with rice and vegetables, preparation time 2 hours",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grape Leaves And Lahana",
+                "price_details": {
+                  "SIze Mahashi (Choose 1)": [
+                    "100 Pcs (10.950)",
+                    "50 Pcs (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 83,
+              "name": "Stuffed Cabbage",
+              "description": "10 pieces stuffed cabbage",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Grape Leaves",
+              "description": "10 pieces grape leaves",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Mahashi Mixed",
+              "description": "It consists of 12 mixed pieces zucchini, pepper, vine leaves and cabbage",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Stew And Rice": [
+            {
+              "index": 86,
+              "name": "Potato Broth With Meat And White Rice",
+              "description": "Meat cooked with potato, Served with white rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Okra Stew With Meat And White Rice",
+              "description": "Meat cooked with okra. Served with white rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "White Rice with Chicken Potato Broth",
+              "description": "White rice with Al Anode flavor with broth cooked with premium spices and tomato sauce served with red maabouj, green maabouj and achar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Shrimp Marq With White Rice",
+              "description": "White basmati rice cooked way of Al Anode with Shrimp broth and Served with mabouj green and red and mango achar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Okra Stew With Meat And White Rice",
+              "description": "Meat cooked with okra. Served with white rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Authentic Kuwaiti Dishes": [
+            {
+              "index": 91,
+              "name": "Harees",
+              "description": "Harees grains with veal beef and sugar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Gresh",
+              "description": "Gresh grains with veal beef and onion.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "Balaleet",
+              "description": "Traditional kuwaiti dish made from sweetened vermicelli cooked with saffron, cardamom and nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Tashrib Lahm",
+              "description": "Roqak Bread with meat and vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Tasharib",
+              "description": "Roqak Bread with vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Chicken Tasharib",
+              "description": "Roqak Bread with chicken and vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Margoog",
+              "description": "Margoog",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Margoog",
+                "price_details": {
+                  "Margoog (Choose 1)": [
+                    "Margoog Meat (4.250)",
+                    "Margoog Chicken (3.000)",
+                    "Margoog Vegetables (2.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 98,
+              "name": "Qubut",
+              "description": "Traditional golden wheat flakes, with your choice of stuffing, spices, and fresh tomato sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Qubut",
+                "price_details": {
+                  "Qubut (Choose 1)": [
+                    "Meat Qubut (4.250)",
+                    "Chicken Qubut (3.000)",
+                    "Vegtables Qubut (2.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Appetizers": [
+            {
+              "index": 99,
+              "name": "Potato With Parsley And Butter",
+              "description": "Potato With Parsley And Butter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "Hummus",
+              "description": "Marinated mashed hummus, lemon and tahini. Served with hummus grains, red paprika and olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Muttabal With Eggplant",
+              "description": "Grilled mashed eggplant, tahini, olive oil and lemon juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "Potato Wedges",
+              "description": "Seasoned potato wedges",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "French Fries",
+              "description": "French Fries Served with Tomato Ketchup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Hash Browns",
+              "description": "4 PCS Hash Browns",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Spring Rolls",
+              "description": "10 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "Samosa",
+              "description": "10 Pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Samosa",
+                "price_details": {
+                  "Samosa (Choose 1)": [
+                    "Vegetables (1.500)",
+                    "Feta Cheese (1.500)",
+                    "Minced Meat (1.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 107,
+              "name": "Mix Kebbeh",
+              "description": "10 small pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "Mix Kebbeh - Large",
+              "description": "20 small pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "Garlic Sauce",
+              "description": "Breaded and fried chicken served with ketchup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Chicken Nuggets",
+              "description": "Breaded and fried chicken served with ketchup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pan Fried": [
+            {
+              "index": 111,
+              "name": "Chicken Liver Pan Fried",
+              "description": "Small fresh pieces of Chicken liver cooked with tomato, onion , green chili and served with bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Potato Pan Fried",
+              "description": "Potato, Eggplant, onion, Tomato, parsley and served with hot bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pasta": [
+            {
+              "index": 113,
+              "name": "Macaroni Bechamel",
+              "description": "Layers of macaroni, minced meat and béchamel.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Macaroni Bechamel",
+                "price_details": {
+                  "Macaroni Bachamel (Choose 1)": [
+                    "Vegetables (2.750)",
+                    "Chicken (3.000)",
+                    "Shrimp (4.000)",
+                    "Minced Meat (3.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 114,
+              "name": "Alfredo Penne Pasta With Chicken",
+              "description": "Penne pasta with chicken and alfredo sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Alfredo Penne Pasta With Shrimp",
+              "description": "Penne pasta with shrimp and alfredo sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 116,
+              "name": "Alfredo Penne Pasta With Mushroom",
+              "description": "Penne pasta with mushroom and alfredo sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 117,
+              "name": "Pink Penne Pasta",
+              "description": "Alfredo penne pasta with pink sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 118,
+              "name": "Saffron Penne Pasta",
+              "description": "Penne pasta, mushroom, chicken breasts, parmesan cheese, parsley and saffron sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 119,
+              "name": "Spaghetti Pasta With Minced Meat",
+              "description": "Spaghetti pasta, minced meat and tomato sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 120,
+              "name": "Spaghetti Pasta With Tomato Sauce",
+              "description": "Spaghetti Pasta With Tomato Sauce and spcial spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 121,
+              "name": "Spaghetti Pasta With White Sauce",
+              "description": "Spaghetti Pasta With White Sauce and special spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 122,
+              "name": "Vegetables Pasta",
+              "description": "Pasta with some vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 123,
+              "name": "Chicken Pasta",
+              "description": "Chicken Pasta cooked with special way",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 124,
+              "name": "Meat Pasta",
+              "description": "Meat Pasta cooked with al anode way",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kids Meal": [
+            {
+              "index": 125,
+              "name": "Chicken Machboos Kids Meals",
+              "description": "Half Small Al Mutahida Chicken 500 grams machboos rice with saffron for kids, daqoos yoghurt salad, toy from Al Anode and your choice of juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 126,
+              "name": "Murabian Kids Meal",
+              "description": "7 Pieces Shrimp with our mixture, daqoos, Cucumber salad, toy from Al Anode and your choice of juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 127,
+              "name": "Meat Machboos Kids Meal",
+              "description": "Boneless and free fat meat pieces, machboos rice with saffron and rose water in a suitable amount for children with daqoos, yoghurt and cucumber salad, a toy from Al Anode and juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Mumawash Shrimp Kids Meal",
+              "description": "7 Pieces Shrimp with our mixture, in a suitable amount for children with daqoos, yoghurt and cucumber salad, a toy from Al Anode and juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 129,
+              "name": "Fried Hamour Kids Meal",
+              "description": "Fried Hamour Hero Meal in a suitable amount for children with daqoos, yoghurt and cucumber salad, a toy from Al Anode and juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Breakfast": [
+            {
+              "index": 130,
+              "name": "Al Anode Breakfast",
+              "description": "Ten Dishes with ten items for 7 to 10 people, Hamsa halloumi, Hamsa mushroom, Hamsa Zahraa, Hamsa eggplant, Hamsa chicken liver, hummus, tomato eggs, cheese eggs, foul, eggplant muttabal served with white bread and mix vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 131,
+              "name": "Shaikha Breakfast",
+              "description": "5 dishes for 3 to 4 persons consist of eggs, cheese, foul, chicken liver, hash brown and hummus served with white bread and mixed vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 132,
+              "name": "Al Hajiya Breakfast",
+              "description": "5 dishes enough for 4 to 6 persons consist of halloumi hamsa, flower hamsa, mushroom hamsa, eggplant hamsa and tomato egg served with white bread and vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 133,
+              "name": "Oriental Breakfast",
+              "description": "Various dishes to choose according to your taste",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Oriental Breakfast",
+                "price_details": {
+                  "Oriental Breakfast (Choose min-of 1 & max-of 20)": [
+                    "Humus (1.500)",
+                    "Mixed Kibbeh Plate (1.500)",
+                    "Eggplant Mutabba (1.500)",
+                    "Sunny Side Up Egg (1.500)",
+                    "Hamsa Zahra (1.500)",
+                    "Tomato Eggs (1.500)",
+                    "Hamsa chicken liver (1.500)",
+                    "Hamsa Halloumi (1.500)",
+                    "Mixed Samosa Plate (1.500)",
+                    "Labneh With Zaatra (1.500)",
+                    "Eggs With Cheese (1.500)",
+                    "Foul (1.500)",
+                    "Hamsa mushroom (1.500)",
+                    "Hamsa eggplant (1.500)",
+                    "Tomato Cheese (1.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Soup": [
+            {
+              "index": 134,
+              "name": "Chicken Cream Soup",
+              "description": "Chicken corn soup with special flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 135,
+              "name": "Lentil Soup",
+              "description": "Lentil soup with special flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 136,
+              "name": "Mushroom Soup",
+              "description": "Fresh mushroom cooked with cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 137,
+              "name": "Shrimp Soup",
+              "description": "Shrimp cooked with cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salad": [
+            {
+              "index": 138,
+              "name": "Rocca Salad",
+              "description": "Fresh Rocca, white onion, and pomegranate molasses.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 139,
+              "name": "Beetroot Salad",
+              "description": "Betroot Salad with sweet corn and sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 140,
+              "name": "Tabbouleh",
+              "description": "Parsley, bulgur, tomato, olive oil and lemon sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 141,
+              "name": "Fattoush",
+              "description": "Lettuce, rocca, fresh tomato, sumac and roasted bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 142,
+              "name": "Green Salad",
+              "description": "Lettuce, cucumber, tomato, parsley, mint, olive oil, vinegar and lemon juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 143,
+              "name": "Almarai Yogurt",
+              "description": "Almarai yogurt 170 gram.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 144,
+              "name": "Small Yogurt With Cucumber",
+              "description": "Small Yogurt With Cucumber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 145,
+              "name": "Large Yogurt With Cucumber",
+              "description": "Large Yogurt With Cucumber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Rice": [
+            {
+              "index": 146,
+              "name": "Bukhari Rice",
+              "description": "Bukhari rice served with broth.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 147,
+              "name": "White Rice",
+              "description": "White rice with broth",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 148,
+              "name": "Majboos Rice",
+              "description": "Majboos rice with broth",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 149,
+              "name": "Biryani Rice",
+              "description": "Biryani rice with broth",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 150,
+              "name": "Mamush Rice",
+              "description": "Mamush rice with broth",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Stew": [
+            {
+              "index": 151,
+              "name": "Daqoos",
+              "description": "Daqoos broth with fresh tomato sauce and special spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 152,
+              "name": "Potato Stew",
+              "description": "Fresh cut potatoes cooked with a little tomato sauce and special spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 153,
+              "name": "Okra Stew",
+              "description": "Fresh Okra cooked with a little tomato sauce and special spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Extras": [
+            {
+              "index": 154,
+              "name": "Red Rooster Hot Sauce",
+              "description": "Red Rooster Hot Sauce 88 ML",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 155,
+              "name": "Tabasco Sauce",
+              "description": "Tabasco Sauce 60 ML",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 156,
+              "name": "Chili Sauce",
+              "description": "Chili Sauce 140 ML",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 157,
+              "name": "Green Mabooj",
+              "description": "Green pepper, garlic, olive oil and lemon",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 158,
+              "name": "Mango Agar",
+              "description": "Mango Agar with Indian Spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 159,
+              "name": "Hashoo Maboos",
+              "description": "Hashoo Maboos 200 Grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Fresh Juices": [
+            {
+              "index": 160,
+              "name": "Orange Juice",
+              "description": "Freshly squeezed orange juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Orange Juice",
+                "price_details": {
+                  "Size Juice (Choose 1)": [
+                    "Medium (1.250)",
+                    "Bottle 1 L (2.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Coffee": [
+            {
+              "index": 161,
+              "name": "Arabic Coffee Thermos With Saffron",
+              "description": "1 Liter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 162,
+              "name": "Karak Tea Thermos With Saffron",
+              "description": "Karak Tea Thermos with saffron 1 liter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sweets": [
+            {
+              "index": 163,
+              "name": "Um Ali",
+              "description": "Umm Ali bread with nuts and milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Um Ali",
+                "price_details": {
+                  "Umm Ali (Choose 1)": [
+                    "Small (1.250)",
+                    "Large (2.250)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 164,
+              "name": "Dates Asida",
+              "description": "Dates asida",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cold Drinks": [
+            {
+              "index": 165,
+              "name": "Kinza Cola",
+              "description": "Kinza cola Saudi made",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 166,
+              "name": "Kinza Diet",
+              "description": "Kinza Diet Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 167,
+              "name": "Kinza Orange",
+              "description": "Kinsa Orange Saudi Made",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 168,
+              "name": "Kinza Lemon",
+              "description": "Kinza lemon Suadi made",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 169,
+              "name": "Kinza Citrus",
+              "description": "Kinza Citrus",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 170,
+              "name": "Al Anode Laban",
+              "description": "Laban prepared with Al Anode way",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Al Anode Laban",
+                "price_details": {
+                  "SIze Laban (Choose 1)": [
+                    "330 Ml (0.500)",
+                    "1 Liter (1.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 171,
+              "name": "Mineral Water Small",
+              "description": "Quench your thirst with the crisp and refreshing taste of our premium Mineral Water Small, to deliver pure hydration in every sip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 172,
+              "name": "Vimto",
+              "description": "Vimto 330 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Al Khair Boxes": [
+            {
+              "index": 173,
+              "name": "Chicken Meal",
+              "description": "Chicken boxes each box contains 250 gm of chicken, rice, broth, water, and juice, and preparation time is 3 hours",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Meal",
+                "price_details": {
+                  "Box Number (Choose 1)": [
+                    "100 Boxes (100.000)",
+                    "75 Boxes (75.000)",
+                    "50 Boxes (50.000)",
+                    "25 Boxes (25.000)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Ardiya Small Industrial, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/anode",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "33422",
+          "Reviews_count": "38741",
+          "General_review": [
+            "Al Anode is a restaurant located in Kuwait, serving a selection of Kuwaiti, Breakfast, Grills that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Chicken Majboos, Mahashi Mixed, Fattoush and Um Ali, although they have a variety of dishes and meals to choose from like Kuwaiti, Breakfast, Grills.",
+            "They have been reviewed 33422 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "ALBATOUL D***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيييييييذ"
+            },
+            {
+              "reviewer_name": "بدور ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الكرك فيه سكر واجد ماقدرت اشربه"
+            },
+            {
+              "reviewer_name": "احمد معرفي ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍"
+            },
+            {
+              "reviewer_name": "Ahmed S***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍🥰"
+            },
+            {
+              "reviewer_name": "Hghg H***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🥰👌"
+            },
+            {
+              "reviewer_name": "Hudsa H***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️👍"
+            },
+            {
+              "reviewer_name": "نايف ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍❤️"
+            },
+            {
+              "reviewer_name": "Ahmed S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️👍"
+            },
+            {
+              "reviewer_name": "Hudsa H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️🥰"
+            },
+            {
+              "reviewer_name": "Hghg H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️"
+            },
+            {
+              "reviewer_name": "احمد معرفي ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "مجبوس البط ناطع"
+            },
+            {
+              "reviewer_name": "نايف ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️😍"
+            },
+            {
+              "reviewer_name": "Hghg H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🥰👍"
+            },
+            {
+              "reviewer_name": "Hudsa H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍🥰"
+            },
+            {
+              "reviewer_name": "عادل ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "اكل لذييييييييذ"
+            },
+            {
+              "reviewer_name": "Amer A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الدجاج سيئ جدا طعم رديئ ودون المستوى. والمحشي رديئ جدا آخر مره اطلب من المطعم ده جوده دون المستوى جد"
+            },
+            {
+              "reviewer_name": "Jamir R***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "Their staff is giving full efforts in ruining the good quality raw materials provided by Owner. Very Late"
+            },
+            {
+              "reviewer_name": "احمد معرفي ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "مجبوس الحمام طازج"
+            },
+            {
+              "reviewer_name": "Hudsa H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🥰👍"
+            },
+            {
+              "reviewer_name": "Ahmed S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️"
+            },
+            {
+              "reviewer_name": "Saud B***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سيئ جدًااا"
+            },
+            {
+              "reviewer_name": "Hudsa H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🥰"
+            },
+            {
+              "reviewer_name": "Fahad A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "اللحم عرد و مو مستوي اول مرة اكل لحم جذي !!"
+            },
+            {
+              "reviewer_name": "Simra N***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "it took forever worst service ever wventhough the food was pretty good but it took too long to come"
+            },
+            {
+              "reviewer_name": "Ahmed S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🥰"
+            },
+            {
+              "reviewer_name": "Hudsa H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️"
+            },
+            {
+              "reviewer_name": "Hghg H***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️👍"
+            },
+            {
+              "reviewer_name": "بو ي***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "جيد"
+            },
+            {
+              "reviewer_name": "Saad A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "للاسف التقييم مكتوب٥ نجوم والاكل مستواه سيء جدا بارد وكله دهن وزيت مافي طعم ومالح بزياده مخيب للظن اخذ اكثر من وقت الوصول المكتوب"
+            },
+            {
+              "reviewer_name": "Hghg H***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️"
+            },
+            {
+              "reviewer_name": "منيره ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "السلطه خايسه"
+            },
+            {
+              "reviewer_name": "Hudsa H***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️👍"
+            }
+          ]
+        }
       }
     ]
   },
@@ -45441,7 +48019,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -45477,7 +48055,8 @@
       "Diet Care, Al-Qurain Lulu",
       "Petit Four And More",
       "Health Stop",
-      "Kalha , Mahboula TGO"
+      "Kalha , Mahboula TGO",
+      "Al Anode"
     ],
     "completed_pages": [
       1

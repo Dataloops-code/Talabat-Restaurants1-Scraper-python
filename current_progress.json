@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:57:33.417282",
+  "last_updated": "2025-04-06T12:03:59.156827",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -43,7 +43,8 @@
       "Diet Care, Al-Qurain Lulu",
       "Petit Four And More",
       "Health Stop",
-      "Kalha , Mahboula TGO"
+      "Kalha , Mahboula TGO",
+      "Al Anode"
     ],
     "completed_pages": [
       1
