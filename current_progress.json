@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:08:08.244959",
+  "last_updated": "2025-04-06T18:10:25.588398",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 9,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -113,7 +113,8 @@
       "WK",
       "Al Qasser Sweet",
       "Ebn 3my",
-      "BURGER BOUTIQUE"
+      "BURGER BOUTIQUE",
+      "Joy Cafe"
     ],
     "completed_pages": [
       1,
