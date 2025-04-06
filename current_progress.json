@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:49:32.704788",
+  "last_updated": "2025-04-06T10:52:38.468803",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -26,7 +26,8 @@
       "Al Maida Al Yemeni",
       "Camellia",
       "Red Cream",
-      "Burger King"
+      "Burger King",
+      "DIET CARE Abu Halifa"
     ],
     "completed_pages": []
   }

@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:49:32.706767",
+  "last_updated": "2025-04-06T10:52:38.471282",
   "all_results": {
     "الظهر": [
       {
@@ -13653,6 +13653,3512 @@
             }
           ]
         }
+      },
+      {
+        "name": "DIET CARE Abu Halifa",
+        "cuisine": "Healthy, Sandwiches, Organic",
+        "url": "https://www.talabat.com/kuwait/restaurant/2255/diet-care-abu-halifa?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 29 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Chicken Biryani",
+              "description": "Chicken curry with saffron rice, cashew, fried onions and raisins - 350g, calories 410, protein 26g, carbs 62g, fat 6g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Beef Lasagna",
+              "description": "Beef Lasagna Pasta 280g. Kcal 390, Protein 26 gm, Carbs 39 gm, Fats 14 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Fresh Orange Juice",
+              "description": "100 Kcal, 225 ml.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Kushari",
+              "description": "Fragrant egyptian style rice with lentils and macaroni accompanied with tomato daqoos, 360 g, kcal 400, protein 10 gm, carbs 83 gm, fats 3 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Tandoori Chicken",
+              "description": "Indian spiced chicken grilled in clay oven served with saffron rice and dakkus - 340g, kcal 420, protein 35 gm, carbs 49 gm and fats 9 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Fish Kabsa",
+              "description": "White fish fillet and rice cooked with oriental spices served with tomatoes daqoos, 320g, kcal 400, protein 20 gm, carbs 53 gm, fats 13 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Exclusive Dessert": [
+            {
+              "index": 6,
+              "name": "Maamoul Mad Dates",
+              "description": "Maamoul filled with date paste, anise flavor and fennel powder. 200gm 80 calories, 1g protein, 12g carbohydrates, 3g fat per piece",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Maamoul Dates",
+              "description": "Semolina butter maamoul stuffed with date paste. 250g 70 calories, 1g protein, 10g carbs, 3g fat per piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Strawberry Sable",
+              "description": "Rich butter flavoured cookies with strawberry jam topped with powdered sugar 270g: 45 kcal, protein 1g, carbs 5g, fats 2.5g per piece",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Baqlava",
+              "description": "200g kcal 40g, protein 1g, carbs 5g and fat 2g per piece",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Macarons Coffee Nutella And Pistachio With Rose",
+              "description": "3 flavoured french style, chewy almond cookies, sandwiched with hazelnut, pistachio, rose fillings grams 160 to 170, coffee nutella 2 pieces, kcal each 150. pistachio 2 pieces, kcal each 140, rose 2 pieces and kcal each 110",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Strawberry Sable 500g",
+              "description": "Strawberry jam flavoured cookies. 500 grams, 45 pieces, per piece calories 50, protein 1 grams, carbs 5 grams and fats 2.5 gram",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Mamoul Mad Dates 500g",
+              "description": "Mamoul mad dates. 500 grams, per 100 grams kcal 380, protein 7 grams, carbs 58 grams and fats 15 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Maamoul Dates 500g",
+              "description": "Shortbread, Semolina Butter, Maamoul Filled with Dates Paste 500g, 60 Kcal, Protein 1g, Carbs 8g and Fats 2.5g Per Piece 16 to 20g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Baqlava 500g",
+              "description": "Collection of baqlava stuffed with nuts. 500 grams per piece,  kcal 40, protein 1grams, carbs 5grams and fats 2 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Rocky Road (Box)",
+              "description": "Traditional Rocky Road Dessert. 230 grams, Per 100 grams 360 Kcal, Protein 14 grams, Carbs 43 grams and Fats 17 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Trending": [
+            {
+              "index": 16,
+              "name": "Buff Bottle",
+              "description": "Water container 500ml capacity",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Dates & Nuts Porridge",
+              "description": "Oatmeal Porridge with Nuts and Dates 335g, Calories 250, Protein 9g, Carbohydrates 48g, Fat 6g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Turkey Croquette",
+              "description": "Turkey Bechamel Toastie. 145g. Kcal 240, protein 23 gm, carbs 22 gm, fats 7 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Nachos Taco Salad",
+              "description": "Mexican Style Salad. Iceberg, Corn, Cabbage, Jalapeno, Cheddar, Nacho Chips and Thousand Island Dressing.235g, Kcal 180g, Protein 6 gm, Carbs 24 gm, Fats 7 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Chello Lamb Kebab",
+              "description": "Charcoal grilled lamb kebab with saffron, onion, tomato, saffron biryani rice and yoghurt dip. 365g, kcal 420, protein 30 gm, carbs 52 gm, fats 10 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Soft Murabian",
+              "description": "Oriental Spiced Prawns and Rice served with chili Sauce and Dakkous - 345g, Kcal 420, Protein 28 gm, Carbs 66 gm, Fats 5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Chicken Strips - Frozen",
+              "description": "Breaded Chicken Tenders - grams 320, Per 40 grams: Kcal 80, Protein 7 gm, Carbs 7 gm, Fats 2.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Items": [
+            {
+              "index": 23,
+              "name": "Choco Protein Dark Chocolate",
+              "description": "Choco protein dark chocolate with cookie flavor protein filling 80g, kcal 517g, fats 29g, carbs 39g, protein 24g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.995",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Choco Protein White Chocolate",
+              "description": "Choco protein white chocolate with cookie flavour protein filling. 80g, kcal 464g, fats 29g, carbs 39g, protein 24g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.995",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Choco Protein Milk Chocolate",
+              "description": "Choco protein milk chocolate with cookie flavour protein filling 80g, kcal 469g, fats 28g, carbs 39 and protein 26.3g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.995",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Speculoos Cookies",
+              "description": "Speculoos cookies no added sugar 80g, 403 kcal/100g, protein 5.4g/100g, fiber 1.3g/100g, fats 17g/100g and carbs 65g/100g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Premium Milk Chocolate",
+              "description": "Milk chocolate no added sugar 50g. 124 calories per 25g serving, 1.7g to 25g protein, 0.5g to 25g fiber, 9.2g to 25g fat, 12.6g to 25g carbohydrates",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Premium Dark Chocolate",
+              "description": "Premium no added sugar dark chocolate 50g.  120 kcal/25g. Protein 1.3g/25g. fiber 2g/25g. fats 9g/25g. carbs 11.5g/25g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "High Protein Crispbread Traditional",
+              "description": "Traditional high protein crackers 75g. 409 calories per 100g, protein 37g to 75g, fiber 23.8g to 100g, fat 21.1g to 100g, carbohydrates 5.8g to 100g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "High Protein Crispbread Garlic Oregano",
+              "description": "High protein crispbread garlic oregano 75g.  414 Kcal/100g. Protein 38g/75g. Fiber 15g/100g. Fats 21g/100g. Carbs 11g/100g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "High Protein Grissini With Cinnamon Seeds",
+              "description": "High Protein Grissini with Cinnamon Seeds 60g. 405 Kcal/100g. Protein 45g/60g. Fiber 15g/100g. Fats 15g/100g. Carbs 15g/100g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Vanilla Sweetening Drops",
+              "description": "Vanilla Sweetening Drops 50ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.960",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Hazelnut Sweetening Drops",
+              "description": "50ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.960",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Salted Caramel Sweetening Drops",
+              "description": "Salted Caramel Sweetening Drops 50ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.960",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Original Sweetening Drops",
+              "description": "Original sugar substitute sweetener 50 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.960",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "BBQ Sauce",
+              "description": "Light bbq sauce - no added sugar, fat free. 5 kcal,  350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Garlic Sauce",
+              "description": "Light creamy garlic sauce  - no added sugar, low fat. 7 k cal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Salad Dressing",
+              "description": "Light salad dressing - low sugar, fat free. 5 k cal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Honey Mustard",
+              "description": "Lite honey mustard sauce - no added sugar. 12 kcal,  350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Teriyaki Sauce",
+              "description": "Teriyaki lite sauce - no added sugar, fat free. 6 kcal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Mayonnaise Sauce",
+              "description": "Light Mayonnaise Sauce - No Added Sugar. 11 KCal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Ketchup Sauce",
+              "description": "Lite Ketchup Sauce - No Added Sugar, Fat Free. 6 KCal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Curry Ketchup Sauce",
+              "description": "Light curry ketchup sauce  - no added sugar, fat free. 5 k cal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Chocolate Syrup",
+              "description": "Light chocolate flavoured syrup - no added sugar, fat free. 5 kcal,  350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Salted Caramel Syrup",
+              "description": "Salted caramel flavoured syrup - no added sugar, fat free. 3 kcal, 350 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Apple Pie Jam",
+              "description": "Apple pie jam - no added sugar 225g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Tropical Fruit Jam",
+              "description": "Tropical fruits jam - no added sugar 235g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Forest Fruit Jam",
+              "description": "Forest fruits jam - no added sugar 225g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Strawberry Jam",
+              "description": "Strawberry jam - no added sugar 225g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Buff Bottle",
+              "description": "Water container 500ml capacity",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Boiled Egg With Parsley Toast",
+              "description": "Brown Toasts with Boiled Eggs and Parsley. 155g. Kcal 250",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Peanut Butter & Blueberry Jam Toast",
+              "description": "Light brown toast with peanut butter and berry jam, 110g and calories 290.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Tuna Mousse With Basil Toast",
+              "description": "Brown toast stuffed with tuna, basil and sour cream. 155 g. Calories 280",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Chicken Musahab Toast",
+              "description": "Brown toast stuffed with chicken and sour cream. 190 g. Calories 330",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Falafel With Labna Toast",
+              "description": "Brown toast with falafel and low fat labneh. 150g . Kcal 270",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Combo Meal": [
+            {
+              "index": 56,
+              "name": "Lasagna Combo",
+              "description": "Meat lasagna and plain Caesar salad. Served with tik dessert.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Chello Kebab Combo",
+              "description": "Stuffed vine leaves, rocca salad and chello kabab. Served with red velvett",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "1200 Kcal Meal",
+              "description": "Your meals for the whole day",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "1200 Kcal Meal",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "1200 Kcal Meal 4 (7.850)",
+                    "1200 Kcal Meal 5 (7.600)",
+                    "1200 Kcal Meal 1 (7.250)",
+                    "1200 Kcal Meal 2 (7.000)",
+                    "1200 Kcal Meal 3 (6.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 59,
+              "name": "1500 Kcal Meal",
+              "description": "Your meals for the whole day",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "1500 Kcal Meal",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "1500 Kcal Meal 5 (9.800)",
+                    "1500 Kcal Meal 1 (8.600)",
+                    "1500 Kcal Meal 2 (9.400)",
+                    "1500 Kcal Meal 3 (9.650)",
+                    "1500 Kcal Meal 4 (9.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 60,
+              "name": "1800 Kcal Meal",
+              "description": "Your meals for the whole day",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "1800 Kcal Meal",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "1800 Kcal Meal 4 (9.450)",
+                    "1800 Kcal Meal 5 (9.650)",
+                    "1800 Kcal Meal 1 (8.500)",
+                    "1800 Kcal Meal 2 (8.950)",
+                    "1800 Kcal Meal 3 (9.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Sandwiches & Baked": [
+            {
+              "index": 61,
+              "name": "Croissant With Zaatar",
+              "description": "Croissant pie stuffed with thyme 80 gm, calories 280, protein 5 gm, carbohydrates 34 gm and fats 14 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Croissant With Cheese",
+              "description": "Croissant Stuffed with Lowfat Cheese, 280 Calories, Protein 5 g, Carbohydrates 32 g, Fats 14 g, 80 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Mixed Cheese Croissant",
+              "description": "Croissant pie stuffed with mixed cheeses, 300 calories, 11g protein, 34g carbohydrates, 13g fat, 105g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Turkey & Cheddar Cheese Croissant",
+              "description": "Croissant Shaped Pie Filled with Cheddar Cheese and Turkey, 140 g, Kcal 300, Protein 19 gm, Carbs 32, Fats 10 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Labna Manakish",
+              "description": "Low-fat turkish labneh manakish, 97 gm, 190 calories, protein 9 gm, carbohydrates 25 gm and fats 6 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Zaatar Manakish",
+              "description": "Zaatar manakish and olive oil, 250 calories, protein 5 g, carbohydrates 31 g, fat 13 g, 75 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Cheese Manakish",
+              "description": "Cheese manakish, 220 calories, protein 15 gm, carbohydrates 25 gm, fats 7 gm and 105 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Thin Crust Pizza Margarita",
+              "description": "Crispy Thin Baked Cheese - 120g, Calories 300, Protein 17g, Carbs 35g, Fat 10g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Thin Crust Pizza Vegetables",
+              "description": "Homebaked thin crusted vegetable, cheese and tomato pizza with pomegranate molasses 145 g. Kcal 310, protein 13 gm, carbs 48 and fats 7 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Sandwich Egg & Turkey Bagel",
+              "description": "Bagel Sandwich with Cheddar Cheese and Turkey - 190g, Calories 400, Protein 21g, Carbs 53, Fat 12g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Sandwich Avocado Chicken",
+              "description": "Chicken Avocado Sandwich, 200g, Calories 400, Protein 22g, Carbohydrates 47g, Fat 14g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Sandwich Omelet With Hashbrown",
+              "description": "Hash brown omelet sandwich with cheese and ranch sauce, 195g, calories 320, protein 18g, carbs 45g, fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Sandwich Portabello Mushroom & Cheese",
+              "description": "Portabella mushroom and cheese sandwich, 160g, kcal 280, protein 17g, carbs 22g, fats 10g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Halloumi Sandwich With Grilled Vegetables Panini",
+              "description": "Halloumi panini sandwich with grilled vegetables, 150 g, kcal 300, protein 16 gm, carbs 34 gm, fat 11gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Halloumi Sandwich With Rocca & Pesto Bagel",
+              "description": "Halloumi sandwich with arugula in oregano flavoured bread, 140g, calories 320, protein 16g, carbohydrates 38g, fat 12g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Halloum With Roasted Tomato Sandwich",
+              "description": "Halloumi Sandwich in Ciabatta Bread with Grilled Tomatoes - 130g, Calories 280, Protein 14g, Carbs 36g, Fat 9g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Sandwich Halloum With Falafel",
+              "description": "Halloumi sandwich with falafel and tahini 185 g, calories 320, protein 19 g, carbohydrates 39 g and fat 10 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Mini Halloumi Tortillas with Labneh",
+              "description": "Mini halloumi tortilla with labneh, 120 g, calories 260, protein 14 g, carbohydrates 33 g and fat 7 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Chicken Musakhan Roll",
+              "description": "Wheat saj served with a delicious chicken, onion, molasses and olive oil filling, 155g, kcal 300, protein 24 gm, carbs 35 gm, fats 7 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Chicken Fajita",
+              "description": "Mexican Style Chicken Fajitas with Salsa and Cheddar Cheese - Calories 280, Protein 20g, Carbs 35g, Fat 6g, 190g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Chicken Caesar Sandwich",
+              "description": "Wholegrain Sandwich with Chicken Strips, Crunchy Iceberg and a Light Caesar Dressing, 140 g, Kcal 300, Protein 15, Carbs 32, Fats 12 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Mozzarella Sandwich",
+              "description": "Mozzarella, olives, sundried tomatoes and basil pesto multigrain sandwich, 110 g, kcal 260, protein 12 gm, carbs 31 gm, and fats 10 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Eggplant Sandwich",
+              "description": "Healthy ciabatta sandwich with grilled eggplant, capsicum and feta. 140g, kcal 270, protein 10 gm, carbs 49 gm, fats 4 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Turkey Sandwich",
+              "description": "Light smoked turkey sandwich with low fat cheddar, 160 calories, 11g protein, 18g carbs, 5g fat, 90g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Mortadella Sandwich",
+              "description": "Beef mortadella sandwich, 90g, calories 190, protein 9g, carbohydrates 20g and fat 6g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Halloumi Sandwich",
+              "description": "Light low fat halloumi sandwich. 180 calories, 9g protein, 19g carbs and 8g fat. 70g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Falafel Sandwich",
+              "description": "Falafel sandwich with light bread, 150 calories, 7 protein, 22 g carbohydrates, 4 g fat, 95 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Boiled Egg With Parsley Toast",
+              "description": "Brown Toasts with Boiled Eggs and Parsley. 155g. Kcal 250",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Peanut Butter & Blueberry Jam Toast",
+              "description": "Light peanut butter brown toast with raspberry jam, 110 gram and 290 calories",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Falafel With Labna Toast",
+              "description": "Brown toast with falafel and low-fat labneh. 150 gram. kcal 270",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "Chicken Musahab Toast",
+              "description": "Brown toast stuffed with chicken and sour cream, 190 g and calories 330.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Tuna Mousse With Basil Toast",
+              "description": "Brown toast stuffed with tuna, basil and sour cream. 155 g. Calories 280",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Main Course": [
+            {
+              "index": 93,
+              "name": "Kofta Slider",
+              "description": "Lamb and beef kofta in Arabic bread with rocket and tomatoes, 195g, calories 320, protein 26g, carbs 36g, fat 8g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Grilled Chicken With Mushroom Sauce & Mashed Potato",
+              "description": "Grilled Chicken Breast  served with a delicious Mushroom Sauce and Mashed Potatoes - 280g Kcal 280, Protein 25 gm, Carbs 26 gm, Fat 8 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Beef Steak With Pomegranate & Mashed Potato",
+              "description": "Marinated grilled steak served with creamy pomegranate sauce and mashed potatoes, 300 g kcal 390, protein 32 gm, carbs 31 gm, fats 15 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Chicken Stroganoff With Linguine Pasta",
+              "description": "Creamy paprika chicken and mushrooms served with linguine pasta - 345g, kcal  410, protein 33 gm, carbs 39 gm, fats 12 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Shrimp In Curry Sauce With Parsley Rice",
+              "description": "Curried shrimps with coconut milk served with parsley rice 360g. Kcal 420, Protein 30 gm, Carbs 51 gm and FatS 11 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Mexican Rice With Vegetables",
+              "description": "Mexican style rice with capsicum, beans, jalapeno and tomato salsa. 290g, kcal  300, protein 9 gm, carbs 55 gm and fat 4.5 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Spaghetti Beef Bolognese",
+              "description": "Spaghetti served with homemade beef ragu and parmesan cheese. 280 gm, kcal 290, protein 22 gm, carbs 30 gm and fats 8 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "Penne Arabiata",
+              "description": "Penne pasta served with homemade tomato and mushroom sauce with parmesan cheese. 280g, kcal 300, protein 12 gm, carbs 43 gm, fats 9 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Tandoori Chicken",
+              "description": "Indian spiced chicken grilled in clay oven served with saffron rice and dakkus - 340g, kcal 420, protein 35 gm, carbs 49 gm and fats 9 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "Kibbeh Bel Laban",
+              "description": "Homemade beef kibbeh filled cooked in herbed buttermilk sauce and served with vermicelli rice, 280g, kcal 300, protein 16 gm, carbs 40 gm, fats 8 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Chicken In Truffle Lemon Garlic Sauce With Herbed Quinoa",
+              "description": "Chicken Breast Served Creamy Truffle Sauce and Herbed Quinoa. 320g, Kcal 350, Protein 32 gm, Carbs 20 gm, Fats 14 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Kushari",
+              "description": "Fragrant egyptian style rice with lentils and macaroni accompanied with tomato daqoos, 360 g, kcal 400, protein 10 gm, carbs 83 gm, fats 3 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Fish Kabsa",
+              "description": "White fish fillet and rice cooked with oriental spices served with tomatoes daqoos, 320g, kcal 400, protein 20 gm, carbs 53 gm, fats 13 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "Chicken Biryani",
+              "description": "Chicken curry with saffron rice, cashew, fried onions and raisins - 350g, calories 410, protein 26g, carbs 62g, fat 6g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "Shrimp Biryani",
+              "description": "Shrimp curry with saffron rice, cashew, fried onions and raisins, 310g, calories 410, protein 22g, carbs 59g, fat 9g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "Lamb Biryani",
+              "description": "Lamb curry with saffron rice, cashews, fried onions and raisins, calories 410, protein 23g, carbs 61g, fat 8g, 310g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "Ravioli With Chicken Broccoli",
+              "description": "Ravioli stuffed with chicken and broccoli with white sauce. 380 calories, protein 27g, carbohydrates 45g, fats 10g. 330 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Cannelloni With Mushroom & Cheese",
+              "description": "Ricotta Cheese and Mushroom Stuffed Cannelloni Pasta, 240g, Kcal 310, Protein 13 gm, Carbs 39 gm, Fats 9 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 111,
+              "name": "Lasagna Chicken & Mushroom",
+              "description": "Chicken and Mushroom Lasagna Pasta with White Sauce. 210 g, Kcal 300, Protein 26 gm, Carbs 24 gm and Fats 11 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Beef Lasagna",
+              "description": "Beef Lasagna Pasta 280g. Kcal 390, Protein 26 gm, Carbs 39 gm, Fats 14 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "Vegetable Lasagna",
+              "description": "Vegetable Lasagna Pasta in White Sauce. 420g, Kcal 350, Protein 15 gm, Carbs 56 gm, Fats 7 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "Mushroom Beef Slider",
+              "description": "Beef with mushrooms and cheddar cheese, 235 g, calories 420, protein 30 g, carbs 41 g, fat 16 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Mini Fiesta Burger",
+              "description": "Beef slider with low fat cheddar, calories 350, protein 22g, carbs 35g, fat 13g, 150g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 116,
+              "name": "Chicken Slider",
+              "description": "Creamy Chicken Slider in Whole Wheat Bread, 185g, Calories 320, Protein 25g, Carbs 37g, Fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 117,
+              "name": "Salmon Steak With Plum Miso Paste & Mixed Wild Rice",
+              "description": "Baked salmon steak, glazed with plum miso paste served with mixed wild rice - 320 grams, kcal 430, protein 32 grams, carbs 56 grams and fat 9 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 118,
+              "name": "Chicken With Curry Sauce & Parsley Rice",
+              "description": "Chicken curry with coconut milk, served with parsley rice. 360g, calories 490g, protein 42g, carbs 49g, fats 14g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Soup & Salad": [
+            {
+              "index": 119,
+              "name": "Lentil Soup",
+              "description": "Moreish lentil soup with cumin and lemon 380 ml. Kcal 165, Protein 9 gm, Carbs 28 gm and Fat 2.5 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 120,
+              "name": "Cream Of Mushroom Soup",
+              "description": "Light creamy mushroom soup simmered with aromatic herbs 380 ml. Kcal 170, protein 6 gm, carbs 15 gm and Fats 10 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 121,
+              "name": "Pumpkin Parmesan Soup",
+              "description": "Fragrant pumpkin and parmesan soup - 380 ml, kcal 230, protein 8 gm, carbs 39 gm, fats 6 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 122,
+              "name": "Chicken Sweet Corn Soup",
+              "description": "Chicken Sweet Corn Soup with Egg Whites. 380 ml, Kcal 180, Protein 16 gm, Carbs 20 gm, Fats 4.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 123,
+              "name": "Cream Of Chicken Soup",
+              "description": "Creamy chicken soup with aromatic herbs 380 ml. Kcal 150, Protein 11 gm, Carbs 9 gm and Fat 8 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 124,
+              "name": "Vegetable Vermicelli Soup",
+              "description": "Fresh vegetables soup with vermicelli - 380 ml, kcal 200, protein 8 gm, carbs 31 gm, fats 6 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 125,
+              "name": "Chicken Caesar Salad",
+              "description": "Iceberg Lettuce Served with Chicken, Light Creamy Mustard Parmesan Dressing and Croutons. 225g, Kcal 210, Protein 17 gm, Carbs 14 gm, Fats 10 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 126,
+              "name": "Creamy Potato Salad",
+              "description": "Lightly Creamed Potato Salad with Garlic, Dill and Thyme Seasoning - 290g, Kcal 230, Protein  5 gm, Carbs 33 gm, Fat 9 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 127,
+              "name": "Turk Tabboula",
+              "description": "Healthy medley of chopped colourful vegetables, zarash, mint, bulgur wheat, lemon, cumin, pomegranate molasses and olive oil with bulgur, turkish style, 145g, calories 90, protein 2 gm, carbs 15 gm, fats 3 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Orzo Artichoke",
+              "description": "Delicious orzo pasta salad with artichokes, basil, orange and Italian dressing - 175g, Kcal 200, protein 5 gm, carbs 28 gm and fat 8 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 129,
+              "name": "Classic Rocca Salad",
+              "description": "Rocca salad with fresh mushrooms,  sundried tomato, parmesan, pine nuts and light Italian dressing, 150g, calories 120, protein 7 gm, carbs 14 gm, fats 6 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 130,
+              "name": "Stuffed Vine Leaves",
+              "description": "Our Must Try Stuffed Vine Leaves. 125g, Kcal 130, Protein 3 gm, Carbs 23 gm and Fats 4 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 131,
+              "name": "Greek Pasta Salad",
+              "description": "Greek style pasta salad with feta cheese, 280 gm, calories 260, protein 9 gm, carbs 33 gm, fat 10 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 132,
+              "name": "Plain Caesar Salad",
+              "description": "Iceberg Lettuce Served with a Light Creamy Mustard Parmesan Dressing and Croutons - 215g, Kcal 190, Protein 8 gm, Carbs 18 gm, Fats 9 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 133,
+              "name": "Marakech Salad",
+              "description": "Moroccan style coucous salad with red beets, lettuce, pomegranate, parsley, barbeer, garlic and olive oil. kcal 130, protein 3 gm, carbs 19 gm, fats 5 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 134,
+              "name": "Tabboula Salad",
+              "description": "Classic Tabboula Salad. 190g, Kcal 130, Protein 3 gm, Carbs 15 gm, Fats 9gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 135,
+              "name": "Beetroot Salad",
+              "description": "Assorted salad served with red beets and light parsley sauce. 272 grams, calories 130, protein 5 gm, carbohydrates 22 gm, fats 3 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 136,
+              "name": "Fattoush Salad",
+              "description": "Fattoush salad, light italian dressing and crispy arabic brown bread. 100 calories, protein 2g, carbohydrates 14g, fats 4.5g. 170g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 137,
+              "name": "Fresh Fruit Cut Strawberry",
+              "description": "Fresh strawberry. Calories 50, protein 1 gram, carbohydrates 12 grams and fats 0 grams. 155 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 138,
+              "name": "Fresh Mango Fruit Cut",
+              "description": "Fresh cut mango pot - 165 grams, kcal 100, protein 1 grams, carbs 25 grams and fat 0.50 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 139,
+              "name": "Fresh Fruit Cut Pomelo & Pomegranate",
+              "description": "Fresh cut pomelo and pomegranate pot, 150g, calories 80, protein 2 gm, carbs 12 gm, fat 1 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 140,
+              "name": "Mini Veggie Crudites",
+              "description": "Fresh, Healthy Baby Vegetables with Sour Cream. 90 Calories, Protein 2g, Carbohydrates 13g, Fats 3g. 185 g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 141,
+              "name": "Vegetable Crudites",
+              "description": "Fresh, Healthy Vegetables with Sour Cream. 170 Calories, Protein 4g, Carbohydrates 26g, Fats 5g. 380 g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 142,
+              "name": "Red Beet Mutabbal & Hummus With Roasted Bread",
+              "description": "Beetroot Mutabbal & Hummus with Crisp Brown Bread. 240 g. Kcal 310, Protein 14 gm, Carbs 50 gm and Fats 7 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gourmet": [
+            {
+              "index": 143,
+              "name": "Chicken Escalope With Mashed Potato & Truffle Lemon Sauce",
+              "description": "Breaded fried chicken fillet served with mashed potato and creamy lemon sauce seasoned with truffle oil. 345g, 450 kcal, fat 13g, carbs 19g, protein 32g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 144,
+              "name": "Sandwich Chicken Katsu",
+              "description": "Crispy chicken breast sandwich on toasted buttery brioche bun with katsu curry sauce, cheddar cheese and fried bell pepper 410g, 450 calories, fats 10g, carbs 39g, protein 40g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 145,
+              "name": "Turkey Bacŏn Brie Cheese & Jam Sandwich",
+              "description": "Sandwich Crispy Turkey Bacon with Brie Cheese in Sour Dough Loaf with Sweet Pumpkin Walnut Jam Dressing.  180g, 370 Kcal, Fat 11g, Carbs 46g, Protein 22g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 146,
+              "name": "Pastrami Sandwich On Rye Bread",
+              "description": "Sandwich Slices of Pastrami on Rich Rye Bread Slices with Caramelized Onion, Pickles, Sauerkraut, Mustard and Horseradish Sauce.  200g, 350 Kcal, Fats 11g, Carbs 45g, Protein 18g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 147,
+              "name": "Edamame With Sweet & Spicy Peanut Sauce",
+              "description": "Steamed whole edamame served with sweet and spicy peanut sauce. 200g, 250 kcal, fat 13g, carbs 19g, protein 19g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 148,
+              "name": "Vanilla Millefeuille With Chocolate",
+              "description": "2 Layers of Light Puff Pastry Filled with Vanilla Cream and Topped with Chocolate Ganache 150 g, 270 Kcal, Fats 12 g, Carbs 36 g, Protein 6 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Keto": [
+            {
+              "index": 149,
+              "name": "Beef Burrito",
+              "description": "Beef Burrito with Jalapenos. 260g, 450 Kcal, Fats 22g, Carbs 14g, Protein 50g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 150,
+              "name": "Buttered Shrimp Curry With Broccoli Rice",
+              "description": "Buttered Shrimp Curry with Broccoli Rice. 335g, 360 Kcal, Protein 24g, Carbs 19g, Fats 21g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 151,
+              "name": "Hariyali Chicken Curry With Naan Bread",
+              "description": "Hariyali Chicken Curry with Naan Bread. 345g, 440 Kcal, Protein 39g, Carbs 18g, Fats 24g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 152,
+              "name": "Beef Roulades With Creamed Broccoli & Sauteed Mushrooms",
+              "description": "Beef Roulades with Creamy Broccoli and Mushroom. 380g, 420 Kcal, Fats 20g, Carbs 19g, Protein 40g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 153,
+              "name": "Keto Brownies",
+              "description": "Keto Brownies with Almond Butter.  70 grams, 250 Kcal, Fats 18 grams, Carbs 13 grams and Protein 9 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 154,
+              "name": "Keto Red Velvet Cheesecake",
+              "description": "Keto Red Velvet with Vanilla Flavouring. 65 grams, 260 Kcal, Fats 20 grams, Carbs, 13 grams and Protein 7 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 155,
+              "name": "Vegan Peanut Butter Cheesecake",
+              "description": "Creamy dairy cheesecake without biscuit layer with a rich layer of peanut butter. 65g, 260 kcal, fats 16g, carbs 22g, protein 6g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sports Items": [
+            {
+              "index": 156,
+              "name": "Mumawash",
+              "description": "Mumawash with Soybeans, Lentils and Coriander, 400 Calories, 56 grams of Carbohydrates, 30 grams of Protein and 6 grams of Fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 157,
+              "name": "Brown Rice Lamb Biryani",
+              "description": "Lamb Biryani with Yoghurt, Raisins and Cashew, 400 Calories, 40 g Carbs, 39 g Protein and 10 g Fats",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 158,
+              "name": "Pancakes Peanut Butter With Syrup",
+              "description": "Pancakes with peanut butter syrup, 330 calories, 30 g carbs, 27 g protein and 12 g fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 159,
+              "name": "Beef Shabzi Stew With Brown Rice",
+              "description": "Persian beef stew with black eyed peas, herbs and spinach, 400 calories, 38 g carbs, 41 g protein and 11 g fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 160,
+              "name": "Zaraksh Cranberry Chicken Sandwich",
+              "description": "Chicken sandwich with cheddar cheese, 380 calories, 33 grams of carbs, 34 grams of protein and 8 grams of fat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 161,
+              "name": "High Protein Pizza Mixed Cheese",
+              "description": "Pizza Topped with Mozzarella, Kashkawan, Cheddar Cheese and Oregano, 380 Calories, 25gm Carbs, 34gm Protein, 12gm Fats",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 162,
+              "name": "Asian Carrot Salad With Edamame",
+              "description": "Mixed salad of carrot, cabbage, lettuce, edamame and Asian dressing, 140 calorie, 14 gram carbs, 9 gram protein, 5 gram fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 163,
+              "name": "Fattoush Salad With Soya Beans & Feta",
+              "description": "Salad of mixed vegetables, feta cheese, pomegranate molasses and fatoush dressing mixed with labenah, 140 calories, 15 gram carbs, 11 gram protein, 5 gram fat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Low Carb": [
+            {
+              "index": 164,
+              "name": "Beef Kebab Kishkash With Cauliflower Steak",
+              "description": "Beef kebab with arabic spices, coriander and tender roasted cauliflower, 410 calories, 32 g carbs, 42 g protein and 14 g fats",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 165,
+              "name": "Chicken Mousse Croissant Sandwich",
+              "description": "Low carb croissant sandwich with chicken mousse, mayonnaise and lettuce, 410 calories, 22gm carbs, 38gm protein, 12gm fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 166,
+              "name": "Porridge Peanut Butter Banana",
+              "description": "Peanut butter with banana and oatmeal with jareesh and cream, 210 calories, 23 g carbs, 11 g protein and 13 g fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 167,
+              "name": "Beef With Sweet Chutney Wrap",
+              "description": "Tortilla bread with spiced beef strips, slaw and mango chutney, 400 calories, 34 g carbs, 33 g protein and 13 g fat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 168,
+              "name": "Ground Chicken Caesar Wrap",
+              "description": "Tortilla bread with marinated chicken and Caesar dressing, 410 calories, 31 g carbs, 36 g protein, 10 g fat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 169,
+              "name": "Picatta Chicken With Creamed Brussel Sprouts",
+              "description": "Grilled thin chicken slices with creamy brussels sprouts, 380 calories, 9 g carb, 48 g protein and 18 g fat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 170,
+              "name": "Broccoli Salad With Turkey",
+              "description": "Broccoli Salad Served with Turkey, Lettuce and Mayonnaise 230 Calories, 19 grams Carbs, 11 grams Protein, 13 grams Fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 171,
+              "name": "Club Sandwich",
+              "description": "Multigrain sandwich with avocado, grilled chicken breast, turkey bacon, mixed lettuce, omelet and cheddar cheese, 420 calories, 14 g carbs, 44 g protein and 22 g fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 172,
+              "name": "Zucchini Beef Lasagna",
+              "description": "Beef Lasagna with Zucchini and Mozarella Cheese. 400 Calories, 14 g Carbs, 41 g Protein and 19 g Fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 173,
+              "name": "Kushari Mix (Cauliflower Rice With Fried Onion) With Butter Chicken",
+              "description": "Cauliflower rice with fried onions served with butter chicken, 400 calories, 29 g carbs, 34 g protein, 16 g fat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 174,
+              "name": "Mousse Chocolate Hazelnut",
+              "description": "Creamy chocolate and hazelnut pot, 220 calories, 18 g carbs, 6 g protein and 15 g fats.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Schooli": [
+            {
+              "index": 175,
+              "name": "Feta & Cucumber Croissant",
+              "description": "Croissant with Lowfat Feta Cheese and Cucumber. Kcal 230, Protein 8 gm, Carbs 25 gm, Fats 12 gm. Grams 115",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 176,
+              "name": "Cheese Omelette Sandwich",
+              "description": "Freshly made omelette sandwich with lowfat mayonnaise - kcal 180, protein 10 grams, carbs 18 grams, fat 7 grams and grams 90",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 177,
+              "name": "Manakish Feta",
+              "description": "Man'ousheh topped with lowfat feta cheese and parsley. Kcal 200, protein 10 gm, carb 24, fat 8 gm. Grams 85",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 178,
+              "name": "Labna & Cheese On Toast",
+              "description": "Toastie with Labnah, Lowfat Cheddar, Lettuce and Black Olives.  Kcal 140, Protein 11 gm, Carbs 16 gm, Fats 4 gm, Grams 75",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 179,
+              "name": "Mini Pizza Cheese",
+              "description": "Pizza Topped with Lowfat Cheeses. Kcal 240, Protein 12 grams, Carbs 30 grams, Fats 8 grams and grams 80",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 180,
+              "name": "Muffin Brownies Chocolate",
+              "description": "Moist and rich dark chocolate brownies muffin.  Kcal 220, protein 4 gm, carbs 28 gm, fat 10 gm. Grams 60",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 181,
+              "name": "Brownies Milk Chocolate",
+              "description": "Walnut Brownies made from Milk Chocolate. Kcal 280, Protein 4 gm, Carbs 33 gm, Fats 15 gm. Grams 65",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 182,
+              "name": "Pound Cake Marble",
+              "description": "Soft, Moist Vanilla and Chocolate Marbled Pound Cake. Kcal 280, Protein 5 gm, Carbs 43 gm, Fats 11gm. Grams 65",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 183,
+              "name": "Mini Vegetable Crudites",
+              "description": "Freshly cuts healthy carrots and cucumber sticks. Kcal 30, protein 1 gm, carbs 7 gm, fat 0 gm, 110 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 184,
+              "name": "Fruits Cuts (Sweet Melon, Water Melon & Red Grapes)",
+              "description": "Freshly cuts watermelon, sweet melon, grapes. Kcal 25, Protein 0 grams, Carbs 6 grams, Fats 0 grams and grams 60",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Dessert": [
+            {
+              "index": 185,
+              "name": "Baqlava",
+              "description": "Collection of Baqlava Stuffed with Nuts. 500 grams, Per Piece Kcal 40, Protein 1 grams, Carbs 5 grams and Fats 2 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 186,
+              "name": "Mamoul Dates",
+              "description": "Shortbread semolina butter mamoul filled with dates paste. 500g: 60 Kcal, Protein 1g, Carbs 8g, and Fat 2.5g Per Piece 16-20g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 187,
+              "name": "Mamoul Mad Dates",
+              "description": "Mamoul Mad Dates. 500 grams, Per 100 grams Kcal 380, Protein 7 grams, Carbs 58 grams and Fats 15 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 188,
+              "name": "Strawberry Sable",
+              "description": "Strawberry jam flavoured cookies - 500 grams, 45 pieces, per piece kcal 50, protein 1 grams, carbs 5 grams and fat 2.5 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 189,
+              "name": "Rocky Road (Box)",
+              "description": "Traditional Rocky Road Dessert. 230 grams, Per 100 grams 360 Kcal, Protein 14 grams, Carbs 43 grams and Fats 17 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 190,
+              "name": "Macarons (Coffee Nutella & Pistachio With Rose)",
+              "description": "3 Flavoured French Style Chewy Almond Cookies Sandwiched with Hazelnut, Pistachio and R0se Fillings - Grams: 160-170. Coffee Nutella 2 Pcs, Kcal each 150. Pistachio 2 Pcs, Kcal each 140, R0se 2 Pcs, Kcal each 110",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 191,
+              "name": "Sugar Free Milk Chocolate With Almond",
+              "description": "Sugar Free Milk Chocolate, Almonds. 150g: Kcal 750g, Fats 47g, Carbs 67g, Protein 14g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 192,
+              "name": "Sugar Free Dark Chocolate With Hazelnut",
+              "description": "Sugar Free Dark Chocolate, Hazelnut, 150g Kcal 730g, Fats 48g, Carbs 61g, Protein 12.5g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 193,
+              "name": "Plain Chocolate Pieces",
+              "description": "Crispy Chocolate Pieces made from Tempered Milk Chocolate - 36g, Kcal 200, Protein 2 gm, Carbs 22 gm, Fat 12 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 194,
+              "name": "Sweet Cup",
+              "description": "Cookie Dough Cake made from Oreo Powder and Caramel Filling. 60 grams, Kcal 180, Protein 3 grams, Carbs 23 grams and Fats 6 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 195,
+              "name": "Strawberry Cheesecake",
+              "description": "Strawberry Cheesecake with Lowfat Cream Cheese. 110g, Kcal 280, Protein 6 gm, Carbs 32 gm and Fats 15 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 196,
+              "name": "Red Velvet Cheesecake",
+              "description": "Moist Red Velvet Cheesecake with Lowfat Cream Cheese Glazed with White Chocolate Ganache. 75 grams, Kcal 220, Protein 4 grams, Carbs 24 grams and Fats 12 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 197,
+              "name": "Red Velvet Cookies",
+              "description": "Red Velvet Cookies Dough Stuffed with Cream Cheese Fillings. 110g, Kcal 370, Protein 7 gm, Carbs 50 gm, Fats 17 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 198,
+              "name": "Mini Mix Cookies",
+              "description": "Mini cookies with crunchy chocolate chips, 35 calories per piece, protein 0, carbs 5g, fat 2g, 70 g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 199,
+              "name": "Rocky Road",
+              "description": "Classic Rocky Road Dessert with Marshmallow and Maple Syrup. 60 grams, Kcal 220, Protein 8 grams, Carbs 30 grams and Fats 9 grams.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 200,
+              "name": "Brownies",
+              "description": "Moist walnut brownies made from dark chocolate 75g, kcal 300, protein 5 gm, carbs 40 gm, and fat 15 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 201,
+              "name": "Chia Porridge With Mixed Nuts & Dates",
+              "description": "Nutty and multi seed vanilla porridge, 335 g, kcal 300, protein 13 gm, carbs 56 gm, fat 7 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 202,
+              "name": "Um Ali",
+              "description": "Um Ali Traditional Dessert. 180 grams, Kcal 210, Protein 6 grams, Carbs 22 grams and Fats 11 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 203,
+              "name": "Muhalabiya",
+              "description": "Rose Flavoured Muhalabiya with Pistachio Nuts.  200 grams, Kcal 200, Protein 7 grams, Carbs 37 grams and Fats 2.5 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 204,
+              "name": "Tik Dessert",
+              "description": "Diet Care's Famous Tik Dessert. 75 grams, Kcal 170, Protein 2 grams, Carbs 19 grams and Fats 3.50 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 205,
+              "name": "Vanilla Ice Cream",
+              "description": "Vanilla Ice Cream. Kcal 76, Carbs 7, Protein 2, Fats 5 and 125 ml.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 206,
+              "name": "Chocolate Ice Cream",
+              "description": "Chocolate Ice Cream. Kcal 72, Carbs 6, Protein 2, Fats 5, 125 ml.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Beverages": [
+            {
+              "index": 207,
+              "name": "Red Juice",
+              "description": "Beetroot, Lemon, Carrot, Red Apple. 100 Calories, 225 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 208,
+              "name": "Fresh Carrots Juice",
+              "description": "Fresh carrots 225 ml and 86 kcal",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 209,
+              "name": "Fresh Orange Juice",
+              "description": "100 Kcal, 225 ml.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 210,
+              "name": "Fresh Strawberry Juice",
+              "description": "Strawberry and stevia - 225ml 39 kcal",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 211,
+              "name": "Mango Lemonade Juice",
+              "description": "Mango, lemon, carrots, stevia. 225 ml and 66 kcal",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 212,
+              "name": "Fresh Lemon With Mint Juice",
+              "description": "225 ml juice :Lemon, Mint, Stevia, 12 Calories.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 213,
+              "name": "Highland Water",
+              "description": "Highland mineral water 330ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 214,
+              "name": "San Pellegrino Water",
+              "description": "Sparkling natural mineral water 250 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Retail Products": [
+            {
+              "index": 215,
+              "name": "Teriyaki Sauce",
+              "description": "Teriyaki lite sauce - no added sugar, fat free. 6 kcal, 350 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 216,
+              "name": "BBQ Sauce",
+              "description": "Light bbq sauce - no added sugar, fat free. 5 kcal,  350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 217,
+              "name": "Honey Mustard",
+              "description": "Lite honey mustard sauce - no added sugar. 12 kcal,  350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 218,
+              "name": "Garlic Sauce",
+              "description": "Light Creamy Garlic Sauce  - No Added Sugar, Low Fat. 7 KCal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 219,
+              "name": "Mayonnaise Sauce",
+              "description": "Light mayonnaise sauce, no added sugar. 11 kcal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 220,
+              "name": "Ketchup Sauce",
+              "description": "Lite ketchup sauce - no added sugar, fat free. 6 k cal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 221,
+              "name": "Curry Ketchup Sauce",
+              "description": "Light curry ketchup Sauce - no added sugar, fat free. 5 k cal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 222,
+              "name": "Salad Dressing",
+              "description": "Light salad dressing - low sugar, fat free. 5 k cal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 223,
+              "name": "Chocolate Syrup",
+              "description": "Light Chocolate Flavoured Concentrated Syrup - No Added Sugar, Fat Free. 5 Kcal,  350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 224,
+              "name": "Salted Caramel Syrup",
+              "description": "Concentrated salted caramel flavoured syrup - no added sugar, fat free. 3 Kcal, 350ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 225,
+              "name": "Strawberry Jam",
+              "description": "Strawberry jam - no added sugar 225g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 226,
+              "name": "Forest Fruit Jam",
+              "description": "Forest fruits jam - no added sugar 225g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 227,
+              "name": "Apple Pie Jam",
+              "description": "Apple pie jam - no added sugar 225g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 228,
+              "name": "Tropical Fruit Jam",
+              "description": "Tropical fruits jam - no added sugar 235g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 229,
+              "name": "Organic Cranberry Syrup 250ml",
+              "description": "Organic Cane Sugar, Water, Organic Concentrated, Cranberry Juice, Organic Maple Syrup 250ml / 110 Kcal",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 230,
+              "name": "Organic Blueberry Syrup 250ml",
+              "description": "Organic Cane Sugar, Water, Organic Concentrated, Blueberry Juice, Organic Maple Syrup 250ml / 100 Kcal",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 231,
+              "name": "Organic Maple Syrup Rich Taste 375ml",
+              "description": "Lighter, Amber-Colored Rich Tasting  100% Pure Organic Maple Syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 232,
+              "name": "Organic Maple Syrup Robust Taste 375ml",
+              "description": "Darker, Amber-Colored Robust Tasting 100% Pure Organic Maple Syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 233,
+              "name": "Organic Maple Syrup Rich Taste 500ml",
+              "description": "Lighter, Amber-Colored Rich Tasting  100% Pure Organic Maple Syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 234,
+              "name": "Organic Maple Syrup Robust Taste 500ml",
+              "description": "Darker, Amber-Colored Robust Tasting 100% Pure Organic Maple Syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 235,
+              "name": "Natural Red Quinoa",
+              "description": "1 Kg, organic red quinoa seeds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 236,
+              "name": "Natural Black Quinoa",
+              "description": "1 Kg, organic black quinoa seeds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.990",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 237,
+              "name": "Natural White Quinoa",
+              "description": "1 Kg, organic white quinoa seeds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 238,
+              "name": "Natural Mixed Quinoa",
+              "description": "1 Kg, organic mixed quinoa seeds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Frozen Products": [
+            {
+              "index": 239,
+              "name": "Margherita Pizza - Frozen",
+              "description": "Mozzarella Cheese & Tomato Pizza - Kcal 660, Protein 54 grams, Carbs 74 grams and Fats 16 grams. 300 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 240,
+              "name": "Barbecue Chicken Pizza - Frozen",
+              "description": "Barbeque Chicken and Capsicum Pizza - Kcal 640, Carbs 80 gm, Protein 40 gm, Fats 18 gm, 300 grms.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 241,
+              "name": "High Protein Salami Pizza - Frozen",
+              "description": "High Protein Salami Pizza - Kcal 700, Carbs 50 gm, Protein 54 gm, Fats 30 gm, 300 grms.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 242,
+              "name": "Mixed Mushroom Pizza - Frozen",
+              "description": "Mixed Mushrooms Pizza - Kcal 600, Protein 30 grams, Carbs 82 grams, Fats 18 grams and 300 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 243,
+              "name": "Pesto Margherita Pizza",
+              "description": "Margarita Pizza with Pesto - Kcal 680, Protein 46 gm, Carbs 78 gm Fats 22 gm, 320 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 244,
+              "name": "Mixed Cheese Fatayer",
+              "description": "Mixed Seeded Bagel - grams 510, Kcal 230, Protein 12 grams, Carbs 25 grams and Fats 9 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 245,
+              "name": "Spinach Fatayer",
+              "description": "Spinach Fatayer. Grams 390 Per 65 grams. Kcal 150, Protein 7 gm, Carbs 24 gm, Fats 4 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 246,
+              "name": "Chicken & Mushroom Mini Quiche",
+              "description": "Chicken and Mushroom Mini Quiches. Grams 240 Per 20 grams. Kcal 70, Protein 4, Carbs 5, Fats 4 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 247,
+              "name": "Vegetables Mini Pizza",
+              "description": "Assorted Mini Pizzas. Grams 330 Per 55 grams. Kcal 80, Protein 5 gm, Carbs 13 gm, Fats 1.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 248,
+              "name": "Margherita Mini Pizza",
+              "description": "Cheese and Tomato Mini Pizzas. Grams 240 Per 40 grams. Kcal 80, Protein 5 gm, Carbs 11 gm, Fats 1.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 249,
+              "name": "Cream Cheese Samosa",
+              "description": "Cream Cheese Pastry Triangles - grams 240, Per 20 grams Kcal 50, Protein 1 gram, Carbs 2 grams and Fats 2 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 250,
+              "name": "Feta With Mint Samosa",
+              "description": "Pastry Triangle with Feta, Mint - grams 360, Per 30 grams Kcal 70, Protein 4 grams, carb 3 grams and Fats 3.5 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 251,
+              "name": "Samosa Potato & Vegetables",
+              "description": "Pastry Triangles Filled with Potato and Vegetables - Grams 360, Per 30 grams: Kcal 50, Protein 2 gm, Carbs 9, Fats 1.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 252,
+              "name": "Samosa Mixed Cheese",
+              "description": "Mixed Cheese Samosa - Grams 360, Per 30 grams, Kcal 80, Protein 5 gm, Carbs 6 gm, Fats 3.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 253,
+              "name": "Mac & Cheese Bites",
+              "description": "Breadcrumbed Macaroni Bites with Turkey Bacon, Mixed Cheeses - grams 600, Per 50 grams Kcal 120, Protein 7 grams, Carbs 13 grams and Fats 4 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 254,
+              "name": "Mozzarella Sticks",
+              "description": "Breaded Mozzarella Cheese Sticks - grams 500, Per 50 grams: Kcal 130, Protein 11 gm, Carbs 5 gm, Fats 7 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 255,
+              "name": "Chicken Musakhan - Frozen",
+              "description": "Chicken Musakhan Roll with Oriental Spices. Grams 400, per 40 grams: Kcal 100, Protein 8 gm, Carbs 8 gm, Fats 3.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 256,
+              "name": "Falafel - Frozen",
+              "description": "Falafel - grams 450, Kcal 30, Protein 2 grams, Carbs 5 grams and Fat 0.5 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 257,
+              "name": "Spring Rolls Frozen Mixed Cheese & Herbs",
+              "description": "Mixed Cheese Springrolls - Grams 360, Per 30 grams: Kcal 70, Protein 5 gm, Carbs 3 gm, Fats 4.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 258,
+              "name": "Spring Rolls Chicken Fajita",
+              "description": "Chicken Fajita Spring Rolls, grams 360, Per 30 grams Kcal 60, Protein 6 gm, Carbs 5 gm, Fats 2 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 259,
+              "name": "Beef & Lamb Kibbeh Burghul",
+              "description": "Bulghur Kibbeh with Beef and Lamb - grams 480, Per 40 grams: Kcal 60, Protein 6 gm, Carbs 5 gm, Fats 1.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 260,
+              "name": "Zaatar Fatayer",
+              "description": "Zaatar Fatayer - grams 420 Kcal 210, Protein 5 grams, Carbs 28 grams and Fats 9 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 261,
+              "name": "Chicken Nuggets - Frozen",
+              "description": "Breaded Chicken Bites - Grams 400, Per 50 grams: Kcal 80, Protein 9 gm, Carbs 6 gm, Fats 2 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 262,
+              "name": "Creamy Spinach Mini Pizza",
+              "description": "Spinach Mini Pizzas grams 300, Per 50 grams: Kcal 80, Protein 3 gm, Carbs 10 gm, Fats 2.5 gm.300 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 263,
+              "name": "Beef Burgers",
+              "description": "Beef Burger Patties - Grams 540: Kcal 110, Protein 16 gm, Carbs 4 gm, Fats 3.5 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering Box (Order 24 Hours in Advance)": [
+            {
+              "index": 264,
+              "name": "Mini Fatayer Box",
+              "description": "mini empanada eggplant moussaka/ 6 pc\nmini empanada mixed cheese / 6 pc\nmini manakish labna / 6 pc\nmini manakish zattar / 6 pc\nmini pizza margherita / 6 pc\nmini pizza spinach parmesan / 6 pc",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 265,
+              "name": "Mini Sandwiches Box",
+              "description": "Spicy Eggplant with Feta Cheese 5 Pc, Falafel 5 Pc, Chicken Mousse with Pickles 5 Pc, Halloum Cheese with Roasted Capsicum 5 Pc, Labna Makdous 5 Pc, Focaccia Mixed Cheese 5 Pc",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Abu Halifa, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/diet-care--abu-halifa",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "11336",
+          "Reviews_count": "5941",
+          "General_review": [
+            "Diet Care is a restaurant located in Kuwait, serving a selection of Healthy, Sandwiches, Organic that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Halifa, Airport and Al-Ahmadi.",
+            "Their best selling dishes are Beef Lasagna, Chello Lamb Kebab, Stuffed Vine Leaves and Spaghetti Beef Bolognese , although they have a variety of dishes and meals to choose from like Healthy, Sandwiches, Organic.",
+            "They have been reviewed 11336 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "A A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز سريع"
+            },
+            {
+              "reviewer_name": "firoz k***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "quantity for kabsa is too little. this looks like kids meal."
+            },
+            {
+              "reviewer_name": "Salinah A***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good and delicious healthy food"
+            },
+            {
+              "reviewer_name": "A A***",
+              "review_date": "13 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز سريع ممتاز"
+            },
+            {
+              "reviewer_name": "Asma B***",
+              "review_date": "09 March 2025",
+              "review_rating": "OK",
+              "review_comment": "دائما ما يحطون أدوات مائدة مع انه حطيت ملاحظة وما ياخذون الملاحظات بعين الاعتبار الواضح ما يقرونها"
+            },
+            {
+              "reviewer_name": "Asma B***",
+              "review_date": "09 March 2025",
+              "review_rating": "OK",
+              "review_comment": "للأسف فيه ريحة بالأكل لا تعليق"
+            },
+            {
+              "reviewer_name": "Abdulrahman N***",
+              "review_date": "28 February 2025",
+              "review_rating": "Good",
+              "review_comment": "Peanut butter & jam sandwich it’s so bad"
+            },
+            {
+              "reviewer_name": "Mohammed A***",
+              "review_date": "26 February 2025",
+              "review_rating": "OK",
+              "review_comment": "يوجد شعر بالاكل"
+            },
+            {
+              "reviewer_name": "mkwait40 A***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Saad K***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الفراوله تالفه ولا تؤكل"
+            },
+            {
+              "reviewer_name": "Hassan E***",
+              "review_date": "12 February 2025",
+              "review_rating": "OK",
+              "review_comment": "quantity not match with the price also taste not good that much"
+            },
+            {
+              "reviewer_name": "Amal A***",
+              "review_date": "11 February 2025",
+              "review_rating": "OK",
+              "review_comment": "هذي مو اول مرة يكون الطعام بارد انا خارج المنزل كيف اسخنه يعني والعنوان كان مستشفى ارجو الاهتمام"
+            },
+            {
+              "reviewer_name": "Nagham T***",
+              "review_date": "10 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المذاق لذيذ وله نكهه خاصه فريده من نوعها شكرا لكم .. سريعه جدا شكرا لكم .."
+            },
+            {
+              "reviewer_name": "aisha A***",
+              "review_date": "10 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل قديم من تاريخ 7 واللحم ابيض حسبي الله ونعم الوكيل"
+            },
+            {
+              "reviewer_name": "Hajer A***",
+              "review_date": "06 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الباستا فيها لون بنفسجي شوي والزبتون حامض شوي بس الساندويتش حلوه"
+            },
+            {
+              "reviewer_name": "سلطان ا***",
+              "review_date": "05 February 2025",
+              "review_rating": "OK",
+              "review_comment": "في شعر بالاكل"
+            },
+            {
+              "reviewer_name": "مريم ا***",
+              "review_date": "05 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "شكر"
+            },
+            {
+              "reviewer_name": "H G***",
+              "review_date": "02 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "محترم ولبق"
+            },
+            {
+              "reviewer_name": "GHANIM A***",
+              "review_date": "01 February 2025",
+              "review_rating": "OK",
+              "review_comment": "cooooolddddddd 🥲"
+            },
+            {
+              "reviewer_name": "GHANIM A***",
+              "review_date": "01 February 2025",
+              "review_rating": "OK",
+              "review_comment": "باااااارد يوصل 😒"
+            },
+            {
+              "reviewer_name": "Basma ا***",
+              "review_date": "27 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "Ahcene N***",
+              "review_date": "25 January 2025",
+              "review_rating": "OK",
+              "review_comment": "bad taste chicken"
+            },
+            {
+              "reviewer_name": "Ridaab M***",
+              "review_date": "20 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great sauces & low cal 👍🏼"
+            },
+            {
+              "reviewer_name": "ABEER A***",
+              "review_date": "18 January 2025",
+              "review_rating": "Good",
+              "review_comment": "فيه شعره خيشه ما ادري راس"
+            },
+            {
+              "reviewer_name": "Abrar A***",
+              "review_date": "18 January 2025",
+              "review_rating": "OK",
+              "review_comment": "I asked for it to be heated it isn't heated! I don't own a microwave!"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "15 January 2025",
+              "review_rating": "OK",
+              "review_comment": "مرتين اطلب سلطة سيزر بالدجاج يوصل بدون دجاج والاكل بايت جدا لاتعليق"
+            },
+            {
+              "reviewer_name": "Dana A***",
+              "review_date": "10 January 2025",
+              "review_rating": "OK",
+              "review_comment": "very bad , please refund my money because i have a missing item"
+            },
+            {
+              "reviewer_name": "Balqees A***",
+              "review_date": "08 January 2025",
+              "review_rating": "OK",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "ma k***",
+              "review_date": "07 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "احسن مطعم دايت نظافه و أكل حلو احبكم ❤️❤️"
+            },
+            {
+              "reviewer_name": "Fahad A***",
+              "review_date": "04 January 2025",
+              "review_rating": "OK",
+              "review_comment": "سي سيً"
+            },
+            {
+              "reviewer_name": "yousif a***",
+              "review_date": "01 January 2025",
+              "review_rating": "OK",
+              "review_comment": "ز"
+            },
+            {
+              "reviewer_name": "Fatma Alazmi ***",
+              "review_date": "23 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "جيده جدا"
+            },
+            {
+              "reviewer_name": "الجازي ا***",
+              "review_date": "19 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Rem A***",
+              "review_date": "17 December 2024",
+              "review_rating": "OK",
+              "review_comment": "فيه شعر فيه شعر."
+            },
+            {
+              "reviewer_name": "Dlayel D***",
+              "review_date": "16 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "انسكب جزء من الشوربه وكيس كان. متمزق"
+            },
+            {
+              "reviewer_name": "ام س***",
+              "review_date": "01 December 2024",
+              "review_rating": "OK",
+              "review_comment": "التاريخ قديم والتوست ليس طازج ولم استطع ان اكله"
+            },
+            {
+              "reviewer_name": "Sara M***",
+              "review_date": "29 November 2024",
+              "review_rating": "OK",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Ms A***",
+              "review_date": "27 November 2024",
+              "review_rating": "Good",
+              "review_comment": "مو حاطين شوك ولامعالق يعني 😡"
+            },
+            {
+              "reviewer_name": "Lamia M***",
+              "review_date": "27 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very good"
+            },
+            {
+              "reviewer_name": "Wedyan M***",
+              "review_date": "21 November 2024",
+              "review_rating": "OK",
+              "review_comment": "مناقيش زعتر"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "17 November 2024",
+              "review_rating": "OK",
+              "review_comment": "they delivered old sandwiches"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "15 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "انتم رائعون بارك الله فيكم تمام 🤝"
+            },
+            {
+              "reviewer_name": "Athari A***",
+              "review_date": "13 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "🤩 🤯"
+            },
+            {
+              "reviewer_name": "Athari A***",
+              "review_date": "11 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "😯👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻🤍🤍🤍🤍🤍🤍😊😊😊😊😊😊😊🌸🌸🌸🌸🌸🌸🩵🩵🩵🩵🩵🩵🩵🩵🎉🎉🎀🎀🧸🧸🧸 😯 وااو"
+            },
+            {
+              "reviewer_name": "salem a***",
+              "review_date": "10 November 2024",
+              "review_rating": "Very good",
+              "review_comment": "Very good 👍🏾"
+            },
+            {
+              "reviewer_name": "Fayez T***",
+              "review_date": "09 November 2024",
+              "review_rating": "OK",
+              "review_comment": "السندويشات مو تاريخ اليوم"
+            },
+            {
+              "reviewer_name": "salem a***",
+              "review_date": "06 November 2024",
+              "review_rating": "Very good",
+              "review_comment": "Fresh 👍🏾"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "05 November 2024",
+              "review_rating": "OK",
+              "review_comment": "لم اتمكن من استخدام القسيمه"
+            },
+            {
+              "reviewer_name": "ali b***",
+              "review_date": "04 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "location awareness, excessive calls"
+            },
+            {
+              "reviewer_name": "الجازي ا***",
+              "review_date": "01 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Regan D***",
+              "review_date": "30 October 2024",
+              "review_rating": "Good",
+              "review_comment": "Small portion size compared to price. food was icy cold, straight from the fridge."
+            },
+            {
+              "reviewer_name": "الجازي ا***",
+              "review_date": "29 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه جدا جدا ممتاز"
+            },
+            {
+              "reviewer_name": "Mubarak a***",
+              "review_date": "29 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلب كان الساعه 9،07 وصل الطلب 10.30 بارد وسئ"
+            },
+            {
+              "reviewer_name": "Abdulrhman A***",
+              "review_date": "26 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز 🤩 ممتاز 🤩"
+            },
+            {
+              "reviewer_name": "Shrooq A***",
+              "review_date": "16 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلب ليس بتاريخ اليوم"
+            },
+            {
+              "reviewer_name": "ن ا***",
+              "review_date": "13 October 2024",
+              "review_rating": "Good",
+              "review_comment": "الاكل واصل شكله صفر تحميس بددز شكوتي لطلبات"
+            },
+            {
+              "reviewer_name": "Murjan م***",
+              "review_date": "12 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "لكن كمية الدجاج قليل و كان صغير الحجم جدا"
+            },
+            {
+              "reviewer_name": "هناء ا***",
+              "review_date": "11 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "كل شى كان روعة 💕"
+            },
+            {
+              "reviewer_name": "Muneera A***",
+              "review_date": "10 October 2024",
+              "review_rating": "OK",
+              "review_comment": "soup was spilled"
+            },
+            {
+              "reviewer_name": "haya A***",
+              "review_date": "08 October 2024",
+              "review_rating": "OK",
+              "review_comment": "Its been 30 min arrived & didnt get the order yet"
+            },
+            {
+              "reviewer_name": "A M***",
+              "review_date": "04 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "perfectoo 🤩"
+            },
+            {
+              "reviewer_name": "Abdulrhman A***",
+              "review_date": "22 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز 🤩 روعه"
+            },
+            {
+              "reviewer_name": "FAHAD A***",
+              "review_date": "21 September 2024",
+              "review_rating": "OK",
+              "review_comment": "you didn’t put spoons and tissues👎"
+            },
+            {
+              "reviewer_name": "شهد ا***",
+              "review_date": "18 September 2024",
+              "review_rating": "OK",
+              "review_comment": "السلطه سيء وقديمه"
+            },
+            {
+              "reviewer_name": "Kathleen M***",
+              "review_date": "16 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Love their Low Carb and keto new products"
+            },
+            {
+              "reviewer_name": "Nour A***",
+              "review_date": "12 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "جميل جداً مناسب جداً"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "10 September 2024",
+              "review_rating": "Good",
+              "review_comment": "i didnt like the chicken tandoori"
+            },
+            {
+              "reviewer_name": "Dana A***",
+              "review_date": "10 September 2024",
+              "review_rating": "OK",
+              "review_comment": "شنو هذا أول مرة الاك اييني جذي قديم طعمه حيل سيء احبك ليش تسون فيني جذي"
+            },
+            {
+              "reviewer_name": "Abdulrhman A***",
+              "review_date": "10 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز 🤩"
+            },
+            {
+              "reviewer_name": "Noura Z***",
+              "review_date": "07 September 2024",
+              "review_rating": "OK",
+              "review_comment": "ينتهى صلاحيه الطعام في نفس يوم الطلب"
+            },
+            {
+              "reviewer_name": "Ghadeer F***",
+              "review_date": "05 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "واقف بعيد وادق عليه مايرد علي"
+            },
+            {
+              "reviewer_name": "رقية ا***",
+              "review_date": "31 August 2024",
+              "review_rating": "OK",
+              "review_comment": "الاكل ناقص لقد تم الاكل من البرياني الاكل ناقص في البرياني تم الاكل منه"
+            },
+            {
+              "reviewer_name": "احمد ا***",
+              "review_date": "31 August 2024",
+              "review_rating": "Very good",
+              "review_comment": "جيد المذاق بس الكمية قليله السايق محترم وأمين رجعلي باقي فلوسي بضبط"
+            },
+            {
+              "reviewer_name": "Rose R***",
+              "review_date": "28 August 2024",
+              "review_rating": "OK",
+              "review_comment": "الطعم جدا سئ بارد جدا وليس فرش"
+            },
+            {
+              "reviewer_name": "afaf a***",
+              "review_date": "24 August 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلب تم تسليمه لخدامه اخرى ووصل بارد"
+            },
+            {
+              "reviewer_name": "Mariam M***",
+              "review_date": "19 August 2024",
+              "review_rating": "OK",
+              "review_comment": "وصلتني شوربة العدل والغطاء مفتوح ومسكوب"
+            },
+            {
+              "reviewer_name": "Tahani A***",
+              "review_date": "17 August 2024",
+              "review_rating": "OK",
+              "review_comment": "سيء جدا"
+            }
+          ]
+        }
       }
     ]
   },
@@ -13660,7 +17166,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -13680,7 +17186,8 @@
       "Al Maida Al Yemeni",
       "Camellia",
       "Red Cream",
-      "Burger King"
+      "Burger King",
+      "DIET CARE Abu Halifa"
     ],
     "completed_pages": []
   }
