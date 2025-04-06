@@ -1,11 +1,11 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:13:24.086361",
+  "last_updated": "2025-04-06T10:13:30.184855",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 1,
-    "total_pages": 0,
+    "total_pages": 142,
     "current_restaurant": 0,
     "total_restaurants": 0,
     "processed_restaurants": [],
