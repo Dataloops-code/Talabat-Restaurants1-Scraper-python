@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:50:36.017340",
+  "last_updated": "2025-04-06T12:51:56.340004",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -37,7 +37,8 @@
       "Mr Baker",
       "Chateau De Gateaux",
       "Petit Four And More",
-      "Lunch & Dinner"
+      "Lunch & Dinner",
+      "Diet Care, Al-Qurain Lulu"
     ],
     "completed_pages": [
       1
