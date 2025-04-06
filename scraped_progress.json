@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:35:37.455950",
+  "last_updated": "2025-04-06T12:46:27.250046",
   "all_results": {
     "الظهر": [
       {
@@ -62091,6 +62091,2128 @@
             }
           ]
         }
+      },
+      {
+        "name": "Petit Four And More",
+        "cuisine": "Desserts, Cakes",
+        "url": "https://www.talabat.com/kuwait/restaurant/704364/petit-four-and-more-south-wista?aid=59",
+        "rating": "Very good",
+        "page": 2,
+        "delivery_time": "Within 42 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Mix Vanilla And Cocoa Fudge",
+              "description": "28 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Vanilla And Cocoa Fudge",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Mix Vaniila (3.500)",
+                    "Cacao Only (3.500)",
+                    "Vanilla Carmel With Cacao (3.500)",
+                    "Vanilla Apricot (3.500)",
+                    "Vanilla Apricot With Cacao (3.500)",
+                    "Vanilla Carmel (3.500)",
+                    "Mix Vanilla Cacao (3.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Oreo Balls And Crispy",
+              "description": "110 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Oreo Balls And Crispy",
+                "price_details": {
+                  "Your Choice From Size: (Choose 1)": [
+                    "Medium 110 Piece (9.500)",
+                    "Large 150 Pieces (13.500)",
+                    "Small 48 Pieces (4.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Chicken Potato Dish",
+              "description": "Chicken Potato Dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Potato Dish",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small alminuim (3.500)",
+                    "Medium alminuim (8.500)",
+                    "Large byrx (12.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Mix Petitfour",
+              "description": "56 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Petitfour",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Vanilla Apricot (7.000)",
+                    "Vanilla Apricot With Cacao (7.000)",
+                    "Mix Vaniila (7.000)",
+                    "Vanilla Carmel With Cacao (7.000)",
+                    "Vanilla Carmel (7.000)",
+                    "Mix Vanilla Cacao (7.000)",
+                    "Cacao Only (7.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Grape Leaves With Pomegranate Molasses",
+              "description": "Grape Leaves With Pomegranate Molasses",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grape Leaves With Pomegranate Molasses",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 17 Pieces (3.250)",
+                    "Medium 40 Pieces (7.000)",
+                    "Large 80 Pieces (13.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 5,
+              "name": "Petit Four With Belgian Chocolate",
+              "description": "Petit Four With Belgian Chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Petit Four With Belgian Chocolate",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Large 54 Pieces (10.000)",
+                    "Medium 25 Pieces (4.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Eid plates": [
+            {
+              "index": 6,
+              "name": "Eid Plate A1",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "27.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Tiffany Plate",
+              "description": "Tiffany plate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "29.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "EId Plate A3",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Eid Plate A 2",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "27.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Main Dishes": [
+            {
+              "index": 10,
+              "name": "Chicken Potato Dish",
+              "description": "Chicken Potato Dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Potato Dish",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small alminuim (3.500)",
+                    "Medium alminuim (8.500)",
+                    "Large byrx (12.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 11,
+              "name": "Chicken Cream Rolls Dish",
+              "description": "Chicken Cream Rolls Dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Cream Rolls Dish",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small Alminuim (3.500)",
+                    "Medium Alminuim (8.500)",
+                    "Large bryx (12.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 12,
+              "name": "Bechamel Pasta Dish",
+              "description": "Pasta, Béchamel sauce, Cheese, Salt, Black pepper",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Bechamel Pasta Dish",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small alminuim (3.500)",
+                    "Medium alminuim (8.500)",
+                    "Large bryx (12.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 13,
+              "name": "Pink Pasta Dish",
+              "description": "Pink Pasta Dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pink Pasta Dish",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small alminuim (3.500)",
+                    "Medium alminuim (7.500)",
+                    "Large bryx (11.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 14,
+              "name": "Spinach Pasta Dish",
+              "description": "Spinach Pasta Dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Spinach Pasta Dish",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small alminuim (3.500)",
+                    "Medium alminuim (7.500)",
+                    "Large byrx (11.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 15,
+              "name": "Alfredo Pasta Dish Without Chicken",
+              "description": "Alfredo Pasta Dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Alfredo Pasta Dish Without Chicken",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small alminuim (3.500)",
+                    "Medium alminuim (7.500)",
+                    "Large bryx (11.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 16,
+              "name": "Beetroot Salad 1",
+              "description": "With 2 large sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Rocca With Strawberry Salad 1",
+              "description": "With 2 large sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Mexican Salad 1",
+              "description": "With sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Eggplant Salad 1",
+              "description": "With sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Nachos Salad 1",
+              "description": "With 2 large sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Zaatar Salad Large 1",
+              "description": "With 2 large sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Asian Salad 1",
+              "description": "With 2 large sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Matay Salad\t 1",
+              "description": "With 2 large sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Eggplant Fatteh",
+              "description": "8 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Beetroot Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Beetroot Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Beetroot Salad Small (3.500)",
+                    "Sauce Large (0.600)",
+                    "Sauce Small (0.250)",
+                    "Beetroot Salad Large (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 26,
+              "name": "Matay Salad",
+              "description": "Matay Salad",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Matay Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "SAUCE SMILL (0.250)",
+                    "MATAY SALAD LAREG (8.000)",
+                    "MATAY SALAD SMILL (3.500)",
+                    "SAUCE LAREG (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 27,
+              "name": "Rocca with Strawberry Salad",
+              "description": "Rocca with strawberry salad",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Rocca with Strawberry Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "ROCCA WITH STRAWBERRY SMILL (3.500)",
+                    "SAUCE LARGE (0.600)",
+                    "ROCCA WITH STRAWBERRY SALAD LARGE (8.000)",
+                    "SAUCE SMALL (0.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 28,
+              "name": "Crispy Salad",
+              "description": "Crispy Salad",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Crispy Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "CRISPY SALAD SMILL (3.500)",
+                    "SAUCE LARGE (0.600)",
+                    "CRISPY SALAD LARGE (8.000)",
+                    "SAUEC SAMLL (0.250)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 29,
+              "name": "Zaatar Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Zaatar Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Zaatar Salad Small (3.500)",
+                    "Sauce Large (0.600)",
+                    "Sauce Small (0.250)",
+                    "Zaatar Salad Large (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 30,
+              "name": "Nachos Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Nachos Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "SAUCE LAGRE (0.250)",
+                    "SAUCE SMALL (0.600)",
+                    "NACHOS SALAD LAGRE (8.000)",
+                    "NACHOS SALAD SMALL (3.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Mexican Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mexican Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Mexican Salad small (3.500)",
+                    "sauce large (0.600)",
+                    "sauce samll (0.250)",
+                    "Mexican Salad Large (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 32,
+              "name": "Eggplant Salad",
+              "description": "Eggplant Salad",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Eggplant Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Sauce Small (0.250)",
+                    "Eggplant Salad Large (8.000)",
+                    "Eggplant Salad Small (3.500)",
+                    "Sauce Large (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 33,
+              "name": "Asian Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Asian Salad",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Sauca large (0.600)",
+                    "sauce samll (0.250)",
+                    "Asian Salad (8.000)",
+                    "Asian Salad (3.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Kuwaiti And Arabic Sweets and ghorayeba": [
+            {
+              "index": 34,
+              "name": "Pistachio Ghorayeba",
+              "description": "Pistachio Ghorayeba",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pistachio Ghorayeba",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Pistachio Ghorayeba 35 piece (4.000)",
+                    "Pistachio Ghorayeba 80 piece (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 35,
+              "name": "Pecan And Caramel Ghorayeba",
+              "description": "Pecan And Caramel Ghorayeba",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pecan And Caramel Ghorayeba",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Pecan And Caramel Ghorayeba 21 (4.000)",
+                    "Pecan And Caramel Ghorayeba 49 (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 36,
+              "name": "Damlooj",
+              "description": "Damlooj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Damlooj",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Medium 46 Pieces (7.000)",
+                    "Large 80 Pieces (12.000)",
+                    "Small 25 Pieces (4.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 37,
+              "name": "Renjinah",
+              "description": "40 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "jelash",
+              "description": "40 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Mini Qatayef",
+              "description": "Mini Qatayef",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Qatayef",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Large 62 Pieces Cheese (10.000)",
+                    "Small 20 Pieces Walnut (4.000)",
+                    "Small 20 Pieces Cheese (4.000)",
+                    "Large 62 Pieces Walnut (10.000)",
+                    "Large 62 Pieces Mix (10.000)",
+                    "Small 20 Pieces Mix (4.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "GRAPE LEAVES": [
+            {
+              "index": 40,
+              "name": "Grape Leaves with Lemon",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grape Leaves with Lemon",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "SML 17 Pieces (3.250)",
+                    "Medium 40 Pieces (7.000)",
+                    "Large 80 Pieces (13.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 41,
+              "name": "Grape Leaves With Pomegranate Molasses",
+              "description": "Grape Leaves With Pomegranate Molasses",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grape Leaves With Pomegranate Molasses",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 17 Pieces (3.250)",
+                    "Medium 40 Pieces (7.000)",
+                    "Large 80 Pieces (13.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 42,
+              "name": "Grape Leaves With Pomegranate Molasses And Kebbeh",
+              "description": "Grape Leaves With Pomegranate Molasses And Kebbeh",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Grape Leaves Lemon And Samosa",
+              "description": "Grape Leaves Lemon And Samosa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Grape Leaves and Pomegranate Molasses With Samosa",
+              "description": "Grape Leaves and Pomegranate Molasses With Samosa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Kubba With Samosa",
+              "description": "Kubba With Samosa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Grape Leaves Pomegranate Molasses With Musakhan",
+              "description": "Grape Leaves Pomegranate Molasses With Musakhan",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Grape Leaves Lemon And Musakhan",
+              "description": "40 PIECES LEMON - 40 PIECES MUSAKHAN",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Mix Grape Leaves",
+              "description": "Mix pomegranates and lemon 80 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Musakhan": [
+            {
+              "index": 49,
+              "name": "Musakhan Pleat",
+              "description": "Musakhan pleat 80 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Chicken Musakhan",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Musakhan",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "MOUSAKAN X 18 pieces (3.500)",
+                    "White Sauce (0.250)",
+                    "MOUSAKAN large 70 pieces (11.000)",
+                    "MOUSAKAN Medium 55 pieces (8.500)",
+                    "MOUSAKAN SMALL 40 pieces (7.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "sambosa": [
+            {
+              "index": 51,
+              "name": "Cheedar Cheese And Jalapeno Samosa",
+              "description": "36 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cheedar Cheese And Jalapeno Samosa",
+                "price_details": {
+                  "Your Choise Of: (Choose 1)": [
+                    "36 Frozen Pieces (6.000)",
+                    "36 Fried Pieces (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 52,
+              "name": "Potato Samosa",
+              "description": "36 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Potato Samosa",
+                "price_details": {
+                  "Your Choise Of: (Choose 1)": [
+                    "36 Frozen Pieces (6.000)",
+                    "36 Fried Pieces (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 53,
+              "name": "Halloumi Samosa",
+              "description": "36 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Halloumi Samosa",
+                "price_details": {
+                  "Your Choise Of: (Choose 1)": [
+                    "36 Frozen Pieces (6.000)",
+                    "36 Fried Pieces (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 54,
+              "name": "Samosa Pizza",
+              "description": "Samosa Pizza",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Samosa Pizza",
+                "price_details": {
+                  "Your Choice: (Choose 1)": [
+                    "Forzen 36 Pieces (6.000)",
+                    "Fried 36 Pieces (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 55,
+              "name": "Mix Samosa",
+              "description": "Mix Samosa 36 Pec",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Frozen And Fried Items": [
+            {
+              "index": 56,
+              "name": "Potato Kubba With Cheddar Cheese",
+              "description": "Potato Kubba With Cheddar Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Potato Kubba With Cheddar Cheese",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "25 Pieces Frozen (5.000)",
+                    "50 Pieces Frozen (8.000)",
+                    "25 Pieces Fried (5.500)",
+                    "50 Pieces Fried (8.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 57,
+              "name": "Khubiz Eroq",
+              "description": "30 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Khubiz Eroq",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Khubiz Eroq Frozen (5.000)",
+                    "Khubiz Eroq Fried (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 58,
+              "name": "Mix Kebbeh",
+              "description": "Mix Kebbeh",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Kebbeh",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Frozen 25 Pieces (5.000)",
+                    "Fried 25 Pieces (5.500)",
+                    "Fried 50 Pieces (8.500)",
+                    "Frozen 50 Pieces (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 59,
+              "name": "Bulgur Meat",
+              "description": "Arabic kuwaiti meat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Bulgur Meat",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Large Frozen 50 Pieces (9.000)",
+                    "Small Frozen 25 Pieces (6.000)",
+                    "Large Fried 50 Pieces (9.000)",
+                    "Small Fried 25 Pieces (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 60,
+              "name": "Beetroot Kebbeh With Cheddar Jalapeno",
+              "description": "Beetroot Kebbeh With Cheddar Jalapeno",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Beetroot Kebbeh With Cheddar Jalapeno",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Large 50 Pieces Frozen (8.000)",
+                    "Small 25 Pieces Frozen (5.000)",
+                    "Large 50 Pieces Fried (8.500)",
+                    "Small 25 Pieces Fried (5.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 61,
+              "name": "Chicken Kebbeh",
+              "description": "Chicken Kebbeh",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Kebbeh",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Large 50 Pieces Frozen (8.000)",
+                    "Small 25 Pieces Frozen (5.000)",
+                    "Large 50 Pieces Fried (8.500)",
+                    "Small 25 Pieces Fried (5.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 62,
+              "name": "Potato Kebbeh With Meat",
+              "description": "Potato Kebbeh With Meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Potato Kebbeh With Meat",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Large 50 Pieces Frozen (8.000)",
+                    "Small 25 Pieces Frozen (5.000)",
+                    "Large 50 Pieces Fried (8.500)",
+                    "Small 25 Pieces Fried (5.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Chocolate Pudding": [
+            {
+              "index": 63,
+              "name": "Pudding Cake",
+              "description": "1 piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "PETITFOUR CATEGORY": [
+            {
+              "index": 64,
+              "name": "Mix Sweet Plate",
+              "description": "Ghuraiba pistachio, petitfour cacao, petitfour apricot, petitfour carmel, damloj, ranjina, walnut ghuraiba 146 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Petit Four With Belgian Chocolate",
+              "description": "Petit Four With Belgian Chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Petit Four With Belgian Chocolate",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Large 54 Pieces (10.000)",
+                    "Medium 25 Pieces (4.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 66,
+              "name": "Cacao Fudge",
+              "description": "98 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Mix Vanilla And Cocoa Fudge",
+              "description": "28 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Vanilla And Cocoa Fudge",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Mix Vaniila (3.500)",
+                    "Cacao Only (3.500)",
+                    "Vanilla Carmel With Cacao (3.500)",
+                    "Vanilla Apricot (3.500)",
+                    "Vanilla Apricot With Cacao (3.500)",
+                    "Vanilla Carmel (3.500)",
+                    "Mix Vanilla Cacao (3.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 68,
+              "name": "Mix Vanilla Cacao Fudge",
+              "description": "98 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Vanilla Cacao Fudge",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Vanilla Apricot (12.000)",
+                    "Mix Vanilla Cacao (12.000)",
+                    "Mix Vaniila (12.000)",
+                    "Vanilla Carmel (12.000)",
+                    "Cacao Only (12.000)",
+                    "Vanilla Apricot With Cacao (12.000)",
+                    "Vanilla Carmel With Cacao (12.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 69,
+              "name": "Cacao Fudge 28 Pieces",
+              "description": "28 PIECES",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Fudge Cacao",
+              "description": "56 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Mix Petitfour",
+              "description": "56 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Petitfour",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Vanilla Apricot (7.000)",
+                    "Vanilla Apricot With Cacao (7.000)",
+                    "Mix Vaniila (7.000)",
+                    "Vanilla Carmel With Cacao (7.000)",
+                    "Vanilla Carmel (7.000)",
+                    "Mix Vanilla Cacao (7.000)",
+                    "Cacao Only (7.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 72,
+              "name": "Petitfour Mix 9 Pieces",
+              "description": "9 pieces cacao with vanilla apricot and carmel",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Petitfour Roseberry & Cacao",
+              "description": "Roseberry cacao 56 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Petitfour Vanilla Roseberry",
+              "description": "Vanilla Roseberry 56 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Mix Sweet",
+              "description": "Petitfour cacao fudge, petitfour vanilla apricot and carmel, damloj, pistachio ghuraiba, and walnut carmel ghuraiba",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Hamsat": [
+            {
+              "index": 76,
+              "name": "Hamsat 8 Pieces Of Your Choice",
+              "description": "Order before 2 hours.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "GRAPE LEAVES PLATES": [
+            {
+              "index": 77,
+              "name": "Vine Leaves With Lemon Flavor 110 Pieces",
+              "description": "Vine Leaves With Lemon Flavor 110 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Grape Leaves",
+              "description": "Grape leaves 130 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "20.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Grape Leaves Plate",
+              "description": "Grape Leaves plate 90 piece",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grape Leaves Plate",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Grape leaves pomegranate (15.000)",
+                    "Grape leaves lemon (15.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Pastries": [
+            {
+              "index": 80,
+              "name": "Mix Fired 60 Piece",
+              "description": "Samosa + kibbeh + musakhan + chicken thighs + grape leaves",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Mix Pastries",
+              "description": "Variety of pastries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Pastries",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Mix Fried 60 Piece Kebbeh, Musakhan, Grape Leaves, Samosa (9.000)",
+                    "Sml 80PCS Mini kubba, Mousakan, Fatayer, Deeps Roman (9.000)",
+                    "Large 120 Pcs Mini Kubba, Mousakan, Fatayer, Deeps Roman (13.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 82,
+              "name": "Mini Fatayer",
+              "description": "Mini fatayer, small sized savory pastries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Fatayer",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 80 Pieces (9.000)",
+                    "Large 120 Pieces (13.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 83,
+              "name": "Mini Mix Kebbeh",
+              "description": "Mini Mix Kebbeh",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Kebbeh",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Frozen 25 Pieces (5.000)",
+                    "Fried 25 Pieces (5.500)",
+                    "Fried 50 Pieces (8.500)",
+                    "Frozen 50 Pieces (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 84,
+              "name": "Tabdoon Bread",
+              "description": "Tabdoon Bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabdoon Bread",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 15 Pieces Plain (4.500)",
+                    "Large 30 Pieces Plain (8.500)",
+                    "Small 15 Pieces Zaatar (4.500)",
+                    "Large 30 Pieces Zaatar (8.500)",
+                    "Small 15 Pieces Feta Cheese (4.500)",
+                    "Large 30 Pieces Feta Cheese (8.500)",
+                    "Small 15 Pieces Mix (4.500)",
+                    "Large 30 Pieces Mix (8.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 85,
+              "name": "Mini Sandwiches",
+              "description": "52 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Mix Pastries Plate",
+              "description": "Mix Pastries grape leaves - fatayer - musakhan - kibbeh 150 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "22.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bites": [
+            {
+              "index": 87,
+              "name": "Oreo Balls And Crispy Large",
+              "description": "Oreo Balls And Crispy Large",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Mini Molten Cake",
+              "description": "Mini Molten Cake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Molten Cake",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Small 6 Piece (5.500)",
+                    "Large 12 Piece (10.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 89,
+              "name": "Mini Albaa",
+              "description": "Mini Albaa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Albaa",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "small 6 piece (4.000)",
+                    "large 12 piece (7.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 90,
+              "name": "Oreo Balls And Crispy",
+              "description": "110 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Oreo Balls And Crispy",
+                "price_details": {
+                  "Your Choice From Size: (Choose 1)": [
+                    "Medium 110 Piece (9.500)",
+                    "Large 150 Pieces (13.500)",
+                    "Small 48 Pieces (4.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 91,
+              "name": "Coconut Chocolate Sticks",
+              "description": "Pieces 30.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Rocky Road",
+              "description": "Dessert made with chocolate, and nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Rocky Road",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 20 Pieces (3.000)",
+                    "Large 40 Pieces (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 93,
+              "name": "Crunchy Crispy",
+              "description": "Crunchy Crispy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Crunchy Crispy",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 15 Pieces (3.000)",
+                    "Large 37 Pieces (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 94,
+              "name": "Brownies",
+              "description": "Indulge in the richness of our fudgy Brownies, made with chocolate and butter for intense flavor and finished with a crackly top for ultimate indulgence.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Brownies",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small Mix 24 Pieces (6.000)",
+                    "Large Mix 36 Pieces (10.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 95,
+              "name": "Ulker Sweets",
+              "description": "42 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ulker Sweets",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Small 18 Pieces (4.000)",
+                    "Large 42 Pieces (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 96,
+              "name": "Biscuits Balls",
+              "description": "12 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Oreo",
+              "description": "Chocolate wafers sandwiching a vanilla cream filling",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Crispy Corn Flakes",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Crispy Corn Flakes",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Crispy Corn Flakes Medium 110 Pieces (9.500)",
+                    "Crispy Corn Flakes Small 48 Pieces (4.500)",
+                    "Crispy Corn Flakes Large 150 Pieces (13.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Trifles & Cake": [
+            {
+              "index": 99,
+              "name": "Molten Cake",
+              "description": "A decadent dessert with a rich, gooey chocolate center that oozes out when the cake is cut into.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Molten Cake",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Molten Cake (11.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 100,
+              "name": "Qurs Oqaily Cake",
+              "description": "1 piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Date Cake",
+              "description": "1 piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "Rahash Cake",
+              "description": "1 piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Mini Qurs Oqaily",
+              "description": "45 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Shabora",
+              "description": "22 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Pomegranate Trifle",
+              "description": "Pomegranate seeds, ladyfingers, mascarpone cheese, whipped cream, pomegranate juice, sugar, vanilla extract",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pomegranate Trifle",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 1 Piece (4.000)",
+                    "Large 1 Piece (7.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 106,
+              "name": "Tuk Sweets",
+              "description": "Tuk Sweets",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tuk Sweets",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 1 Piece (4.000)",
+                    "Large 1 Piece (7.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 107,
+              "name": "Caramel And Honey Cake",
+              "description": "1 piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Caramel And Honey Cake",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Large 1 Pieces (7.500)",
+                    "Small 1 Pieces (4.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 108,
+              "name": "Mix Trifles",
+              "description": "24 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "Choco Lava Cake",
+              "description": "Choco Lava Cake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Choco Lava Cake",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 14 Pieces (3.000)",
+                    "Medium 30 Pieces (5.000)",
+                    "Large 65 Pieces (9.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 110,
+              "name": "Mini Victoria Cake",
+              "description": "Mini Victoria Cake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Victoria Cake",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 25 Pieces (4.000)",
+                    "Big 60 Pieces (8.000)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in South Wista, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/petit-four-and-more",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.0",
+          "Ratings_count": "10620",
+          "Reviews_count": "5602",
+          "General_review": [
+            "Petit Four And More is a restaurant located in Kuwait, serving a selection of Desserts, Cakes that delivers across Abdullah Al-Mubarak - West Jeleeb, Abu Ftaira, Abu Halifa, Abu Hasaniya and Adailiya.",
+            "Their best selling dishes are Grape Leaves with Lemon, Mix Petitfour, Oreo Balls And Crispy and Petit Four With Belgian Chocolate, although they have a variety of dishes and meals to choose from like Desserts, Cakes.",
+            "They have been reviewed 10620 times by talabat users, with a rating of 4."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "نوير ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "انظف سلطة ذقتها 🩷😍عجيبه ممتازه جداً"
+            },
+            {
+              "reviewer_name": "نها ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم الكيك"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "it's delicious but the byrx is coming divider not same the photo"
+            },
+            {
+              "reviewer_name": "نادية ح***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "حتي نجمه ما اعطيه وصل الطلب استغفر الله الكريمه ذايبه ماي والبطاط ابيض مو متحمر بالفرن اكس عليه لا بأس"
+            },
+            {
+              "reviewer_name": "Kady A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب ناقص"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "ليش غيرتوا حجم السلطه الصغير"
+            },
+            {
+              "reviewer_name": "سلمى ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "واااو عجيبببببببببي حيلللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللل"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "very bad!! fine"
+            },
+            {
+              "reviewer_name": "Huda G***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "غالي والكميه قليله"
+            },
+            {
+              "reviewer_name": "Amani A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكمية قليييله جدا"
+            },
+            {
+              "reviewer_name": "Mr.S s***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء البراونيز حسيته قديم ولاجا محشي جوكلت"
+            },
+            {
+              "reviewer_name": "ام ب***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تم تجاهل ملاحظتي حيث طلبت كل علبه بكيس ووصلوهم اثنينهم بكيس واحد"
+            },
+            {
+              "reviewer_name": "hala ا***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "قديم كان الكيك يمكن من اسبوع مسوينهوارسلو لي تجربه فاشله"
+            },
+            {
+              "reviewer_name": "bashayer A***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي حلو عندهم"
+            },
+            {
+              "reviewer_name": "سحر س***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "القطايف صغييييييرة حيييييل ومتروسة شيرة"
+            },
+            {
+              "reviewer_name": "sana a***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "رائحه وطعم مر وعلبه غير نظيفه"
+            },
+            {
+              "reviewer_name": "Salem A***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "كرات البطاط طعمها سئ"
+            },
+            {
+              "reviewer_name": "Huda G***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء القطايف وااضح دهن القلي قديم فيها ريحه"
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "20 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الكميه جداً قليله مقابل السعر"
+            },
+            {
+              "reviewer_name": "Awatef a***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "السعر غالي مقارنة بالكمية"
+            },
+            {
+              "reviewer_name": "Fatemah D***",
+              "review_date": "19 March 2025",
+              "review_rating": "Good",
+              "review_comment": "رولات الدجاج و الكبب ماااالحه بحر .. بس المسخن لذيييذ"
+            },
+            {
+              "reviewer_name": "Afnan A***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "tasteless"
+            },
+            {
+              "reviewer_name": "Toot A***",
+              "review_date": "19 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجيييب 👍شكراا🌹 عجيييب 👍شكراا🌹"
+            },
+            {
+              "reviewer_name": "Ali A***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "القرص عقيلي حلو بس للاسف البيتيفور النوعين المغلف و العادي مو مثل قبل جودة الكاكاو متغيره للاسوء"
+            },
+            {
+              "reviewer_name": "mrym a***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "السلطات حيييل لذيذذذذه وفررررش 💕💕💕💕 ان شاء الله تكونون دايماً على هالمستوى وماتتغيرون سريعه"
+            },
+            {
+              "reviewer_name": "unknown A***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "i didn’t even swallow it, packaging sucks"
+            },
+            {
+              "reviewer_name": "Jeed A***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "البتي فور كان ترف بس مكسر ومطحون بالعلبه"
+            },
+            {
+              "reviewer_name": "Fatima A***",
+              "review_date": "16 March 2025",
+              "review_rating": "OK",
+              "review_comment": "بصراحه احب منتجاتكم لكن كمية الملح في الكبب و الخبز العروق شي غريب بالضبط جنه حاشيين الاكل ملح كمية"
+            },
+            {
+              "reviewer_name": "Hala F***",
+              "review_date": "16 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز بس اصبح غير موجود بعض الاوقات"
+            },
+            {
+              "reviewer_name": "ناصر ن***",
+              "review_date": "15 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طعمه فااشل للاسف"
+            }
+          ]
+        }
       }
     ]
   },
@@ -62098,7 +64220,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -62145,7 +64267,8 @@
       "Rochas sweets",
       "Ananas",
       "Overjar",
-      "hopo"
+      "hopo",
+      "Petit Four And More"
     ],
     "completed_pages": [
       1,
