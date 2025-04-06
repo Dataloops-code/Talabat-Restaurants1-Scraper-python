@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:56:27.866246",
+  "last_updated": "2025-04-06T11:57:33.417282",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -42,7 +42,8 @@
       "The Cheesecake Factory, Mahboula",
       "Diet Care, Al-Qurain Lulu",
       "Petit Four And More",
-      "Health Stop"
+      "Health Stop",
+      "Kalha , Mahboula TGO"
     ],
     "completed_pages": [
       1
