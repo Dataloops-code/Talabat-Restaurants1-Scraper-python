@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T14:35:17.258418",
+  "last_updated": "2025-04-06T14:36:28.376090",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 4,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -64,7 +64,8 @@
       "Bukhari Al Malyon",
       "Arabica",
       "Starbucks Aswaq Al Qurain 1",
-      "Sealed"
+      "Sealed",
+      "Azaim"
     ],
     "completed_pages": [
       1,
