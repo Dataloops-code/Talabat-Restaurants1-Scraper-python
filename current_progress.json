@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T14:30:54.398768",
+  "last_updated": "2025-04-06T14:32:22.709880",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 4,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -61,7 +61,8 @@
       "Krispy Kreme",
       "Dunia Albukhary",
       "MJ Burger",
-      "Bukhari Al Malyon"
+      "Bukhari Al Malyon",
+      "Arabica"
     ],
     "completed_pages": [
       1,
