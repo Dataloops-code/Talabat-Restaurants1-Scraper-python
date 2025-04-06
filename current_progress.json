@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:29:51.221780",
+  "last_updated": "2025-04-06T10:31:30.363030",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -20,7 +20,8 @@
       "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira",
-      "Bait Noura"
+      "Bait Noura",
+      "Achar Chefna (Lake Mall)"
     ],
     "completed_pages": []
   }

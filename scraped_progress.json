@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:29:51.223372",
+  "last_updated": "2025-04-06T10:31:30.364743",
   "all_results": {
     "الظهر": [
       {
@@ -6494,6 +6494,1275 @@
             }
           ]
         }
+      },
+      {
+        "name": "Achar Chefna (Lake Mall)",
+        "cuisine": "Indian, Arabic, Kuwaiti",
+        "url": "https://www.talabat.com/kuwait/restaurant/706403/achar-chefnafnaitessdh-kitchen?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 26 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Green ology chicken",
+              "description": "Green rice dish served with chicken slowly cooked in rich creamy sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Dolma",
+              "description": "10 Pieces of rolled grape vine with Pomegranate molasses sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Nachos Salad",
+              "description": "Delicious mix of cucumber, yellow capsicum, yellow sweetcorn and natchos crunched peices, served with special sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Coconut Chicken Curry",
+              "description": "Coconut chicken curry, saffron rice served with chicken cooked in creamy coconut sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Chicken Biriyani",
+              "description": "Traditional chicken biryani is made by layering marinated chicken at the bottom of a pot followed by another layer of cooked rice, herbs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Beets On Chicken",
+              "description": "Rice cooked with beetroot and served with chicken cooked in creamy butter curry sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Rice Dishes": [
+            {
+              "index": 6,
+              "name": "Green ology chicken",
+              "description": "Green rice dish served with chicken slowly cooked in rich creamy sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Beets On Chicken",
+              "description": "Rice cooked with beetroot and served with chicken cooked in creamy butter curry sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Beets on Chicken Coconut Sauce",
+              "description": "Rice cooked with beetroot and served with chicken cooked in creamy coconut sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Orange Rice Grilled Chicken",
+              "description": "Rice cooked with butter and served with grilled chicken.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Chefna Chicken Cheese Mix",
+              "description": "Saffron rice dish served with chicken and mushroom cooked in creamy rich sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Coconut Chicken Curry",
+              "description": "Coconut chicken curry, saffron rice served with chicken cooked in creamy coconut sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Chicken Majboos",
+              "description": "Chicken Majboos special way by our Chef is a national arabic dish of kuwait which is a spiced rice and herb chicken. It is served with a tomato garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Meat Majboos",
+              "description": "Meat majbos special way by our Chef is national Arabic dish of Kuwait which is spiced rice and herb it is served with tomato garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Chicken Biriyani",
+              "description": "Traditional chicken biryani is made by layering marinated chicken at the bottom of a pot followed by another layer of cooked rice, herbs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Meat Biriyani",
+              "description": "Meat Biryani is a royal dish with beautifully spiced and fragrant layers of biryani rice centered with juicy, tender meat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Butter Chicken",
+              "description": "Butter Curry chicken, traditionally known as murgh makhani, a known Indian dish  Which is a type of curry made from tomato sauce, butter and chicken  Its sauce is known for its rich texture.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Chefna Meat",
+              "description": "Saffron rice dish served with meat and mushroom cooked in creamy rich sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Buttered  Masala Shrimps",
+              "description": "Amazing Indian Butter Shrimp is a must try recipe! Tender shrimp in mouth watering makhani sauce is made as of the classic butter shrimp which is made without stock. Serve over rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Potato Chefna",
+              "description": "Vegetarian choice, Potato cubs in special butter sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chapati Wrap Sandwiches": [
+            {
+              "index": 20,
+              "name": "Chapati Butter Chicken Wrap",
+              "description": "A Butter Chicken Wrap is a tasty and convenient meal that combines the flavors of India with the comfort of chapati wrap. Typically, it consists of a flour tortilla wrapped around tender chicken cooked in a rich, creamy butter chicken sauce, along with crispy onions and chutney sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Chapati Nutella Wrap",
+              "description": "A Nutella wrap is a popular dessert or snack that typically consists of a large  wrapped bread around a filling of Nutella, a chocolate-hazelnut spread.  It's a sweet and indulgent treat that's perfect for satisfying your chocolate cravings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 22,
+              "name": "Nachos Salad",
+              "description": "Delicious mix of cucumber, yellow capsicum, yellow sweetcorn and natchos crunched peices, served with special sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Fatteh Chefna",
+              "description": "Our special mix of small cubs of potato, eggplant and cucumber served with our special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Tabbouleh Beetroot Salad",
+              "description": "Tabbouleh Beetroot Salad is a delicious and refreshing dish. Tabbouleh is a traditional dish which is often served with bread croutons and a tangy dressing of lemon and olive oil, making it a perfect side dish or light meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Tabbouleh Salad",
+              "description": "Tabbouleh salad is a simple Mediterranean salad of very finely chopped lots of fresh parsley and burghul all tossed with lime juice and olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Vine Leaves Fatteh Salad",
+              "description": "A delicious layers of rice and grape leaves with sauce and pomegranate molasses.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Dolma Fatteh",
+              "description": "Dolma mix with pomegranate seeds and with potato cubes with pomegranate molasses sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Tandoori Grills": [
+            {
+              "index": 28,
+              "name": "Mix Grill Single",
+              "description": "One kabab skewer, 5 pcs chicken tikka, 5 pcs chicken malai with garlic mayo sauce, tahina sauce and saj bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Grilled Kabab Skewers",
+              "description": "4 Skewers of minced meat marinated with special Indian spices, served with tahini sauce and Saj Bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Chicken Tikka",
+              "description": "Grilled Boneless Chicken Marinated in fresh Indian spices, served with Garlic Mayo Sauce and Saj Bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Chicken Malai",
+              "description": "Grilled boneless chicken marinated in Cream, herbs, and served with Chutney sauce & Saj Bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Achar": [
+            {
+              "index": 32,
+              "name": "Achar Okra",
+              "description": "Okra Achar Box 400g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Achar Eggplant",
+              "description": "Eggplant achar box 400g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Achar Mushroom",
+              "description": "Achar Mushroom Box 400g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizers": [
+            {
+              "index": 35,
+              "name": "Sambosa With Jalapeno And Cheese",
+              "description": "10 pieces of Sambosa With Jalapeno And Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Sambosa Plain Cheese",
+              "description": "10 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Sambosa Potato With Achar",
+              "description": "10 pieces of  Sambosa stuffed Potato With Achar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Dolma",
+              "description": "10 Pieces of rolled grape vine with Pomegranate molasses sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Grape Leaves Lemon",
+              "description": "10 Pieces of Grape Leaves Lemon",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Meat Kubba",
+              "description": "5 Pieces of crunchy Meat Kebba",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Butter Naan Bread",
+              "description": "Mix Of White flour, sugar, salt, and butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Garlic Naan Bread",
+              "description": "Mix Of White flour, sugar, salt, garlic, and butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Cheese Naan Bread",
+              "description": "White flour, sugar, and salt stuffed with 3 kinds of cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Family Combo": [
+            {
+              "index": 44,
+              "name": "Chefna Meat Pyrex",
+              "description": "Saffron rice dish served with meat and mushroom cooked in creamy rich sauce served in Pyrex Dish enough for3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Green Ology Chicken Pyrex",
+              "description": "Green rice dish served with chicken slowly cooked in rich creamy sauce served in Pyrex dish enough for 3-4 Persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Rice Beets On Chicken Pyrex",
+              "description": "Rice cooked with beetroot and served with chicken cooked in creamy butter curry sauce served in pyrex dish enough for 3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Beets on Chicken Coconut Sauce Pyrex",
+              "description": "3-4 Persons Family size rice cooked with beetroot and served with chicken cooked in creamy coconut sauce served in Pyrex Dish .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Orange Rice Grilled Chicken Pyrex",
+              "description": "3-4 Persons Family size rice cooked with butter and served with grilled chicken served in Pyrex Dish .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Rice Cheese Mix Chicken Pyrex",
+              "description": "Saffron rice dish served with chicken and mushroom cooked in creamy rich sauce served in a Pyrex dish enough for 3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Rice Coconut Chicken Curry Pyrex",
+              "description": "Coconut chicken curry, saffron rice served with chicken cooked in creamy coconut sauce served in Pyrex Dish enough for 3-4 Persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Chicken Majboos Pyrex",
+              "description": "Chicken majboos special way by our Chef is a national Arabic dish of Kuwait which is a spiced rice and herb chicken. It is served with tomato garlic sauce and served in pyrex enough for3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Meat Majboos Pyrex",
+              "description": "Meat majbos special way by our Chef is national Arabic dish of Kuwait which is spiced rice and herb it is served with tomato garlic sauce served in Pyrex enough for3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Chicken Biriyani Pyrex",
+              "description": "Traditional chicken biryani is made by layering marinated chicken at the bottom of a pot followed by another layer of cooked rice, herbs Served in Pyrex Dish enough for 3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Meat Biriyani Pyrex",
+              "description": "Traditional meat biryani is made of marinated meat with cooked rice, herbs served in Pyrex Dish enough for 3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Butter Shrimp Pyrex",
+              "description": "Amazing Indian Butter Shrimp is a must try recipe! Tender shrimp in mouth watering makhani sauce is made as of the classic butter shrimp which is made without stock. Serve over rice served in Pyrex Dish enough for3-4 persons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Family Sweet Vine Leaves",
+              "description": "Family Sweet Vine Leaves of 30 pcs served in large container.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Family Lemon Vine Leaves",
+              "description": "Family Lemon Vine Leaves of 30 pcs served in large container.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Family Nachos Salad",
+              "description": "Delicious mix of cucumber, yellow capsicum, yellow sweetcorn and nachos crunched pieces, served with our special sauce in a large dish enough for 4-5 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Mix Sambousa Family Size",
+              "description": "Mix Sambousa Family Size of 30 pcs served in a large box. (10 pcs Cheese, 10 pcs Jalapeno and cheese and 10 pcs potato with Achar).",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts": [
+            {
+              "index": 60,
+              "name": "Milk Cake",
+              "description": "Milk Cake is a traditional Indian milk that's made of milk, sugar, ghee, and an acidic agent such as lemon juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Chocolate Milk Cake",
+              "description": "The chocolate milk cake is a rich dessert that combines the flavors of chocolate and milk in a moist and tender cake.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Muhalabiya Brûlée",
+              "description": "Muhalabiya brûlée consists of a caramelized sugar and milk custard base, topped with a layer of caramelized sugar. The name \"muhalabiya\" is derived from the Arabic word for \"milk.\" This rich and creamy dessert is often flavored with rose water, giving it a unique and exotic taste. It's typically served chilled, making it a refreshing treat during hot summer months. The combination of textures and flavors in muhalabiya brûlée makes it a beloved dessert throughout the Middle East and beyond.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Rice Pudding",
+              "description": "Rice pudding is a sweet dessert made from rice, milk, and sugar. It's flavored with vanilla and cinnamon. Rice pudding can be served warm or chilled, and it's a popular treat in many cultures, including Asian, Latin American, and European cuisines. It's also a good source of carbohydrates and can be fortified with additional nutrients like calcium and vitamin D.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Nutella Sambosa",
+              "description": "10 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ready To Cook": [
+            {
+              "index": 65,
+              "name": "Samosa Plain Cheese Frozen",
+              "description": "25 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Meat Kibbeh Frozen",
+              "description": "10 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Samosa Potato With Achar Frozen",
+              "description": "25 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Samosa With Jalapeno And Cheese Frozen",
+              "description": "25 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Extras": [
+            {
+              "index": 69,
+              "name": "Extra Chicken Green",
+              "description": "Chicken Green with a special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Extra Achar Mushroom",
+              "description": "Achaar mushroom is pickled, popular condiment from Indian cuisine.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Extra Achar Eggplant",
+              "description": "Eggplant Achar freshly prepared with our special ingredients",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Extra Achar Okra",
+              "description": "Achar Okra",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Mabouj",
+              "description": "Kuwaiti Mabouj is ground or finely chopped pepper with a special mixture, served with rice dishes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Extra Chicken Cheese Mix",
+              "description": "This mouth-watering delicacy, made of Minced chicken, garlic, onion, flour, egg, breadcrumbs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Extra Chicken Chamandar",
+              "description": "Chicken prepared with special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Garlic Mayonnaise Sauce",
+              "description": "Garlic Mayonnaise Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Beets Achar Rice",
+              "description": "Beets are an excellent source of folate, manganese, potassium, and copper. They are also a known source of magnesium, phosphorous, vitamin C, iron, vitamin B 6, and dietary fiber. They are low in saturated fat and cholesterol.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Chutney Sauce",
+              "description": "Mint Yogurt Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Extra Green Rice",
+              "description": "Extra Green Rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Extra Chicken With Curry And Coconut Sauce",
+              "description": "Chicken With Curry And Coconut Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Extra Butter Chicken",
+              "description": "Achar Chefna extra butter chicken",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Yellow Achar Rice",
+              "description": "Yellow rice is basically white rice that is colored by the spices turmeric or saffron when prepared.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "White Steam Rice",
+              "description": "Cooked by steaming rice as Asian famous rice cooking way.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 84,
+              "name": "Arwa Water",
+              "description": "Arwa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Sprite",
+              "description": "Sprite",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Fanta Orange",
+              "description": "Fanta orange",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Sprite-Light",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Coca-Cola",
+              "description": "Coca-Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Coca-Cola Light",
+              "description": "Coca-Cola light",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Fnaitess, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/archar-chefna-dh-kitchenlake-mall",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "2105",
+          "Reviews_count": "1149",
+          "General_review": [
+            "Their best selling dishes are Green ology chicken, Dolma, Coconut Chicken Curry and Sambosa Potato With Achar, although they have a variety of dishes and meals to choose from like Indian, Arabic, Kuwaiti.",
+            "They have been reviewed 2105 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "حصلت شعر بالاكل وناسين الكولا"
+            },
+            {
+              "reviewer_name": "sarah a***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الخبز معفن"
+            },
+            {
+              "reviewer_name": "Thamer A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "1 portion item instead of 4"
+            },
+            {
+              "reviewer_name": "Lolowa A***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الناتشوز نتفه الصلصه"
+            },
+            {
+              "reviewer_name": "Hadeel A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "واصلتلب الفته بدون السوس !!"
+            },
+            {
+              "reviewer_name": "fatma a***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الدجاج نازل مستواه حيل ابدا موحلو يابس وزفر صدمه👎🏼كان الدجاج حيل لذيذ وهالمره سيييء حيل التوصيل ممتاز"
+            },
+            {
+              "reviewer_name": "Lulu A***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل كان سيء والدجاج ماكان مطبوخ!"
+            },
+            {
+              "reviewer_name": "Saad A***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "رائحة زنخة الدجاج للأسف ،، الله يديم النعم"
+            },
+            {
+              "reviewer_name": "ضبية ا***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اوكك"
+            },
+            {
+              "reviewer_name": "Sarah f***",
+              "review_date": "11 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيييييييذ"
+            },
+            {
+              "reviewer_name": "abdullah a***",
+              "review_date": "08 March 2025",
+              "review_rating": "Good",
+              "review_comment": "مو نفس قبل"
+            },
+            {
+              "reviewer_name": "محمد ع***",
+              "review_date": "05 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا شكرا"
+            },
+            {
+              "reviewer_name": "خالد روب ***",
+              "review_date": "03 March 2025",
+              "review_rating": "Good",
+              "review_comment": "عبالي حلو😒"
+            },
+            {
+              "reviewer_name": "أم فهد ا***",
+              "review_date": "02 March 2025",
+              "review_rating": "OK",
+              "review_comment": "السمبوسة كانها قديمة ولم يتم طبخها جيداوالطعم مو حلو مو نفس اول"
+            },
+            {
+              "reviewer_name": "November o***",
+              "review_date": "02 March 2025",
+              "review_rating": "OK",
+              "review_comment": "dressing is missing"
+            },
+            {
+              "reviewer_name": "Aisha S***",
+              "review_date": "26 February 2025",
+              "review_rating": "OK",
+              "review_comment": "not tasty at all"
+            },
+            {
+              "reviewer_name": "زهراء ا***",
+              "review_date": "26 February 2025",
+              "review_rating": "OK",
+              "review_comment": "راحت ايامه آجار شيفنا قبل احلى ورق عنب الحين الله يزيد النعمه انصدمت ما قدرت اكله"
+            },
+            {
+              "reviewer_name": "عبير ا***",
+              "review_date": "25 February 2025",
+              "review_rating": "OK",
+              "review_comment": "طالبه سمبوسه جبن بالهبينو وصل بس جبن"
+            },
+            {
+              "reviewer_name": "محمد ع***",
+              "review_date": "24 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "thank alot"
+            },
+            {
+              "reviewer_name": "ام يوسف ا***",
+              "review_date": "11 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "الكمية جدا قليله"
+            },
+            {
+              "reviewer_name": "عبدالعزيز ج***",
+              "review_date": "07 February 2025",
+              "review_rating": "OK",
+              "review_comment": "دافع 30 دينار على اطباق الجمعات ، واصلي بايركسين ، واحد فيه صدرين ، وثاني فيه 8 قطع لحم صغيره، غش"
+            },
+            {
+              "reviewer_name": "M A***",
+              "review_date": "05 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل ساخن وطازج شكراً لكم السايق وصل بسرعهشكرا"
+            },
+            {
+              "reviewer_name": "نشمي ا***",
+              "review_date": "05 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الدولمه فاشل حب مومطبوخ عدل"
+            },
+            {
+              "reviewer_name": "مها ا***",
+              "review_date": "01 February 2025",
+              "review_rating": "OK",
+              "review_comment": "فته ورق عنب بايته قديمه والطعم سئ من اول لقمه شميت ريحة العفن بالصوص وراح بالزباله اتقو الله"
+            },
+            {
+              "reviewer_name": "فهـــد ا***",
+              "review_date": "24 January 2025",
+              "review_rating": "Good",
+              "review_comment": "حلو لكن الدجاج مو مستوي كامل شوي"
+            },
+            {
+              "reviewer_name": "noura a***",
+              "review_date": "21 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الخبز في عفن"
+            },
+            {
+              "reviewer_name": "Mohammad R***",
+              "review_date": "20 January 2025",
+              "review_rating": "OK",
+              "review_comment": "Watery Butter chicken, adding water to make the marag look more! chicken all fatty ! مرق دياي غضاريف"
+            },
+            {
+              "reviewer_name": "Hadeel e***",
+              "review_date": "16 January 2025",
+              "review_rating": "OK",
+              "review_comment": "من اسوء المطاعم الي تمر على الواحد"
+            },
+            {
+              "reviewer_name": "عائشة ا***",
+              "review_date": "07 January 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء المطعم متغير للاسوء"
+            },
+            {
+              "reviewer_name": "Sara a***",
+              "review_date": "05 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "خيالي نفسكم"
+            },
+            {
+              "reviewer_name": "Om abdullh A***",
+              "review_date": "05 January 2025",
+              "review_rating": "OK",
+              "review_comment": "مشاوي ليست مستويه"
+            },
+            {
+              "reviewer_name": "Alaa A***",
+              "review_date": "29 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الاكل ملزق وطعم مو فرش"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "28 December 2024",
+              "review_rating": "OK",
+              "review_comment": "طعم الصلصة غير مناسب لمجبوس الدجاج ..!! حامضة كثير والحشو قليل الزبيب !!!"
+            },
+            {
+              "reviewer_name": "رفعه ا***",
+              "review_date": "26 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الدياي عرد ما ينوكل و البتر جكن ماي مايوه و الاكل الله يزيد النعمه"
+            },
+            {
+              "reviewer_name": "ال م***",
+              "review_date": "18 December 2024",
+              "review_rating": "OK",
+              "review_comment": "جيد"
+            }
+          ]
+        }
       }
     ]
   },
@@ -6501,7 +7770,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -6515,7 +7784,8 @@
       "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira",
-      "Bait Noura"
+      "Bait Noura",
+      "Achar Chefna (Lake Mall)"
     ],
     "completed_pages": []
   }
