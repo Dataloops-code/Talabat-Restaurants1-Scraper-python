@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T15:16:23.110115",
+  "last_updated": "2025-04-06T15:17:37.674679",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 5,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -74,7 +74,8 @@
       "Tasa Express",
       "Elite Sweet",
       "Bread Talk",
-      "OOOH Chocolate"
+      "OOOH Chocolate",
+      "AlDikan"
     ],
     "completed_pages": [
       1,
