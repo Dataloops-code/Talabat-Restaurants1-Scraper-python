@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:08:59.064466",
+  "last_updated": "2025-04-06T12:11:10.377780",
   "all_results": {
     "الظهر": [
       {
@@ -50339,6 +50339,1388 @@
             }
           ]
         }
+      },
+      {
+        "name": "Cramello Sweet",
+        "cuisine": "Desserts, Pastries & Sweets, Cakes",
+        "url": "https://www.talabat.com/kuwait/restaurant/742255/cramello-sweet-jaber-al-ali?aid=59",
+        "rating": "Amazing",
+        "page": 2,
+        "delivery_time": "Within 16 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Grape Leaves Musakhan",
+              "description": "Chicken musakhan with sumac wrapped in saj bread and the special caramello seasoning with special sauce and sour grape leaves with pomegranate molasses sauce with delicious pickles.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Small Grape Leaves",
+              "description": "A dish containing 16 stuffed grape leaves with a small container of pomegranate molasses, garnished with lemon slices and fresh lettuce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Basbousa Coconut",
+              "description": "Basbousa Coconut",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Medium Vine Leaves",
+              "description": "Sour vine leaves with can of pomegranate molasses.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Baklava",
+              "description": "Shami Baklava with nuts, almonds, cashew and pistachio.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Hala Olkaer New",
+              "description": "Ulker chocolates with creamy qaimar cheese sauce And Digestive milk biscuits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Al Haba Items": [
+            {
+              "index": 6,
+              "name": "Hebat Crunchoco",
+              "description": "A perfect blend of soft chocolate sponge, creamy Nestlé mix, chocolate rice crispies, and premium French chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Lemon Ice Beads",
+              "description": "Lemon ice-beads are a refreshing and tangy experience that combines the natural flavor of lemon with crunchy ice beads, offering you a zesty and refreshing taste in every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Mango Ice Beads",
+              "description": "Mango ice beads are a delicious and refreshing experience that combines the natural flavor of mango with crunchy ice beads, offering you a sweet and tropical taste in every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Hebat Al Riyadh Cake",
+              "description": "A luxurious dessert featuring rich layers of soft red velvet cake, topped with smooth blueberry, strawberry jelly, harmonized with creamy Nestle sauce, finished with a thin layer of grated coconut cream, providing an exceptional taste and unique texture.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Coconut Ice Cream",
+              "description": "Coconut ice cream is a creamy and delicious blend made with fresh coconut, offering you a rich and refreshing taste with a tropical touch that adds a special delight in every bite",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Avocado Ice Cream",
+              "description": "Avocado ice cream is a unique experience that combines the rich creaminess of avocado with a delicious sweet taste. It's prepared using fresh, ripe avocados, giving you a refreshing and rich flavor that will delight you with every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Pineapple Ice Cream Drink",
+              "description": "Pineapple ice cream drink is a refreshing and delicious combination that combines the rich, creamy flavor of ice cream with fresh pineapple pieces, giving you the perfect experience to enjoy the most delicious summer flavors",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Mango Ice Sherbet",
+              "description": "Mango ice sherbet is a delicious and refreshing blend that combines the sweet, creamy flavor of mango, offering you a perfect summer experience with a rich and natural fruity taste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Peach Ice Sherbet",
+              "description": "Peach Ice Sherbet is a delicious and refreshing blend that combines the natural, sweet flavor of peaches with a creamy texture, offering you a refreshing summer experience and a rich, fruity taste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Lemon Ice Sherbet",
+              "description": "Lemon ice sherbet is a refreshing and tangy blend that enhances the natural flavor of lemon with a creamy texture, offering you a perfect summer experience with a zesty and refreshing taste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Strawberry Ice Beads",
+              "description": "Strawberry ice beads are a delicious and refreshing experience that combines the natural flavor of strawberries with crunchy ice beads, offering you a sweet and refreshing taste in every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Cold Brew Coffee Ice Beads",
+              "description": "Ice cubes with cold coffee is a unique experience that combines the refreshing taste of cold coffee with the crunch of ice cubes. These small cubes offer a fresh twist, delivering a rich, long lasting flavor with every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Squid Game Cookies",
+              "description": "Squid Game Cookies are a fun experience to share with your friends. The box contains 5 cookies with different shapes inspired by the famous Squid Game. Enjoy them together in moments full of fun and challenge",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Bar Morjan Algeria",
+              "description": "Experience unforgettable moments with exceptional flavors at the new Morjan Bar in Algeria.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Small Pistachio Kunafa Cake",
+              "description": "Blending crispy kunafa, rich pistachio flavor, and premium swiss chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Chocolate Teddy Bear Cake",
+              "description": "The chocolate teddy bear mousse is a delightful masterpiece of indulgence. It features soft sponge stan layers, topped with rich chocolate mousse cream, and adorned with touches of premium dark chocolate, adding a depth of flavor. An unforgettable treat for chocolate lovers.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Limon Ice-Cream Al Haba",
+              "description": "2 Pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Mango Ice Cream Al Haba",
+              "description": "2 Pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Peach Ice-Cream Al Haba",
+              "description": "2 Pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cramello New": [
+            {
+              "index": 25,
+              "name": "Basbosa Moqshttah",
+              "description": "Enjoy the authentic taste of oriental sweets with Basbousa with Cream. Golden layers of soft, carefully baked semolina, covered in a rich, creamy filling of fresh cream and garnished with a sprinkle of roasted nuts. Perfect for special occasions or to enjoy moments of pampering with every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Tiramisu Cups",
+              "description": "Indulge in a luxurious tiramisu cup featuring rich layers of tiramisu cream, ladyfinger biscuits soaked in espresso mix and topped with luscious chocolate cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Algerian Morjan Cake Roasted Hazelnut Cream",
+              "description": "A delicate sponge cake infused with the rich flavors of vanilla and almond, topped with a layer of signature Algerian Morjan cream with roasted hazelnut, served with a side of roasted hazelnut cream sauce. A unique experience",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Lava Chocolate Flake",
+              "description": "•\tA chocolate sponge base.\n•\tlayered with a mix of chocolate and digestive pieces.\n•\tchocolate mousse cream sauce for a rich and indulgent flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Tiramisu 1 Pc",
+              "description": "Indulge in a luxurious tiramisu cup featuring rich layers of tiramisu cream, ladyfinger biscuits soaked in espresso mix and topped with luscious chocolate cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Lava Fruit",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Morjan",
+              "description": "A blend of rich milk chocolate and creamy dulce caramel with a crispy touch – an irresistible taste that combines sweetness and crunch in every bite!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Mini Ostrich Eggs",
+              "description": "Mini chocolate eggs resembling ostrich eggs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Russian Sweet",
+              "description": "Russian honey sweet in general that is a honey-infused cake is filled with a luscious creamy and tangy sour cream filling, creating a rich and balanced dessert.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Chocolate Bar Pistachio Kunafa",
+              "description": "Swiss chocolate - pistachio filling - Kunafa with vermicelli",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Chocolate Bar Mango Kunafa",
+              "description": "Swiss chocolate, mango pieces, mango filling with vermicelli",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Chocolate Bar Kinder Kunafa",
+              "description": "Swiss chocolate, kinder Bueno, with vermicelli",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Chocolate Bar Nutella Wafer",
+              "description": "Swiss chocolate - Loacker hazelnut wafer and Nutella",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Chocolate Bar Lemon",
+              "description": "Chocolate bar infused with lemon flavor",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cramello Specials": [
+            {
+              "index": 39,
+              "name": "Mini Cookies Nutella",
+              "description": "Cookie dough with chocolate chips and nutella filling\nAccompanied by a dipping container of milk with cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Crispy Nice Sweet",
+              "description": "Honey Crunchy Granola Mixed with Chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Cinnamon",
+              "description": "32 Pieces of cinnamon stuffed with walnuts and cinnamon with caramel sauce and nestle sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Mini Chocolate Brownie",
+              "description": "Mixture Swiss milk chocolate blend with mixture brownie and dark chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Pistachio Kunafa Cake",
+              "description": "Experience the delightful Pistachio Kunafa Cake, blending crispy kunafa, rich pistachio flavor, and premium Swiss chocolate. A perfect harmony of sweetness and crunch in every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Chocolate Stand",
+              "description": "Chocolate stand",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Special Cakes": [
+            {
+              "index": 45,
+              "name": "Mini Victoria",
+              "description": "2 layers of cake stuffed, white cream with strawberry jam.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Lava Kinder Dish",
+              "description": "Molten chocolate cake filled with Kinder chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Hala Biscuit",
+              "description": "Honey biscuits with creamy qaimar, Nestle milk and Cramello special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Saffron Cake",
+              "description": "Sponge saffron with milk and saffron cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chocolate And Cofe Sweets": [
+            {
+              "index": 49,
+              "name": "Walnut Caramel Ghorayeba",
+              "description": "Petitfour biscuit with caramel and nuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Ostrich Eggs",
+              "description": "Chocolate stiffed with wafer.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Hala Olkaer New",
+              "description": "Ulker chocolates with creamy qaimar cheese sauce And Digestive milk biscuits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Pettifor",
+              "description": "Butter, flour, eggs, icing sugar, pistachio, saffron, hazelnut, chocolate, caramel, strawberry, cardamom and almond.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Crispy Mars",
+              "description": "A crunchy treat with Mars chocolate flavor, perfect for fans of the classic Mars chocolate taste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Rocky Road",
+              "description": "Marshmallow, cocoa biscuits and cocoa powder.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Chocolate Box",
+              "description": "Snickers, coffee, caramel, oreo, crunchy biscuits, and brownies cake.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Coffee Sweet Box",
+              "description": "A sweet assortment of coffee with a variety of delicious fillings",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Hala Almaha",
+              "description": "Western dough stuffed with caramel and hazelnut",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gelato": [
+            {
+              "index": 58,
+              "name": "Bon Bon Pistachio Kunafa Ice Cream",
+              "description": "Bon Bon Ice Cream – A fun bite of creamy goodness. Vanilla sponge with a delightful pistachio kunafa filling, covered in rich Swiss milk chocolate. A perfect blend of flavors that will leave you craving more.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Bon Bon Mango Raspberry IceCream",
+              "description": "A fun bite of fruity goodness, featuring a blend of refreshing mango and raspberry flavors. A delightful treat that brings together tropical notes for a unique experience.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Bon Bon Mango Ice Cream",
+              "description": "Bon Bon Mango – A fun bite of fruity goodness. Vanilla sponge with a refreshing mango filling, covered in rich Swiss white chocolate. A perfect blend of tropical flavors that will leave you craving more.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Rocket Ice Cream",
+              "description": "Vanilla sponge and tropical fruits sauce with rocket ice cream and jungle fruits sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Cold Sweet",
+              "description": "Vanilla sponge with vanilla ice cream with flake biscuit",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ice Cream Box": [
+            {
+              "index": 63,
+              "name": "Al Haba Ice Cream Box - 6 Pcs",
+              "description": "Al haba ice cream box comes with 2 mango, 2 limon, 2 peach",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Al Haba Ice Cream Box 10 Pcs",
+              "description": "Al haba ice cream box comes with 4 mango, 3 limon and 3 peach",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "19.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Caramello cake": [
+            {
+              "index": 65,
+              "name": "Morge Cake",
+              "description": "Layers of vanilla sponge  and chocolate cake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Mango Cake",
+              "description": "Vanilla sponge, mango Alfonso cream, mango sauce and cold cheese cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Black Forest Cake",
+              "description": "Chocolate sponge with cream and cherry filling.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "White Forest Cake",
+              "description": "Vanilla sponge with vanilla cream and strawberry filling.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Cake Albayt",
+              "description": "We collected for you the 3 most luxurious flavors of the distinctive cake, lotus cake with lotus cream, red velvet cake stuffed with red velvet, cheesecake and chocolate cake with special chocolate filling from Caramello",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Cake Red Velvet",
+              "description": "Red velvt sponge with cold cheese cream and raspberry sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Chocolate Cake",
+              "description": "Chocolate sponge with chocolate cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Memoirs Cake",
+              "description": "Satin sponge with ganache cream with milk and nestle sauce with chocolate flake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering Pastries and Savories": [
+            {
+              "index": 73,
+              "name": "Grape Leaves Musakhan",
+              "description": "Chicken musakhan with sumac wrapped in saj bread and the special caramello seasoning with special sauce and sour grape leaves with pomegranate molasses sauce with delicious pickles.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Vine Leaves & Cabbage Box",
+              "description": "Premium box of stuffed grape leaves and cabbage rolls filled with delicious oriental flavors, perfect for gatherings and family occasions, neatly presented to suit all tastes.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Panorama",
+              "description": "\"Grape leaves, club sandwich, spring roll kibbeh,\n mini fatayer or mini pizza.\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Medium Vine Leaves",
+              "description": "Sour vine leaves with can of pomegranate molasses.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Small Grape Leaves",
+              "description": "A dish containing 16 stuffed grape leaves with a small container of pomegranate molasses, garnished with lemon slices and fresh lettuce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Mini Fatayer",
+              "description": "Pastry dough with different fillings of labneh, thyme, pizza, spinach, meat and hamsat Cramello.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Sandwiches Box",
+              "description": "Enjoy a delightful assortment of 14 freshly-made sandwiches, offering a delicious variety of different flavors. Perfect for gatherings, meetings, or as a treat for yourself.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Small Pies",
+              "description": "Various pies with distinctive fillings, Pizza,  thyme, cheese and spinach",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Medium Serving Fatayir",
+              "description": "30 pieces of fatayer from the special fatayer assortment zaatar, pizza, feta cheese, spinach, labneh, sausage, thyme, mashed potatoes and meat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Arabic Sweets": [
+            {
+              "index": 82,
+              "name": "Baklava",
+              "description": "Shami Baklava with nuts, almonds, cashew and pistachio.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Mini Baklava",
+              "description": "Shami baklava dough with cashew, pistachio and almonds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Basbousa Coconut",
+              "description": "Basbousa Coconut",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Basbousa",
+              "description": "Immerse yourself in the sheer bliss of Basbousa, a divine Middle Eastern delicacy with a delicate semolina texture and aromatic rosewater syrup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Trifle": [
+            {
+              "index": 86,
+              "name": "Mango Trifle",
+              "description": "Mango trifle is a delightful dessert made with a layer of refreshing mango sauce, followed by a soft and airy sponge layer. Fresh mango pieces are added on top, enhancing the natural taste and delicious fruitiness with every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Pomegranate Trifle",
+              "description": "Raspberry trifle is a unique dessert featuring delicious raspberry sauce, soft vanilla sponge and rich cream cheese. Its topped with fresh pomegranate seeds and adding a refreshing fruity flavor to the overall experience.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Baby Stand": [
+            {
+              "index": 88,
+              "name": "Stand Baby Boy Car 13872",
+              "description": "New baby born stand with car design with chocolate pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "19.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Trolly Stand Boy Or Girl",
+              "description": "Stand baby boy new born with trolly design",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Trolly Stand Boy Or Girl",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "For Boy 13870 (16.500)",
+                    "For Girl 13871 (16.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 90,
+              "name": "Bed Stand Boy Or Girl",
+              "description": "Your choice of the stand boy or girl",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Bed Stand Boy Or Girl",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "For Boy 13868 (24.000)",
+                    "For Girl 13869 (24.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 91,
+              "name": "Baby Boy Stand F11624",
+              "description": "Baby Boy Stand F11624",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Baby Girl Stand F11623",
+              "description": "Baby Girl Stand F11623",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Jaber Al Ali, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/cramello-sweet",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "11948",
+          "Reviews_count": "5415",
+          "General_review": [
+            "Cramello Sweet is a restaurant located in Kuwait, serving a selection of Desserts, Pastries & Sweets, Cakes that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "They have been reviewed 11948 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "MASHAIL A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "أول مره أطلب منهم، صراحة ما توقعت جذي سرعة توصيل وسعر مناسب وجودة عالية وكميته راهية. سرعة توصيل .."
+            },
+            {
+              "reviewer_name": "HSss M***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Thanks for the fast delivery😊"
+            },
+            {
+              "reviewer_name": "الوافيه ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "سعر كيكة كنافة و البستاشيو غاليه و حجمه صغير لكن طعمه اسطوري بس اتمنى تقللوا سعره الكيكة"
+            },
+            {
+              "reviewer_name": "ام علي ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "البسبوسه ماوصلت فرش وانا كاتبه فرش وطازجه"
+            },
+            {
+              "reviewer_name": "ghosoon g***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "لمار ق***",
+              "review_date": "31 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "Good"
+            },
+            {
+              "reviewer_name": "ام م***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكه محمضه"
+            },
+            {
+              "reviewer_name": "Sumaiya B***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "The desserts didnt taste fresh! really overrated. was late by an hour"
+            },
+            {
+              "reviewer_name": "Nagham H***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I requested milk chocolate or caramel sauce, but received white chocolate sauce instead."
+            },
+            {
+              "reviewer_name": "Aberoo H***",
+              "review_date": "30 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "ممتازة"
+            },
+            {
+              "reviewer_name": "Buthainah A***",
+              "review_date": "30 March 2025",
+              "review_rating": "Good",
+              "review_comment": "مو واو"
+            },
+            {
+              "reviewer_name": "sh a***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good luck 👍🏽"
+            },
+            {
+              "reviewer_name": "علي ا***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تاريخ الانتاج على الكيك شايلينه تم ازالة تاريخ الانتاج والكيكه بايتة وماعجبتنى واخر مره اطلب"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "كيكة مو حلوه الله يديم النعمه ، كيكه الهبه الككاو نفس مالت احمد الزامل .. ما تنوكل"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "محترم جدا"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the sweets are soooo delicious!!"
+            },
+            {
+              "reviewer_name": "منيره ***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكه فيها ريحه مو حلوه"
+            },
+            {
+              "reviewer_name": "Omar A H A A***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الأكل بايت من أمس وغير طازج وليس من شغل اليوم"
+            },
+            {
+              "reviewer_name": "Muhammad Ali K***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "portion !"
+            },
+            {
+              "reviewer_name": "jwahir almaharib ***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اسوء ورق عنب❌❌"
+            },
+            {
+              "reviewer_name": "omar a***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكه سيئة"
+            },
+            {
+              "reviewer_name": "ام ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجيب👌🏻 شكرا"
+            },
+            {
+              "reviewer_name": "Esraa B***",
+              "review_date": "25 March 2025",
+              "review_rating": "Good",
+              "review_comment": "مغيرين حجم الطبق صار اصغر والسعر نفسه!"
+            },
+            {
+              "reviewer_name": "العازمي ً***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ 🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤👍🏼🤤🤤👍🏼👍🏼👍🏼👍🏼🤤🤤🤤🤤🤤🤤🤤"
+            },
+            {
+              "reviewer_name": "Razan A***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍ممتاز"
+            },
+            {
+              "reviewer_name": "Om Maria .***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "فاشل بارد يابس صخر مايتاملش"
+            },
+            {
+              "reviewer_name": "Meme a***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "باسمة ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء جدت"
+            },
+            {
+              "reviewer_name": "rawan b***",
+              "review_date": "23 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تجربة فاشله"
+            },
+            {
+              "reviewer_name": "Jk C***",
+              "review_date": "23 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الصراحه توصيل سريع جدا وانصحكم إذا كان عندكم عزومه اطلبوا منه ، وحبيت كل شي ..👏🏻 مرات لما اطلب من طلبات مارت أعطي موقعنا يروح موقع ثاني ويحرجنا ويتأخر ، بس براڤو عليهم 👏🏻"
+            },
+            {
+              "reviewer_name": "Salma S***",
+              "review_date": "23 March 2025",
+              "review_rating": "OK",
+              "review_comment": "كيكة فاشلة"
+            },
+            {
+              "reviewer_name": "NAWAF A***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Shahad Shahad ***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتتتتازه جدا وسريعه"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيد"
+            },
+            {
+              "reviewer_name": "Somayah J***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميل"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "كيكه الدب فيها مراره وماعليها تاريخ انتها مبينه قديمه !"
+            },
+            {
+              "reviewer_name": "Dana M***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "very bad, the product is not clean"
+            },
+            {
+              "reviewer_name": "asla A***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذذذه جدا كيكة هبة الرياض"
+            },
+            {
+              "reviewer_name": "jwahir almaharib ***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "فطاير.....بااااايته..لييييييييش...دافعييين دنااااانيرررر ما هو ورق جرائد⁉️⁉️ ⁉️"
+            },
+            {
+              "reviewer_name": "بدر البدور ***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "مو حلو هبة الرياض عادي حيل وصل مايع سايح و ورق العنب في فلفل حار"
+            },
+            {
+              "reviewer_name": "W- a***",
+              "review_date": "19 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍🏻 👍🏻👍🏻good"
+            },
+            {
+              "reviewer_name": "Mejren A***",
+              "review_date": "19 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "ahead of time, excellent behavior"
+            },
+            {
+              "reviewer_name": "تهاني ا***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "لماذا خرج طلب غير طلبي ؟؟ أنا طلبت كيكه هبه الرياض"
+            },
+            {
+              "reviewer_name": "شريفه العازمى ا***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "توصيل سريع و الطلب لذيذ"
+            },
+            {
+              "reviewer_name": "يوسف ا***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "صوص ناقص نص شلون انا ادفع سعر يجيني ناقص مايصير ؟"
+            }
+          ]
+        }
       }
     ]
   },
@@ -50346,7 +51728,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -50384,7 +51766,8 @@
       "Health Stop",
       "Kalha , Mahboula TGO",
       "Al Anode",
-      "Jeder Soad"
+      "Jeder Soad",
+      "Cramello Sweet"
     ],
     "completed_pages": [
       1

@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:08:59.062958",
+  "last_updated": "2025-04-06T12:11:10.375887",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -45,7 +45,8 @@
       "Health Stop",
       "Kalha , Mahboula TGO",
       "Al Anode",
-      "Jeder Soad"
+      "Jeder Soad",
+      "Cramello Sweet"
     ],
     "completed_pages": [
       1
