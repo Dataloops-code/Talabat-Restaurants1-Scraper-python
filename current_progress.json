@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:15:03.414029",
+  "last_updated": "2025-04-06T11:24:02.608707",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -34,7 +34,8 @@
       "La Baguette",
       "La Baguette",
       "Sable",
-      "Mr Baker"
+      "Mr Baker",
+      "Chateau De Gateaux"
     ],
     "completed_pages": [
       1
