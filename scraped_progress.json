@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:31:30.364743",
+  "last_updated": "2025-04-06T10:32:26.522617",
   "all_results": {
     "الظهر": [
       {
@@ -7763,6 +7763,479 @@
             }
           ]
         }
+      },
+      {
+        "name": "Mishkak",
+        "cuisine": "Grills, Kebab, Arabic",
+        "url": "https://www.talabat.com/kuwait/restaurant/30689/mishkak-west-abu-fetera-small-indust-tmp?aid=59",
+        "rating": "Amazing",
+        "page": 1,
+        "delivery_time": "Within 60 mins",
+        "delivery_fee": "0.500",
+        "min_order": "5.000",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Beef Arayes",
+              "description": "Arayes beef added to the plates potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Hummus",
+              "description": "Chickpeas, tahini and lemon juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Mishkak Grilled Combo For Two Persons",
+              "description": "2 tikka, 3 kebab, 4 tawook, 2 mushroom, 2 beef heart, 1 arayes plate, 1 fattoush salad, 1 hummus, 1 fries, 4 sauces, 2 soft drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Tikka Mishkak Beef",
+              "description": "Five skewers of tikka mishkak omanian style.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mishkak Grilled Combo For Four Persons",
+              "description": "3 tikka, 6 kebab, 6 tawook, 4 mushroom, 2 beef heart , 2 arayes, 2 liver beef, 2 salads , 1 hummus, large fries, 1 muttabal mishkak , 6 sauces, 4 soft drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "17.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Kebab Mishkak Dish",
+              "description": "Five skewers of minced fresh kebab include potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizers": [
+            {
+              "index": 6,
+              "name": "Muttabal Mishkak",
+              "description": "متبل مشكاك",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Hummus",
+              "description": "Chickpeas, tahini and lemon juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "French Fries",
+              "description": "Fried to a golden crisp perfection and seasoned",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering Platters": [
+            {
+              "index": 9,
+              "name": "Mishkak Grilled Combo For Two Persons",
+              "description": "2 tikka, 3 kebab, 4 tawook, 2 mushroom, 2 beef heart, 1 arayes plate, 1 fattoush salad, 1 hummus, 1 fries, 4 sauces, 2 soft drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Mishkak Grilled Combo For Four Persons",
+              "description": "3 tikka, 6 kebab, 6 tawook, 4 mushroom, 2 beef heart , 2 arayes, 2 liver beef, 2 salads , 1 hummus, large fries, 1 muttabal mishkak , 6 sauces, 4 soft drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "17.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Mishkak Grilled Combo For Eight Persons",
+              "description": "6 tikka, 12 kebab, 12 tawook, 7 mushroom, 4 beef heart, 3 arayes plate, 4 liver beef, 4 salads, 2 hummus, 2 large fries, 2 mutabbal mishkak, 10 sauces, 8 soft drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "32.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Mishkak Dishes": [
+            {
+              "index": 12,
+              "name": "Beef Arayes",
+              "description": "Arayes beef added to the plates potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Beef Arayes With Cheese",
+              "description": "Arayes beef with added to the plates potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Kebab Mishkak Dish",
+              "description": "Five skewers of minced fresh kebab include potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Half Grilled Chicken",
+              "description": "Grilled chicken with our special flavor served with potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Tikka Mishkak Beef",
+              "description": "Five skewers of tikka mishkak omanian style.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Tawook Al Zaeem Dish",
+              "description": "Five skewers of tawook alzaeem include potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Grilled Chicken Dish",
+              "description": "Grilled chicken with our special flavor served with potato and vegetable.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Chicken Kebab",
+              "description": "4 chicken kebab skewers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Sweet Potato",
+              "description": "4 sweet potato skewers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sandwiches": [
+            {
+              "index": 21,
+              "name": "Kebab Mishkak Sandwich",
+              "description": "Classic kebab sandwich with lettuce, grilled tomatoes, melted cheese and special sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Kebab Classic Sandwich",
+              "description": "Classic kebab sandwich with lettuce, grilled tomatoes and special sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Tawook Al Zaeem Sandwich",
+              "description": "Tawook alzaeem sandwich with tortilla or lebanese bread, lettuce and royal sauce with molten cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Tawook Al Zaeem Sandwich",
+              "description": "Tawook alzaeem sandwich with tortilla or lebanese bread, lettuce and royal sauce with molten cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Tikka Mishkak Sandwich",
+              "description": "Tikka mishkak with cheese on top and our mixed flavor and sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 26,
+              "name": "Fattoush Salad",
+              "description": "Fattoush with our special lemon sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Extra Sauce": [
+            {
+              "index": 27,
+              "name": "Mishkak Sauce",
+              "description": "Special mishkak sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Grand Mom Sauce",
+              "description": "Our special omanian sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Tahini Sauce",
+              "description": "Special tahini sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Al Zaem Sauce",
+              "description": "Our special green sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 31,
+              "name": "Pepsi",
+              "description": "Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Pepsi Diet",
+              "description": "Carbonated soft drink with zero sugar and zero calories",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "7 Up",
+              "description": "Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "7 Up Diet",
+              "description": "Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Water",
+              "description": "Mineral Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/mishkak",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "712",
+          "Reviews_count": "433",
+          "General_review": [
+            "Mishkak is a restaurant located in Kuwait, serving a selection of Grills, Kebab, Arabic that delivers across Abdullah Al-Mubarak - West Jeleeb, Abu Ftaira, Abu Halifa, Abu Hasaniya and Adan.",
+            "They have been reviewed 712 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Ali A***",
+              "review_date": "24 January 2025",
+              "review_rating": "Good",
+              "review_comment": "غالي"
+            },
+            {
+              "reviewer_name": "ابو علي A***",
+              "review_date": "26 December 2024",
+              "review_rating": "OK",
+              "review_comment": "لم يت توصيل الطلب لم يتم توصيل الطلب بعد ماتم خصم المبلغ.العميل ينطر وبالاخير الطلب ماوصل.خدمه جداً فاشله"
+            },
+            {
+              "reviewer_name": "فهد ا***",
+              "review_date": "22 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            }
+          ]
+        }
       }
     ]
   },
@@ -7770,7 +8243,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -7785,7 +8258,8 @@
       "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira",
       "Bait Noura",
-      "Achar Chefna (Lake Mall)"
+      "Achar Chefna (Lake Mall)",
+      "Mishkak"
     ],
     "completed_pages": []
   }
