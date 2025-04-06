@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:35:56.613042",
+  "last_updated": "2025-04-06T10:38:42.108076",
   "all_results": {
     "الظهر": [
       {
@@ -9362,6 +9362,1024 @@
             }
           ]
         }
+      },
+      {
+        "name": "Camellia",
+        "cuisine": "Desserts, Chocolate , Cakes",
+        "url": "https://www.talabat.com/kuwait/restaurant/19383/camellia-hawally?aid=59",
+        "rating": "Amazing",
+        "page": 1,
+        "delivery_time": "Within 90 mins",
+        "delivery_fee": "0.500",
+        "min_order": "8.000",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Giveaways Pink And White 25 Boxes",
+              "description": "Giveaways Pink And White 25 Boxes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Sukary Stuffed With Rangina And Pistachios",
+              "description": "Sugary Dates Stuffed With Rangina And Pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sukary Stuffed With Rangina And Pistachios",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "2 Medium Box 25 Pieces (15.000)",
+                    "3 Medium Box 25 Pieces (22.000)",
+                    "4 Medium Box 25 Pieces (27.000)",
+                    "Large Box 60 Pieces (18.000)",
+                    "Large Box 90 Pieces (27.000)",
+                    "Large Box 120 Pieces (34.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Red Bouquet Ros And Baby Roses",
+              "description": "Red bouquet",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Classy Plain",
+              "description": "Box size 41cm X 9cm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classy Plain",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "Sukary Stuffed With Pistachio 28 Pic (21.500)",
+                    "Mix Chocolate 28 Pic (21.500)",
+                    "Chocolate Wafers 14 Pieces (16.500)",
+                    "Chocolate Wafers 28 Pieces (21.500)",
+                    "Mix Chocolate 14 Pieces (16.500)",
+                    "Sukary Stuffed With Pistachio 14 Pieces (16.500)"
+                  ],
+                  "Your Choice Of Flowers Color (Choose 1)": [
+                    "Pink",
+                    "Red",
+                    "White"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mountain",
+              "description": "Fresh flowers and chocolate tray size 34cm 65 pieces of chocolate. preparation in 30 minutes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "38.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "30 Piece Sukary Stuffed With Rangena And Pistachios",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bouquet": [
+            {
+              "index": 6,
+              "name": "‏White And Pink Bouquet",
+              "description": "Fresh flowers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Pink And Fushia Bouquet",
+              "description": "Fresh flowers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Red Bouquet Ros And Baby Roses",
+              "description": "Red bouquet",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Colorful Bouquet",
+              "description": "10 Roses and baby roses",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "White Bouquet",
+              "description": "Fresh Flowers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "‏Red Bouquet 25 Flowers",
+              "description": "25  flowers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Lilium Vasa",
+              "description": "Note The roses deliver brushes that fully open with you after two days",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "17.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Greeting Boxes": [
+            {
+              "index": 13,
+              "name": "Classy Plain",
+              "description": "Box size 41cm X 9cm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classy Plain",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "Sukary Stuffed With Pistachio 28 Pic (21.500)",
+                    "Mix Chocolate 28 Pic (21.500)",
+                    "Chocolate Wafers 14 Pieces (16.500)",
+                    "Chocolate Wafers 28 Pieces (21.500)",
+                    "Mix Chocolate 14 Pieces (16.500)",
+                    "Sukary Stuffed With Pistachio 14 Pieces (16.500)"
+                  ],
+                  "Your Choice Of Flowers Color (Choose 1)": [
+                    "Pink",
+                    "Red",
+                    "White"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 14,
+              "name": "Classy Congratulations For Graduation",
+              "description": "Box size 41 cm length X 9 cm width.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classy Congratulations For Graduation",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "14 Pieces Wafers Chocolate (16.500)",
+                    "14 Pieces Dates Stuffed With Pistachio And Mixture (16.500)",
+                    "14 Pieces Mix Chocolate (16.500)",
+                    "28 Pieces Wafers Chocolate (21.500)",
+                    "28 Pieces Dates Stuffed With Pistachio And Mixture (21.500)",
+                    "28 Pieces Mix Chocolate (21.500)"
+                  ],
+                  "Your Choice Of Roses Color: (Choose 1)": [
+                    "Pink",
+                    "White",
+                    "Red"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 15,
+              "name": "Classy Eid Mubarak",
+              "description": "Box size 41cm X 9cm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.010",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Classy Al Hamdellah Ala Assalama In Arabic",
+              "description": "Box size 41 cm X 9 cm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classy Al Hamdellah Ala Assalama In Arabic",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "Chocolate Wafers 14 Pcs (16.500)",
+                    "Mix Chocolate 14 Pcs (16.500)",
+                    "Chocolate Wafers 28 Pcs (21.500)",
+                    "Sukkari Dates Stuffed With Mixture And Pistachios 28 Pieces (21.500)",
+                    "Mix Chocolate 28 Pic (21.500)",
+                    "Sukkari Dates Stuffed With Mixture And Pistachios 14 Pieces (16.500)"
+                  ],
+                  "Your Choice Of Flowers Color (Choose 1)": [
+                    "Red",
+                    "White",
+                    "Pink"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 17,
+              "name": "Classy Congratulation",
+              "description": "Box size 41 cm x 9 cm written on the box congratulation.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classy Congratulation",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "Wafers Chocolate 14 Pcs (16.500)",
+                    "Wafers Chocolate 28 Pcs (21.500)",
+                    "Mix Chocolate 14 Pic (16.500)",
+                    "Dates Stuffed With 14 Pistachio Pieces (16.500)",
+                    "Dates Stuffed With Pistachio 28 Pic (21.500)",
+                    "Mix Chocolate 28 Pic (21.500)"
+                  ],
+                  "Flowers Color (Choose 1)": [
+                    "Pink",
+                    "Red",
+                    "White"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 18,
+              "name": "Classy Every Year And You Are The Love",
+              "description": "Box size 41 cm x 9 cm written on the box I love you",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classy Every Year And You Are The Love",
+                "price_details": {
+                  "Your Choice of: Quantity (Choose 1)": [
+                    "Wafers Chocolate 14 Pcs (16.500)",
+                    "Wafers Chocolate 28 Pcs (21.500)",
+                    "Mix Chocolate 14 Pcs (16.500)",
+                    "Dates Stuffed With Pistachio 14 Pcs (16.500)",
+                    "Dates Stuffed With Pistachio 28 Pic (21.500)",
+                    "Mix Chocolate 28 Pic (21.500)"
+                  ],
+                  "Flowers Color (Choose 1)": [
+                    "Pink",
+                    "Red",
+                    "White"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 19,
+              "name": "Classy Happy Birthday",
+              "description": "Box Size 41cm X 9cm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classy Happy Birthday",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "Wafers Chocolate 14 Pcs (16.500)",
+                    "Wafer Chocolates 28 Pcs (21.500)",
+                    "Mix Chocolate 14 Pcs (16.500)",
+                    "Dates Stuffed With Pistachio 14 Pcs (16.500)",
+                    "Dates Stuffed With Pistachio 28 Pic (21.500)",
+                    "Mix Chocolate 28 Pic (21.500)"
+                  ],
+                  "Your Choice Of Flowers Color (Choose 1)": [
+                    "Red",
+                    "White",
+                    "Pink"
+                  ]
+                }
+              }
+            }
+          ],
+          "Serve plats": [
+            {
+              "index": 20,
+              "name": "‏Mix Chocolate Plate Gold or Silver",
+              "description": "1 kilo 400 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "42.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Luxury Box Of 15 Dates Stuffed With Chocolate",
+              "description": "5 flavors fig pistachios lotus pecan’s and almonds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "A bowl of dates covered with chocolate with mixed fillings",
+              "description": "Length 21 cm Width 21 cm Height 15 cm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "30.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Uncoated chocolate-dipped dried apricot.",
+              "description": "Length 21 cm Width 21 cm Height 15 cm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Plate Sukary Stuffed With Rangeena And Pistachios",
+              "description": "1.750 Kilo",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "32.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Arabesque stand chocolate and flowers",
+              "description": "Arabisk Stand Chocolate And Flowers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "42.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Chocolate And Flowers Plate Gold Or Silver",
+              "description": "1 kilo chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "42.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gifts": [
+            {
+              "index": 27,
+              "name": "Luxury Box Of 15 Stuffed Dates Covered With Cocoa",
+              "description": "5 flavors fig pistachios lotus pecan’s and almonds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "‏Gift Mobkhar Special Vietnamese Bokhoor With Flowers Bouquet",
+              "description": "‏A white box containing small mobkhar special Vietnamese bokhoor charcoal lighter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Luxury Chocolate Mix Medium Box With Colored Bouquet (30 min to prepare)",
+              "description": "35 pieces of chocolate\n\nbox size: width 17. 5 cm. Length 17. 5 cm. and Height 3 cm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "A Gift Of A White Dress With Embroidered Quran And Chocolate",
+              "description": "A gift of a white dress With  Embroidered Quran and chocolate\n18 pic",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "38.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "East Mubkhar Gift",
+              "description": "Gift containing wooden burner wooden box Vietnamese and cardboard box containing 20 chocolates.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "38.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Holy Quran Gift With Chocolate Half Kilo",
+              "description": "White box containing quran and small chocolate bag width: 21cm length: 21 cm height: 19cm. preparation time :30 minutes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "27.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Special Occasions": [
+            {
+              "index": 33,
+              "name": "The Forest",
+              "description": "Prepared within 30 minutes aside from delivery time",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "The Forest",
+                "price_details": {
+                  "Your Choice Of The Size : (Choose 1)": [
+                    "Small (44.000)",
+                    "Large (64.000)"
+                  ],
+                  "Your Choice Of The Rose's Color : (Choose 1)": [
+                    "White",
+                    "Pink",
+                    "Pink And White",
+                    "Yellow And White",
+                    "Colored Flowers"
+                  ],
+                  "Add Phrases: (Choose up to 1 items)": [
+                    "الحمد لله على السلامة (2.000)",
+                    "ألف مبروك (2.000)",
+                    "مبروك التخرج (2.000)",
+                    "مبروك التفوق (2.000)",
+                    "رمضان كريم (2.000)",
+                    "منزل مبارك (2.000)",
+                    "مبروك الترقية (2.000)",
+                    "مبروك الملجة (2.000)",
+                    "أجر وعافية (2.000)",
+                    "أحبك (2.000)",
+                    "عيدكم مبارك (2.000)",
+                    "تقبل الله طاعتكم (2.000)",
+                    "مبارك عليكم الشهر (2.000)",
+                    "ألف شكر (2.000)",
+                    "حج مبرور (2.000)",
+                    "شكراً معلمي (2.000)",
+                    "I Love You (2.000)",
+                    "Happy Birthday (2.000)",
+                    "Kuwait (2.000)",
+                    "Happy New Year (2.000)",
+                    "Baby Boy (2.000)",
+                    "Baby Girl (2.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 34,
+              "name": "‏Reception Set",
+              "description": "2 Round stands of an natural flowers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "84.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Stand Plate With Flowers And Chocolate",
+              "description": "Stand Plate With Flowers And Chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Stand Plate With Flowers And Chocolate",
+                "price_details": {
+                  "Your Choice Of Plate Size (Choose 1)": [
+                    "Big Size 40Cm 90 Pieces Chocolate (70.000)",
+                    "Medium Size 30Cm 60 Pieces Chocolate (58.000)"
+                  ],
+                  "Your Choice Of Plate Color (Choose 1)": [
+                    "Silver Plate"
+                  ],
+                  "Your Choice Of Flowers Color (Choose items from the list)": [
+                    "Pink",
+                    "White",
+                    "Red"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 36,
+              "name": "Round Fancy Dish With Fresh Flowers In The Middle",
+              "description": "Round Fancy Dish With Fresh Flowers In The Middle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "40.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Flowers And Chocolate Rectangular Art Stand",
+              "description": "Length 48 cm, width 28 cm, height 17 cm. One and a half kilos of chocolates.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "73.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Arabisc Stand",
+              "description": "90-100 chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "42.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Art Stand With Round Tray",
+              "description": "Art Stand With Round Tray",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "42.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Mountain",
+              "description": "Fresh flowers and chocolate tray size 34cm 65 pieces of chocolate. preparation in 30 minutes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "38.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Giveaways": [
+            {
+              "index": 41,
+              "name": "Graduation Givawayes 25 Box Contains 2 Pic Of Chocolate",
+              "description": "Graduation Givawayes 25 Box Contains 2 Pic Of Chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Giveaways Pink And White 25 Boxes",
+              "description": "Giveaways Pink And White 25 Boxes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "25 Giveaway Black And White",
+              "description": "25 Giveaway Black And White",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Gold Giveaway",
+              "description": "Cartoon tray with 24 giveaways boxes, each box contains chocolate of dates from your choice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "26.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "The Golden Gift 56 Boxes With Wooden Tray And Golden Stand",
+              "description": "Inside each box 1 piece of chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "58.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "32 Pieces Giveaways With Fresh Flower Rectangular Tray",
+              "description": "Wooden plate with golden base.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "48.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "National Day Giveaway Contains Two Chocolate",
+              "description": "25 boxes 2 pic chocolate each",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Camellia Chocolate": [
+            {
+              "index": 48,
+              "name": "‏Luxury Box 15 Chocolate Covered Stuffed Dates",
+              "description": "Dates 5 flavors fig pistachios lotus pecan’s and almonds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "One Kilo Apricot With Chocolate",
+              "description": "Apricot with chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "22.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "30 Piece Sukary Stuffed With Rangena And Pistachios",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Chocolate Box For Occasions",
+              "description": "Chocolate box",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.010",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Wafers",
+              "description": "Writing is written in Arabic.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Wafers",
+                "price_details": {
+                  "Your Choice Of Quantity : (Choose 1)": [
+                    "Half A Kilo (14.000)",
+                    "One Kilo (28.000)",
+                    "Kilo And Half (42.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 53,
+              "name": "Sukary Stuffed With Rangina And Pistachios",
+              "description": "Sugary Dates Stuffed With Rangina And Pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sukary Stuffed With Rangina And Pistachios",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "2 Medium Box 25 Pieces (15.000)",
+                    "3 Medium Box 25 Pieces (22.000)",
+                    "4 Medium Box 25 Pieces (27.000)",
+                    "Large Box 60 Pieces (18.000)",
+                    "Large Box 90 Pieces (27.000)",
+                    "Large Box 120 Pieces (34.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Desert": [
+            {
+              "index": 54,
+              "name": "Sukary Box With Pistachio",
+              "description": "Wrapped and filled with the special blending and pistachio.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.010",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Vanilla Cheesecake With Berries And Natural White Rose",
+              "description": "With strawberry sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Camellia Dates Cheesecake With Caramel Sauce",
+              "description": "Dates and caramel.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Fresh Berry Cheesecake Decorated With Natural Flowers And Bouquet Writting Ramadan Karem",
+              "description": "Fresh Berry Cheesecake Decorated With Natural Flowers And Bouquet Writting Ramadan Karem",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "26.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Giveaway cards": [
+            {
+              "index": 58,
+              "name": "30 Graduation Cards In White Tray 3 Types Of Stickers",
+              "description": "Served on a white tray.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "24.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "30 Giveaways School Cards In White Tray",
+              "description": "Wafer chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "24.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Stars Giveaways Cards.",
+              "description": "Chocolate wafers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.010",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Flower Giveaways Cards",
+              "description": "Chocolate wafers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.010",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Hawally, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/camellia",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "1035",
+          "Reviews_count": "549",
+          "General_review": [
+            "Camellia is a restaurant located in Kuwait, serving a selection of Desserts, Chocolate , Cakes that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Sukary Box With Pistachio, Sukary Stuffed With Rangina And Pistachios, Vanilla Cheesecake With Berries And Natural White Rose and Classy Al Hamdellah Ala Assalama In Arabic, although they have a variety of dishes and meals to choose from like Desserts, Chocolate , Cakes.",
+            "They have been reviewed 1035 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "M A***",
+              "review_date": "09 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍👍👍👍"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "15 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازة"
+            },
+            {
+              "reviewer_name": "Peace ***",
+              "review_date": "01 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "bit taking time to deliver but rest of all ok ."
+            },
+            {
+              "reviewer_name": "ام ا***",
+              "review_date": "26 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا شكرا"
+            },
+            {
+              "reviewer_name": "أمل الغريب ***",
+              "review_date": "25 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "عجييييب"
+            },
+            {
+              "reviewer_name": "Reham A***",
+              "review_date": "04 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الكاكاو وايذ لذيذ والتغليف ممتاز سريع ودقيق وما اخذ وقت في الترصيل"
+            },
+            {
+              "reviewer_name": "L I***",
+              "review_date": "22 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "M A***",
+              "review_date": "19 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ و مرتب"
+            },
+            {
+              "reviewer_name": "Ibraheem A***",
+              "review_date": "07 December 2023",
+              "review_rating": "OK",
+              "review_comment": "السلام عليكم لقد قمت بطلب ورد من محل Camellia علما بأنه الطلب لقد تاخر في التوصيل أكثر من نصف ساعة ولقد اضطررت على انتظار المندوب وتاخر عن العمل وأيضا المحل قام بتبليغي انه المندوب بالطريق و استقبلت مكالمة من المحل بعد ساعة بالظبط من قبل مندوب التوصيل بارسال الموقع لو كنت على دراية بهذا التاخير لم أقوم بعمل الطلب من الأصل السلام عليكم لقد قمت بطلب ورد من محل Camellia علما بأنه الطلب لقد تاخر في التوصيل أكثر من نصف ساعة ولقد اضطررت على انتظار المندوب وتاخر عن العمل وأيضا المحل قام بتبليغي انه المندوب بالطريق و استقبلت مكالمة من المحل بعد ساعة بالظبط من قبل مندوب التوصيل بارسال الموقع لو كنت على دراية بهذا التاخير لم أقوم بعمل الطلب من الأصل"
+            }
+          ]
+        }
       }
     ]
   },
@@ -9369,7 +10387,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -9386,7 +10404,8 @@
       "Bait Noura",
       "Achar Chefna (Lake Mall)",
       "Mishkak",
-      "Al Maida Al Yemeni"
+      "Al Maida Al Yemeni",
+      "Camellia"
     ],
     "completed_pages": []
   }
