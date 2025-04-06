@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:16:09.154570",
+  "last_updated": "2025-04-06T13:16:12.106160",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 15,
+    "current_restaurant": 0,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -48,7 +48,8 @@
       "The Local beet"
     ],
     "completed_pages": [
-      1
+      1,
+      2
     ]
   }
 }
