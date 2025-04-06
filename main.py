@@ -152,10 +152,10 @@ class MainScraper:
             print("\nCurrent Progress:")
             print(json.dumps(current, indent=2, ensure_ascii=False))
 
-            with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
-                scraped = json.load(f)
-            print("\nScraped Progress with Results:")
-            print(json.dumps(scraped, indent=2, ensure_ascii=False))
+            # with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
+            #     scraped = json.load(f)
+            # print("\nScraped Progress with Results:")
+            # print(json.dumps(scraped, indent=2, ensure_ascii=False))
         except Exception as e:
             print(f"Error printing progress: {str(e)}")
 
