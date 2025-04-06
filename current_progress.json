@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:59:27.460436",
+  "last_updated": "2025-04-06T14:02:38.101492",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -53,7 +53,8 @@
       "Mama's Bakery",
       "Agnii",
       "The Coffee Bean & Tea Leaf",
-      "AlKhabaz & Fattoush"
+      "AlKhabaz & Fattoush",
+      "Little Caesars Pizza"
     ],
     "completed_pages": [
       1,

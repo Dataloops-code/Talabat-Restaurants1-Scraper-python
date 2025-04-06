@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:59:27.462278",
+  "last_updated": "2025-04-06T14:02:38.102952",
   "all_results": {
     "الظهر": [
       {
@@ -100327,6 +100327,1511 @@
             }
           ]
         }
+      },
+      {
+        "name": "Little Caesars Pizza",
+        "cuisine": "Pizza, Beverages",
+        "url": "https://www.talabat.com/kuwait/restaurant/720347/little-caesars-pizza-dhaher?aid=59",
+        "rating": "Amazing",
+        "page": 3,
+        "delivery_time": "Within 28 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Fanta Strawberry 250 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Coca-Cola Zero 250Ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Kinza Lemon 250ML",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Wings Boxes 12Pcs",
+              "description": "12 Pcs seasoned chicken wings served plain or with your choice of sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Sprite 250 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Party Meal Offer",
+              "description": "4 Large pizzas 12 inch, veggie puffs, pepperoni puffs, 2 cinnamon stix, 2 crazy bread, 2 potato wedges and 2 soda bottles 1.250 liter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Most Selling": [
+            {
+              "index": 6,
+              "name": "Cheesy Bread",
+              "description": "8 Pieces Of Bread Topped With Mozzarella Cheese, Buttery Garlic And A Sprinkle Of Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Crazy Puffs Pepperoni",
+              "description": "3 Pieces Of Freshly Baked Bread Filled With Pizza Sauce, Mozzarella Cheese, Pepperoni, Topped With Buttery Garlic, Italian Seasoning And Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Crazy Puffs Veggie",
+              "description": "3 Pieces Of Freshly Baked Bread Filled With Pizza Sauce, Mozzarella Cheese, Green Peppers, Onions, Corn, Topped With Buttery Garlic, Italian Seasoning And Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Large Classic Veggie",
+              "description": "Mozzarella cheese, green peppers, onions, Italian seasoning and parmesan cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Large Classic Pepperoni Pizza (Large)",
+              "description": "Mozzarella cheese, beef pepperoni",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Large Classic Margherita Pizza (Large)",
+              "description": "Mozzarella Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "2 KD Deals": [
+            {
+              "index": 12,
+              "name": "Pizza & Stix (Large)",
+              "description": "HALF PEPPERONI PIZZA & HALF MARGHERITA WITH ITALIAN CHEESE",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Three Cheese Deluxe Pizza 12``",
+              "description": "Mozzarella, Cheddar And Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Special Pizza": [
+            {
+              "index": 14,
+              "name": "4-N-1 Chicken Supreme Pizza (Large)",
+              "description": "Mozzarella Cheese, Chicken And Four Different Sauce Drizzles Buffalo, Bbq, Spicy Bbq And Zesty Ranch.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Chicken Tikka Pizza (Large)",
+              "description": "Mozzarella Cheese, Tikka Pizza Sauce, Chicken, Corn, Green Peppers, Tomatoes, Onions And Spiced Seasoning.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Extreme Veggie Pizza (Large)",
+              "description": "Mozzarella Cheese, Mushrooms, Onions, Green Peppers, Black Olives, Tomatoes, Corn With Italian Seasoning And Parmesan Cheese Crust.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Garlic Chicken Pizza (Large)",
+              "description": "Mozzarella Cheese, Garlic Sauce, Chicken, Onion, Tomatoes With Parmesan Cheese Crust.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Mediterranean Chicken Pizza (Large)",
+              "description": "Mozzarella Cheese, Chicken, Onions, Black Olives, Tomatoes With Italian Seasoning And Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Pepperoni Overload Pizza (Large)",
+              "description": "Mozzarella Cheese, Extra Beef Pepperoni With Buttery Garlic And Parmesan Cheese Crust.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Peri Peri Chicken Pizza (Large)",
+              "description": "Mozzarella Cheese, Chicken Seasoned With Peri Peri Sauce, Green Peppers, Corn, Onion With Spiced Seasoning Crust.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Three Cheese Deluxe Pizza 12``",
+              "description": "Mozzarella, Cheddar And Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Ultimate Supreme Pizza 12``",
+              "description": "Mozzarella Cheese, Beef Pepperoni, Chicken Italian Sausage, Mushrooms, Onions, And Green Peppers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Zesty Chicken Ranch Pizza (Large)",
+              "description": "Zesty Chicken Ranch Pizza",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Products": [
+            {
+              "index": 24,
+              "name": "BBQ Chicken Pizza (LARGE)",
+              "description": "Mozzarella Cheese, Chicken, Onions, Green Pepper, & Special BBQ sauce on top.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Boneless Chicken 8 Pcs",
+              "description": "Tender boneless chicken wings available in five flavors: BBQ, Spicy BBQ, Buffalo, Original, Garlic and Without Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Spicy BBQ Chicken Crazy Puffs",
+              "description": "4 pcs. of Freshly Baked Bread filled with BBQ sauce, Mozzarella cheese, Chicken, Jalapeno, topped with Buttery, Garlic, Italian Seasoning, & Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Pepperoni Cruncher (Large)",
+              "description": "Pepperoni pizza with unique crust edge featuring cheddar cheese and crunchy panko breadcrumbs baked in",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Classic Pizzas": [
+            {
+              "index": 28,
+              "name": "Classic Margherita Pizza (Large)",
+              "description": "Mozzarella Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Classic Pepperoni Pizza (Large)",
+              "description": "Mozzarella cheese, beef pepperoni",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Classic Veggie Pizza (Large)",
+              "description": "Mozzarella cheese, green peppers, onions, Italian seasoning and parmesan cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Family Meal": [
+            {
+              "index": 31,
+              "name": "Family Meal Offer",
+              "description": "Any 3 Pizza 12 inch Large, 2 Cheese Bread, 2 Potato Wedges and 2 Soda Bottle 1.250 L",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Extra Sauces": [
+            {
+              "index": 32,
+              "name": "BBQ Sauce",
+              "description": "Smokey flavor BBQ sauce made with perfect balance of sweet, spicy and savory ingredients",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Buffalo Sauce",
+              "description": "hot sauce that is made with cayenne pepper, vinegar, and butter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Chocolate Sauce",
+              "description": "A sweet and rich sauce made from chocolate, used as a topping for desserts or drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Crazy Sauce",
+              "description": "Tomato-based sauce that is used to top pizzas. It is typically made with tomatoes, onions, garlic, herbs, and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Garlic Mayonaise Sauce",
+              "description": "Sauce Made with a blend of herbs and spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Ranch Sauce",
+              "description": "Creamy blend of fresh garlic, tangy lemon juice and smooth mayonnaise",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Spicy BBQ Sauce",
+              "description": "Spicy BBQ Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Special Combo Meal": [
+            {
+              "index": 39,
+              "name": "Double Meal Offer",
+              "description": "One 12\" large Pizza of your choice, crazy bread, potato wedges 4 oz, and 2 soda cans.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Large Double Meal Offer",
+              "description": "2 Large 12\" pizzas, Crazy Puffs Pepperoni, Cheese Bread, and Soda Bottle 1.250 L.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Match Day",
+              "description": "Any 2 Pizza 12 inch Large, 1 Pepperoni Puffs, 1 Cheese Bread, 1 Potato Wedges, 1 Soda Bottle 1.25 Liter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.450",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Party Meal": [
+            {
+              "index": 42,
+              "name": "Party Meal Offer",
+              "description": "4 Large pizzas 12 inch, veggie puffs, pepperoni puffs, 2 cinnamon stix, 2 crazy bread, 2 potato wedges and 2 soda bottles 1.250 liter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Half+Half Pizza Stix": [
+            {
+              "index": 43,
+              "name": "Pizza and Stix",
+              "description": "Half Pepperoni Pizza & Half Margherita With Italian Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sides": [
+            {
+              "index": 44,
+              "name": "BBQ Caesar Wings - 6 Piece",
+              "description": "6 Seasoned, Oven Roasted Chicken Wings Served Plain Or With Your Choice Of Garlic Sauce Or Buffalo Sauce Or Bbq Sauce Or Spicy Bbq Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Buffalo Caesar Wings - 6 Piece",
+              "description": "6 Pcs seasoned Chicken Wings Served Buffalo Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Cheese Bread",
+              "description": "8 Pieces Of Bread Topped With Mozzarella Cheese, Buttery Garlic And A Sprinkle Of Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Cinnamon Stix - 8 Piece Order",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Crazy Bread Combo - 4 Pieces + Dip",
+              "description": "4 Bread sticks topped with buttery garlic, a sprinkle of parmesan cheese and crazy sauce side.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Crazy Bread Sticks",
+              "description": "4 Bread Sticks Topped With Buttery Garlic And A Sprinkle Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Crazy Puffs Pepperoni",
+              "description": "4 pieces of freshly baked bread filled with crazy sauce, mozzarella cheese, pepperoni, topped with buttery garlic, italian seasoning and parmesan cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Garlic Wings",
+              "description": "6 pcs Seasoned Chicken Wings Served Garlic Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Oven Roasted Caesar Wings - 6 Piece",
+              "description": "6 Seasoned, Oven Roasted Chicken Wings Served Plain Or With Your Choice Of Garlic Sauce Or Buffalo Sauce Or Bbq Sauce Or Spicy Bbq Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Pepperoni Crazy Puffs - 4 Piece",
+              "description": "4 Pieces Of Freshly Baked Bread Filled With Pizza Sauce, Mozzarella Cheese, Pepperoni, Topped With Buttery Garlic, Italian Seasoning And Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Potato Wedges",
+              "description": "Crispy Oven Baked Potato Wedges",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Spicy BBQ Crazy Puffs",
+              "description": "4 pcs of freshly baked bread filled with BBQ sauce, Mozzarella cheese, Chicken, Jalapeno, topped with Buttery, Garlic, Italian Seasoning, & Parmesan Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Veggie Crazy Puffs - 4 Piece",
+              "description": "4 Pieces Of Freshly Baked Bread Filled With Pizza Sauce, Mozzarella Cheese, Green Peppers, Onions, Corn, Topped With Buttery Garlic, Italian Seasoning And Parmesan Cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Spicy BBQ Wings",
+              "description": "Spicy BBQ Wings",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Cinnamon Stix - 8 Piece Order",
+              "description": "Cinnamon Stix - 8 Piece Order",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Wings Boxes": [
+            {
+              "index": 59,
+              "name": "Wings Boxes 12Pcs",
+              "description": "12 Pcs seasoned chicken wings served plain or with your choice of sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Wings Boxes 24 Pc",
+              "description": "24 Pcs seasoned chicken wings served plain or with your choice of sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Beverages": [
+            {
+              "index": 61,
+              "name": "Coca-Cola 1.25 L",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Coca-Cola 250ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Coca-Cola 500ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Coca-Cola Zero 250Ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Fanta Orange 1.25 L",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Fanta Orange 250 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Fanta Strawberry 250 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Kinza Cola Soft Drink 250 Ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Kinza Lemon 250ML",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Lemon Ice Tea 320 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Peach Ice Tea 320ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Red Bull Energy Drink 250ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Red Fruit Ice Tea 320 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Sprite 1.25 L",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Sprite 250 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Sprite 500ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Water 500ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Zero Sugar Peach Ice Tea 320 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "zero sugar Red fruit Ice Tea 320 ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Red Bull Sugar Free - 250 ML",
+              "description": "Red Bull Sugar Free - 250 ML",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Dhaher, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/little-caesars-pizza",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "23548",
+          "Reviews_count": "10400",
+          "General_review": [
+            "Little Caesars Pizza is a restaurant located in Kuwait, serving a selection of Pizza, Beverages that delivers across Bneid Al Qar, Dhaher, Farwaniya, Jabriya and Jahra - Jahra Area.",
+            "Their best selling dishes are Classic Pepperoni Pizza (Large), Potato Wedges, Pizza & Stix (Large) and Classic Margherita Pizza (Large), although they have a variety of dishes and meals to choose from like Pizza, Beverages.",
+            "They have been reviewed 23548 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Just mee ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Was amazing. Tastes amazing It took like a very nice amount of time. And nothing went wrong with the driver"
+            },
+            {
+              "reviewer_name": "enas m***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "توصيل سريع لكن طلب بارد"
+            },
+            {
+              "reviewer_name": "om khaled o***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "Full of oil"
+            },
+            {
+              "reviewer_name": "azizi a***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الطعم ولا أروع و الصراحة أنا اول مره أشوف بيتزا فل فرش مشالله الله يقويكم بحق محمد وآل محمد"
+            },
+            {
+              "reviewer_name": "anfal a***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد جدا the food is so cold"
+            },
+            {
+              "reviewer_name": "sa a***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريع ووصلني بالوقت وحاررر ولذيذ👌🏻 استمرو السايق محترم ما اتصل مليون مره عشان العنوان مره وحده اول ماوصل عند البيت👌🏻"
+            },
+            {
+              "reviewer_name": "nisha v***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very tasty super"
+            },
+            {
+              "reviewer_name": "Ann G***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Rider polite and friendly"
+            },
+            {
+              "reviewer_name": "الغالية ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميللللللللللللللللللللللللللللللللللللللللللللللللللللللللللللل جدااااااااااااااااااااااااااااااااا رائعععععععععععععععععععععععععععععععععععععع لذيذذذذذذذذذذذذذذذذذذذذذذذذدددذدذذذذذذذذذذذذذذذذذذذذذذذذذذ"
+            },
+            {
+              "reviewer_name": "Salama G***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "تسمم و اسهال الله يسامحكم"
+            },
+            {
+              "reviewer_name": "huda a***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ولذيذ 10/10"
+            },
+            {
+              "reviewer_name": "Sadan S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "amazing"
+            },
+            {
+              "reviewer_name": "Mohammed K***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "beautiful taste"
+            },
+            {
+              "reviewer_name": "Order D***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "كلها بتنقط زيت"
+            },
+            {
+              "reviewer_name": "khaled a***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "انا حاط بدون بصل وبدون طماط وبدون ذره يابوها فيها كل شي"
+            },
+            {
+              "reviewer_name": "Ahmed s***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the botatos missed"
+            },
+            {
+              "reviewer_name": "A User ***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "I got food poisoning"
+            },
+            {
+              "reviewer_name": "Giridharan Od ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "OK"
+            },
+            {
+              "reviewer_name": "Imran F***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "it wasnt arranged well it was good"
+            },
+            {
+              "reviewer_name": "Yousef A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great .."
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "01 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "جميل و لذيذ"
+            },
+            {
+              "reviewer_name": "Muneera F ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "رائعه و سريعه"
+            },
+            {
+              "reviewer_name": "Rashed S***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء لاطعم فيه وتاخير الطلب لايعرف الطرق ودار في المنطقة حتى وصل"
+            },
+            {
+              "reviewer_name": "Eman Yousef ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Good",
+              "review_comment": "بيتزا الخضار كانت مع ذره وبصل (طلبنا ٢ بدون بصل)"
+            },
+            {
+              "reviewer_name": "S G***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "there wasn’t any drinks even though I ordered"
+            },
+            {
+              "reviewer_name": "Kawla F***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميله جدا"
+            },
+            {
+              "reviewer_name": "faisal k***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "التوصيل كان على الوقت المحدد بالضبط والأكل كان حار التوصيل رائع !"
+            },
+            {
+              "reviewer_name": "Kw K***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "المذاق سيء و درجه الحراره ايضان."
+            },
+            {
+              "reviewer_name": "Linda B***",
+              "review_date": "31 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "the dough could be a little thinner , a little less garlic."
+            },
+            {
+              "reviewer_name": "F A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذه و خفيفه و سرعه بالتوصيل"
+            },
+            {
+              "reviewer_name": "Mawada M***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "شعر في البيتزا كتير"
+            },
+            {
+              "reviewer_name": "hassan a***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "quality is dropping each time i order"
+            },
+            {
+              "reviewer_name": "Ailene N***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "we didn’t enjoyed the taste its not the same of the first ordered we had on few days ago"
+            },
+            {
+              "reviewer_name": "taher t***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيئه وبارده وناقص الطلب"
+            },
+            {
+              "reviewer_name": "khalid f***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريع"
+            },
+            {
+              "reviewer_name": "Yazeed S***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great pizza .i got 2 pizzas for less then 5KWD. thats a steal and a good deal. the pizza is also big kind delivery man. but he was a few minutes late"
+            },
+            {
+              "reviewer_name": "Ailene N***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "i really love the taste its too much different from other pizza that i tried everything is good from food handling and the delivery is on time"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "30 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Rayyan K***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Good"
+            },
+            {
+              "reviewer_name": "Shehab A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "البيتزا يحطون فوقها جبن يا خبل ركز"
+            },
+            {
+              "reviewer_name": "عبدالله م***",
+              "review_date": "30 March 2025",
+              "review_rating": "Good",
+              "review_comment": "كمية البيبروني تحتاج زيادة"
+            },
+            {
+              "reviewer_name": "MaNaR A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب وصل بارد ومتيبس اول مره اطلب منكم واخر مره 👎🏻"
+            },
+            {
+              "reviewer_name": "Abdulrahman A***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Hot"
+            },
+            {
+              "reviewer_name": "حازم م***",
+              "review_date": "29 March 2025",
+              "review_rating": "Good",
+              "review_comment": "quality of pizza is not the same like before hard and less cheese"
+            },
+            {
+              "reviewer_name": "محمد علي ا***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "excellente excellente"
+            },
+            {
+              "reviewer_name": "tan g***",
+              "review_date": "29 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "sauce was missing in nuggets fast"
+            },
+            {
+              "reviewer_name": "Majed A***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "worst pizza i ever had in my life , to use low price discounts to sell bad pizza shame on you"
+            },
+            {
+              "reviewer_name": "Salma A***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريعه حييلل صدق ماتخيلت شذي يجنن"
+            },
+            {
+              "reviewer_name": "Hatim P***",
+              "review_date": "28 March 2025",
+              "review_rating": "Good",
+              "review_comment": "was average pizza. very less cheese ."
+            },
+            {
+              "reviewer_name": "Daisy A***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the cheese pizza, the whole cheese was was out in the box and not on the pizza, carelessly handled plz make sure the boxes are carefully handled by the delivery person"
+            },
+            {
+              "reviewer_name": "Mustafa B***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "pizza cold not freshly baked it was on time"
+            },
+            {
+              "reviewer_name": "Mohammad A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "very good"
+            },
+            {
+              "reviewer_name": "Mohammad S***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "super good and super fast"
+            },
+            {
+              "reviewer_name": "Yousra K***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "so seasoning and cheese is missing"
+            },
+            {
+              "reviewer_name": "Mona K***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "my food was cery cold and dry"
+            },
+            {
+              "reviewer_name": "Rashida T***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "they gave me wrong order"
+            },
+            {
+              "reviewer_name": "Sennacherib A***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Ipon I***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز وجميييييييييل جدا"
+            },
+            {
+              "reviewer_name": "سلطان ا***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد جداً"
+            },
+            {
+              "reviewer_name": "وضحه ا***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الله يعطيكم العافيه الاكل حار وحجم كبير ويشبع هذي ثاني مرا شكراً🥹🤍"
+            },
+            {
+              "reviewer_name": "Blen D***",
+              "review_date": "26 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Satisfing ❤️12"
+            },
+            {
+              "reviewer_name": "Ghassen Z***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اليوم معجبتنيش"
+            },
+            {
+              "reviewer_name": "Suliman A***",
+              "review_date": "26 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "azam A***",
+              "review_date": "26 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز مع مرتبة الشرف دقيق"
+            },
+            {
+              "reviewer_name": "Patient ***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Emily L***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "excellent in taste excellent"
+            },
+            {
+              "reviewer_name": "حسين ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "وايد دهن فيه وااااايد"
+            },
+            {
+              "reviewer_name": "Mohamed N***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز جيد"
+            },
+            {
+              "reviewer_name": "Ahmed Emad Al Din E***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "pizza quality was very bad"
+            },
+            {
+              "reviewer_name": "ساره ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "وايد حلو وحار لما وصلني الصراحه كل شي تمام"
+            },
+            {
+              "reviewer_name": "Joy B***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good service...and taste satisfaction"
+            },
+            {
+              "reviewer_name": "Jo Ann Palomares ***",
+              "review_date": "23 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "yummy kind"
+            },
+            {
+              "reviewer_name": "MOHAMMED A***",
+              "review_date": "22 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "هاجر ا***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "البتتزا مقلبوبه والمذاق ليس كما هو عليه كل مره ودرجة الحراره سيئه"
+            },
+            {
+              "reviewer_name": "Melvin A***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "The pizza was very greasy. The delivery was fine"
+            },
+            {
+              "reviewer_name": "hence n***",
+              "review_date": "22 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Moona B***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "soooooooooooooo. 😊"
+            },
+            {
+              "reviewer_name": "Ashraf F***",
+              "review_date": "21 March 2025",
+              "review_rating": "Good",
+              "review_comment": "Almost there is no cheese"
+            },
+            {
+              "reviewer_name": "Fatma Alajmi ***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the pizza was very nice and juicy but I wish it was a little hotter in temperature fast"
+            },
+            {
+              "reviewer_name": "Wa L***",
+              "review_date": "21 March 2025",
+              "review_rating": "Good",
+              "review_comment": "مكثرين صوص"
+            },
+            {
+              "reviewer_name": "Joan Rose C***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Very yummy! Keep up the good work!"
+            },
+            {
+              "reviewer_name": "maher lulu ***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "أفضل بيتزا في العالم"
+            },
+            {
+              "reviewer_name": "مهبول /***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب بارد والأكل ليس كما طلبته سابقاً السايق لايفهم العربية جيداً ولا يملك خردة"
+            },
+            {
+              "reviewer_name": "Yaqoub A***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "tastes horrible! smells so awful and tastes as bad as it smells driver did not have change whatsoever"
+            },
+            {
+              "reviewer_name": "Marites A***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "thank you so much . thanks to the rider"
+            },
+            {
+              "reviewer_name": "Sondos G***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "poor"
+            },
+            {
+              "reviewer_name": "Qasim A***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the pizza was not good. the pepperoni and cheese was both dry."
+            },
+            {
+              "reviewer_name": "KEZANG C***",
+              "review_date": "20 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "it was good experience"
+            },
+            {
+              "reviewer_name": "Sultan A***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد الاكل"
+            }
+          ]
+        }
       }
     ]
   },
@@ -100334,7 +101839,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -100399,7 +101904,8 @@
       "Mama's Bakery",
       "Agnii",
       "The Coffee Bean & Tea Leaf",
-      "AlKhabaz & Fattoush"
+      "AlKhabaz & Fattoush",
+      "Little Caesars Pizza"
     ],
     "completed_pages": [
       1,
