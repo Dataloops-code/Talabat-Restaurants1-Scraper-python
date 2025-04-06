@@ -1,15 +1,1295 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:13:30.721822",
-  "all_results": {},
+  "last_updated": "2025-04-06T10:15:25.130558",
+  "all_results": {
+    "الظهر": [
+      {
+        "name": "Master Chef",
+        "cuisine": "Kuwaiti, Chicken, Seafood",
+        "url": "https://www.talabat.com/kuwait/restaurant/634541/master-chef-abu-ftaira-tgo?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 36 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Chicken Majboos",
+              "description": "Basmati rice cooked in Kuwaiti spices Master Chef style, served with oven cooked chicken and Kuwaiti flavor filling mix on the top.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Meat Majboos",
+              "description": "Basmati rice cooked in Kuwaiti spices Master Chef style with oven roasted lamb and Kuwaiti flavor filling mix on the top.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Mahashi with Meat",
+              "description": "Zucchini, cabbage, green papper, grape leaves and potatoes all stuffed with rice, onion, and ground meat cooked in light tomato based sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Fattoush Salad",
+              "description": "Cucumber, tomatoes, lettuce, sumac, croutons, and a lemon marinade with olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Master Chef Laban",
+              "description": "Small.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Nachos Salad",
+              "description": "Lettuce, corn, red beans, nachos chips and special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizer": [
+            {
+              "index": 6,
+              "name": "Green Salad",
+              "description": "Cucumber, tomato, lettuce and lemon with olive oil marinade.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Tabbouleh Salad",
+              "description": "Chopped parsley, tomatoes, bulgur, and a lemon with olive oil marinade.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Fattoush Salad",
+              "description": "Cucumber, tomatoes, lettuce, sumac, croutons, and a lemon marinade with olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Rocca Salad",
+              "description": "Rocca leaves, pomegranate seeds and pomegranate molasses.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Yogurt And Cucumber Salad",
+              "description": "Yogurt, cucumber, garlic and mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Raita Salad",
+              "description": "Yogurt, cucumber, garlic, mint and carrots.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Tabbouleh With Quinoa Salad",
+              "description": "Minced parsley, Quinoa seeds, tomatoes, groats, lemon and olive oil dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Quinoa And Beetroot Salad",
+              "description": "Cubes of beetroots mixed with Quinoa seeds with special dressing and pomegranates.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Nachos Salad",
+              "description": "Lettuce, corn, red beans, nachos chips and special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Farm Salad",
+              "description": "Cucumber cubes, tomatoes, sweet onion, wild rosemary, walnut chunks and pomegranate molasses sauce. Served with goat cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Matai Salad",
+              "description": "Cucumber slices, lettuce, onions, mattai chunks carrots and special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Naqwa Box": [
+            {
+              "index": 17,
+              "name": "Naqwa Box",
+              "description": "You can choose 4 items from the menu for the Naqwa Box",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kids Meals": [
+            {
+              "index": 18,
+              "name": "Kids Meals",
+              "description": "You can choose from multiple meals for children, which contain the main meal and juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Meat And Chicken": [
+            {
+              "index": 19,
+              "name": "Meat Majboos",
+              "description": "Basmati rice cooked in Kuwaiti spices Master Chef style with oven roasted lamb and Kuwaiti flavor filling mix on the top.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Meat Biryani",
+              "description": "Basmati rice cooked with boneless meat, vegetables, potatoes, green bean in our freshly made biryani sauce, Topped with crunchy onions and nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Chicken Majboos",
+              "description": "Basmati rice cooked in Kuwaiti spices Master Chef style, served with oven cooked chicken and Kuwaiti flavor filling mix on the top.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Chicken Biryani",
+              "description": "Basmati rice cooked with chicken, vegetables, potatoes and peas in our freshly made biryani sauce. Topped with crunchy onions and nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Bajela Rice with Lamb",
+              "description": "Basmati rice cooked in Kuwaiti spices with dill and green broad beans served with roasted lamb",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Bajela Rice with Chicken",
+              "description": "Basmati rice cooked in kuwaiti spices with dill and green broad beans served with roasted chicken.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Rice And Dill With Creamy Chicken",
+              "description": "Basmati rice cooked in kuwaiti spices with dill served with creamy fresh mushroom sauce and chicken .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sea Food": [
+            {
+              "index": 26,
+              "name": "Mutabaq Zubaidi",
+              "description": "Fried zubaidi fish spiced and stuffed with onions served over basmati rice cocked with dill and coriander. On the top a filling of caramelized onions and raisins.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Seafood Mutabaq MasterChef",
+              "description": "Fried zubaidi fish spiced and stuffed with onions served over basmati rice cocked with dill and coriander. On the top a filling of shrimp and caramelized onions and raisins.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Mutabaq Hammour",
+              "description": "Fried Hamour fish spiced served over basmati rice cocked with dill and coriander. On the top a filling of caramelized onions and raisins.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Mutabaq Salmon",
+              "description": "Fried salmon fish spiced served over basmati rice cocked with dill, coriander. on the top a filling of caramelized onions and raisins.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "White Rice With Hammour Maraq",
+              "description": "Tomato-based stew of hammour with coriander and dill served over basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "White Rice with Shrimp Maraq",
+              "description": "Tomato based stew of shrimp with coriander and dill served over basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Shrimp Biryani",
+              "description": "Basmati rice cooked with shrimp and dill in our freshly made biryani sauce. On the top a filling of garnish onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Fresh Shrimp Mumawash",
+              "description": "Basmati rice cooked with green lentil  and dill served with pan fried fresh minced shrimp, onion and coriander. On the top a filling of garnish onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Dried Shrimp Mumawash",
+              "description": "Basmati rice cooked with green lentil  and dill served with pan fried dried minced shrimp, onion and coriander. On the top a filling of garnish onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Maraq": [
+            {
+              "index": 35,
+              "name": "Okra Meat Broth With White Rice",
+              "description": "Meat pieces, tomato stew, okra, special spices. Served with mashkool basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Maraq Shabzi With White Rice",
+              "description": "Braised meat, herbal soup, dried lemon and beans. Served with saffron rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Potato Meat Broth With White Rice",
+              "description": "Meat pieces, tomato stew, potatoes, crushed chickpeas, special spices. Served with mashkool basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Maraq Potato And Chicken With White Rice",
+              "description": "Chicken pieces, tomato stew, potatoes, crushed chickpeas, special spices. Served with mashkool basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Mix Plates": [
+            {
+              "index": 39,
+              "name": "Oats with vegetables",
+              "description": "Pieces of fresh vegetables slow cooked with oatmeal. The plate is topped with caramelized onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Qubot With Lamb Meat",
+              "description": "Tomato based stew of stuffed flour dough filled with onion and raisin.\r\nserved with fresh lamb meat pieces, potatoes, carrots, zucchini and eggplant.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Mahashi with Meat",
+              "description": "Zucchini, cabbage, green papper, grape leaves and potatoes all stuffed with rice, onion, and ground meat cooked in light tomato based sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Butter Chicken with Chinese Rice",
+              "description": "A curry of chicken breast cut in small pieces in a spiced tomato, butter and cream sauce. served with Chinees rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Chicken 65 With White Rice",
+              "description": "Pieces of fried chicken, seasoned with special master chef yogurt sauce, fried with cabbage, green pepper, onion and garlic.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Chicken Shuman",
+              "description": "Pieces of marinated fresh chicken cooked with fried noodles and fresh vegetables, flavored with soy sauce and ginger.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Shrimp Shuman",
+              "description": "Pieces of marinated fresh shrimp cooked with fried noodles and fresh vegetables, flavored with soy sauce and ginger.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Al-Tybeen Macaroni",
+              "description": "Taybeen pasta with red sauce, green beans and minced meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Rezeto Grape Leaves",
+              "description": "Three flavored rezeto grape leaves (pomegranate molasses - lemon - spicy)\n12 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Balaleet With Eggs",
+              "description": "Sweet angel hair pasta cooked in butted and saffron, sugar, rose water and cardamom served with fried eggs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pastries": [
+            {
+              "index": 49,
+              "name": "Fried Kibbeh",
+              "description": "12 pieces, Kibbeh stuffed with meat, Bulgur, Potato, Dill, Groats, Beetroot, Rice and Potato with mix cheese and jalapeno",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Fried Vegetables Samosa",
+              "description": "12 Pieces of fried samosa filled with Vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Fried Mosakhan Samosa",
+              "description": "12 Pieces of Fried Samosa stuffed with boneless chicken, onions and sumac.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Fried Meat Samosa",
+              "description": "12 Pieces samosa filled with ground beef with green beans.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Fried Kraft Cheese And Corn With Jalapenos Samosa",
+              "description": "12 Pieces of fried samosa filled with Kraft cheese and corn.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Fried Pizza Samosa",
+              "description": "12 Pieces samosa filled with pizza flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Fried Mix Cheese Barak",
+              "description": "12 Pieces fried cheese Burek rolls filled with 3 kinds of cheese and fresh Coriander.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Fried Cheese Barak",
+              "description": "12 Pieces cheese Barak filled with feta cheese and fresh mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Frozen Kibbeh",
+              "description": "50 pieces, Kibbeh stuffed with meat, Bulgur, Potato, Dill, Groats, Beetroot, Rice and Potato with mix cheese and jalapeno or Rice stuffed with feta cheese and hot sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Frozen Kraft Cheese And Corn With Jalapenos Samomsa",
+              "description": "30 pieces of frozen samosa filled with kraft cheese and corn and jalapenos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Frozen Pizza Samosa",
+              "description": "30 Pieces samosa filled with pizza.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Frozen Mosakhan Samosa",
+              "description": "30 pieces boneless chicken with onions and sumac stuffed with samosa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Frozen Barak Mix Cheese Rolls",
+              "description": "30 Pieces cheese rolls filled with 3 kinds of cheese and fresh Coriander.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Frozen Cheese Rolls",
+              "description": "30 Pieces cheese rolls filled with feta cheese and fresh mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chili Paste": [
+            {
+              "index": 63,
+              "name": "Green Maabouj",
+              "description": "Master chef green pepper paste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Okra Maabouj",
+              "description": "Master chef okra paste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Eggplant Maabouj",
+              "description": "Master chef eggplant paste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Beetroot Maabouj",
+              "description": "Master chef beetroot paste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Corn Maabouj",
+              "description": "Master chef corn paste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Extras": [
+            {
+              "index": 68,
+              "name": "Extra Tomato Daqoos",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Extra Tamarind Daqoos",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Extra Potato Soup",
+              "description": "Extra potato soup without additional meat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Extra Kuwaiti Filling",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Extra Crunchy Onion",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Extra Red Maabouj",
+              "description": "Extra master chef red pepper paste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Extra Green Maabouj",
+              "description": "Extra master chef green pepper paste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Extra Kuwaiti Tarshi Pickle",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Half Chicken",
+              "description": "Additional half Chicken",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Extra Meat Piece",
+              "description": "about 400 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Extra Shrimp",
+              "description": "Extra servings of shrimp add on main dish.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 79,
+              "name": "Master Chef Laban",
+              "description": "Small.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Lemon Juice",
+              "description": "Lemon juice with fresh mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Qamar El Din Juice",
+              "description": "An apricot fruit juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Vimto",
+              "description": "Small.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Almond Syrup Drink",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Soda",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Mineral Water",
+              "description": "Small.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Abu Ftaira, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/master-chef",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "1548",
+          "Reviews_count": "1165",
+          "General_review": [
+            "Master Chef is a restaurant located in Kuwait, serving a selection of Kuwaiti, Chicken, Seafood that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Ftaira and Abu Halifa.",
+            "Their best selling dishes are Chicken Majboos, Mahashi with Meat, Meat Majboos and Fattoush Salad, although they have a variety of dishes and meals to choose from like Kuwaiti, Chicken, Seafood.",
+            "They have been reviewed 1548 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الفقع صغير و مافي طعم و مومنظف عدل في رمل و غالي عالفاضي. بس للامانه المجبوس نفسه جبار ولا غلطه"
+            },
+            {
+              "reviewer_name": "Hind A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the food was split"
+            },
+            {
+              "reviewer_name": "3aysha a***",
+              "review_date": "14 March 2025",
+              "review_rating": "OK",
+              "review_comment": "احلا هريسه بالدنيا"
+            },
+            {
+              "reviewer_name": "Karezma K***",
+              "review_date": "13 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Jaber A***",
+              "review_date": "05 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "very goog very good"
+            },
+            {
+              "reviewer_name": "shahd a***",
+              "review_date": "02 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "expensive for the taste"
+            },
+            {
+              "reviewer_name": "النور ا***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حلو الاكل حيل"
+            },
+            {
+              "reviewer_name": "Hussain K***",
+              "review_date": "09 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ماشآء الله شي طييب 👍🏻"
+            },
+            {
+              "reviewer_name": "Sameera M***",
+              "review_date": "03 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "بس لو تكثرون سمج مو انتيفه"
+            },
+            {
+              "reviewer_name": "جمانه ا***",
+              "review_date": "26 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "أحلى هريس عجييييبه جنها مالت بيت"
+            },
+            {
+              "reviewer_name": "First Name L***",
+              "review_date": "17 December 2024",
+              "review_rating": "OK",
+              "review_comment": "قطع الدجاج فاشله وكله دهن"
+            },
+            {
+              "reviewer_name": "ام عبدالله ا***",
+              "review_date": "15 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "روعه👏👏👏👏 شكرا طلبات"
+            },
+            {
+              "reviewer_name": "زينب ع***",
+              "review_date": "13 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "انظف والذ مطعم كل شي جبار 👌👌❤️"
+            },
+            {
+              "reviewer_name": "Jumana M***",
+              "review_date": "08 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "No mushrooms in sight"
+            },
+            {
+              "reviewer_name": "alshaikah a***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "شکرا کان الطعام لذيذا أيضا شكرا لتلبية ما كتب بالملاحظات thank you"
+            },
+            {
+              "reviewer_name": "Ameer M***",
+              "review_date": "11 November 2024",
+              "review_rating": "OK",
+              "review_comment": "المذاق جيد، لكن الرز والدقوس وصل باردًا جدًا رغم أن الطلب لم يتأخر"
+            },
+            {
+              "reviewer_name": "Dr Hanoon P***",
+              "review_date": "17 October 2024",
+              "review_rating": "OK",
+              "review_comment": "need good chef"
+            },
+            {
+              "reviewer_name": "Pearl K***",
+              "review_date": "28 September 2024",
+              "review_rating": "OK",
+              "review_comment": "العيش متروس دهن"
+            },
+            {
+              "reviewer_name": "Yousef A***",
+              "review_date": "22 September 2024",
+              "review_rating": "Good",
+              "review_comment": "الاكل لذيذ لكن حجم الدجاج صغير، تارسين اللبن ثوم."
+            },
+            {
+              "reviewer_name": "Saja N***",
+              "review_date": "14 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ماشاءالله نارررررر حيلل مو اخر مره اطلب"
+            },
+            {
+              "reviewer_name": "رفعه ا***",
+              "review_date": "06 September 2024",
+              "review_rating": "Good",
+              "review_comment": "المحاشي مليانه مرقه الطبخ"
+            },
+            {
+              "reviewer_name": "hadeel A***",
+              "review_date": "04 September 2024",
+              "review_rating": "Good",
+              "review_comment": "الاكل وصل بارد وباهت"
+            },
+            {
+              "reviewer_name": "laila S***",
+              "review_date": "29 August 2024",
+              "review_rating": "Amazing",
+              "review_comment": "المحشي جبار والطعم خيال"
+            },
+            {
+              "reviewer_name": "Rabab A***",
+              "review_date": "17 August 2024",
+              "review_rating": "Very good",
+              "review_comment": "الاكل لذيذ مشاءالله بس في شي بسيط في مرق السمك الخضار تحتاج فرم اكثر"
+            },
+            {
+              "reviewer_name": "Ali D***",
+              "review_date": "05 August 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل كان كله طايح بالچيس ومنثور والعيش والمرق كان في كل مكان"
+            },
+            {
+              "reviewer_name": "laila S***",
+              "review_date": "24 July 2024",
+              "review_rating": "Very good",
+              "review_comment": "المحشي لذيذ وذايب والكميه راهيه ماشاءالله"
+            },
+            {
+              "reviewer_name": "صالح ا***",
+              "review_date": "06 July 2024",
+              "review_rating": "Good",
+              "review_comment": "لو مو حاطين لحم احسن (كمية اللحم قليلة) 😂"
+            },
+            {
+              "reviewer_name": "Amal A***",
+              "review_date": "05 July 2024",
+              "review_rating": "Good",
+              "review_comment": "أنا طلبت مرق لحم وعطيتوني مرق دجاج، مع ذلك كان لذيذ — لكن المرة الجاية ركزوا عالتفاصيل الله يهديكم"
+            },
+            {
+              "reviewer_name": "Fatma Khalaf ***",
+              "review_date": "10 June 2024",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا جزيلا الاكل طيب واسعاره مناسبة"
+            },
+            {
+              "reviewer_name": "جمانه ا***",
+              "review_date": "08 June 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل عجييييييييب شغل بيت"
+            },
+            {
+              "reviewer_name": "zahra s***",
+              "review_date": "04 June 2024",
+              "review_rating": "OK",
+              "review_comment": "التوصيل متأخر جداً جداً السائق لم يطلب الموقع والشرح.. لكن الطلب وصل متأخر بشكل كبير"
+            },
+            {
+              "reviewer_name": "zahra s***",
+              "review_date": "03 June 2024",
+              "review_rating": "Amazing",
+              "review_comment": "سريع جدا"
+            },
+            {
+              "reviewer_name": "zahra s***",
+              "review_date": "01 June 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الطعم لذيذ العيب الوحيد التأخر في التوصيل وعرف الموقع من الوصف"
+            },
+            {
+              "reviewer_name": "zahra s***",
+              "review_date": "01 June 2024",
+              "review_rating": "OK",
+              "review_comment": "الطعم لذيذ .. طلبت وضع الكشنه منفصله من أجل الاطفال ولم يهتم بالملاحظة.. وقت التوصيل ساعة و٤٥ دقيقة التوصيل لفندق حياة رجنسي فحيحل تم ارسال الموقع للسائق ولم يعرف المكان طلب الموقع من جديد وتم التوص"
+            },
+            {
+              "reviewer_name": "Mahdi Z***",
+              "review_date": "22 May 2024",
+              "review_rating": "Amazing",
+              "review_comment": "the best packaging I’ve ever had"
+            },
+            {
+              "reviewer_name": "Musaed A***",
+              "review_date": "13 May 2024",
+              "review_rating": "Very good",
+              "review_comment": "ادمان محشي اللحم كل مرا اطلبه وايد لذييييذ ونظيف"
+            },
+            {
+              "reviewer_name": "Mohammed B***",
+              "review_date": "15 April 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Its master cheif not chef"
+            },
+            {
+              "reviewer_name": "Rabaah A***",
+              "review_date": "20 March 2024",
+              "review_rating": "Good",
+              "review_comment": "السمبوسه الحبن مالح وايد. والسمبوسه وصلت لينه"
+            },
+            {
+              "reviewer_name": "Aisha ر***",
+              "review_date": "23 December 2023",
+              "review_rating": "Very good",
+              "review_comment": "الكمية جيدة لكن ليست مناسبه للسعر تكفي شخصين و طفل"
+            },
+            {
+              "reviewer_name": "محسن ا***",
+              "review_date": "14 December 2023",
+              "review_rating": "Amazing",
+              "review_comment": "👍🏼"
+            },
+            {
+              "reviewer_name": "Yousef A***",
+              "review_date": "28 November 2023",
+              "review_rating": "Good",
+              "review_comment": "الاكل وصلني بارد"
+            },
+            {
+              "reviewer_name": "Salsabeel A***",
+              "review_date": "26 November 2023",
+              "review_rating": "OK",
+              "review_comment": "طلبت لحم ناشف و مافيه طعم و الدقوس حرفيا كتشب الاكل مافيه اي نقطه بهار و الطعم الله يديم النعمه"
+            },
+            {
+              "reviewer_name": "Mariam K***",
+              "review_date": "07 November 2023",
+              "review_rating": "Amazing",
+              "review_comment": "الافضل بين المطاعم الكويتية"
+            }
+          ]
+        }
+      }
+    ]
+  },
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
     "current_restaurant": 0,
-    "total_restaurants": 0,
-    "processed_restaurants": [],
+    "total_restaurants": 15,
+    "processed_restaurants": [
+      "Master Chef",
+      "Master Chef"
+    ],
     "completed_pages": []
   }
 }
