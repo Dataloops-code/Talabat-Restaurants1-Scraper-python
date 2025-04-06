@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T15:54:39.868024",
+  "last_updated": "2025-04-06T15:57:26.879776",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 6,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -82,7 +82,8 @@
       "Ghraeyf",
       "Lumiere",
       "Kefak Sweet",
-      "Baklavaji Sweets"
+      "Baklavaji Sweets",
+      "Malvih Sweet"
     ],
     "completed_pages": [
       1,
