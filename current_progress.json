@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:20:26.103986",
+  "last_updated": "2025-04-06T10:22:04.148859",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -16,7 +16,9 @@
       "Malala",
       "Malala",
       "Ghanayem",
-      "Ghanayem"
+      "Ghanayem",
+      "Elevation Burger, Abu Ftaira",
+      "Elevation Burger, Abu Ftaira"
     ],
     "completed_pages": []
   }
