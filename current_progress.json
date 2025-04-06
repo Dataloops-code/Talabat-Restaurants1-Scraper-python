@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T14:28:00.841623",
+  "last_updated": "2025-04-06T14:29:09.690036",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 4,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -59,7 +59,8 @@
       "Chapatti Rashid",
       "Umm Alaish",
       "Krispy Kreme",
-      "Dunia Albukhary"
+      "Dunia Albukhary",
+      "MJ Burger"
     ],
     "completed_pages": [
       1,
