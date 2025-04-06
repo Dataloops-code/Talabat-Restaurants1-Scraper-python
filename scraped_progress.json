@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:11:13.579714",
+  "last_updated": "2025-04-06T13:16:09.156299",
   "all_results": {
     "الظهر": [
       {
@@ -82154,6 +82154,2639 @@
             }
           ]
         }
+      },
+      {
+        "name": "The Local beet",
+        "cuisine": "Healthy, Bowls, Organic",
+        "url": "https://www.talabat.com/kuwait/restaurant/32600/the-local-beet-abu-hasaniya?aid=59",
+        "rating": "Very good",
+        "page": 2,
+        "delivery_time": "Within 39 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Harvest Bowl",
+              "description": "Grilled chicken with honey mustard, organic brown rice, organic black beans, sweet corn, guacamole and spicy sriracha sauce, with 513 calories, 52 carbs, 44 protein, 15 fat and 13 fiber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Sweet Fries",
+              "description": "Oven baked sweet potato with olive oil, almond flour, salt and pepper. calories 125.2, carbohydrates 23.5, protein 2.3, fats 2.8, fiber 3.9 For 50 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Mongolian Beef",
+              "description": "Tenderloin steak, organic brown rice, broccoli, spring onions, chili, white sesame, Mongolian sauce, cal 458.9, carbs 41.1, protein 41.2, fat 15.3 and fiber 3.1",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Turmeric Ginger",
+              "description": "Ginger, turmeric, orange, lemon and cayenne pepper",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Avo Smash With Free-Range Poached  Egg",
+              "description": "Poached eggs, avocado smash, coriander seeds, chilli flakes, radish, arugula, sourdough toast. Calories 439.5, carbohydrates 35.9, protein 20.3, fat 26, fiber 10.7",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Avocado Chicken",
+              "description": "Grilled chicken with honey mustard, avocado, kale, spring mix lettuce, sesame and sriracha sauce.\nKeto diet. Low carb. Paleo diet\n334 kcal. 14g carbs, 27g protein, 20g fats and 6g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cheese Tray": [
+            {
+              "index": 6,
+              "name": "Eid Breakfast",
+              "description": "Brie cheese, emmental cheese, cheddar cheese, parmesan cheese, manchego cheese, truffle mushroom buratta dip, roasted veg cream cheese dip, corn dip, guacamole, strawberry jelly, peanut butter, mixed berries, grape, cherry tomato, cucumber, nuts, crackers, nachos, house made ciabatta, baguette and pita bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Eid Breakfast",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Wooden Tray (35.000)",
+                    "Disposable Tray (25.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 7,
+              "name": "Mediterranean Cheese Tray",
+              "description": "Cheese : Emmental , Parmesan , Manchego , Cheddar Yellow , Goat Cheese ,Truffle , Feta Cheese \nNuts : Pecan , Cashew  , Almond . \nDips : Date Feta , Makdous , labneh Falafel \nFruits : Dried Apricots , Grape , Strawberry , Dried Cranberries , Blueberry ,Fresh Fig\nSauces: Fig Jam , Pesto  , Marinated Cherry Tomato , Marinated Kalamata Olives , Olive , Truffle\nSides :Thyme  Fresh , Crackers, Bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mediterranean Cheese Tray",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Wooden Tray (35.000)",
+                    "Disposable Tray (25.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 8,
+              "name": "Kuwaiti Cheese Tray",
+              "description": "Assorted cheese, nuts, dips, fruits, sauces, bread and sides, cheese feta cheese, labneh balls, Emmental cheese, halloumi cheese and cheddar cheese, nuts walnuts and date, dips hummus and thick cream, fruits and vegetable strawberries, dried apricot ,dried cranberries, mint leaves, arugula and cherry tomato, sauces and spreads fig jam, sides crackers sumac and sesame marinated kalamata olives, rahash and honey comb, bread tanoor bread enough for 6 to 8 person",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Basic Cheese Tray",
+              "description": "Cheese: gouda, parmesan, cheddar and mozzarella\r\nProtein: smoked turkey, beetroot falafel and sweet potato falafel\r\nNuts: cumin cashew, pecan and honey hazelnut\r\nDips: hummus, moutabbal and makdous labneh\r\nCrudites: cucumber, carrot and celery\r\nFruits: grapes, strawberry, dries apricots and dries cranberries\r\nSauces: pesto, tahini and blueberry jam\r\nSides: cherry tomato, crackers and kalamata olives\r\nBreads: gluten free nachos, sourdough, toasted sourdough and pita\r\nPresentation: tray\r\nEnough for : 6 to 8 persons",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Beet Cheese Tray",
+              "description": "Nuts, dips, fruits, sauces, bread, cashew nuts with cumin, pecans, dips hummus, muttabal, beetroot hummus, kale hummus, labneh, grape fruits, strawberries, dried apricots, dried cranberries, sides marinated cherry tomatoes, summac crackers, zaatar, salty sesame, marinated kalamata olives, assorted cheeses, parmesan cheese, cheddar, mozzarella balls, emmental, labneh balls, thyme babka bread, chocolate babka, gluten-free nachos, sourdough, toasted sourdough, pita, sauces, onion jam, fig jam, chocolate sauce, enough for 6 to 8 persons and presentation tray",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Small Cheese Tray",
+              "description": "Brie cheese, parmesan cheese, manchego cheese, cheddar cheese, marinated cherry tomato, marinated kalamata olives, fig jam, raspberries, blackberries, dates, pecan, dried apricots and crackers, enough for 2 to 4 person.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Offers": [
+            {
+              "index": 12,
+              "name": "Breakfast Box.",
+              "description": "Choose your breakfast, side & drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Items": [
+            {
+              "index": 13,
+              "name": "Apple With Peanut Butter",
+              "description": "Green apple and peanut butter, 221 kcal, 7 p, 18 c, 16 f",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "German Cucumber Salad",
+              "description": "Cucumber, Greek yoghurt, sour cream, dill – calories: 75, protein 2g, fat 4g, carbs 8g, fiber 8g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Crunchy Salad",
+              "description": "Iceberg lettuce, red carrot, spring onion, red cabbage, white cabbage, red cherry tomato, bhujia, vegan sesame ginger dressing. 198 calories, 8 carbs, 2 protein, 8 fat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Shirazi Salad",
+              "description": "Pomegranate, cucumber, tomato, parsley, mint leaves, lemon dressing, pomegranate molasses - 102 calories, 1.2g protein, 7.7g fat, 8.6g carbs, 1.5g fiber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Edamame",
+              "description": "Edamame, carrot, cucumber, radish, arugula, sesame seeds, ginger tahini  dressing 189 kcal, 4 p, 13 c and 14 f.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Pistachio Kunafa Stuffed Date",
+              "description": "Dates, pistachio cream, Kunafa and milk chocolate 75 kcal, 1 p, 14 c, 2 f",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pistachio Kunafa Stuffed Date",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "5 Pieces (1.750)",
+                    "12 Pieces (3.600)",
+                    "36 Pieces (14.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 19,
+              "name": "Honey Comb Stuffed Date",
+              "description": "Dates, honey cups, milk chocolate. 79 calories, 1g protein, 1g fat, 18g carbs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Honey Comb Stuffed Date",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "5 Pieces (1.500)",
+                    "12 Pieces (3.600)",
+                    "36 Pieces (14.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 20,
+              "name": "Honey Cake Trifle",
+              "description": "Graham crackers, honey cream - 299 kcal, 3p, 34c, 18f.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Banoffee Tart",
+              "description": "Tart base, cream, banana, caramel. 247 calories, 6g protein, 13g fat, 28g carbs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Avo Sriracha Bagel.",
+              "description": "Sesame bagel, sriracha cream cheese, guacamole, arugula, roasted tomato 377 kcal, 13 p, 50 c, 14 f.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Bagel And Spread",
+              "description": "Your choice of bagel and spread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Halloumi Zaatar Bagel",
+              "description": "Sourdough zaatar bagel, zaatar, halloumi, light cream cheese, tomato, arugula, olive paste, cucumber 351 kcal, 13 p, 49 c and 11 f.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Shish Tawook",
+              "description": "Sufied shish tawook, toasted Arabic bread, red onions, tomatoes - 426 calories, 47 grams of protein, 10 grams of fat, 35 grams of carbohydrates, 2 grams of fiber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Murabyan",
+              "description": "Sous vide shrimps, rice, murabyan hashu, daqoos, tamarind sauce, lemon, dill. 471 calories, 30g protein, 10g fat, 68g carbs, 6g fiber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Kebab Karaz",
+              "description": "Kebab, cherry sauce and toasted arabic bread 481 kcal 23 p, 51 c, 20 f",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Tikka Loomi",
+              "description": "Sous vide beef tikka, lomi, green onions, toasted Arabic bread 45 calories, 32g protein, 20g fat, 40g carbs and 4g fiber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Savory bites": [
+            {
+              "index": 29,
+              "name": "Avo Smash With Free-Range Poached  Egg",
+              "description": "Poached eggs, avocado smash, coriander seeds, chilli flakes, radish, arugula, sourdough toast. Calories 439.5, carbohydrates 35.9, protein 20.3, fat 26, fiber 10.7",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Blondie",
+              "description": "Turmeric poached eggs, avocado smash, radish, arugula, chili flakes, coriander seeds, sourdough toast. Calories 439.5, carbohydrates 35.9, protein 20.3, fat 26, fiber 10.7 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Free-Range Poached Egg On Toast",
+              "description": "Poached eggs, coriander seeds, chilli flakes, radish, arugula and cilantro sauce, sourdough toast. Calories 290, carbohydrates 27.2, protein 18.3, fat 12.6, fiber 4.3",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Avo Mexican Corn",
+              "description": "Sourdough toast, guacamole, sweet corn, jalapeno, Greek yogurt, vegan mayo sauce, feta cheese and micro greens. Cal 340.4, carbs 45.6, protein 10.9, fat 14.5, fiber 5.9.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Avo Smash",
+              "description": "Avocado smash, coriander seeds, chilli flakes, radish, arugula, sourdough toast. Calories 301, carbohydrates 34.9, protein 9.1, fat 16.5, fiber10.7 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Avo Egg Slider",
+              "description": "Potato bun, soft scrambled eggs, guacamole, caramelized onion, cheddar cheese, honey mustard sauce. Cal 453, carbs 41.6, protein 17.1, fat 24.5, fiber 2.7",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Chipotle Egg Slider",
+              "description": "Potato bun, soft scrambled eggs, caramelized onion, cheddar cheese, chives and spicy chipotle sauce. Cal 411.7, carbs 38, protein 19.3, fat 20, fiber 1.3.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Halloumi",
+              "description": "Halloumi cheese, avocado, cherry tomatoes, fresh radish slices, red pepper, coriander seeds, balsamic vinegar served on sourdough toast. Calories 409.6, Carbs 40.9, Protein 21.4, Fat 16.5, Fiber 8.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Sicily",
+              "description": "Eggplant, cherry tomatoes, olives, feta cheese, arugula, chili flakes, coriander seeds, sourdough toast. (calories 195, carbohydrates 35, protein 7, fat 3, fiber 7.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Breakfast Burrito Wrap",
+              "description": "Tortilla bread, soft scrambled egg, guacamole, organic black beans, caramelized onion, cheddar cheese, iceberg lettuce and sweetcorn. Cal 333.9, carbs 38, protein 15.6, fat 14.3 and fiber 6.6.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sweet Bites": [
+            {
+              "index": 39,
+              "name": "Labneh And Pomegranate On Toast",
+              "description": "Labneh, pistacho, pomegranate, olive oil, balsamic glaze and thyme in sourdough toast Calories 317.7, Carbohydrates 32.1, Protein 10.8, Fat 17.3,  Fiber 4.3",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "House Pancakes",
+              "description": "Whole grain ricotta pancakes, homemade granola, edible flowers, chia seeds and organic maple syrup. Calories 302.3, carbohydrates 50.6, protein 9.3, fat 8.3, fiber 5.3",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Vegan Waffle",
+              "description": "Gluten-free flour, vegan egg, almond milk, coconut sugar, homemade granola, edible flowers and chia seeds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Greek Yoghurt Parfait",
+              "description": "Homemade greek yogurt, homemade pumpkin granola, pecans and edible flowers.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Whole Grain Oats",
+              "description": "Whole grain oats, coconut sugar, cinnamon, pecans, honey, edible flower, chia seeds and granola , Cal 354.3 , carbs 70.1, protein 8.6 , fat 7.3 , fiber 8 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Chia Pudding",
+              "description": "Organic chia seeds, almond milk, greek yogurt, coconut milk, organic maple syrup, fresh mix berries, granola \ncalories 256.1, carbohydrates 28.6, protein 11.8, fat t 11.4, fiber 7.9 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sandwiches": [
+            {
+              "index": 45,
+              "name": "Portobello Kale Pesto Sandwich",
+              "description": "Sourdough toast, portobello mushroom, button mushroom, Gouda cheese and kale pesto sauce. Cal 473, carbs 49, protein 21, fat 24, fiber 9.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Chipotle Chicken Sandwich",
+              "description": "House made ciabatta bread, chipotle chicken, guacamole, baby spinach, gouda cheese and chipotle sauce. Kcal 463.5, protein 26.5, fat 22.3 and carb 40.3.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Steak And Cheese Sandwich",
+              "description": "Sourdough toast, tenderloin steak, caramelized onion, gouda cheese, arugula, whole grain mustard and vegan caesar dressing. Cal 470, carbs 50, protein 29, fat 19, fiber 7",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Chicken Burrito Wrap",
+              "description": "Tortilla bread, honey mustard grilled chicken, guacamole, organic black beans, tomato, cheddar cheese, iceberg lettuce and sweetcorn. Cal 304.4 , carbs 38.7, protein 19.7, fat 8.7, fiber 6.6.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Spicy Tuna",
+              "description": "House ciabatta bread,Tuna mousse,  pesto sauce, avocado, Jalapenos and sriracha sauce. \nKcal 283, protein 11.4, fat 9.8, carb  38.9 and fiber 5",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Chicken Caesar Wrap",
+              "description": "Tortilla bread, almond crust chicken, Parmesan cheese, iceberg lettuce and vegan Caesar dressing. Cal 307.3, carbs 36.4, protein 18.3, fat 10.7.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Avo Tuna",
+              "description": "House ciabatta bread, tuna mousse, pesto sauce, avocado, kcal 274.7, protein 11.2, fat 9.6, carb 37.4, fiber 4.6",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Southwest Chicken wrap",
+              "description": "Tortilla bread, almond crust chicken, cheddar cheese and chipotle southwest sauce. Cal 366, carbs 35, protein 17, fat 19 , fiber 6 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Almond Chicken Slider",
+              "description": "Potato bun, almond chicken, emmental cheese, tomato, carrot, white cabbage, red cabbage and spicy chipotle sauce cal 265.4, carbs 21.9,  protein 19.1, fat 12.1and fiber 2.5.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Avo Turkey",
+              "description": "Smoked turkey, brown toast, avocado, iceberg lettuce, home made pesto sauce and honey mustard sauce Cal: 399.1  Carbs: 35.9  Protein: 20  Fat: 21  Fiber: 6.4",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Chipotle Turkey",
+              "description": "Smoked turkey, brown toast, gouda cheese, iceberg lettuce, tomato and chipotle aioli sauce. Cal:403.1, carbs: 31.9, protein: 23.8, fat: 20.5 and fiber: 2.9",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Tuna Sandwich",
+              "description": "Tuna, brown toast, corn, pickled cucumber, carrots, celery, iceberg lettuce and vegan light mayo cal. 345.6 carbs32.6 protein 15.1 fat 17.6 fiber 3.4",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Cranberry And Brie Turkey",
+              "description": "Smoked turkey, brown toast, brie cheese, iceberg lettuce, homemade cranberry sauce and honey mustard sauce cal.: 328.5, carbs: 33.7, protein: 22.8, fat: 12, fiber: 3",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Brisket Shawerma  Sandwich",
+              "description": "Brisket shawerma, pickled onions, red turnips and tahini, 441 calorie, 43 grams carbohydrates, 34 grams protein, 13.4 grams fats and 4 grams fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Power Trip",
+              "description": "Beetroot falafel patty, cherry tomatoes, radish and tahini sauce. Served with kale chips. Calories 206.9, carbohydrates 36.1, protein 7.2 , fat 5.3 and fiber 6.8",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "The Reformer",
+              "description": "Sweet potato falafel patty, portobello mushrooms, arugula, avocado cream served with kale chips. Calories 206.8, carbohydrates 38.7, protein 7.2, fat 3.8, fiber 7.2",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Chicken Shawerma Sandwich",
+              "description": "Chicken shawerma, pickled cucumber, green onions, radish, red turnip and garlic sauce, 494\n calorie, 50grams carbohydrates, 28 grams protein, 22 grams fats and 7 grams fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Pesto Halloumi Sandwich",
+              "description": "Halloumi cheese, tomatoes, Sourdough toast, pesto sauce, 422.4 calorie, 54.8 grams carbohydrates, 25 grams protein, 11.7 grams fats and 2.8 Grams fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Sandwich Box",
+              "description": "Choose your favorite 6 sandwiches served with  chips.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Ciabatta Sandwich Box",
+              "description": "Choose your favorite 4 from",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Soups": [
+            {
+              "index": 65,
+              "name": "Wild Mushroom Soup",
+              "description": "Wild mushrooms, shiitake mushrooms, thyme and cashew cream. Vegan. Gluten free. Dairy free. 364 kcal.34.1g carbs, 9.8g protein, 23g fats and 2.8g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Celery Soup",
+              "description": "Celery, spinach, dill, leek, cashew cream and vegan parmesan cheese. Vegan. Gluten free. Dairy free.\n366 kcal.41g carbs, 9g protein, 21g fats and 4g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Vegan Lentil",
+              "description": "Served with lime wedges and roasted brown bread.cal. : 328.4, carbs: 59.2,  protein: 20.5,  fat: 2.5  fiber: 9.9.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 68,
+              "name": "Roasted Beet Salad",
+              "description": "Roasted beetroot, baby spinach, feta cheese, and balsamic dressing. Kcal 251.6, Protein 9.8, Fat 14.4 , Carb 22.3",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Zaatar Salad",
+              "description": "Lettuce, zaatar levees,  grilled corn, feta cheese, zaatar croutons and green dressing. cal 248, carbs 22, protein 9, fat 15 and fiber 5 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Local Crunch",
+              "description": "Spring mix, corn, carrots, cherry tomato, radish, croutons, ranch dressing, Calories 146, carbohydrates 20, protein 6, fats 6 and fiber 4",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Wild Thoughts",
+              "description": "Rocket leaves, pine nuts, parmesan cheese, balsamic dressing, calories 290, carbohydrate 28, protein 5, fat 19 and fiber 5",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Sweet Green",
+              "description": "Arugula, spring mix, iceberg lettuce, crispy kale, maple croutons, vegan Parmesan cheese, vegan Caesar dressing. Calories 181, carbohydrates 15, protein 7, fats 11, fiber 3",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Mozz",
+              "description": "Mozzarella cheese, cherry tomato, avocado, spring mix, cucumber, red onion, granola , coriander sauce, calories 254, carbohydrates 25, protein 10, fat 19, fibers 6.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Heartbeat",
+              "description": "Spring mix, beetroot, feta cheese, sunflower seeds, balsamic vinaigrette dressing. Calories 284, carbohydrates 16, protein 8, fat 22, fiber 4 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Quinoa Pomegranate",
+              "description": "Quinoa, feta cheese, cilantro, mix lettuce, cherry tomato, pomegranate, spring onion, cumin cashew and Greek dressing. 283 cal, 22 carbs, 6 protein, 20 fat and 5 fiber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Cauliflower Tabbouleh",
+              "description": "Parsley, cauliflower, pomegranate, beetroot, cherry tomato, spring onion, dry mint, pistachio and lemon vinaigrette, cal 196 carbs 24, protein 5, fat 11, fiber 7",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Create Your Own Salad",
+              "description": "Customizable salad creation.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bowls": [
+            {
+              "index": 78,
+              "name": "Breakfast Bowl",
+              "description": "Avocado, sauteed cherry tomatoes, sweet potato, poached egg, sauteed spinach, sriracha sauce, and served with sourdough toast. Calories 410. Carbs 47, protein 17, fat 19",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Grilled Steak With Pomegranate Sauce",
+              "description": "Tenderloin steak, baked potato and homemade pomegranate sauce. cal 418, carbs 48, protein 28, fat 14 and fiber 6.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Chicken Fatteh",
+              "description": "Sumac chicken, sourdough bread, chickpeas, pine nuts, pomegranate and yoghurt tahini sauce.\nKcal 425.4, protein 26, fat 22.3 , carb 33.1",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Spicy Chicken With Peanut Sauce",
+              "description": "Grilled chicken, organic brown rice, broccoli, red capsicum, black sesame and spicy peanut sauce. Cal 495.6, carbs 42.6, protein 37.2, fat 20, fiber 5.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Eggplant Fatteh",
+              "description": "Eggplant, sourdough bread, chickpeas, pine nuts, pomegranate, and yoghurt tahini sauce - Kcal 351.6, Protein 12.6, Fat 20.1 , Carb 34",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Beef Shawerma Bowl",
+              "description": "Tenderloin Beef shawarma, turnip pickle, Red cabbage, cucumber pickle, red onion, white tortilla, and tahini sauce. Kcal 537.8, Protein 47.1, Fat 20.4 , Carb 45.8",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Mongolian Beef",
+              "description": "Tenderloin steak, organic brown rice, broccoli, spring onions, chili, white sesame, Mongolian sauce, cal 458.9, carbs 41.1, protein 41.2, fat 15.3 and fiber 3.1",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Chicken Shawerma Bowl",
+              "description": "Chicken shawarma, turnip pickles, cucumber pickles, red onions, white tortillas, and tahini sauce. Kcal 446, Carb 45 , Protein 31 ,Fat 17 ,Fiber 7 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Buff Baby",
+              "description": "Sous vide tenderloin steak, maple glazed carrots, broccoli, cauliflower rice, chimichurri sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Sweet Chilli Chicken",
+              "description": "Chicken, sweet chilli sauce, red capsicum, green capsicum, red chilli, and organic brown rice kcal 446, carb 67, protein 26, fat 9, fiber 3.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Harvest Bowl",
+              "description": "Grilled chicken with honey mustard, organic brown rice, organic black beans, sweet corn, guacamole and spicy sriracha sauce, with 513 calories, 52 carbs, 44 protein, 15 fat and 13 fiber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Soul Island",
+              "description": "Rosemary sous vide salmon, grilled asparagus, corn, organic black rice, cilantro sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Kofta With Freekeh",
+              "description": "Meat Kofta, pine nuts, cucumber, yogurt, freekeh, parsley, tahini sauce. Calories 450.5, carbohydrates 34.2, protein 36.3, fats 20.6, fiber 6",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "Skinny Bowl, Create Your Own",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Salmon Harvest",
+              "description": "Rosemary sous vide salmon, organic brown rice, organic black beans, sweet corn, guacamole and cilantro sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "Shrimp Harvest",
+              "description": "Sous vide shrimp, organic brown rice, organic black beans, sweet corn, guacamole and sriracha sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Steak Harvest",
+              "description": "Sous vide tenderloin steak, organic brown rice, organic black beans, sweet corn, guacamole and chimichurri sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Avocado Salmon",
+              "description": "Rosemary Sous Vide Salmon, Avocado, Kale, spring mix lettuce, Sesame And Cilantro Sauce.\nKeto Diet. Low Carb. Paleo Diet\n339 Cal. 9g Carbs, 25g Protein, 24g Fats And 6g Fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Avocado Chicken",
+              "description": "Grilled chicken with honey mustard, avocado, kale, spring mix lettuce, sesame and sriracha sauce.\nKeto diet. Low carb. Paleo diet\n334 kcal. 14g carbs, 27g protein, 20g fats and 6g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Shrimp Avocado",
+              "description": "Sous vide shrimp, avocado, kale, spring mix lettuce, sesame and sriracha sauce, keto diet, low carb, paleo diet, 300 kcal, 17g carbs, 21g protein, 17g fats and 6g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Steak Avocado",
+              "description": "Sous vide tenderloin steak, avocado, kale, spring mix lettuce, sesame and chimichurri sauce.\nKeto diet. Low carb. Paleo diet\n354 kcal. 8g carbs, 33g protein, 23g fats and 6g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Almond Crust Chicken",
+              "description": "Baked chicken, almonds, avocado, kale, spring mix lettuce, sesame and vegan caesar sauce.\r\nKeto diet. Low carb. Paleo diet\r\n452 kcal. 17g carbs, 13g protein, 48g fats and 10g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "Shrimp Curry",
+              "description": "Sous vide shrimp, brown rice, broccoli, sweet corn and red curry sauce. Calories 350, carbs 52, protein 24, fat 5, fiber 6",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Create Your Own Bowl",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pasta": [
+            {
+              "index": 102,
+              "name": "Spaghetti Bolognese Pasta",
+              "description": "Organic spelt pasta, minced beef, carrots, parmesan cheese and thyme.\n352.1 kcal. 53g carbs, 18.3g protein, 9.8g fats and 7.3g fiber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Penne Arabiata",
+              "description": "Penne pasta, tomato sauce, basil and parmesan cheese cal. 339.9 carbs 50.4 protein 11.7 fat 12.4fiber 6.2",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Vegan Spaghetti Bolognese",
+              "description": "Organic brown spaghetti, vegan lentil bolognese sauce, parsley and vegan parmesan cheese, calories 268, carbs 49, protein 13, fat 4 and fiber 11",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gluten-free Tacos": [
+            {
+              "index": 105,
+              "name": "Vegan Portobello With Cilantro Sauce",
+              "description": "Gluten free home made tacos with portobello mushrooms, onions, red cabbage, cilantro, garlic, vegan cream cheese and pickled onions. 181.4 kcal. 29g carbs, 4.2g protein, 6.3g fats and 2.9G fibers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "Grilled Steak",
+              "description": "Gluten free home made tacos with steak, mashed avocado, jalapeno, microgreens, cilantro and chimichurri sauce. 194 kcal. 28g carbs, 10g protein, 5g fats and 3g fibers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "Caribbean Chicken",
+              "description": "Gluten free home made tacos with grilled chicken breast, green peppers, garlic, beetroot, microgreens, cumin, pickled ginger, sour cream and balsamic sauce drizzle. 177 kcal. 28g carbs, 10g protein, 3g fats and 2g fibers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "Shrimp Sriracha",
+              "description": "Gluten-free housemade tacos, marinated shrimp, mango, guacamole, microgreen, salt, and housemade sriracha sauce. (Calories 193, carbohydrates 30, protein 8, fat 5, fiber 3)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Snacks": [
+            {
+              "index": 109,
+              "name": "Gluten Free Nachos",
+              "description": "Baked gluten free tortilla chips",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Gluten Free Nachos",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Hummus (Cal.: 201 Carbs: 30 Protein: 6 Fat: 6 Fiber: 4) (1.250)",
+                    "Beetroot Hummus (Cal.: 200 Carbs: 31 Protein: 6 Fat: 6 Fiber: 4) (1.250)",
+                    "Mutabal (Cal.: 153 Carbs: 24 Protein: 4 Fat: 5 Fiber: 3) (1.250)",
+                    "Guacamole (Cal.: 188 Carbs: 24 Protein: 3 Fat: 9 Fiber: 4) (1.450)",
+                    "Labneh (Cal.: 184 Carbs: 25 Protein: 6 Fat: 7 Fiber: 1) (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 110,
+              "name": "Crudités",
+              "description": "Served with your choice of hummus, beetroot hummus, mutabal or guacamole",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Crudités",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Hummus (Cal.: 130 Carbs: 16 Protein: 5 Fat: 5 Fiber: 5) (1.250)",
+                    "Beetroot Hummus (Cal.: 129 Carbs: 17 Protein: 5 Fat: 5 Fiber: 5) (1.250)",
+                    "Mutabal (Cal.: 82 Carbs: 10 Protein: 3 Fat: 4 Fiber: 4) (1.250)",
+                    "Guacamole (Cal.: 117 Carbs: 10 Protein: 2 Fat: 8 Fiber: 5) (1.450)",
+                    "Labneh (Cal.: 113 Carbs: 10 Protein: 5 Fat: 6 Fiber: 2) (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 111,
+              "name": "Cauliflower Tabbouleh",
+              "description": "Parsley, cauliflower, pomegranate, beetroot, cherry tomato, spring onion, dry mint, pistachio and lemon vinaigrette, cal 83 carbs 8 protein 2 fat 5 fiber 2",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Mexican Street Corn",
+              "description": "Avocado, sweet corn, jalapeno, feta cheese, Greek yogurt and vegan light mayo sauce Cal: 138.2  Carbs: 14.5  Protein: 4.4  Fat: 8.2  Fiber: 2.9",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sides": [
+            {
+              "index": 113,
+              "name": "House Ketchup",
+              "description": "Beetroot, apple cider vinegar, coconut sugar, purple onion and salt. 42.9 calories, 9.8 carbohydrates , Protein 1.1, Fiber 1.9 For 30 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "Sweet Fries",
+              "description": "Oven baked sweet potato with olive oil, almond flour, salt and pepper. calories 125.2, carbohydrates 23.5, protein 2.3, fats 2.8, fiber 3.9 For 50 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Salted Crispy Kale",
+              "description": "Kale with olive oil, salt. Calories 2.8, carbohydrates 0.2, protein 0.1, fat 0.2 and fiber 0.2 For 50 gram.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 116,
+              "name": "Spicy Crispy Kale",
+              "description": "Kale with olive oil, salt, and chili flakes, calories 2.8, carbohydrates 0.2, protein 0.1, fat 0.2 and fiber 0.2 for 50 grams.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Wellness Shots": [
+            {
+              "index": 117,
+              "name": "Beet Booster",
+              "description": "Beetroot, orange and mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 118,
+              "name": "Turmeric Ginger",
+              "description": "Ginger, turmeric, orange, lemon and cayenne pepper",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 119,
+              "name": "Green Booster",
+              "description": "Kale, spinach, cucumber, apple and orange.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.990",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cold Drinks": [
+            {
+              "index": 120,
+              "name": "Purple Rain",
+              "description": "Lavender, lemon, stevia , maple syrup, edible flower. Calories 55",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 121,
+              "name": "Pink Lemonade",
+              "description": "Lemon, stevia maple syrup, edible flower and rose water. calories 55",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 122,
+              "name": "The Roots",
+              "description": "Fresh beetroot, carrots, apple and ginger. calories 125",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 123,
+              "name": "Be Real",
+              "description": "Fresh celery. calories 40",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Be Real",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "250 ML (1.950)",
+                    "500 ML (4.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 124,
+              "name": "Chanel Orange",
+              "description": "Fresh carrot, orange, lemon, ginger, turmeric. calories 115",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 125,
+              "name": "Green Light",
+              "description": "Fresh kale, spinach, cucumber, apple. calories 125",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Green Light",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "250 ML (1.950)",
+                    "500 ML (4.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 126,
+              "name": "Orange Juice",
+              "description": "Fresh orange. calories 118",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Orange Juice",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "250 ML (1.500)",
+                    "500 ML (2.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 127,
+              "name": "Apple Juice",
+              "description": "Fresh apple. Calories 123",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Aqua Panna",
+              "description": "A small-sized bottle of Aqua Panna water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 129,
+              "name": "Detox Water",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 130,
+              "name": "Sparkling Water",
+              "description": "Stay hydrated and refreshed with our sparkling water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 131,
+              "name": "Strawberry Lemonade",
+              "description": "Strawberries, orange juice, lemon juice. Calories 81",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Happy Endings": [
+            {
+              "index": 132,
+              "name": "Pecan with dates",
+              "description": "Gluten Free - Crust, Pecans, Dates, Organic Maple Syrup, Eggs - Calories 277, Carbs 29.7, Protein 3, Fat 17",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 133,
+              "name": "Vegan Date Pudding",
+              "description": "Vegan date cake, vegan toffee sauce, cal 201.6, carbs 36, protein 1.6, fat 6.3.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 134,
+              "name": "Chocolate Pudding",
+              "description": "Almond milk, cocoa powder, whipped cream, dark chocolate, cal 164.6, carbs 23, protein 1.9, fat 8.7.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 135,
+              "name": "Tiramisu",
+              "description": "Mascarpone cheese, biscuit, whipped cream, coffee and cocoa powder. Cal 244, carbs 19.6, protein 4.8, fat 17.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 136,
+              "name": "Kunafa Cheesecake",
+              "description": "Kunafa, mix cream cheese and pistachio. Cal 220, carbs 21.4, protein 6.4, fat 12.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 137,
+              "name": "Mix Fruit Salad",
+              "description": "Mango, kiwi and pomegranate. Cal 77.5, carbs 18.4, protein 1.4, fat 0.8.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 138,
+              "name": "Mango Chia Pudding Cheesecake",
+              "description": "Digestive biscuit, mango puree, and chia pudding. Cal 238.7, carbs 22, protein 6, fat 14.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 139,
+              "name": "Date Square",
+              "description": "Dates, whole grain oats, coconut powder and brown sugar. Cal 244.8, carbs 26.4, protein 2.3, fat 10.1.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 140,
+              "name": "Tahini Sesame Dates",
+              "description": "Dates, white sesame, organic maple syrup and cinnamon powder, Cal 71, carbs 11, protein 1, fat 3 for 1 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 141,
+              "name": "Pecan Pie Truffles",
+              "description": "Digestive biscuit, pecan nuts, coconut sugar and dark chocolate. Cal 79.2, carbs 6.9, protein 1, fat 5.7 for 1 piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 142,
+              "name": "Chocolate Cookies",
+              "description": "12 pieces of home made chocolate cookies. Cal 89.1, carbs 11.4, protein 1.1, fat 4.4 for 1 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 143,
+              "name": "Carrot Cake Vegetarian  GF",
+              "description": "Carrot, red apple, gluten free flour, almond milk, coconut milk, almond, pecan and cashew cream\r\nCalorie:216, Carbs:18, Protein:4,  Fat:15,  Fiber:3",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 144,
+              "name": "Granola Truffle",
+              "description": "Homemade granola, peanut butter & dark chocolate (cal. : 72  carbs: 10  protein: 3  fat: 7  fiber: 2).",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Granola Truffle",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "5 Pieces (1.650)",
+                    "9 pieces (2.850)",
+                    "16 pieces (4.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 145,
+              "name": "Flourless Chocolate Cake",
+              "description": "Chocolate, eggs, coconut sugar, vanilla bean extract, organic butter, calories 254, carbohydrates 25, protein 5, fat 16 and fiber 0",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 146,
+              "name": "Vegan Chocolate Truffles",
+              "description": "Dark chocolate, coconut oil, maple syrup, cocoa powder. calories 83, carbohydrates 9, protein 1, fat 5 and fiber 1 G.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 147,
+              "name": "Peanut Butter Date",
+              "description": "Dark chocolate, dates, peanut butter \ncalories 62, carbohydrates 9, protein 2, fat 3, fiber 1.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Peanut Butter Date",
+                "price_details": {
+                  "Your Choice Of Size:. (Choose 1)": [
+                    "5 Pieces (1.500)",
+                    "12 Pieces (3.600)",
+                    "36 Pieces (14.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 148,
+              "name": "Chocolate Cashew Butter",
+              "description": "Dark chocolate, cashew butter, organic maple syrup \ncalories 77.2, carbohydrates 5.6, protein 2.2, fat 6, fiber 5.6 .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chocolate Cashew Butter",
+                "price_details": {
+                  "Your Choice Of Size:. (Choose 1)": [
+                    "5 Pieces (1.950)",
+                    "16 Pieces (5.250)",
+                    "9 Pieces (3.150)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Pantry Items": [
+            {
+              "index": 149,
+              "name": "Pumpkin Granola - 200g",
+              "description": "200 g, pumpkin seed, oats, pecan, flax seeds, coconut sugar, pumpkin puree, coconut oil, maple syrup. (Calories 177, carbohydrates 21, protein 3, fat 9, fiber 3 for 30 grams)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 150,
+              "name": "Cumin Cashew (200g)",
+              "description": "200 g, cumin and cashew. (Calories 17.1, carbohydrates 9, protein 3, fats 15, fiber 3 to 30 g)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 151,
+              "name": "Spicy Crotouns 200g",
+              "description": "200 g, rosemary, sourdough, salt, pepper, olive oil with chilli flakes. (Calories 76.5, carbohydrates 12, protein 3, fat 1.5, fiber 1.5 for 30 grams)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 152,
+              "name": "Maple Glazed Crotouns 200g",
+              "description": "200 g, rosemary, maple syrup, salt, pepper, sourdough, olive oil. Calories 73.5, carbohydrates 13.5, protein 3, fat 1.5, fiber 1.5 for 30 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 153,
+              "name": "Pumpkin Seeds (200g)",
+              "description": "200 g, pumpkin seeds, paprica, salt, pepper, olive oil. Calories 162, carbohydrates 6, protein 6, fat 15, fiber 0 for 30 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 154,
+              "name": "Salted Kale Chips-25Gm",
+              "description": "25 g, kale , olive oil and salt.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 155,
+              "name": "Spicy Kale Chips",
+              "description": "Kale, olive oil, salt with chili flakes. calories 34, carbohydrates 3, protein 1, fat 3 and fiber 1 G.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 156,
+              "name": "Gluten-Free Baked Tortilla Chips",
+              "description": "150 g baked gluten-free tortilla chips. Cal 100, carbs 21, protein 2, fat 1 g, fiber 1 for 25 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering": [
+            {
+              "index": 157,
+              "name": "Edamame Gathering",
+              "description": "Edamame, carrot, cucumber, radish, white sesame seeds, arugula and ginger tahini dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 158,
+              "name": "Local Crunch",
+              "description": "Spring mix, corn, carrots, cherry tomatoes, radish, savory croutons and  skinny ranch dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 159,
+              "name": "Zaatar Salad Gathering",
+              "description": "Lettuce , Zaatar Levees ,  Corn , Feta Cheese , Zaatar Croutons ,  Green Dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 160,
+              "name": "Wild Thoughts",
+              "description": "Wild rocket leaves, pine nuts, parmesan cheese and balsamic dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 161,
+              "name": "Quinoa Pomegranate",
+              "description": "Quinoa, feta cheese, coriander, mix lettuce, cherry tomatoes, pomegranate, green onions, cumin cashew and Greek dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 162,
+              "name": "Cauliflower Tabbouleh",
+              "description": "Parsley, cauliflower, pomegranate, beetroot, cherry tomato, spring onion, dry mint, pistachio and lemon vinaigrette",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 163,
+              "name": "Turkey Sandwich Box",
+              "description": "16 pieces from sandwiches, cranberry and berry Turkey,  Italian Turkey,  avo Turkey,  chipotle Turkey.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 164,
+              "name": "Mozz",
+              "description": "Cherry tomatoes, avocado, spring mix, cucumber, red onions, mozzarella cheese and cilantro vinaigrette dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 165,
+              "name": "Mexican Street Corn",
+              "description": "Avocado, sweet corn, jalapeno, feta cheese, Greek yogurt and vegan light mayonnaise sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 166,
+              "name": "Chips And Dip",
+              "description": "Guacamole, cheese sauce, tomato salsa and served with baked chips",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 167,
+              "name": "Sweet Green Salad",
+              "description": "Arugula, spring mix, iceberg lettuce, crispy kale, maple croutons, vegan parmesan cheese and vegan caesar dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 168,
+              "name": "Heartbeet",
+              "description": "Spring mix, beetroot, sunflower seeds, feta cheese and balsamic vinaigrette dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 169,
+              "name": "Small Salad Box",
+              "description": "Choose Your Favorite 3 from",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 170,
+              "name": "Large Salad Box",
+              "description": "Choose Your Favorite 6 from",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 171,
+              "name": "Banoffee Tart Gathering",
+              "description": "Tart base, cream, banana and caramel",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 172,
+              "name": "Whole Flourless Chocolate Cake",
+              "description": "Chocolate, eggs, coconut sugar, vanilla bean extract and organic butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 173,
+              "name": "8 Dips Box",
+              "description": "Choose your favorite dips, Served with Bread Box",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 174,
+              "name": "Gf Pecan Date Pie Gathering",
+              "description": "Gluten-free crust, pecan nuts, dates, organic maple syrup, and eggs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 175,
+              "name": "5 Dips Box",
+              "description": "Choose your favorite dips, served with bread box.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 176,
+              "name": "Vegan Date Pudding Gathering",
+              "description": "Vegan date cake and vegan toffee sauce 14 pcs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 177,
+              "name": "Peanut Butter Date",
+              "description": "36 pieces, dark chocolate, dates and peanut butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 178,
+              "name": "Vegan Chocolate Balls 42 Pcs",
+              "description": "42 pieces, dark chocolate, coconut oil, maple syrup and cocoa powder.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 179,
+              "name": "Mongolian Beef And Broccoli Gathering",
+              "description": "Tenderloin Steak, Organic Brown Rice, Broccoli, Spring Onion, Chile, White Sesame,  and Mongolian Sauce, Enough for 6 to 8 person",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "17.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 180,
+              "name": "Eggplant Fatteh Gathering",
+              "description": "Eggplant, sourdough bread, chickpeas, pine nuts, pomegranate, and yoghurt tahini sauce, enough for 6 to 8 person",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 181,
+              "name": "Kebab Karaz Gathering",
+              "description": "Kebab, cherry sauce, toasted Arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "20.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 182,
+              "name": "Chicken Fatteh Gathering",
+              "description": "Sumac chicken, sourdough bread, chickpeas, pine nuts, pomegranate, yoghurt tahini sauce ,enough for 6 to 8 person",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 183,
+              "name": "Sweet Chilli Chicken Gathering",
+              "description": "Chicken, sweet chilli sauce, red capsicum, green capsicum, red chilli, organic brown rice,  enough for 6 to 8 person",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 184,
+              "name": "Mini Shawarma Wrap Box",
+              "description": "24 pieces of your favorite shawarma wrap with your choose your favorite sauce, enough for 6 to 8 person",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Shawarma Wrap Box",
+                "price_details": {
+                  "Choice your Favourit Shawerma 24 peaces Enough for 6 to 8 person (Choose 1)": [
+                    "Chicken shawarma (10.000)",
+                    "Brisket Shawerma (12.000)",
+                    "Mix Shawerma (11.000)"
+                  ],
+                  "Choose Your Favourite Sauce (Choose 1)": [
+                    "Spicy Tahini Sauce",
+                    "Garlic Sauce",
+                    "Tahini Sauce"
+                  ],
+                  "Choices your sauce (Choose 1)": [
+                    "Tahini Sauce",
+                    "garlic sauce",
+                    "Spicy Tahini sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 185,
+              "name": "Murabyan Gathering",
+              "description": "Sous vide shrimp, rice, murabyan hashu, daqoos, tamarind sauce, lemon and dill",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 186,
+              "name": "Shish Tawook Gathering",
+              "description": "Sous vide shish tawook, toasted Arabic bread, red onion, tomato",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 187,
+              "name": "Tikka Loomi Gathering",
+              "description": "Sous vide beef loomi tikka, spring onion, toasted Arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "20.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Abu Hasaniya, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/local-beet",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "18339",
+          "Reviews_count": "10265",
+          "General_review": [
+            "The Local beet is a restaurant located in Kuwait, serving a selection of Healthy, Bowls, Organic that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Greek Yoghurt Parfait, Green Light, Chanel Orange and Chia Pudding, although they have a variety of dishes and meals to choose from like Healthy, Bowls, Organic.",
+            "They have been reviewed 18339 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Cholpon K***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Always fresh, healthy and delicious food ☺️ perfect packaging, serving excellent! One of favorite ❤️ good delivery, no any issues"
+            },
+            {
+              "reviewer_name": "dalal a***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "perfect fast delivery"
+            },
+            {
+              "reviewer_name": "badria A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "my favorite healthy restaurant"
+            },
+            {
+              "reviewer_name": "Noura A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good quality food. very clean. perfect portions on time"
+            },
+            {
+              "reviewer_name": "huda i***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "excellent restaurant. clean tasty food love u talabat"
+            },
+            {
+              "reviewer_name": "Sara A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "burnt with weird chunks of meat. definitely last time i order it"
+            },
+            {
+              "reviewer_name": "Dr Fatma Z***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الطعم سيء هالمرة. الدجاج مو شي"
+            },
+            {
+              "reviewer_name": "Sharifa A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Nawal A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "love their food!"
+            },
+            {
+              "reviewer_name": "Kathy M***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "all the dips taste bland didn’t like it , not worth the price and the bread was stale"
+            },
+            {
+              "reviewer_name": "hussain a***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "date pudding missing"
+            },
+            {
+              "reviewer_name": "Deena A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "soup package is not ideal. it nearly collapsed when it was delivered. food tasted good though."
+            },
+            {
+              "reviewer_name": "أسماء ا***",
+              "review_date": "30 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "في أصناف تم تبدليها بدون إبلاغ و أصناف متغيره (ناقصه اضافات) بدون تبليغ و الطحينة كان مو فريش كلش"
+            },
+            {
+              "reviewer_name": "hanan a***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا لكم صراحة شكله يشهي باذن الله الفطور اليوم ذا لوكال"
+            },
+            {
+              "reviewer_name": "Aziz A***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذه السندويشة والشوربه"
+            },
+            {
+              "reviewer_name": "ALI F***",
+              "review_date": "26 March 2025",
+              "review_rating": "Good",
+              "review_comment": "the tikka lomi is hard to chew and it seems not lamb meat, the potato is not cooked well."
+            },
+            {
+              "reviewer_name": "مريم ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطعم الله يدبم النعمه ،، الصوره غير عن الواقع ، اخر مره اطلب"
+            },
+            {
+              "reviewer_name": "Shaha A***",
+              "review_date": "25 March 2025",
+              "review_rating": "Good",
+              "review_comment": "little sauce on the salad quantity"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "25 March 2025",
+              "review_rating": "Good",
+              "review_comment": "كميه صلصه قليله جدا بمقارنه بحجم السلطة ت"
+            },
+            {
+              "reviewer_name": "Tina A***",
+              "review_date": "24 March 2025",
+              "review_rating": "Good",
+              "review_comment": "The food is good but I ordered carrots with my salmon and I got sweet potato instead for the second! I got my food cold. Have pe that these mistakes are fixed in the future coz I really like d restrnt"
+            },
+            {
+              "reviewer_name": "wm m***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجيييب ويني عنكم من زمان"
+            },
+            {
+              "reviewer_name": "fawaz k***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت ستيك لحم مع عيش بروكلي، اسوء اكل استغفر الله الطعم سيئ"
+            },
+            {
+              "reviewer_name": "B Z***",
+              "review_date": "22 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Amazing"
+            },
+            {
+              "reviewer_name": "leen alkhalil ***",
+              "review_date": "22 March 2025",
+              "review_rating": "Good",
+              "review_comment": "beef Shawerma was so smelly and doesn’t taste good"
+            },
+            {
+              "reviewer_name": "Tina A***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "first time and I’m hooked الأكل كان لذيذ وصحي 👌🏻"
+            },
+            {
+              "reviewer_name": "Rasha A***",
+              "review_date": "21 March 2025",
+              "review_rating": "Good",
+              "review_comment": "شنو كيكة الجزر هالحجم تستهبلون دينارين على حجم مايشبع بيبي فشلتوني..ماتعرفون تكبرن الحجم"
+            },
+            {
+              "reviewer_name": "jea l***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very delicious 😋"
+            },
+            {
+              "reviewer_name": "Sara A***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "amazing, always! it was good"
+            },
+            {
+              "reviewer_name": "fatma a***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت زياده خس على ٤ سلطات و وصلوا بدون الزياده المدفوعه"
+            },
+            {
+              "reviewer_name": "Zain A***",
+              "review_date": "19 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الربيان مو نظيف حسافه الخط الي بالظهر مو شايلينه"
+            },
+            {
+              "reviewer_name": "Alaa M***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "Mai A***",
+              "review_date": "16 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Food arrived piping hot! It was fresh & super delicious! Ordering dinner now😊"
+            },
+            {
+              "reviewer_name": "abdulaziz a***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "fresh"
+            },
+            {
+              "reviewer_name": "dana m***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very tasty and healthy 👏"
+            },
+            {
+              "reviewer_name": "haya m***",
+              "review_date": "15 March 2025",
+              "review_rating": "OK",
+              "review_comment": "very disappointing taste"
+            },
+            {
+              "reviewer_name": "Yusra I***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "thx"
+            },
+            {
+              "reviewer_name": "abdulaziz a***",
+              "review_date": "11 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "amazing 👏 thanks"
+            },
+            {
+              "reviewer_name": "Jeremy R***",
+              "review_date": "11 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا شكرا الذ تيراميسو و افضل خدمة 💕 thank you sir wish you all the best"
+            },
+            {
+              "reviewer_name": "Nouf A***",
+              "review_date": "06 March 2025",
+              "review_rating": "OK",
+              "review_comment": "They haven’t packaged the soup properly, it fell on the bag & other products, was an absolute mess."
+            },
+            {
+              "reviewer_name": "Nada A***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Excellent as always"
+            },
+            {
+              "reviewer_name": "Виктория К***",
+              "review_date": "05 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "tasty and healthy food.5 stars ⭐️ 🙏👍🏼"
+            },
+            {
+              "reviewer_name": "Yousef A***",
+              "review_date": "04 March 2025",
+              "review_rating": "OK",
+              "review_comment": "chicken was not fresh, it was cold and the fries was dry. 👎"
+            },
+            {
+              "reviewer_name": "Ahmed A***",
+              "review_date": "04 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "The Local Beet's delivery is fantastic! The food tastes amazing, arrives at the perfect temperature,"
+            },
+            {
+              "reviewer_name": "m A***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the orange juice is too sour we threw it in trash"
+            },
+            {
+              "reviewer_name": "Jeremy R***",
+              "review_date": "03 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا شكرا طعام لذيذ و منيو جيد يا ليت تعملون خصومات لو ١٠٪؜ بمناسبه الشهر الفضيل good you should learn more Arabia words"
+            },
+            {
+              "reviewer_name": "Hamad A***",
+              "review_date": "03 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "الصمونة حلوة بس صغيرة قد كف الايد والسعر مبالغ على الحجم"
+            },
+            {
+              "reviewer_name": "Joanne M***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "service and quality of food is excellent. delivery service was excellent"
+            },
+            {
+              "reviewer_name": "Turky A***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very good and tasty. Thank you"
+            },
+            {
+              "reviewer_name": "Hamad A***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "bery good service 👍"
+            },
+            {
+              "reviewer_name": "DALIA A***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي فوق الممتاز"
+            },
+            {
+              "reviewer_name": "MO O***",
+              "review_date": "02 March 2025",
+              "review_rating": "OK",
+              "review_comment": "fish smell.. bad"
+            },
+            {
+              "reviewer_name": "Aziz A***",
+              "review_date": "28 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "روعه"
+            },
+            {
+              "reviewer_name": "Muneera m***",
+              "review_date": "28 February 2025",
+              "review_rating": "OK",
+              "review_comment": "السالمون زفررر انا احب السمج بس هاذا امبي لا يتحمل، تبلوا عدل حطو ليمون خل الي اهوا 😂😭"
+            },
+            {
+              "reviewer_name": "Deema Y***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "😋😋"
+            },
+            {
+              "reviewer_name": "Um Abdulaziz M***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Thank you for every thing. You are my first option when i think of salads The amount, taste, sauce"
+            },
+            {
+              "reviewer_name": "Emiranda W***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Amazing food and service! Food was great. Dips are amazing and service levels always high wuality."
+            },
+            {
+              "reviewer_name": "فواز m***",
+              "review_date": "26 February 2025",
+              "review_rating": "OK",
+              "review_comment": "the temperature was cold"
+            }
+          ]
+        }
       }
     ]
   },
@@ -82161,7 +84794,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -82217,7 +84850,8 @@
       "Health Stop",
       "Al Anode",
       "Jeder Soad",
-      "PF Chang's,Mahboula"
+      "PF Chang's,Mahboula",
+      "The Local beet"
     ],
     "completed_pages": [
       1,

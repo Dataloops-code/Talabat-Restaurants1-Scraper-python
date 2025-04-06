@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:11:13.578195",
+  "last_updated": "2025-04-06T13:16:09.154570",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -44,7 +44,8 @@
       "Health Stop",
       "Al Anode",
       "Jeder Soad",
-      "PF Chang's,Mahboula"
+      "PF Chang's,Mahboula",
+      "The Local beet"
     ],
     "completed_pages": [
       1
