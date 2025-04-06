@@ -245,11 +245,21 @@ class MainScraper:
                     current_progress["current_restaurant"] = 0
                     scraped_current_progress["current_restaurant"] = 0
             
-            # Adjust to start counting from 1
             for rest_idx, restaurant in enumerate(restaurants_on_page):
                 rest_num = rest_idx + 1  # Start counting from 1
                 if rest_num <= current_progress["current_restaurant"]:
                     print(f"Skipping processed restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant['name']}")
+                    continue
+                
+                # Check if restaurant is already in processed_restaurants before processing
+                if restaurant["name"] in current_progress["processed_restaurants"]:
+                    print(f"Skipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant['name']} - Already processed previously")
+                    current_progress["current_restaurant"] = rest_num
+                    scraped_current_progress["current_restaurant"] = rest_num
+                    self.save_current_progress()
+                    self.save_scraped_progress()
+                    self.print_progress_details()
+                    self.commit_progress(f"Skipped restaurant {restaurant['name']} on page {page_num} in {area_name} (already processed)")
                     continue
                 
                 current_progress["current_restaurant"] = rest_num
