@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:54:49.201233",
+  "last_updated": "2025-04-06T11:56:27.867960",
   "all_results": {
     "الظهر": [
       {
@@ -42181,6 +42181,1560 @@
             }
           ]
         }
+      },
+      {
+        "name": "Health Stop",
+        "cuisine": "Healthy, Burgers, Breakfast, Coffee",
+        "url": "https://www.talabat.com/kuwait/restaurant/633644/health-stop-mahboula?aid=59",
+        "rating": "Very good",
+        "page": 2,
+        "delivery_time": "Within 33 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "SOUTH BEACH PLATTER",
+              "description": "Juicy grilled chicken breast served with two side orders of your choice. Small  protein 40g tot fat 4.3g sat fat 1.3g carbs 12g calories 262g fiber 7.3g, large  protein 73g tot fat 7.7g sat fat 2.4g carbs 12g calories 426 fiber 7.3g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Egg And Cheese Wrap",
+              "description": "A high protein combination of eggs and low fat cheddar cheese in a wrap. Protein 24g, Tot. Fat 20g, Sat Fat 7g , Carbs 28g and Calories 385",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Healthy Fries",
+              "description": "Fresh potatoes flattened, cooked and prepared every day in our kitchens, protein 3.1 gm, carbohydrates 31 gm, fats 4.8 gm. Saturated Fat 1gm, Fiber 2.7g Calories 184",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Japanese Cheesecake",
+              "description": "A low calorie souffle cheesecake made with natural sweeteners and a touch of vanilla. protein 5g, tot. fat 7, sat fat 4g, carbs 16g, calories 144",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Side Steak Tips",
+              "description": "Great source of protein for anyone with a protein diet.\r\nProtein 20g/Tot. Fat 22g/Sat Fat 3.6g /Carbs 1.1g/Calories 249/Fiber 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Blueberry Protein Pancakes",
+              "description": "3 Freshly made protein pancakes packed with blueberries and topped with organic maple syrup, protein 16g, total fat 3.4g, saturated fat 1.2g, carbs 49g, calories 295g and fiber 16g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Offers": [
+            {
+              "index": 6,
+              "name": "Egg Mushroom Combo Meal",
+              "description": "1 Egg Mushroom Bun + 1 Free Side + 1 Free Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "3.450",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Egg Mortadella Combo Meal",
+              "description": "1 Egg Mortadella Wrap + 1 Free Side + 1 Free Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "3.450",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Chicken Satay Super Saver",
+              "description": "Chicken satay platter, 2 free sides and 1 free chocolate brownie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "4.650",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Grilled Tawook Protein Combo",
+              "description": "Grilled lean chicken cubes, pickles, fresh garlic sauce, grilled tomatoes, red onions and peppers with your choice of two sides. protein",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "4.650",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "2KD Deals": [
+            {
+              "index": 10,
+              "name": "Egg Mushroom Combo Meal",
+              "description": "1 Egg Mushroom Bun + 1 Free Side + 1 Free Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "3.450",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Egg Mortadella Combo Meal",
+              "description": "1 Egg Mortadella Wrap + 1 Free Side + 1 Free Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "3.450",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Chicken Satay Super Saver",
+              "description": "Chicken satay platter, 2 free sides and 1 free chocolate brownie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "4.650",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Grilled Tawook Protein Combo",
+              "description": "Grilled lean chicken cubes, pickles, fresh garlic sauce, grilled tomatoes, red onions and peppers with your choice of two sides. protein",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "4.650",
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New From Health Stop 🔥🔥🔥": [
+            {
+              "index": 14,
+              "name": "Double Protein Burger",
+              "description": "2 lean ground beef patties, low-fat cheddar cheese, ketchup, mayo, lettuce, onions, pickles, and tomato on a bran burger bun. Protein 36g Tot Fat 27 Sat Fat 7 Carbs 39g Calories 561 Fiber 9g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Double Protein Burger With Side",
+              "description": "2 Lean ground beef patties, cheddar cheese low fat, ketchup, mayo, lettuce, onions, pickles and tomato on a bran burger bun with a side of your choice,",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Triple Protein Burger",
+              "description": "3 lean ground beef patties, cheddar cheese Low fat, ketchup, mayo, lettuce, onions, pickles, and tomato on a bran burger bun. Protein 41g Tot Fat 32 Sat Fat 8 Carbs 47g Calories 659 Fiber 10g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Triple Protein Burger With Side",
+              "description": "3 lean ground beef patties, cheddar cheese, ketchup, mayo, lettuce, onions, pickles and tomato on a bran burger bun with a side of your choice,",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Protein Butter Chicken",
+              "description": "170 grams of grilled chicken breast cubes in our low calorie, mildly spicy, butter chicken sauce on steamed jasmine rice with roasted peanuts and onions. Protein 40g, Tot Fat 14g, Sat Fat 6g, Carbs 72g, Calories 583 and Fiber 5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Protein Chicken Biryani",
+              "description": "170 grams of grilled chicken breast cubes in our low calorie biryani chicken sauce on steamed jasmine rice with onions and tomato sauce on the side. Protein 40g, Tot Fat 21g, Sat Fat12g, Carbs 78g, Calories 598 and Fiber 7g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kashta 🧑🏼‍🤝‍🧑🏼🧑🏼‍🤝‍🧑🏼": [
+            {
+              "index": 20,
+              "name": "Super Club Box",
+              "description": "8 Mini Club Sandwiches, 4 Mini Egg Clubs, 4 Mini Protein Halloum Sandwiches plus four free drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Healthy Sliders Combo",
+              "description": "12 Sliders plus healthy fries plus four free drinks of your choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Sandwich Platter 24 Pieces",
+              "description": "A sampler plate of mini cheese burgers 4 pcs, mini steakhouse burgers 4 pcs, mini club sandwiches 8 pcs and protein halloum sandwiches 8 pcs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Grape Vine Leaves Box",
+              "description": "36 stuffed vine leaves with onions, rice, dill, mint, sunflower oil, and lemon wedges",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "All Day Breakfast 🍳 🥞": [
+            {
+              "index": 24,
+              "name": "Egg Breakfast Club",
+              "description": "Eggs, beef mortadella, lettuce, tomatoes, light mayo, on 3 slices of bran bread. Protein 20g Tot Fat 19 Sat Fat 5 Carbs 47g Calories 453 Fiber 7g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Egg Breakfast Club With Side",
+              "description": "Eggs, beef mortadella, lettuce, tomatoes, light mayo, on 3 slices of bran bread with a side of your choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Egg And Cheese Wrap",
+              "description": "A high protein combination of eggs and low fat cheddar cheese in a wrap. Protein 24g, Tot. Fat 20g, Sat Fat 7g , Carbs 28g and Calories 385",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Egg And Cheese Wrap With Side Order",
+              "description": "High protein combination of eggs and low fat cheddar cheese in a wrap with your choice of a side order",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Egg Mushroom Bun",
+              "description": "Eggs, fresh mushrooms, light mayo on a potato bun. Reduced-fat cheddar cheese, Protein 29g, Total Fat 22, Saturated Fat 6, Carbohydrates 36g, Calories 461, Fiber 2g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Egg Mushroom Bun With Side",
+              "description": "Eggs, fresh mushrooms, cheddar cheese, light mayo on a potato bun with a side of your choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Egg & Turkey Croissant",
+              "description": "Shredded lean smoked turkey slices, fresh mushroom slices, low fat cheese, scrambled eggs. Protein 22g, tot fat 24g, sat fat 12g, fiber 2g, calories 436",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Eggs In A Basket Platter",
+              "description": "Toasted whole wheat bread with seasoned eggs served with turkey bacon and a side of mashed roasted potatoes. Protein 33g tot. Fat 21g sat fat 6g carbs 54g calories 558 fiber 7.8g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Turkey And Mushroom Omelette",
+              "description": "A light mixture of eggs, smoked turkey breast slices, mushrooms, cheddar cheese, and black pepper. Served with a side of your choice. Protein 24g, total fat 22g, sat fat 6.5g, carbs 11g, calories 343 and fiber 4.6g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Egg Mortadella Wrap",
+              "description": "High protein blend of eggs, beef, mortadella, cheddar cheese and ketchup. Protein 31g to 27g Sat 7 Carbs 44g Calories 547 Fiber 1g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Egg Mortadella Wrap With Side",
+              "description": "High protein combination of eggs and beef mortadella, cheddar cheese and ketchup with a side of your choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Blueberry Protein Pancakes",
+              "description": "3 Freshly made protein pancakes packed with blueberries and topped with organic maple syrup, protein 16g, total fat 3.4g, saturated fat 1.2g, carbs 49g, calories 295g and fiber 16g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Banana Protein Pancakes",
+              "description": "Our banana syrup in between three homemade protein pancakes, protein 26 gm, total fat 11 gm, saturated fat 5.9 gm, carbs 51 gm, calories 415, fiber 3.5 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Steak Tips N Eggs Breakfast Platter",
+              "description": "Our juicy steak with a slice of turkey bacon, eggs and mushrooms served with whole-wheat toast.\r\nProtein 36g/Tot. Fat 31g/Sat Fat 6.5g /Carbs 18g/Calories 506/Fiber 3.6g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Coffee ☕": [
+            {
+              "index": 38,
+              "name": "Iced Protein Spanish Latte",
+              "description": "Espresso with protein, milk and natural sweetener. Protein 10g/Tot. Fat 0.7g/Sat Fat 0.4g /Carbs 7.7g/Calories 78/Fiber 1g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Hot Protein Spanish Latte",
+              "description": "Espresso with protein, milk and natural sweetener. Protein 13g/Tot. Fat 0.9g/Sat Fat 0.5g /Carbs 12g/Calories 109/Fiber 1g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Iced Protein Latte",
+              "description": "Espresso with protein and fresh milk. Protein 11g/Tot. Fat 0.6g/Sat Fat 0.3g /Carbs 7.9g/Calories 81/Fiber 0.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Hot Protein Latte",
+              "description": "Espresso with protein and fresh milk. Protein 14g/Tot. Fat 0.8g/Sat Fat 0.5g /Carbs 12g/Calories 111/Fiber 0.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Iced Americano",
+              "description": "Espresso with water served over ice. Calories 2/Fiber 0.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Hot Americano",
+              "description": "Espresso poured over hot water. Calories 2/Fiber 0.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads 🥗": [
+            {
+              "index": 44,
+              "name": "Chicken Ceaser Salad",
+              "description": "A delicious combination of chicken, lettuce, grilled, tomatoes, croutons, and parmesan cheese tossed with our light Caesar dressing protein 31g, tot fat 17g, sat fat 4.1g, carbs 19g, calories 368, fiber 4.7g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "HEALTH STOP SALAD",
+              "description": "A satisfying rich mix of lettuce, tomato, grilled chicken, croutons, feta cheese, and eggs served with light caesar dressing. Protein 42g/tot. fat 19g/sat fat 7.2g /carbs 7.5g/calories 377/fiber 3.7g, carbs 7.5 g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "GREEK SALAD",
+              "description": "A delightful mix of lettuce, tomatoes, cucumber, black olives, feta cheese served with your choice of dressing, protein 5.8 gram, total fat 10 gram, saturated fat 3.8 gram, carbohydrates 9.9 gram, calories 164 and fiber 5 gram",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pasta 🍝": [
+            {
+              "index": 47,
+              "name": "Chicken Fettuccine Arrabiata",
+              "description": "Fettuccine pasta with chicken breast slices prepared with in mix of tomato, chili, garlic and parmesan cheese. Protein 36g tot fat 4.7g sat fat 2.1g carbs 46g calories 376",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Chicken Fettuccine Alfredo",
+              "description": "Fettuccine pasta with chicken breast slices, fresh mushrooms, fresh broccoli in low fat white sauce and Parmesan mixture. Protein 34g/Tot. Fat 26g/Sat Fat 19g /Carbs 36g/Calories 522",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Chicken Fettuccine Pink Pasta",
+              "description": "Fettuccine pasta with chicken breast slices, fresh mushrooms, fresh broccoli in low fat pink sauce and Parmesan mixture. Protein 35g/Tot. Fat 16g/Sat Fat 11g /Carbs 37g/Calories 437",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Wraps & Sandwiches 🥪 🌯": [
+            {
+              "index": 50,
+              "name": "Club Sandwich With Side",
+              "description": "Tantalizing sliced turkey, crisp Bacon,lettuce, tomato, low-fat mayonnaise and eggs served on whole-wheat toast.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Club Sandwich Without Side",
+              "description": "Tantalizing sliced turkey, crisp Bacon,lettuce, tomato, low-fat mayonnaise and eggs served on whole-wheat toast.\r\nProtein 35g/Tot. Fat 21g/Sat Fat 4.8g/Carb 49g/Calories 539/Fiber 9.2g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Shawarma Fitness Wrap",
+              "description": "Grilled, lean shawerma stips, pickles, our homemade garlic sauce, baked fries, protein 20g, fiber 2g, calories 439, tot fat 26g, carbs 34g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Shawarma Fitness Wrap With Side",
+              "description": "Grilled, lean shawerma stips, pickles, homemade garlic sauce, baked fries with a side of your choice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Protein Halloum Sandwich",
+              "description": "Halloum, olives, zattar, tomato, chipotle mayo on bran sliced bread. Protein 25g, fiber 7g, cals 488, tot fat 32, carbs 23g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Protein Halloum Sandwich With Side",
+              "description": "Halloum, olives, zattar, tomato, chipotle mayo on bran sliced bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Crunchy Falafel Wrap",
+              "description": "Baked falafel, tomato, cucumber, pickles, hummus. protein 11g, fiber 9g, cals 325, tot fat 14, carbs 35g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Crunchy Falafel Wrap With Side",
+              "description": "Baked falafel, tomato, cucumber, pickles, hummus.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Tawook Protein Wrap",
+              "description": "Grilled, lean chicken cubes, sweet peppers, pickles, tomatoes, onions, garlic sauce and roasted potatoes\nProtein 20g, fiber 2g, calories 372, tot fat 18g, carbs 32g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Tawook Protein Wrap With Side",
+              "description": "Grilled low fat chicken cubes, sweet peppers, onions, garlic sauce and a side dish of your choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Italian Wrap",
+              "description": "Our homemade chicken parmesan breast smothered in our mozzarella cheese and fresh tomato sauce in wrap, protein 39 g, carbs 53 g, tot. fat 14 g, sat fat 4.6 g, fiber 4.5 g and calories 507",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Italian Wrap With Side",
+              "description": "Our homemade chicken Parmesan breast, smothered in our fresh tomato sauce and mozzarella cheese in a wrap.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Grilled Burger Wrap",
+              "description": "Juicy burger patty combined with crisp lettuce, tomatoes and pickles topped with ketchup and mayo in a wrap.\r\nProtein 20g/Tot. Fat 17g/Sat Fat 4.8g/Carbs 42g/Calories 407/Fiber 0.7g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Grilled Burger Wrap With Side",
+              "description": "Juicy burger patty combined with crisp lettuce, tomatoes and pickles topped with ketchup and mayo in a wrap.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Chipotle Chicken Without Side Dish",
+              "description": "Juicy chicken breast lettuce tomato low-fat cheese with our homemade chipotle sauce served on whole-wheat toast\r\nProtein 41g/Tot. Fat 10g/Sat Fat 1.9g/Carbs 33g/Calories 400/Fiber 6.3g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Chipotle Chicken With Side Dish",
+              "description": "Juicy chicken breast lettuce tomato low-fat cheese with our homemade chipotle sauce served on whole-wheat toast",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Burgers 🍔": [
+            {
+              "index": 66,
+              "name": "LA Protein Burger",
+              "description": "Lean ground beef, lettuce, tomato, pickles, onions, low fat cheese, ketchup, mustard in a bran bun\nProtein 36g, fiber 5g, calories 408, tot fat 16g, carbs 29g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "LA Protein Burger With Side",
+              "description": "Lean ground beef, lettuce, tomato, pickles, onions, low fat cheese, ketchup, mustard in a bran bun with a side of your choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "California Burger With Side",
+              "description": "Juicy burger patty topped with lettuce, cucumber, guacamole and Swiss cheese served on a whole-wheat bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "California Burger Without side",
+              "description": "Juicy burger patty topped with lettuce, cucumber, guacamole and Swiss cheese served on a whole-wheat bun.\r\nProtein 24g/Tot. Fat 21g/Sat Fat 5.6g /Carbs 25g/Calories 400/Fiber 7.2g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "JACK AND CHIP BURGER With side",
+              "description": "Juicy burger patty topped with lettuce, tomato, pepper jack cheese and chipotle sauce served on a whole-wheat bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "JACK & CHIP BURGER Without side",
+              "description": "Juicy burger patty topped with lettuce, tomato, pepper jack cheese and chipotle sauce served on a whole-wheat bun.\nProtein 25g/Tot. Fat 21g/Sat Fat 7.8g /Carbs 24g/Calories 390/Fiber 4.8g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Mini Burgers 🍔🍔": [
+            {
+              "index": 72,
+              "name": "Mini Cheese Burgers (2 Pcs)",
+              "description": "Our delicious juicy burger topped with lettuce, tomato, ketchup, mayo and low fat cheese served on toasted potato bun, protein 26 g, tot, fat 16 g, sat fat 5 g, carbs 32 g, calories 332, fiber 4.9 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Mini Mushroom Burgers (2 Pcs)",
+              "description": "Our juicy burger topped with our very own rich mushroom sauce and low-fat cheese served on a toasted potato bun. Protein 24g, tot. Fat 14g, sat fat 5.8g, carbs 25g, calories 332, fiber 4.8g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Mini Steakhouse Burgers (2 Pcs)",
+              "description": "Our juicy burger topped with shredded lean steak, sweet red onions, low fat cheese and BBQ sauce served on a toasted potato bun.\nProtein 27g/Tot. Fat 19g /Sat Fat 5.5g /Carbs 25g/Calories 391/Fiber 5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Grilled Platters 🔥": [
+            {
+              "index": 75,
+              "name": "Grilled Steak And Shrimp Platter",
+              "description": "A divine combination of our grilled shrimp and steak tips served with two side orders of your choice. Protein 36g, tot. fat 24g, sat fat 4.3g, carb 26g, calories 488 and fiber 10g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Grilled Shrimp Platter",
+              "description": "Four skewers of grilled shrimp served with barbeque sauce on side and two side orders of your choice. Protein 44g tot, fat 13g sat, fat 2.4g, carb 25g, calories 410, fiber 9.1g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Grilled Salmon Platter",
+              "description": "150 grams of Atlantic Salmon marinated in a hearty mix of lemon and garlic. Flame grilled. Served with two side orders of your choice. Protein 46g/Tot. Fat 21g/Sat Fat 4.3g /Carbs 23g/Calories 481/Fiber 7.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Grilled Tawook Platter",
+              "description": "Grilled lean chicken cubes, pickles, fresh garlic sauce, grilled tomatoes, red onions and peppers with your choice of two sides. Protein 37g, total fat 17g, saturated fat 2g, carbohydrates 19g, calories 397, fiber 9g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Grilled Shawarma Platter",
+              "description": "Grilled, lean shawerma stips, pickles, homemade garlic sauce, grilled tomatoes, red onions and peppers with two side orders of your choice. Protein 35g Tot Fat 27g Sat Fat 3g Carbs 16g Calories 464 Fiber 7g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Chicken Satay Platter",
+              "description": "Succulent chicken skewers topped with our secret soy sauce recipe and sesame seeds served with two side orders of your choice.\nProtein 38g, Tot Fat 4.1g, Sat Fat 0.9g, Carbs 25g, Calories 300 and Fiber 7.4g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Steak Tip Platter",
+              "description": "Our mouth-watering steak tips grilled to perfection served with two side orders of your choice.\nSmall: Protein 26g, Tot Fat 23g, Sat Fat 3.8g, Carbs 16g, Calories 349g, Fiber 7.6g. Large: Protein 32g, Tot Fat 3.5g, Sat Fat 5.8g, Carbs 16g, Calories 489 and Fiber 7.7g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "SOUTH BEACH PLATTER",
+              "description": "Juicy grilled chicken breast served with two side orders of your choice. Small  protein 40g tot fat 4.3g sat fat 1.3g carbs 12g calories 262g fiber 7.3g, large  protein 73g tot fat 7.7g sat fat 2.4g carbs 12g calories 426 fiber 7.3g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Mixed Grill Platter",
+              "description": "A divine combination of our grilled chicken breast and steak tips grilled to perfection served with two side orders of your choice.\r\nProtein 42g/Tot. Fat 25g/Sat Fat 4.2g /Carbs 16g/Calories 473/Fiber 7.6g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Side Orders 🍟": [
+            {
+              "index": 84,
+              "name": "Air Baked Cheese Samboosa",
+              "description": "Four pieces of air baked cheese samboosa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "CHICKEN BREAST",
+              "description": "We use only the highest quality chicken breast to preserve taste quality.\nProtein 33g, tot. fat 3.5g, sat fat 1.1g, carbs 0g, calories 164 and fiber 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Side Steak Tips",
+              "description": "Great source of protein for anyone with a protein diet.\r\nProtein 20g/Tot. Fat 22g/Sat Fat 3.6g /Carbs 1.1g/Calories 249/Fiber 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Grilled Burger Patty",
+              "description": "Great source of protein for anyone with a protein diet.\nProtein 13g/Tot. Fat 9.2g/Sat Fat 3.7g /Carbs 0g/Calories 133/Fiber 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Healthy Fries",
+              "description": "Fresh potatoes flattened, cooked and prepared every day in our kitchens, protein 3.1 gm, carbohydrates 31 gm, fats 4.8 gm. Saturated Fat 1gm, Fiber 2.7g Calories 184",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "JASMINE RICE",
+              "description": "Steamed to make it healthier than regular boiled rice Protein 4g/To Fat 0.1g/Sat Fat 0.1g /Carbs 39g/Calories 179/Fiber 0.6g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "ROASTED POTATO",
+              "description": "Potatoes are a great source of carbs and are moderate in calories.\nProtein 3.2g/Tot. Fat 4.2g/Sat Fat .6g /Carbs 33g/Calories 190/Fiber 3.3g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "Grape Vine Leaves",
+              "description": "6 stuffed vine leaves with onions, rice, dill, mint and sunflower oil protein 3.5g, fiber 19g, cals 313, tot fat 19, carbs 24g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Healthy Fattoush",
+              "description": "Salad made from toasted bread combined with mixed greens and other vegetables.\nProtein 2.7g, fiber 3.3g, calories 108, tot fat 6.2g, carbs 8.8g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "Protein Lentil Soup",
+              "description": "Proteins 9.2g, Fiber 2.8g, Calories 136, Total Fat 1.2g, Carbs 22.4",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Protein Falafel",
+              "description": "High fiber falafel served with hummus dip. Protein 14g, fiber 12g, cals 337, tot fat 17, carbs 28g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Edamame",
+              "description": "Hearty dish rich with soy protein, fiber, antioxidants and vitamin K.\r\nProtein 10g, total fat 4.3g, sat fat 0g, carbs 2.5g, calories 97g and fiber 4.3g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "MIXED VEGGIES",
+              "description": "A perfect way of adding fiber to your diet.Protein 3.2 g, tot. Fat 0.5 g, sat fat 0.1 g, carbs 6.2g, calories 48 and fiber 3.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "MINI SALAD",
+              "description": "Contains black olives, which help erase fine lines and wrinkles.\nProtein 4.2g/Tot. Fat 9.7g/Sat Fat 3.7g /Carbs 7.1g/Calories 138/Fiber 2.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts 🍨": [
+            {
+              "index": 98,
+              "name": "Brownies Tray 48 Pieces",
+              "description": "Delightful mix of mini date brownies 12 pcs, mini chocolate brownies 12 pcs, mini peanut butter brownies 24 pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Date Dessert Bars 12 Pcs",
+              "description": "Protein 1.1g, tot. fat 3.8g, sat. fat 1.7g, carbs 7.9g, calories 71g and fiber 0.7g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "Peanut Butter Mini Brownies 12 Pieces",
+              "description": "Protein 1.6g, tot. fat 2.7g, sat fat 0.5g, carbs 11g, calories 73g and fiber 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Chocolate Mini Brownies 12 Pieces",
+              "description": "Protein 1.2g, tot. fat 2g, sat fat 0.3g, carbs 10g, calories 64, fiber 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "Chocolate Brownie Bites 3 Pieces",
+              "description": "Protein 6.9g, tot. fat 11g, sat fat 2.1g, carbs 44g, calories 307g and fiber 0.5g  \r\n3pcs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Peanut Butter Brownie",
+              "description": "Protein 6.3g, tot. fat 11g, sat fat 1.9g, carbs 42g, calories 291 and fiber 0.5g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "CHOCOLATE BROWNIE",
+              "description": "Protein 4.9g, tot. fat 8g, sat fat 1.3g, carbs 41g, calories 257 and fiber 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Tiramisu",
+              "description": "Layered homemade cake dipped in coffee topped with a low calorie layer of mascarpone cheese and cocoa powder. Protein 5g, Tot. Fat 16, Sat Fat 10g, Carbs 11g, Calories 215",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "Japanese Cheesecake",
+              "description": "A low calorie souffle cheesecake made with natural sweeteners and a touch of vanilla. protein 5g, tot. fat 7, sat fat 4g, carbs 16g, calories 144",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Fresh Juices 🍹": [
+            {
+              "index": 107,
+              "name": "ORANGE JUICE",
+              "description": "Protein 4.8g, tot. fat 0.6g, sat fat 0g, carbs 49g, calories 221, fiber 0.7g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Beverages 🥤": [
+            {
+              "index": 108,
+              "name": "Al Ain Mineral Water 500ml",
+              "description": "Quench your thirst with a bottle of cool and refreshing water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.385",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "Kinza Cola",
+              "description": "Cola beverage from the Kinza brand.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Kinza Lemon",
+              "description": "Calories 113, Caffeine 0 mg and carbs 27 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 111,
+              "name": "Kinza Lemon Zero Sugar",
+              "description": "Calories 1, caffeine 0mg and carbs 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Pepsi",
+              "description": "Refresh your taste buds with some traditional ice cold pepsi",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "Pepsi Zero Sugar",
+              "description": "A refreshing ice cold cola with light taste that goes well with your meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "7 Up",
+              "description": "Tasty, crisp and clear 7UP served ice cold.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Diet 7 Up",
+              "description": "Your favorite clear drink but with less calories.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Mahboula, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/health-stop",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "66044",
+          "Reviews_count": "42365",
+          "General_review": [
+            "Health Stop is a restaurant located in Kuwait, serving a selection of Healthy, Burgers, Breakfast that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Grilled Burger Patty, CHICKEN BREAST, Tawook Protein Wrap and Blueberry Protein Pancakes, although they have a variety of dishes and meals to choose from like Healthy, Burgers, Breakfast.",
+            "They have been reviewed 66044 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Rami B***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "chicken was skewers it said nowhere and on the pic"
+            },
+            {
+              "reviewer_name": "Fatma E***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Good Taste"
+            },
+            {
+              "reviewer_name": "Rachna K***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Great 👍"
+            },
+            {
+              "reviewer_name": "Abdullah A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "شكراً thanks"
+            },
+            {
+              "reviewer_name": "Alkandry T***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Well cooked chicken"
+            },
+            {
+              "reviewer_name": "noor alrujaib ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "yummy 😋 pancakes"
+            },
+            {
+              "reviewer_name": "Imo N***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Healthy items"
+            },
+            {
+              "reviewer_name": "مبارك ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "اخر مرة اطلب للأسف مخيب للآمال"
+            },
+            {
+              "reviewer_name": "Miles D***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "yummy"
+            },
+            {
+              "reviewer_name": "shan R***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Enjoyed it"
+            },
+            {
+              "reviewer_name": "sara S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Healthy and tasty desserts"
+            },
+            {
+              "reviewer_name": "Abdulrahman Alasfour ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Delicious"
+            },
+            {
+              "reviewer_name": "Nasser AlSaoudon ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "All good 👍"
+            },
+            {
+              "reviewer_name": "Komala N***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Great food"
+            },
+            {
+              "reviewer_name": "Coco V***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great"
+            },
+            {
+              "reviewer_name": "Nawwarh M ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميل جدا جدا جدا 👍🏼👍🏼👍🏼👍🏼👍🏼🤍🤍🤍🤍🤍🤍 اعجبني جدا جدا جدا 👍🏼👍🏼🤍🤍"
+            },
+            {
+              "reviewer_name": "Bader.s A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "perfct"
+            },
+            {
+              "reviewer_name": "Mohammad A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "fine"
+            },
+            {
+              "reviewer_name": "retaj a***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "مهتمين بالزبون"
+            },
+            {
+              "reviewer_name": "Selma V***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Nice"
+            },
+            {
+              "reviewer_name": "Imo N***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Extraordinary"
+            },
+            {
+              "reviewer_name": "Aziz a***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Filling"
+            },
+            {
+              "reviewer_name": "Hamada W***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🍟👍"
+            },
+            {
+              "reviewer_name": "Omar S***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Quality portion"
+            },
+            {
+              "reviewer_name": "Sultan A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Superb"
+            },
+            {
+              "reviewer_name": "Narin A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "yummy"
+            },
+            {
+              "reviewer_name": "Brossia n***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Wonderful food👍"
+            },
+            {
+              "reviewer_name": "Alrash ***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Wow worthy"
+            },
+            {
+              "reviewer_name": "Zakariya a***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "perfect one"
+            },
+            {
+              "reviewer_name": "Sarah A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Enjoyed my food 🤩🤩🤩"
+            },
+            {
+              "reviewer_name": "Dana Q***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "healthy"
+            },
+            {
+              "reviewer_name": "Jasem ***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "taate was too good"
+            },
+            {
+              "reviewer_name": "Miss A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Exceptional"
+            }
+          ]
+        }
       }
     ]
   },
@@ -42188,7 +43742,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -42222,7 +43776,8 @@
       "The Local beet",
       "The Cheesecake Factory, Mahboula",
       "Diet Care, Al-Qurain Lulu",
-      "Petit Four And More"
+      "Petit Four And More",
+      "Health Stop"
     ],
     "completed_pages": [
       1
