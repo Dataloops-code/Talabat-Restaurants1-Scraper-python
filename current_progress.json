@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:00:15.315354",
+  "last_updated": "2025-04-06T18:01:27.854070",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 8,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -109,7 +109,8 @@
       "Shawarma Shakir",
       "Al kadi",
       "Mhammash Restaurant",
-      "Bo Masoud"
+      "Bo Masoud",
+      "WK"
     ],
     "completed_pages": [
       1,
