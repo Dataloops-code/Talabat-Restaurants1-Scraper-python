@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:16:16.057669",
+  "last_updated": "2025-04-06T13:17:43.942505",
   "all_results": {
     "الظهر": [
       {
@@ -84787,6 +84787,1446 @@
             }
           ]
         }
+      },
+      {
+        "name": "Karam Sweet",
+        "cuisine": "Desserts, Arabic sweets, Cakes",
+        "url": "https://www.talabat.com/kuwait/restaurant/640917/karam-sweet-egaila?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 20 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "FATTEH GRAPE LEAVES SPICY WITH SAUCE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "W/A LEMON 17 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "W/A POMGRANA 32 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "ALBAA 8 PEC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "GRAPE LEAVES JALAPENO 17 PIECE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "KHALIAT ALNAHL",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Item": [
+            {
+              "index": 6,
+              "name": "Cake  Al Riyadh",
+              "description": "We made you Riyadh cake our way\nEvery bite is more delicious and not enough\nTry it",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "HEBAT AL RIYADH CAKE BOX",
+              "description": "Hiba Cake Riyadh our way\nWithout artificial colors and a refreshing and delicious flavor that will not satisfy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "KRANCHO CAKE - HABA KUWAIT",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "PISTACH CAKE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "KRANCHO CAKE - HABA KUWAIT BOX",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "PISTACH CAKE BOX",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Bar Pistachio Kunafa",
+              "description": "Belgian chocolate with crunchy pistachio filling\nNew chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Bar Pistachio Kunafa",
+                "price_details": {
+                  "Choose Quantity (Choose min-of 1 & max-of 2)": [
+                    "3 PIECES (5.250)",
+                    "6 PIECES (10.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 13,
+              "name": "Bar Pistachio Kunafa Large",
+              "description": "Belgian chocolate with crunchy pistachio filling\nNew chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Chocolate Pistachio 28 Pec",
+              "description": "28 pieces of Belgian chocolate with crunchy pistachio filling\nNew Chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Bar Almond Crossti ( New )",
+              "description": "New Flavor!\nCrispy Almond Bar: natural almond filling with crunchy crispy pieces.\nTry it; you won't regret it!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Bar Almond Crossti ( New )",
+                "price_details": {
+                  "Choose Quantity (Choose min-of 1 & max-of 2)": [
+                    "3 PIECES (5.250)",
+                    "6 PIECES (10.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 16,
+              "name": "Bar Almond Crossti Large ( New )",
+              "description": "New Flavor!\nCrispy Almond Bar: natural almond filling with crunchy crispy pieces.\nTry it; you won't regret it",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "FATTEH GRAPE LEAVES SPICY WITH SAUCE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Eid Mubarak": [
+            {
+              "index": 18,
+              "name": "EID TRAY E8",
+              "description": "750 grams of Arabic sweets mix",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cabbage": [
+            {
+              "index": 19,
+              "name": "RED CABBAGE 17 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "RED CABBAGE 32 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "RED CABBAGE 41 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "RED CABBAGE 54 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "RED CABBAGE 64 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "WHITE CABBAGE 17 PIECES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "WHITE CABBAGE 32 PIECES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "WHITE CABBAGE 41 PIECES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "WHITE CABBAGE 54 PIECES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "WHITE CABBAGE 64PIECES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "CABBAGE MIX 32 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "CABBAGE MIX 41 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "CABBAGE MIX 54 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "CABBAGE MIX 64 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Mosakhan": [
+            {
+              "index": 33,
+              "name": "CHICKEN ROLL 18 PIECE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "MUSAKHAN CHICKEN 36 PSC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "CHICKEN ROLL 54 PIECE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "CHICKEN ROLL 72 PIECE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "17.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pastries": [
+            {
+              "index": 37,
+              "name": "MIX PIZZA",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "KHALIAT ALNAHL",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Grape Leaves": [
+            {
+              "index": 39,
+              "name": "W/A POMGRANA 32 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "GRAPE LEAVES JALAPENO 17 PIECE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "W/A POMGRANA 41 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "W/A POMGRANA 54 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "W/A POMGRANA 64 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "W/A LEMON 17 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "W/A LEMON 32 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "W/A LEMON 41 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "W/A LEMON 54 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "W/A LEMON 64 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "W/A POMEGRANATE & LEMON 32 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "W/A POMEGRANATE & LEMON 41 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "W/A POMEGRANATE & LEMON 54 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "W/A POMGRANA & LEMON 64 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "W/A AND CABBAGE 32 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "W/A AND CABBAGE 41 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "W/A AND CABBAGE 54 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "W/A AND CABBAGE 64 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "W/A AND MUSAKHAN 54 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "WARAQ ENAB & MUSAKHAN M",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cake": [
+            {
+              "index": 59,
+              "name": "ALBAA 8 PEC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "GLASS CAKE 6 PES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "GLASS CAKE MIX 12 PES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "MINI CAKE MIX 28 PEC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Ulker 20 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Ulker 39 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Mix Cake 40 Pec",
+              "description": "Qurs Aqili - Rahash - Nutella",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "CLASSIC SLICE CAKE 12 PEC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "MOTEN CHOCOLATE 8 CUPS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "SALTY SWEET CAKE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "BLACK FOREST CAKE  SMALL",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "BOX SLICE CAKE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "CHOCOLATE CAKE  SMALL",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "ENGLISH CAKE DATES",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "PANSHE CAKE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "QURCE EQAILY",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "BROWNIE FRUIT  CAKE",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Coffee Sweet": [
+            {
+              "index": 76,
+              "name": "Coffee Sweet 28 Piese",
+              "description": "Coffee sweet box (Belgian chocolate)\nVarious flavors and luxurious Belgian chocolate\nIt is a beautiful and elegant box that is suitable for gifts or travel gifts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Coffee Sweet 40 Piese",
+              "description": "Coffee sweet box (Belgian chocolate)\nVarious flavors and luxurious Belgian chocolate\nIt is a beautiful and elegant box that is suitable for gifts or travel gifts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Coffee Sweet 48 Piese",
+              "description": "Coffee sweet box (Belgian chocolate)\nVarious flavors and luxurious Belgian chocolate\nIt is a beautiful and elegant box that is suitable for gifts or travel gifts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Snails Choco Mix 40 Piese",
+              "description": "Snail candy box (Belgian chocolate)\n3 distinct flavors (Snickers, hazelnut with hazelnut crackers, Oreo caramel)\n A beautiful and elegant box suitable for gifts or travel gifts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Snails Choco Mix 48 Piese",
+              "description": "Snail candy box (Belgian chocolate)\n3 distinct flavors (Snickers, hazelnut with hazelnut crackers, Oreo caramel)\n A beautiful and elegant box suitable for gifts or travel gifts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "13.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Snails Choco Mix 28 Piese",
+              "description": "Snail candy box (Belgian chocolate)\n3 distinct flavors (Snickers, hazelnut with hazelnut crackers, Oreo caramel)\n A beautiful and elegant box suitable for gifts or travel gifts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chocolate Snacks": [
+            {
+              "index": 82,
+              "name": "SALTY CIGAR JAR",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "BROKEN CHOCO HAZELNUT JAR",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "CRUNCHY CHOCO SNACK",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "SNACK CHOCOLATE CHIPS JAR",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "ROCKY ROAD JAR",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "PETFOR MIX 28 PEC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "MIX SNACK 2",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "MIX SNAK 500 GRAM",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "SALTY CIGAR BOX",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "CHOCOLATE WAFER 40 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "CHOCOLATE WAFER 28 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "ROCKY ROAD BOX  28 pcs",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "TRUFFLE CARAMEL 28 PEC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "BROKEN CHOCO HAZELNUT",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "SNACK CHOCOLATE CHIPS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "PETFOR MIX 40 PEC",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "CRUNCH BISCUITS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "BROKEN CHOOCLET CIRAMIC 750 GRAM",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "MIX COOKIES BOX 8 PCS",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Arabic Sweets": [
+            {
+              "index": 101,
+              "name": "MIX BAKLAVA 560 GRAMS",
+              "description": "An iron box to preserve the product, especially for gifts and travel\nLuxury baklava variety, weighing 560 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "MIX BAKLAVA 800 GRAMS",
+              "description": "An iron box to preserve the product, especially for gifts and travel\nLuxurious baklava variety, weighing 800 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "MIX BAKLAVA 1 KILLO",
+              "description": "An iron box to preserve the product, especially for gifts and travel\nLuxurious baklava variety, weighing 1 Killo",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Baklawa Mix Small Box",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Galaxy Sweet Box 28 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "CINNAMON MINI 28 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "Baklawa Mix Box 48 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "GALAXY SWEET",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "GHARIBA CARAMEL NUTS 40 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Maamoul  Mix 41 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 111,
+              "name": "LUQAIMAT  PLAIN SADA",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "QLASH",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "BASBOUSA QISHTA 30 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "BASBOUSA QISHTA 18 Pec",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gelato Karam": [
+            {
+              "index": 115,
+              "name": "GELATO TRAFFEL 50 PEC",
+              "description": "Gelato flavored and dipped in chocolate (Mix Berry - Snickers - Pistachio - Chocolate - Mastic) An excellent choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 116,
+              "name": "GELATO TRAVEL 6 PEC",
+              "description": "Gelato flavored and dipped in chocolate (Mix Berry - Snickers - Pistachio - Chocolate - Mastic) An excellent choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 117,
+              "name": "MALFIEH GELATO",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Egaila, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/karam-sweet",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "17864",
+          "Reviews_count": "11920",
+          "General_review": [
+            "Karam Sweet is a restaurant located in Kuwait, serving a selection of Desserts, Arabic sweets, Cakes that delivers across Ali Sabah Al-Salem - Umm Al Hayman, Ardhiya, Ashbeliah, Egaila and Hawally.",
+            "Their best selling dishes are W/A POMGRANA 32 PCS, ALBAA 8 PEC, Bar Pistachio Kunafa and W/A POMEGRANATE & LEMON 32 PCS, although they have a variety of dishes and meals to choose from like Desserts, Arabic sweets, Cakes.",
+            "They have been reviewed 17864 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "حمده ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي عجيب الصراحه وألذ شي المولتن بس سخنوه في المايكرويف 🤍🤍"
+            },
+            {
+              "reviewer_name": "Abdulaziz A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بايت و مخور"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الورق عنب طعمة كان معلبات لا يعرف عربي"
+            },
+            {
+              "reviewer_name": "Hanan A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل حرااا جدا"
+            },
+            {
+              "reviewer_name": "Haifa '***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "حتى انتم ياكرم تغيرتو ،طعم ورق عنب بايت سيئ"
+            },
+            {
+              "reviewer_name": "g s***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "اشكر كرم على الذ ورق عنب وطلبات على الخدمه السريعه وتعامل المندوب الراقي 💞💞💞💞💞💞💞 اشكر المندوب think you 💞💞💞💞💞"
+            },
+            {
+              "reviewer_name": "Hajer A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "قسما بالله فيه شعر سيئه جدا لقيت شعر بالفته"
+            },
+            {
+              "reviewer_name": "فاطمة ا***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اللقيمات ناشفه مافيها شيرةى 👍"
+            },
+            {
+              "reviewer_name": "عايشة ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "Good",
+              "review_comment": "ليش حاطين على اللقيمات دبس التمر .. ابي شيرة 🥲"
+            }
+          ]
+        }
       }
     ]
   },
@@ -84794,7 +86234,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -84851,7 +86291,8 @@
       "Al Anode",
       "Jeder Soad",
       "PF Chang's,Mahboula",
-      "The Local beet"
+      "The Local beet",
+      "Karam Sweet"
     ],
     "completed_pages": [
       1,
