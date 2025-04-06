@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T17:22:49.772539",
+  "last_updated": "2025-04-06T17:49:52.618362",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 8,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -103,7 +103,8 @@
       "Batata Mudahdah",
       "Chicster",
       "Baskin Robbins",
-      "Elate"
+      "Elate",
+      "Mango Talaat"
     ],
     "completed_pages": [
       1,
