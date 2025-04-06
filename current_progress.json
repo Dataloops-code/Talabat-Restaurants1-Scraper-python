@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:33:20.752881",
+  "last_updated": "2025-04-06T12:35:25.924236",
   "current_progress": {
     "area_name": "الظهر",
-    "current_page": 3,
+    "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -35,30 +35,10 @@
       "La Baguette",
       "Sable",
       "Mr Baker",
-      "Chateau De Gateaux",
-      "Asha's, Mahboula",
-      "Lunch & Dinner",
-      "The Local beet",
-      "The Cheesecake Factory, Mahboula",
-      "Diet Care, Al-Qurain Lulu",
-      "Petit Four And More",
-      "Health Stop",
-      "Kalha , Mahboula TGO",
-      "Al Anode",
-      "Jeder Soad",
-      "Cramello Sweet",
-      "Turkish Grill",
-      "Karam Sweet",
-      "Malas Bo Khamas",
-      "Jollibee",
-      "Rochas sweets",
-      "Ananas",
-      "Overjar",
-      "hopo"
+      "Chateau De Gateaux"
     ],
     "completed_pages": [
-      1,
-      2
+      1
     ]
   }
 }
