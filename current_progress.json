@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:24:11.340367",
+  "last_updated": "2025-04-06T18:25:46.068180",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 9,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -120,7 +120,8 @@
       "Bento Bakery",
       "McDonald's, Mahboula -Platinum",
       "Marble Slab Creamery",
-      "Salad Creation"
+      "Salad Creation",
+      "Jollibee"
     ],
     "completed_pages": [
       1,
