@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:18:51.261403",
+  "last_updated": "2025-04-06T10:20:26.105436",
   "all_results": {
     "الظهر": [
       {
@@ -2555,6 +2555,530 @@
           "Rating": "Very good"
         },
         "reviews": {}
+      },
+      {
+        "name": "Ghanayem",
+        "cuisine": "Arabic, Kuwaiti, Salad",
+        "url": "https://www.talabat.com/kuwait/restaurant/714645/ghanayem-west-abu-fetera-small-indust?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 41 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Machboos Chicken",
+              "description": "our siginture machbos chicken served with dagoos and mabooch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Kosa Bl Laban",
+              "description": "stuffed zuccini with minced beef mix and dipped into laban sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Creamy Chicken with dill rice",
+              "description": "Basmati rice mixed with dill and sided with creamy chicken",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Morabyan",
+              "description": "Home made style cooked morabyan served with dagoos and mabooch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Biryani Chicken",
+              "description": "the authentic beryani chicken cooked with passion served with rita",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Greesh",
+              "description": "Traditional greesh, cooked slowly",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Rice": [
+            {
+              "index": 6,
+              "name": "Machboos Chicken",
+              "description": "our siginture machbos chicken served with dagoos and mabooch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Machboos Lamb",
+              "description": "our siginture machbos lamb served with dagoos and mabooch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Biryani Chicken",
+              "description": "the authentic beryani chicken cooked with passion served with rita",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Biryani Lamb",
+              "description": "the authentic beryani lamb cooked with passion served with rita",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Morabyan",
+              "description": "Home made style cooked morabyan served with dagoos and mabooch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Creamy Chicken with dill rice",
+              "description": "Basmati rice mixed with dill and sided with creamy chicken",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sides": [
+            {
+              "index": 12,
+              "name": "Kosa Bl Laban",
+              "description": "stuffed zuccini with minced beef mix and dipped into laban sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Greesh",
+              "description": "Traditional greesh, cooked slowly",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Yougurt with cucumber",
+              "description": "yougurt sauce with shrreded cucumber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salad": [
+            {
+              "index": 15,
+              "name": "Taboula Salad Big",
+              "description": "Taboula sour and sweet garnished by pomogrants, optional quenoa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Rocca Salad Big",
+              "description": "Local rocca with strwaberry with our special dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Taboula Salad",
+              "description": "taboula sour and sweet garnished by pomogrants, optional quenoa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Rocca Salad",
+              "description": "local rocca salad with strwaberry with our special dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Soft drinks": [
+            {
+              "index": 19,
+              "name": "Fanta Orange (250ml)",
+              "description": "tangy orange flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Cola  (250ml)",
+              "description": "soft beverage",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Sprite (250ml)",
+              "description": "refreshing lemon-lime",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Water (500ml)",
+              "description": "Mineral Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Diet Cola  (250ml)",
+              "description": "sugar-free, low-calorie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/ghanayem",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "197",
+          "Reviews_count": "119",
+          "General_review": [
+            "Ghanayem is a restaurant located in Kuwait, serving a selection of Arabic, Kuwaiti, Salad that delivers across West Abu Fetera Small Indust.",
+            "Their best selling dishes are Kosa Bl Laban, Machboos Chicken, Greesh and Machboos Lamb, although they have a variety of dishes and meals to choose from like Arabic, Kuwaiti, Salad.",
+            "They have been reviewed 197 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "R H A***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجييييييب"
+            },
+            {
+              "reviewer_name": "Eman G***",
+              "review_date": "23 February 2025",
+              "review_rating": "Good",
+              "review_comment": "تقييمي : عيش الشبنت كان عادي و دسم و شخصيا أفضله مع باجيلا ( فول ) و من غير صبغة و مع دجاج مقلي أما مجبوس الدياي فكان متكتل و ما ياز لي ."
+            },
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "14 February 2025",
+              "review_rating": "Good",
+              "review_comment": "طريقة الطبخ حلوة بس كانت قطعة اللحم صغيرة واللحم اللي فيها خفيف وشوووي حتى ما يكفي شخص واحد"
+            },
+            {
+              "reviewer_name": "Faisal A***",
+              "review_date": "08 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المطعم يستاهل اطلب منه مليون مره الأكل لذيذ والطعم خيال من الاخر"
+            },
+            {
+              "reviewer_name": "Dana A***",
+              "review_date": "02 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الدجاج زفر شوي ويابس بس العيش الشبنت حلو والاكل حار"
+            },
+            {
+              "reviewer_name": "Zahraa A***",
+              "review_date": "07 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المطعم لذيييذ ولاغلطة اتمنى تستمرون في هذا المستوى"
+            },
+            {
+              "reviewer_name": "JaCoB A***",
+              "review_date": "18 December 2024",
+              "review_rating": "OK",
+              "review_comment": "للأسف اللحم عرد و زقرت لحم"
+            },
+            {
+              "reviewer_name": "nourah a***",
+              "review_date": "26 November 2024",
+              "review_rating": "OK",
+              "review_comment": "للاسف اللحم محترق"
+            },
+            {
+              "reviewer_name": "First Name L***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ماشاءالله الاكل حده لذيذ استمروو"
+            },
+            {
+              "reviewer_name": "BATOOl A***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "كوساااا بالبن روووعه 👍🏻⭐️🌟"
+            },
+            {
+              "reviewer_name": "Faisal A***",
+              "review_date": "23 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "مطعم جميل جداً كأنه طبخ بيت ، ربي يوفقهم"
+            },
+            {
+              "reviewer_name": "Abdullah A***",
+              "review_date": "09 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ماشاءالله تبارك الرحمن مو اول مره اطلب منهم ، اكلهم لذيذ جداً ويستاهل المدح اللي يجيه 😋"
+            },
+            {
+              "reviewer_name": "Najla F***",
+              "review_date": "24 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "اعجز و انا امدح الاكل روعه بمعنى الكلمه و اول مره بحياتي اطلب مطعم و يوصلني بهالحراره و المذاق فائق"
+            },
+            {
+              "reviewer_name": "سارة س***",
+              "review_date": "21 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "كنت طالبة الساعة ٩ بالليل بس وصلني الاكل حااار ومبين يديد مو بايت وخطييير جداً جداً"
+            },
+            {
+              "reviewer_name": "Najla F***",
+              "review_date": "06 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي روعه الاكل قوووي اللي طابخ الاكل فنان مو بس طباخ"
+            },
+            {
+              "reviewer_name": "Naser A***",
+              "review_date": "29 September 2024",
+              "review_rating": "Very good",
+              "review_comment": "في ملاحظه دايماً تحصل انهم يحطون البيبسي مع نفس كيس الاكل ويوصل حار للاسف"
+            },
+            {
+              "reviewer_name": "HNO A***",
+              "review_date": "15 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "سيء جدا للأسف تغير حيل عن مستواه اول مافتح ، اللحم قطعتين اصغرمن كف اليد ولونهم اسود وياابس ماينوكل قدمت شكوى بالواتس عن جودة الطعام ومافي فايده من اسوء الي اسوء"
+            },
+            {
+              "reviewer_name": "تهاني ا***",
+              "review_date": "09 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "روووعه بصراحه والأكل وصل حار ولذيذ"
+            },
+            {
+              "reviewer_name": "Wadha A***",
+              "review_date": "23 August 2024",
+              "review_rating": "OK",
+              "review_comment": "للاسف الاكل المربين كله فلفل عندنا مشاكل في المعده ماناكل فلفل"
+            },
+            {
+              "reviewer_name": "تهاني ا***",
+              "review_date": "22 August 2024",
+              "review_rating": "Amazing",
+              "review_comment": "روووعه"
+            },
+            {
+              "reviewer_name": "العتيبي .***",
+              "review_date": "28 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل روعة ولذيذ وفرش ونفس اكل البيت بذات الجريش خيال بس عندكم مشكل دجاج يابس لما ينقلي حيل يابس"
+            },
+            {
+              "reviewer_name": "فهد ا***",
+              "review_date": "19 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ماشاءالله مطعم مهتم بكل شي والطططعم لذيييييييييذ ونظيف ويجي اهم شي حار فرش"
+            },
+            {
+              "reviewer_name": "Abdullah A***",
+              "review_date": "11 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي ممتاز بس الرجاء الالتزام بالملاحضات"
+            },
+            {
+              "reviewer_name": "العتيبي .***",
+              "review_date": "05 July 2024",
+              "review_rating": "OK",
+              "review_comment": "الدجاج يابس ناشف مو نفس قبل"
+            },
+            {
+              "reviewer_name": "First Name L***",
+              "review_date": "20 June 2024",
+              "review_rating": "Amazing",
+              "review_comment": "لذذيذ ووصل الطلب حار ، يستحق المدح الي وصلني عليه الصراحه 👌🏻"
+            },
+            {
+              "reviewer_name": "Abdullah A***",
+              "review_date": "11 June 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ماشالله الاكل ولا غلطه ، الله يعطيكم الف عافيه"
+            },
+            {
+              "reviewer_name": "Mohammad A***",
+              "review_date": "02 May 2024",
+              "review_rating": "Amazing",
+              "review_comment": "absolutely delicious food."
+            },
+            {
+              "reviewer_name": "ali k***",
+              "review_date": "30 April 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very good"
+            },
+            {
+              "reviewer_name": "فيصل ا***",
+              "review_date": "30 April 2024",
+              "review_rating": "Good",
+              "review_comment": "برياني الدجاج ناشف"
+            },
+            {
+              "reviewer_name": "مي ا***",
+              "review_date": "28 April 2024",
+              "review_rating": "OK",
+              "review_comment": "مع الاسف اني صدقت التعليقات الاكل ماله طعم ولا نكهه ولا راح اكرر التجربه سيء جدا"
+            },
+            {
+              "reviewer_name": "mariam m***",
+              "review_date": "31 December 2023",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل كان حيل لذيذ مو اول مره اطلب منهم طبعاً صار الخيار اللول بالنسبه لعلئلتنا"
+            },
+            {
+              "reviewer_name": "mariam m***",
+              "review_date": "23 October 2023",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل وصل حااار و فرش تبارك الرحمن برياني دجاج خطييير"
+            },
+            {
+              "reviewer_name": "منيره ا***",
+              "review_date": "17 October 2023",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل لذييييذ وحار ؛ طلبت برياني دياي و جريش 👌🏻🔥🔥"
+            },
+            {
+              "reviewer_name": "mariam m***",
+              "review_date": "16 October 2023",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل لذيذ ماشاءالله جنه طبخ بيت"
+            }
+          ]
+        }
       }
     ]
   },
@@ -2562,7 +3086,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -2570,7 +3094,9 @@
       "Tromso",
       "Tromso",
       "Malala",
-      "Malala"
+      "Malala",
+      "Ghanayem",
+      "Ghanayem"
     ],
     "completed_pages": []
   }

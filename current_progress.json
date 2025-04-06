@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:18:51.258908",
+  "last_updated": "2025-04-06T10:20:26.103986",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -14,7 +14,9 @@
       "Tromso",
       "Tromso",
       "Malala",
-      "Malala"
+      "Malala",
+      "Ghanayem",
+      "Ghanayem"
     ],
     "completed_pages": []
   }
