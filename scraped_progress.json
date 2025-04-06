@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:46:49.887291",
+  "last_updated": "2025-04-06T10:49:32.706767",
   "all_results": {
     "الظهر": [
       {
@@ -11322,6 +11322,2337 @@
             }
           ]
         }
+      },
+      {
+        "name": "Burger King",
+        "cuisine": "Burgers, Fast Food, Fried Chicken",
+        "url": "https://www.talabat.com/kuwait/restaurant/670767/burger-king-dhaher?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 30 mins",
+        "delivery_fee": "0.750",
+        "min_order": "0.000",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Chicken Royale Meal",
+              "description": "A Unique piece of chicken Royale patty topped with Mayonaisse and lettuce in our long bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "King Deal Meal",
+              "description": "Your choice of 2 sandwiches from (Whopper or Chicken Royale or Spicy Chicken Royale) Sandwiches with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Kids Chicken Burger Meal",
+              "description": "Kids Chicken burger Sandwich , French fries , Drink and kids game card",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Whopper Meal",
+              "description": "1 piece of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in our special sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "2 Royale + Kids meal",
+              "description": "2 Royale Sandwich + Mega Fries + 2 Drinks + Kids Meal for 2 adults and a kid.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Spicy Chicken Royale Meal",
+              "description": "A Unique piece of Marinated spicy chicken Royale topped with Mayonaisse and lettuce in our long bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "NEW Crispy Chicken Fillet": [
+            {
+              "index": 6,
+              "name": "Classic Crispy Fillet Meal",
+              "description": "A golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with pickles, fresh lettuce, and our new signature house sauce. Pure indulgence in every bite, with Fries and soft drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Spicy Crispy Fillet Meal",
+              "description": "A spicy golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with Jalapeno, fresh lettuce, and our new signature House Sauce. Pure indulgence in every bite, with Fries and soft drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Cordon Bleu Fillet Meal",
+              "description": "A golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with smoked turkey, fresh lettuce, and our new signature House Sauce. Pure indulgence in every bite, with Fries and soft drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Classic Crispy Fillet",
+              "description": "A golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with pickles, fresh lettuce, and our new signature house sauce. Pure indulgence in every bite!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Spicy Crispy Fillet",
+              "description": "A spicy golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with Jalapeno, fresh lettuce, and our new signature House Sauce. Pure indulgence in every bite!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Cordon bleu Fillet",
+              "description": "A golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with smoked turkey, fresh lettuce, and our new signature House Sauce. Pure indulgence in every bite!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "King Wings": [
+            {
+              "index": 12,
+              "name": "Chicken wings Bucket",
+              "description": "The NEW Wings Bucket from Burger King! Packed with 20 crunchy, tender chicken wings and comes with your choice of four sauces. Perfect for sharing (or not!).",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Chicken Wings",
+              "description": "Introducing Burger King’s NEW Chicken Wings! 4 piece of tender on the inside, perfectly crunchy on the outside, and rich with flavor in every bite. Pair them with your favorite dipping sauce, and you’ve got yourself a chicken wings experience like no other.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Chicken Wings Meal",
+              "description": "Introducing the NEW Chicken Wings meal at Burger King! Enjoy 6 piece tender and perfectly crunchy chicken wings, paired with a side of crispy golden fries, and a cola bottle. It’s the ideal option to satisfy your craving for delicious chicken wings!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Chicken wings meal Plus",
+              "description": "Discover the NEW chicken Wings Meal PLUS at Burger King! Enjoy 6 tender and perfectly crunchy chicken wings, paired with a side of crispy golden fries, coleslaw and cola bottle. It’s the ideal option to satisfy your craving for delicious chicken wings!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.400",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "2KD Deals": [
+            {
+              "index": 16,
+              "name": "Whopper 2 For 2 KD",
+              "description": "Whopper sandwich and Your choice of 1 sandwich from the Jr Deluxe Menu with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Royale 2 For 2 KD",
+              "description": "Royale sandwich and Your choice of 1 sandwich from the Jr Deluxe Menu with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Spicy Royale 2 For 2 KD",
+              "description": "Spicy Royale sandwich and Your choice of 1 sandwich from the Jr Deluxe Menu with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "ONLY on Talabat": [
+            {
+              "index": 19,
+              "name": "Plant-based King Deal",
+              "description": "Your choice of 2 sandwiches from (Plant-based Whopper or Plant-based Chicken Royale) Sandwiches with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "JR King Deal Meal",
+              "description": "Your choice of 2 sandwiches from Jr Deluxe Menu with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Steakhouse beef double deal",
+              "description": "1 beef steakhouse sandwich + whopper or Royale sandwich + 1 king fries + 2 Cola bottles",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Double Spicy Royale Deal",
+              "description": "2 Spicy chicken Royale sandwich + one king size fries + 2 coca cola bottles for only 2.650 KD",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Double Whopper Kings Deal",
+              "description": "Double Whopper sandwich + fries + oreo cake + drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Double Chicken Royale Kings Deal",
+              "description": "Double Chicken Royale sandwich + fries + oreo cake + drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Super King Meals": [
+            {
+              "index": 25,
+              "name": "Cordon Bleu Fillet MEAL - SUPER KING",
+              "description": "A golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with smoked turkey, fresh lettuce, and our new signature House Sauce. Pure indulgence in every bite, super king size fries, soft drink bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Spicy Crispy Fillet MEAL - SUPER KING",
+              "description": "A spicy golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with pickles, fresh lettuce, and our new signature House Sauce. Pure indulgence in every bite, king size fries, soft drink bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Classic Crispy Fillet MEAL - SUPER KING",
+              "description": "A golden, crispy yet juicy chicken fillet served on a soft, fluffy potato bun, topped with pickles, fresh lettuce, and our new signature house sauce. Pure indulgence in every bite, super king size fries, soft drink bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Spicy Chicken Royale Meal - Super King",
+              "description": "Spicy Chicken Royale Sandwich, super king size fries, cola bottle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Junior Mushroom 'N' Swiss Meal - Super King",
+              "description": "JR Mushroom N Swiss XXL Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Double Chicken Royale Meal - Super King",
+              "description": "Double Chicken Royale Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Chicken Royale Meal - Super King",
+              "description": "Chicken Royale Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Whopper Meal - Super King",
+              "description": "Whopper Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Double Whopper Meal - Super King",
+              "description": "Double Whopper Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Triple Whopper Meal - Super King",
+              "description": "Triple Whopper Sandwich, super king size fries, cola bottle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "King Chicken Fillet Meal - Super King",
+              "description": "King Chicken Fillet Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Chicken Whopper Meal - Super King",
+              "description": "Chicken Whopper Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Mushroom N Swiss XXL Meal - Super King",
+              "description": "Mushroom N Swiss XXL Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Chicken Tenders 6 Pcs - Super King",
+              "description": "Chicken Tenders 6 Pcs, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Chicken Tenders 10 Pcs - Super King",
+              "description": "Chicken Tenders 10 Pcs, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Grilled Chicken Steakhouse Meal - Super King",
+              "description": "Grilled Chicken Steakhouse Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Chicken Burger Meal - Super King",
+              "description": "Chicken Burger Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Beef Steakhouse Meal - Super King",
+              "description": "Beef Steakhouse Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Bean Burger Meal - Super King",
+              "description": "Bean Burger Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Junior Steakhouse Meal - Super King",
+              "description": "Our flame grilled patty topped with BBQ Sauce, Beef Bacon , Crispy onion , Tomato , lettuce and Mayo with slices of American cheese in our unique bun with super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Junior Big King Meal - Super King",
+              "description": "Our flame grilled patty topped with Big King Sauce, onion, lettuce and pickles with American cheese in our unique bun with super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Junior Chicken Steakhouse Meal - Super King",
+              "description": "Chicken Burger patty topped with BBQ Sauce, Beef Bacon , Crispy onion , Tomato , lettuce and Mayo with slices of American cheese in our unique bun with super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Junior Chicken Big King Meal - Super King",
+              "description": "Chicken Burger patty topped with Big King Sauce, onion, lettuce and pickles with American cheese in our unique bun with super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Deluxe Chicken Burger Meal - Super King",
+              "description": "chicken burger patty topped with Mayo, Tomato, Lettuce in our unique bun with super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Chicken Fries Burger  - SUPER KING",
+              "description": "Enjoy the timeless taste of the fries ketchup mayonnaise in our chicken fries burger. Our unique chicken burger patty topped with crispy golden fries covered with ketchup and mayonnaise, along with pickles and lettuce with super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Chicken wings meal - SUPER KING",
+              "description": "Introducing the NEW Chicken Wings meal at Burger King! Enjoy 6 tender and perfectly crunchy chicken wings, paired with a side of super king size fries, and cola bottle. It’s the ideal option to satisfy your craving for delicious chicken wings!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Chicken wings meal Plus- SUPER KING",
+              "description": "Introducing the NEW Chicken Wings meal at Burger King! Enjoy 6 tender and perfectly crunchy chicken wings, paired with coleslaw a side of super king size fries, and cola bottle. It’s the ideal option to satisfy your craving for delicious chicken wings!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Big King Beef XL Meal - Super King",
+              "description": "Big king beef XL Sandwich, super king size fries, cola bottle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Big King Royale Meal - Super King",
+              "description": "Big king Royale Sandwich, super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Plant based Whopper - Super King",
+              "description": "1 piece of our flame grilled plant-based whopper patty topped with ketchup, vegan mayonnaise , pickles, fresh onion, lettuce and tomato in our special sesame bun , super king size fries, cola bottle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Plant based Royale - Super King",
+              "description": "1 piece of our unique plant-based Royale patty topped with vegan mayonnaise and Lettuce in our long Bun, super king size fries, cola bottle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Beef Fries Burger  - SUPER KING",
+              "description": "Enjoy the timeless taste of the fries ketchup mayonnaise in our beef fries burger. Our flame grilled patty topped with crispy golden fries covered with ketchup and mayonnaise, along with pickles and lettuce with super king size fries, cola bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.050",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Flame Grilled Meals": [
+            {
+              "index": 57,
+              "name": "Big King Beef XL Meal",
+              "description": "2 pieces of our flame grilled patty topped with Big King Sauce, onion, lettuce and pickles with 4 slices of American cheese in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Steakhouse Beef Meal",
+              "description": "Our flame grilled patty topped with BBQ Sauce, Beef Bacon , Crispy onion , Tomato , lettuce and Mayo with slices of American cheese in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Triple Whopper Meal",
+              "description": "3 pcs of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in our special sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Double Whopper Meal",
+              "description": "2 pcs of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in our special sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Mushroom N Swiss XXL Meal",
+              "description": "2 Pcs of our flame grilled beef patty topped with 2 Pcs of Swiss cheese and the unique mushroom sauce in our special sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Whopper Junior Meal",
+              "description": "1 piece of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Whopper Meal",
+              "description": "1 piece of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in our special sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Hamburger Meal",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Cheese Burger Meal",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chicken & Crispy Meals": [
+            {
+              "index": 66,
+              "name": "Spicy Chicken Royale Meal",
+              "description": "A Unique piece of Marinated spicy chicken Royale topped with Mayonaisse and lettuce in our long bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Grilled chicken Steakhouse Meal",
+              "description": "Our flame grilled chicken patty topped with BBQ Sauce, Beef Bacon , Crispy onion , Tomato , lettuce and Mayo with slices of American cheese in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Big King Royale Meal",
+              "description": "2 pieces of our unique chicken Royale topped with Big King Sauce, onion, lettuce and pickles with 4 slices of American cheese in our long bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "King Chicken Fillet Meal",
+              "description": "Crispy golden 100% chicken breast, dressed with our special mayo topped with fresh lettuce in a toasted sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Double Chicken Royale Meal",
+              "description": "Double patties of Our unique Chicken Royale topped with Mayo , Lettuce and slices of American cheese in our long bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Chicken Royale Meal",
+              "description": "A Unique piece of chicken Royale patty topped with Mayonaisse and lettuce in our long bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Chicken Burger Meal",
+              "description": "A chicken burger sandwich with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Chicken Tenders 10 Pcs Meal",
+              "description": "10 Pcs of chicken tenders with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Chicken Tenders 6 Pcs Meal",
+              "description": "6 Pcs of chicken tenders with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Chicken Whopper Meal",
+              "description": "A Grilled chicken patty, dressed with our special mayo topped with fresh lettuce and tomatoes in a toasted sesame bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Bean Burger Meal",
+              "description": "Bean Burger Sandwich with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "KING'S PLANT-BASED": [
+            {
+              "index": 77,
+              "name": "Plant-based Royale Meal",
+              "description": "1 piece of our unique plant-based Royale patty topped with vegan mayonnaise and Lettuce in our long Bun with French fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Plant-based Whopper Meal",
+              "description": "1 piece of our flame grilled plant-based whopper patty topped with ketchup, vegan mayonnaise , pickles, fresh onion, lettuce and tomato in our special sesame bun with French fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "6 pcs Plant-based Nuggets Meal",
+              "description": "6 pcs Plant based nuggets meal with French fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "6 pcs Plant-based Nuggets",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Plant-based Royale",
+              "description": "1 piece of our unique plant-based Royale patty topped with vegan mayonnaise and Lettuce in our long  Bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Plant-based Whopper",
+              "description": "1 piece of our flame grilled plant-based whopper patty topped with ketchup, vegan mayonnaise , pickles, fresh onion, lettuce and tomato in our special sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sides and Salads": [
+            {
+              "index": 83,
+              "name": "Fries Ketchup Mayonnaise",
+              "description": "Experience the familiar timeless taste of the fries ketchup mayonnaise done our way. Golden fries drizzled with ketchup and mayonnaise and topped with crispy onions making a delightful blend of flavors.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Spicy Sprinkles",
+              "description": "Turn up the heat on your fries with Spicy Sprinkles! This bold seasoning blend adds a fiery kick and irresistible flavor to every bite",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Cheesy Chicken Fries",
+              "description": "our famous chicken fries breaded with flavorful cheese seasoning that will leave you craving more. served with your choice of sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Chicken Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Jalapeno Cheese Nuggets 6 PCS",
+              "description": "our cheesy beesy jalapeno nuggets",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "King Shrimp",
+              "description": "4 pieces of the Special king shrimp with Tartar sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Mozarella Sticks 4 PCS",
+              "description": "4 Pieces of Mozzarella Sticks served with marinara Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Curly Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Curly Fries",
+                "price_details": {
+                  "Your choice of (Choose 1)": [
+                    "Regular (0.750)",
+                    "Mega (0.800)",
+                    "King (0.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 91,
+              "name": "Spicy Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Spicy Fries",
+                "price_details": {
+                  "Your choice of (Choose 1)": [
+                    "Mega (0.800)",
+                    "King (0.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 92,
+              "name": "Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Fries",
+                "price_details": {
+                  "Your choice of (Choose 1)": [
+                    "Large (0.700)",
+                    "King (0.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 93,
+              "name": "Onion Rings",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Onion Rings",
+                "price_details": {
+                  "Your choice of (Choose 1)": [
+                    "Mega (0.850)",
+                    "King (0.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 94,
+              "name": "Snack Box Plus",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Family Mix Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Family Fries Meal",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Chicken Tenders",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Tenders 6 Pcs Meal",
+                "price_details": {
+                  "Combo (Choose 1)": [
+                    "Go Mega",
+                    "Go King (0.200)"
+                  ],
+                  "Your Choice Of (Choose 1)": [
+                    "Fries",
+                    "Curly Fries (0.150)",
+                    "Onion Rings (0.150)",
+                    "Spicy Fries (0.100)",
+                    "Fries Ketchup Mayonnaise (0.250)"
+                  ],
+                  "Your Choice of Drink (Choose 1)": [
+                    "Chocolate Milkshake (0.250)",
+                    "Strawberry Milkshake (0.250)",
+                    "Vanilla Milkshake (0.250)",
+                    "Coca Cola",
+                    "Fanta",
+                    "Sprite",
+                    "Coke Zero",
+                    "Mineral Water 500 ML",
+                    "Classic Mojito (0.250)",
+                    "Blue Lagoon Mojito (0.250)",
+                    "King On The Beach Mojito (0.250)"
+                  ],
+                  "Add On (Choose items from the list)": [
+                    "Mayo'Chup (0.250)",
+                    "Garlic Mayo (0.100)",
+                    "BBQ Sauce (0.100)",
+                    "Fiery Sauce (0.100)",
+                    "Marinara Sauce (0.150)",
+                    "2 Mayonnaise Packet (0.050)"
+                  ],
+                  "Jazz Up Your Meal (Choose items from the list)": [
+                    "Chicken wings 4 PCs (1.000)",
+                    "Apple Pie (0.250)",
+                    "Hersheys Pie (0.500)",
+                    "4 pcs plant-based nuggets (0.500)",
+                    "Oreo Cake (0.500)",
+                    "Snack Box (1.000)",
+                    "Chicken Tenders 5 Pcs (0.500)",
+                    "Jalapeno Cheese Nuggets 4 PCs (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 98,
+              "name": "Chicken Strips 2 Pcs",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Strips 2 Pcs",
+                "price_details": {
+                  "Your choice of (Choose 1)": [
+                    "BBQ (0.850)",
+                    "Mayo (0.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 99,
+              "name": "Chicken Strips 3 Pcs",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Strips 3 Pcs",
+                "price_details": {
+                  "Your choice of (Choose 1)": [
+                    "BBQ (1.150)",
+                    "Mayo (1.150)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 100,
+              "name": "Tartar sauce",
+              "description": "Our special Tartar sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Mayo'Chup",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "Garlic Mayo",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "BBQ Sauce",
+              "description": "Smokey flavor bbq sauce made with perfect balance of sweet, spicy and savory ingredients",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Fiery Sauce",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Marinara Sauce",
+              "description": "Tomato-based sauce used in Italian cuisine.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "2 Mayonnaise Packet",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "King Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "King Chicken Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Junior Deluxe Menu": [
+            {
+              "index": 109,
+              "name": "Chicken Fries Burger Meal",
+              "description": "Enjoy the timeless taste of the fries ketchup mayonnaise in our chicken fries burger. Our unique chicken burger patty topped with crispy golden fries covered with ketchup and mayonnaise, along with pickles and lettuce with fries and Drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Junior Mushroom ‘N’ Swiss Meal",
+              "description": "Our flame grilled patty topped with Mushroom Sauce with a slices of Swiss cheese in our unique bun with fries and drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 111,
+              "name": "Junior Steakhouse Meal",
+              "description": "Our flame grilled patty topped with BBQ Sauce, Beef Bacon, Crispy onion, Tomato, lettuce and Mayo with slices of American cheese in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Junior Chicken Steakhouse Meal",
+              "description": "Chicken Burger patty topped with BBQ Sauce, Beef Bacon , Crispy onion , Tomato , lettuce and Mayo with slices of American cheese in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "Junior Big King Meal",
+              "description": "Our flame grilled patty topped with Big King Sauce, onion, lettuce and pickles with American cheese in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "Junior Chicken Big King Meal",
+              "description": "Chicken Burger patty topped with Big King Sauce, onion, lettuce and pickles with American cheese in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Deluxe Chicken Burger Meal",
+              "description": "Chicken burger patty topped with Mayo, Tomato, Lettuce in our unique bun with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 116,
+              "name": "Chicken Fries Burger",
+              "description": "Enjoy the timeless taste of the fries ketchup mayonnaise in our chicken fries burger. Our unique chicken burger patty topped with crispy golden fries covered with ketchup and mayonnaise, along with pickles and lettuce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 117,
+              "name": "Junior Mushroom ‘N’ Swiss",
+              "description": "Our flame grilled patty topped with Mushroom Sauce with a slices of Swiss cheese in our unique bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 118,
+              "name": "Junior Steakhouse",
+              "description": "Our flame grilled patty topped with BBQ Sauce, Beef Bacon, Crispy onion, Tomato, lettuce and Mayo with slices of American cheese in our unique bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 119,
+              "name": "Junior Chicken Steakhouse",
+              "description": "Chicken Burger patty topped with BBQ Sauce, Beef Bacon, Crispy onion, Tomato, lettuce and Mayo with slices of American cheese in our unique bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 120,
+              "name": "Junior Big King",
+              "description": "Our flame grilled patty topped with Big King Sauce, onion, lettuce and pickles with American cheese in our unique bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 121,
+              "name": "Junior Chicken Big King",
+              "description": "Chicken Burger patty topped with Big King Sauce, onion, lettuce and pickles with American cheese in our unique bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 122,
+              "name": "Deluxe Chicken Burger",
+              "description": "chicken burger patty topped with Mayo, Tomato, Lettuce in our unique bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sandwiches": [
+            {
+              "index": 123,
+              "name": "Steakhouse Beef Sandwich",
+              "description": "Our flame grilled patty topped with BBQ Sauce, Beef Bacon , Crispy onion , Tomato , lettuce   and Mayo  with slices of American cheese in our unique bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 124,
+              "name": "Grilled chicken Steakhouse Sandwich",
+              "description": "Our flame grilled chicken patty topped with BBQ Sauce, Beef Bacon , Crispy onion , Tomato , lettuce   and Mayo  with slices of American cheese in our unique bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 125,
+              "name": "Big king Royale",
+              "description": "2 pieces of our unique chicken Royale topped with Big King Sauce, onion, lettuce and pickles  with 4 slices of American cheese in our long  Bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 126,
+              "name": "Big King Beef XL",
+              "description": "2 pieces of our flame grilled patty topped with Big King Sauce, onion, lettuce and pickles  with 4 slices of American cheese in our unique bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 127,
+              "name": "King Chicken Fillet",
+              "description": "Crispy golden 100% chicken breast, dressed with our special mayo topped with fresh lettuce in a toasted sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Whopper",
+              "description": "1 piece of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in our special sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 129,
+              "name": "Spicy Chicken Royale",
+              "description": "A Unique piece of Marinated spicy chicken Royale topped with Mayonaisse and lettuce in our long bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 130,
+              "name": "Bean Burger",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 131,
+              "name": "Chicken Burger",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 132,
+              "name": "Double Chicken Royale",
+              "description": "Double patties of Our unique Chicken Royale  topped with Mayo , Lettuce and slices of American cheese in our long  Bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 133,
+              "name": "Chicken Royale",
+              "description": "A Unique piece of spicy chicken Royale topped with Mayonaisse and lettuce in our long bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 134,
+              "name": "Chicken Whopper",
+              "description": "A Grilled chicken patty, dressed with our special mayo topped with fresh lettuce and tomatoes in a toasted sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 135,
+              "name": "Double Whopper",
+              "description": "2 pcs of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in our special sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 136,
+              "name": "Mushroom N Swiss XXL",
+              "description": "2 Pcs of our flame grilled beef patty topped with 2 Pcs of Swiss cheese and the unique mushroom sauce in our special sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 137,
+              "name": "Triple Whopper",
+              "description": "3 pcs of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in our special sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 138,
+              "name": "Whopper Junior",
+              "description": "1 piece of our flame grilled beef patty topped with ketchup, fresh onion , pickles, tomato, lettuce and  mayo in sesame bun",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 139,
+              "name": "Cheese Burger",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 140,
+              "name": "Hamburger",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kids  Meal": [
+            {
+              "index": 141,
+              "name": "4Pcs Kids Chicken Tenders Meal",
+              "description": "4 PCs Chicken tenders , French fries , Drink and kids game card",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 142,
+              "name": "Junior 6 pcs Chicken Tenders Meal",
+              "description": "6 pcs chicken tenders +  Small Fries + Drink + kids game card",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 143,
+              "name": "Kids Cheese Burger Meal",
+              "description": "Cheese burger Sandwich , French fries , Drink and kids game card",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 144,
+              "name": "Kids Chicken Burger Meal",
+              "description": "Kids Chicken burger Sandwich , French fries , Drink and kids game card",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 145,
+              "name": "Kids Hamburger Meal",
+              "description": "Hamburger Sandwich , French fries , Drink and kids game card",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Family and Friends Offers": [
+            {
+              "index": 146,
+              "name": "King Deal Meal",
+              "description": "Your choice of 2 sandwiches from (Whopper or Chicken Royale or Spicy Chicken Royale) Sandwiches with french fries and a drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 147,
+              "name": "2 Royale + Kids meal",
+              "description": "2 Royale Sandwich + Mega Fries + 2 Drinks + Kids Meal for 2 adults and a kid.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 148,
+              "name": "2 Whopper + Kids meal",
+              "description": "2 Whopper Sandwich + Mega Fries + 2 Drinks + Kids Meal for 2 adults and a kid.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 149,
+              "name": "Chicken Royale Family Deal",
+              "description": "2 Chicken Royale Sandwiches + 2 Spicy Royale Sandwiches + Family Fries + Family Coca Cola for 4 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 150,
+              "name": "Whopper Family Deal",
+              "description": "4 Whopper Sandwiches + Family Fries + Family Coca Cola for 4 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 151,
+              "name": "Mix & Match",
+              "description": "Your choice of 6 Sandwiches + 1 Family Fries + 2.25L Coca Cola for 4 to 5 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 152,
+              "name": "Mix Royale Family Deal",
+              "description": "2 Whopper Sandwiches + 1 Chicken Royale Sandwich + 1 Spicy Royale Sandwich + Family Fries + Family Coca Cola for 4 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 153,
+              "name": "Mix Lovers Meal",
+              "description": "2 Whopper, 2 Chicken Royal, 1 Whopper Jr, 1 Chicken Crispy, 1 Family Fries Pack, 1 Family Coca-Cola 2. 250 Ltr for 4 to 5 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 154,
+              "name": "Mega Mix Royale Family Deal",
+              "description": "2 Chicken Royale sandwiches + 1 Spicy Royale sandwiches + 3 Whopper Sandwiches + 2 Family Fries + Family Coca Cola for 6 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 155,
+              "name": "Mega Royale Family Deal",
+              "description": "3 Chicken Royale Sandwiches + 3 Spicy Royale sandwich + 2 Family Fries + Family Coca Cola for 6 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 156,
+              "name": "Mega Whopper Family Deal",
+              "description": "6 Whopper Sandwiches + 2 Family Fries + Family Cola for 6 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 157,
+              "name": "1 Royale + 1 Whopper + Kids meal",
+              "description": "1 Royale Sandwich + 1 Whopper + Mega Fries + 2 Drinks + Kids Meal for 2 adults and a kid.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 158,
+              "name": "1 Meal + 2 Kids meals",
+              "description": "Your choice of 1 Meal from Whopper or Royale + 2 Kids Meals for 1 adults and 2 kids.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 159,
+              "name": "Super Mix Meal",
+              "description": "1 Chicken Royale, 1 Chickenburger, 1 Whopper, 1 Whopper Jr, 1 Family Fries and 1 Family Coca-Cola for 2 to 3 people.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts and Drinks": [
+            {
+              "index": 160,
+              "name": "Classic Mojito",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 161,
+              "name": "Blue Lagoon Mojito",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 162,
+              "name": "King On The Beach Mojito",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 163,
+              "name": "Hersheys Pie",
+              "description": "Three delicious layers of: Crunchy Chocolate Crust, Chocolate Cream filling and whipped cream topping",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 164,
+              "name": "Oreo Cake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 165,
+              "name": "Apple Pie",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 166,
+              "name": "Chocolate Milkshake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 167,
+              "name": "Vanilla Milkshake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 168,
+              "name": "Strawberry Milkshake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 169,
+              "name": "Coca Cola",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 170,
+              "name": "Coke Zero",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 171,
+              "name": "Fanta",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 172,
+              "name": "Sprite",
+              "description": "Non-caffeinated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Dhaher, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/burger-king",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.0",
+          "Ratings_count": "450654",
+          "Reviews_count": "119147",
+          "General_review": [
+            "Burger King is a restaurant located in Kuwait, serving a selection of Burgers, Fast Food, Fried Chicken that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Chicken Royale Meal, Chicken Fries, Mozarella Sticks 4 PCS and Chicken Tenders, although they have a variety of dishes and meals to choose from like Burgers, Fast Food, Fried Chicken.",
+            "They have been reviewed 450654 times by talabat users, with a rating of 4."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "aziz a***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "asma a***",
+              "review_date": "03 April 2025",
+              "review_rating": "Good",
+              "review_comment": "درجة حرارة الطعام + تجاهل الملاحظات"
+            },
+            {
+              "reviewer_name": "وسميه ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Good",
+              "review_comment": "صوص الوجبه قليييل جدا وحتى الكاتشب"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ناقصه وجبتين"
+            },
+            {
+              "reviewer_name": "Waseem Sultan ***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "it was nott fresh at all, as it was mentioned specifically to make it fresh . it was cold"
+            },
+            {
+              "reviewer_name": "عمر خالد ***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبي بارد لا اسلوب و الطلب بارد ولا شي زين"
+            },
+            {
+              "reviewer_name": "Hussain A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب ناقص"
+            },
+            {
+              "reviewer_name": "Kw S***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عادي"
+            },
+            {
+              "reviewer_name": "Hsjdhdh ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريعه جدا"
+            },
+            {
+              "reviewer_name": "mashal Alkhaldy ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "حلوه ولا غلطه والعروض جميله"
+            },
+            {
+              "reviewer_name": "Saad Kuwaity ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "اخطأو بالجوانج واخطئو بالصلصة والسندويشه غير مرتبه مع العلم انهم وصلو باربعه عشر دقيقة"
+            },
+            {
+              "reviewer_name": "احمد ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سيئا جدا جدا"
+            },
+            {
+              "reviewer_name": "Saad A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الببسي حار جداً والبطاط قليل"
+            },
+            {
+              "reviewer_name": "Maha A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب طوّل، ووصل باارد وكأنه بلاستيك مافيه اي طعم ولا فريش، كل مرة أعطي المطعم فرصة ويثبتلي إنه أسوأ التوصيل بطيء"
+            },
+            {
+              "reviewer_name": "ADEL A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "مناحي د***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍شكرا"
+            },
+            {
+              "reviewer_name": "ياسين ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الله يعز النعمه مع الاسف للحين مازال نفس سوء المنتجات وعدم المصداقيه ع بالي تعدلو من غير التأخير"
+            },
+            {
+              "reviewer_name": "فهد ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "ازبل مطعم وللحين ما ردو فلوسي ولا عوضوني وانا امس لاقي شعر بل بطاط"
+            },
+            {
+              "reviewer_name": "Sam ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "طعمه لذيذ و جاء معى العرض وجبة زايدة و جاء بسرعه والوجبه حارة و تشبع و مشكورين يابرقر كنج سريعه جدا و التعامل ممتاز"
+            },
+            {
+              "reviewer_name": "E A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء جداً الصمونه فاضيه لايوجد شي علماً اني دافع دبل جبن و الصمونه فاضيه والاكل بارد"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "زبالة حشى النعمة بارد وقديم ومبين من العصر مسويه وسخنة ووصله لي هذا غير التاخير فاشل توصيل فاشل ومتاخر"
+            },
+            {
+              "reviewer_name": "احمد ب***",
+              "review_date": "03 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الدجاج غير مستوى"
+            },
+            {
+              "reviewer_name": "سلطان اسعد العنزي ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "صراحه من افضل المطاعم في الكويت و بسرعه جاني الطلب بأقل من ٢٠ دقيقه تقريباً و راح اعتمد برقر كنق"
+            },
+            {
+              "reviewer_name": "Menawer A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "فاشل جدا باردومحترق الشيكن لونه اسود وشبس يابس ليش هالشغل يابرجر كنق،"
+            },
+            {
+              "reviewer_name": "NASER _ 5***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "انتوا الافضل احبكمم"
+            },
+            {
+              "reviewer_name": "وتين ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "التوصيل جدا جميل ودرجه حرارة الطعم جدا حلو بس البطاط لو تحطون شوي بهارات بيكون الذذ"
+            },
+            {
+              "reviewer_name": "meezna A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "Mohammed A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "✨🏆✨ ✨👍✨"
+            },
+            {
+              "reviewer_name": "بداح ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "السايق تم تغير مشروب الاطفال عصير واعطانا كولا زيرو نظر سقوط العصير من السايق عند تسليم الطلب"
+            },
+            {
+              "reviewer_name": "دعاء ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Good",
+              "review_comment": "شكراً"
+            },
+            {
+              "reviewer_name": "Sa A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "Jeyavulali Vadagal ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "I love❤"
+            },
+            {
+              "reviewer_name": "Stick Nodes ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "لقد اتى ملخبط قليلًا طلبت عصير برتقال لم يأتي طلبت وحده من اوريو كيك جت اثنان التوصيل جيد لكن الطلب ناقص"
+            },
+            {
+              "reviewer_name": "ساره ع***",
+              "review_date": "02 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "سلوك السائق روعه"
+            },
+            {
+              "reviewer_name": "Wadha .***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "يييييييييممممممممممممممممميييييييييييييييييي جججدددددددددددددا لذذذذذيييذذذذذذ بببببسسسسس بارررردددد"
+            },
+            {
+              "reviewer_name": "محمد العتيبي ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "احسن مطعم برقر كنجج"
+            },
+            {
+              "reviewer_name": "Mohamade M***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "دجاج غير ناضج سيئ"
+            },
+            {
+              "reviewer_name": "Mohamade M***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الدجاج غير ناضج ابدا شيئ للأسف سيئ جداً"
+            },
+            {
+              "reviewer_name": "Margie Rose D***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very good"
+            },
+            {
+              "reviewer_name": "محسن ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ابي خصم ع برغر كنج❤️😍"
+            },
+            {
+              "reviewer_name": "fajer a***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه جدا وسريعه🤍🤍🤍"
+            },
+            {
+              "reviewer_name": "Fahed C***",
+              "review_date": "02 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "the food was good but it was cold and the fries were hard"
+            }
+          ]
+        }
       }
     ]
   },
@@ -11329,7 +13660,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -11348,7 +13679,8 @@
       "Mishkak",
       "Al Maida Al Yemeni",
       "Camellia",
-      "Red Cream"
+      "Red Cream",
+      "Burger King"
     ],
     "completed_pages": []
   }
