@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T15:09:20.669295",
+  "last_updated": "2025-04-06T15:12:43.366640",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 5,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -71,7 +71,8 @@
       "Good Stuff",
       "Sukkar",
       "Wahed Falafel",
-      "Tasa Express"
+      "Tasa Express",
+      "Elite Sweet"
     ],
     "completed_pages": [
       1,
