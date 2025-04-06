@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:17:07.601179",
+  "last_updated": "2025-04-06T10:18:51.261403",
   "all_results": {
     "الظهر": [
       {
@@ -2073,6 +2073,488 @@
             }
           ]
         }
+      },
+      {
+        "name": "Malala",
+        "cuisine": "Arabic, Kuwaiti",
+        "url": "https://www.talabat.com/kuwait/restaurant/735150/malala-west-abu-fetera-small-indust?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 32 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Mathqoot Lamb",
+              "description": "Mathqoot Lamb",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Machboos Chicken",
+              "description": "Chicken machboos served with daghous, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Laban AlMarai",
+              "description": "Laban AlMarai 180mL",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Mandi Chicken",
+              "description": "Chicken mandi served with potato marag, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mandi Chicken",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "2 persons (6.400)",
+                    "3 persons (9.850)",
+                    "4 persons (12.800)",
+                    "5 persons (15.750)",
+                    "6 persons (18.700)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mathgoot Chicken",
+              "description": "Chicken mathgoot served with potato marag, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Yoghurt Cucumber Salad",
+              "description": "Mixed Yoghurt and cucumber with mint salad",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Main Course (1 Person)": [
+            {
+              "index": 6,
+              "name": "Mathqoot Lamb",
+              "description": "Mathqoot Lamb",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Arabic Naimi Meat Machboos",
+              "description": "Arabic naami lamb machboos served with daghous, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Machboos Lamb Australian",
+              "description": "Australian lamb machboos served with daghous, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Machboos Chicken",
+              "description": "Chicken machboos served with daghous, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Mandi Chicken",
+              "description": "Chicken mandi served with potato marag, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Mathgoot Chicken",
+              "description": "Chicken mathgoot served with potato marag, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Biryani Chicken",
+              "description": "Chicken biryani served with youghurt cucumber, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Main Trays (2-6 Persons)": [
+            {
+              "index": 13,
+              "name": "Mathqoot Lamb",
+              "description": "Mathqoot Lamb",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mathqoot Lamb",
+                "price_details": {
+                  "Extras (Choose up to 4 items)": [
+                    "Potato Marag (0.500)",
+                    "Daghoos (0.500)",
+                    "Green Maabouch (0.300)",
+                    "Red Maabouch (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 14,
+              "name": "Biryani Chicken",
+              "description": "Chicken biryani served with youghurt cucumber, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Biryani Chicken",
+                "price_details": {
+                  "Extras (Choose up to 4 items)": [
+                    "Potato Marag (0.500)",
+                    "Daghoos (0.500)",
+                    "Green Maabouch (0.300)",
+                    "Red Maabouch (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 15,
+              "name": "Machboos Chicken",
+              "description": "Chicken machboos served with daghous, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Machboos Chicken",
+                "price_details": {
+                  "Extras (Choose up to 4 items)": [
+                    "Potato Marag (0.500)",
+                    "Daghoos (0.500)",
+                    "Green Maabouch (0.300)",
+                    "Red Maabouch (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 16,
+              "name": "Mandi Chicken",
+              "description": "Chicken mandi served with potato marag, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mandi Chicken",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "2 persons (6.400)",
+                    "3 persons (9.850)",
+                    "4 persons (12.800)",
+                    "5 persons (15.750)",
+                    "6 persons (18.700)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 17,
+              "name": "Machboos Lamb Australian",
+              "description": "Australian lamb machboos served with daghous, red maabouch and green maabouch.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Machboos Lamb Australian",
+                "price_details": {
+                  "Extras (Choose up to 4 items)": [
+                    "Potato Marag (0.500)",
+                    "Daghoos (0.500)",
+                    "Green Maabouch (0.300)",
+                    "Red Maabouch (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 18,
+              "name": "Arabic Naimi Meat Machboos",
+              "description": "Arabic naami lamb machboos served with daghous, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Arabic Naimi Meat Machboos",
+                "price_details": {
+                  "Extras (Choose up to 4 items)": [
+                    "Potato Marag (0.500)",
+                    "Daghoos (0.500)",
+                    "Green Maabouch (0.300)",
+                    "Red Maabouch (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 19,
+              "name": "Mathqoot Chicken",
+              "description": "Chicken mathqoot served with potato marag, red maabouch and green maabouch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mathqoot Chicken",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "2 persons (6.400)",
+                    "3 persons (9.850)",
+                    "4 persons (12.800)",
+                    "5 persons (15.750)",
+                    "6 persons (18.700)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 20,
+              "name": "Fattoush Salad",
+              "description": "refreshing and vibrant dish that combines the flavors of crisp lettuce, juicy tomatoes, toasted pita bread. Tossed in a zesty dressing made with lemon juice, olive oil and sumac",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Taboula Salad",
+              "description": "filled with fresh herbs, bulgur wheat, tomatoes and cucumbers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Yoghurt Cucumber Salad",
+              "description": "Mixed Yoghurt and cucumber with mint salad",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 23,
+              "name": "Kinza Pomegranate",
+              "description": "المشروبات الغازية",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Lemon Lime Sparkling Water",
+              "description": "Drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Laban AlMarai",
+              "description": "Laban AlMarai 180mL",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Kinza Cola",
+              "description": "Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Kinza Zero Sugar",
+              "description": "Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Kinza Lemon",
+              "description": "soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Kinza Diet Cola",
+              "description": "Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Kinza Citrus",
+              "description": "Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Water",
+              "description": "Mineral Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "Not Available",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {}
       }
     ]
   },
@@ -2080,13 +2562,15 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
       "Master Chef",
       "Tromso",
-      "Tromso"
+      "Tromso",
+      "Malala",
+      "Malala"
     ],
     "completed_pages": []
   }
