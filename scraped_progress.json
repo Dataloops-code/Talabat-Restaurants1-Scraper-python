@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:17:43.942505",
+  "last_updated": "2025-04-06T13:21:39.673615",
   "all_results": {
     "الظهر": [
       {
@@ -86227,6 +86227,1726 @@
             }
           ]
         }
+      },
+      {
+        "name": "Texas RoadHouse, Sidra Mahboula",
+        "cuisine": "American",
+        "url": "https://www.talabat.com/kuwait/restaurant/655067/texas-roadhouse-sidra-mahboula?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 34 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Pepsi",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Dozen Bread",
+              "description": "One dozen of our Freshly Baked Bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Boneless Buffalo Wings",
+              "description": "Hand Breaded all white meat chicken, tossed in your choice of mild/hot sauce. Served with celery sticks and bleu cheese dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "7UP",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Smoked Buffalo Wings",
+              "description": "Lightly smoked chicken wings tossed in our wing sauce. (Choice of hot/mild). Served with celery sticks and bleu cheese dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Idaho Potato Skins",
+              "description": "Potato Skins topped with cheddar cheese,beef bacon and sour cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Starters": [
+            {
+              "index": 6,
+              "name": "Combo Appetizer",
+              "description": "Build your own combo. Choose three from the following: Buffalo Wings (Bone In or Boneless), Rattlesnake Bites, Fried Pickles,Potato Skins,Onion Petals. With your choice of two dressings: Made From Scratch Dressings, BBQ Sauce or Sour Cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Fried Pickles",
+              "description": "A heaping basket of pickle chips, hand battered and lightly fried. Served with Ranch Dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Idaho Potato Skins",
+              "description": "Potato Skins topped with cheddar cheese,beef bacon and sour cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Smoked Buffalo Wings",
+              "description": "Lightly smoked chicken wings tossed in our wing sauce. (Choice of hot/mild). Served with celery sticks and bleu cheese dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Boneless Buffalo Wings",
+              "description": "Hand Breaded all white meat chicken, tossed in your choice of mild/hot sauce. Served with celery sticks and bleu cheese dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Onion Petals",
+              "description": "A heaping basket of onions, hand battered and lightly fried. Served with spicy Ranch dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Rattlesnake Bites",
+              "description": "Rounds of diced jalapenos and jack cheese. Hand battered and lightly fried. Served with Ranch Dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Grilled Shrimp - Single Skewer",
+              "description": "Skewer of shrimp, seasoned to perfection and drizzled with our\ngarlic lemon pepper butter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Grilled Shrimp - Double Skewer",
+              "description": "Skewer of shrimp, seasoned to perfection and drizzled with our\ngarlic lemon pepper butter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Beef Sliders",
+              "description": "3 Angus Beef Patties topped with American Cheese, served on our Legendary Fresh Baked Bread and our special Roadhouse Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Fried Chicken Sliders",
+              "description": "Three Fried Chicken Tenders topped with American Cheese, Served on our Fresh Baked Bread with our Special Roadhouse Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Chili Cheese Fries",
+              "description": "A generous portion of seasoned steak fries topped with chili and shredded cheddar cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Texas Cheese Fries",
+              "description": "A generous portion of seasoned steak fries topped with shredded cheddar cheese and beef bacon.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Shotgun Shrimp",
+              "description": "Succulent shrimp tossed in spicy mayo and served alongside spicy ranch dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.050",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Soups": [
+            {
+              "index": 20,
+              "name": "Texas Red Chili- Cup",
+              "description": "Made from Scratch recipe, topped with cheddar cheese and diced red onion",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Texas Red Chili- Bowl",
+              "description": "Made from Scratch recipe, topped with cheddar cheese and diced red onion",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Chicken Tortilla Soup-Cup",
+              "description": "A rich chicken broth with onions, peppers and chicken. Topped with cheddar cheese and crispy tortilla strips.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Chicken Tortilla Soup-Bowl",
+              "description": "A rich chicken broth with onions, peppers and chicken. Topped with cheddar cheese and crispy tortilla strips.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 24,
+              "name": "Caeser Salad- Chicken",
+              "description": "Crispy hearts of romaine, parmesan cheese, homemade croutons and our zesty made from scratch ceasar dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Caeser Salad- Shrimp",
+              "description": "Crispy hearts of romaine, parmesan cheese, homemade croutons and our zesty made from scratch ceasar dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Caesar Salad - Medallion",
+              "description": "Crispy hearts of romaine, parmesan cheese, homemade croutons and our zesty made from scratch ceasar dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Steakhouse Salad",
+              "description": "Crisp cold greens topped with filet medallions, Bleu Cheese crumbles, diced tomato, beef bacon, red onions and croutons. Served with Bleu cheese dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Grilled Medallion Steak Salad",
+              "description": "Crisp cold greens, strips of marinated chicken, shredded jack cheese, chopped egg, diced tomato , beef bacon, red onion and homemade croutons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Grilled Chicken Salad",
+              "description": "Crisp cold greens, strips of marinated chicken, shredded jack cheese, chopped egg, diced tomato , beef bacon, red onion and homemade croutons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Steaks": [
+            {
+              "index": 30,
+              "name": "Ft. Worth Ribeye 10oz",
+              "description": "Our Ribeyes are the most flavorful and juicy cut, due to the marbling of fat throughout the steak.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Ft. Worth Ribeye 12oz",
+              "description": "Our Ribeyes are the most flavorful and juicy cut, due to the marbling of fat throughout the steak.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Sirloin Steak 6oz",
+              "description": "Our USDA Choice Sirloin Steak is our leanest of steak options.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Sirloin Steak 8oz",
+              "description": "Our USDA Choice Sirloin Steak is our leanest of steak options.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Sirloin Steak 11oz",
+              "description": "Our USDA Choice Sirloin Steak is our leanest of steak options.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "New York Strip 8oz",
+              "description": "Juicy and Flavorful, A Steak Lovers Classic!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "New York Strip 13oz",
+              "description": "Juicy and Flavorful, A Steak Lovers Classic!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Dallas Filet 6oz",
+              "description": "Most Tender Steak",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Dallas Filet 8oz",
+              "description": "Most Tender Steak",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Filet Medallions",
+              "description": "Most Tender Steak served over a bed of Seasoned Rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Texas Combos": [
+            {
+              "index": 40,
+              "name": "Ribeye Steak Combo",
+              "description": "Our 10oz Ribeye and Award Winning Rib served with two made from scratch sides.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Sirloin Steak Combo w/Chicken",
+              "description": "Our Sirloin steak with marinated 8oz chicken breast basted in our signature bbq sauceserved with two made from scratch sides.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Sirloin Steak Combo w/ Rib",
+              "description": "Our 8oz Sirloin and Award Winning Rib served with two made from scratch sides.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Burgers & Sandwiches": [
+            {
+              "index": 43,
+              "name": "Smokehouse Burger",
+              "description": "8oz/225g of Angus Beef, Sauteed Mushrooms & Onions, topped with BBQ sauce, American and Jack Cheese. Served on a toasted bun with seasoned steak fries and a pickle spear.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Bacon Cheeseburger",
+              "description": "Beef bacon strips and American cheese on 8oz of our Angus Beef. Served on a toasted bun with seasoned steak fries and pickle spear",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "All American Cheeseburger",
+              "description": "Our classic 8oz burger, topped with American Cheese. Served on a toasted bun with seasoned fries and pickle spear.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Jalapeno Burger",
+              "description": "Fried Jalapeno and Spicy Mayo on our 8oz Angus Beef with lettuce, tomato and onion.  Served on a toasted bun with seasoned fries and pickle spear.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "BBQ Chicken Sandwich",
+              "description": "Marinated grilled chicken, basted with our signature bbq sauce. Served on a toasted bun with seasoned fries and pickle spear.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Buffalo Chicken Sandwich",
+              "description": "Chicken breast breaded and cooked golden brown, then tossed in our wing sauce (mild or spicy) Served with bleu cheese dressing and celery. Seasoned fries and pickle spear.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Mushroom Jack Sandwich",
+              "description": "Grilled chicken breast topped with sauteed mushrooms and melted jack cheese. Served on a toasted bun with seasoned fries and pickle spear.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Burger Slider Entrée",
+              "description": "3 Angus Beef Patties topped with American Cheese, served on our Legendary Fresh Baked Bread and our special Roadhouse Sauce. Served with Seasoned Fries and pickle spear",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Chicken Slider Entrée",
+              "description": "Three Fried Chicken Tenders topped with American Cheese, Served on our Fresh Baked Bread with our Special Roadhouse Sauce.Served with Seasoned fries and pickle spear",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chicken": [
+            {
+              "index": 52,
+              "name": "Country Fried Chicken",
+              "description": "Tender, all white meat chicken breast,.hand battered, golden- fried and topped with made from scratch cream gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Brick Chicken",
+              "description": "Seasoned grilled chicken halves served with a caramelized lemon half",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Crispy Chicken Strips",
+              "description": "All white meat chicken strips, hand- dipped in our signature batter and fried to a crispy golden brown. Served with your choice of dipping sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Grilled BBQ Chicken",
+              "description": "Marinated 8oz chicken breast basted in our signature bbq sauce and grilled to perfection.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Smothered Chicken",
+              "description": "Grilled, marinated chicken breast with sauteed onions, sauteed mushrooms and your choice of made from scratch gravy or jack cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Grilled Chicken and Mushroom",
+              "description": "Grilled, marinated chicken breast topped with made from scratch mushroom sauce,jack cheese and grated parmesan cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.550",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ribs": [
+            {
+              "index": 58,
+              "name": "Award Winning Ribs- Half",
+              "description": "Our Award Winning fall off the bone ribs are slow cooked with a unique blend of seasonings and our signature BBQ sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Award Winning Ribs- Full",
+              "description": "Our Award Winning fall off the bone ribs are slow cooked with a unique blend of seasonings and our signature BBQ sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Speciality Dishes": [
+            {
+              "index": 60,
+              "name": "Roadhouse Kebab Chicken",
+              "description": "Kebabs of your choice marinated with onion, mushroom,tomato,red pepper,and green pepper served on a bed of seasoned rice with your choice of one made from scratch side.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Roadhouse Kebab Steak",
+              "description": "Kebabs of your choice marinated with onion, mushroom,tomato,red pepper,and green pepper served on a bed of seasoned rice with your choice of one made from scratch side.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Roadhouse Kebab Combo",
+              "description": "Kebabs of your choice marinated with onion, mushroom,tomato,red pepper,and green pepper served on a bed of seasoned rice with your choice of one made from scratch side.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Beef Steak Tips",
+              "description": "Tender pieces of steak with sauteed mushrooms and onions served with our made from scratch brown gravy and two made from scratch sides.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.050",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Seafood": [
+            {
+              "index": 64,
+              "name": "Grilled Salmon 5oz",
+              "description": "Filet of Salmon, grilled moist and tender. Topped with our special lemon pepper butter and tartar sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Grilled Salmon 8oz",
+              "description": "Filet of Salmon, grilled moist and tender. Topped with our special lemon pepper butter and tartar sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Southern Fried Fish 3 Pieces",
+              "description": "Lightly breaded in southern cornmeal, deep fried and served with creole mustard sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Southern Fried Fish 4 Pieces",
+              "description": "Lightly breaded in southern cornmeal, deep fried and served with creole mustard sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Grilled Shrimp",
+              "description": "Two skewers of seasoned grilled shrimp, drizzled with garlic lemon pepper butter. Served on a bed of seasoned rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Add Extra Sides": [
+            {
+              "index": 69,
+              "name": "Baked Potato",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Vegetables",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Mashed Potatoes With Brown Gravy",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Seasoned Rice",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Steak Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Coleslaw",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Buttered Corn",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Side House Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Side Caesar Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bread": [
+            {
+              "index": 78,
+              "name": "Dozen Bread",
+              "description": "One dozen of our Freshly Baked Bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Extras": [
+            {
+              "index": 79,
+              "name": "One Beef Rib",
+              "description": "One of our Fall off the Bone Ribs. Slow cooked, blue ribbon winning, beef Rib",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Shrimp Skewer",
+              "description": "Five Grilled Shrimp on a toasted bun, drizzled with lemon pepper butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Chicken Wings",
+              "description": "Four Pieces of lightly smoked chicken wings, tossed in your choice of mild or hot homemade wing sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 82,
+              "name": "Pepsi",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "7UP",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Diet Pepsi",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Home Grilling": [
+            {
+              "index": 85,
+              "name": "Home Grilling Sirloin",
+              "description": "Most popular because they are hearty, flavorful and a great value. Comes with Texas Roadhouse signature steak seasoning.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Home Grilling Sirloin",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "SIR 8OZ 1PC (4.950)",
+                    "SIR 6OZ 1PC (3.950)",
+                    "SIR 8OZ 2PK (9.950)",
+                    "SIR 6OZ 2PK (7.750)",
+                    "SIR 8OZ 6PK (26.950)",
+                    "SIR 6OZ 6PK (20.950)",
+                    "SIR 11OZ 1PC (5.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 86,
+              "name": "Home Grilling Ft. Worth Ribeye",
+              "description": "Very juicy and flavorful due to the marbling throughout the steak. Comes with Texas Roadhouse signature steak seasoning.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Home Grilling Ft. Worth Ribeye",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "RIBEYE 10OZ 1PC (6.950)",
+                    "RIBEYE 10OZ 6PK (39.950)",
+                    "RIBEYE 12OZ 1PC (8.500)",
+                    "RIBEYE 12OZ 2PK (16.950)",
+                    "RIBEYE 12OZ 6PK (48.950)",
+                    "RIBEYE 16OZ 1PC (11.250)",
+                    "RIBEYE 16OZ 2PK (21.950)",
+                    "RIBEYE 16OZ 6PK (62.950)",
+                    "RIBEYE 10OZ 2PK (13.950)",
+                    "BI RIB 1PC (13.950)",
+                    "BI RIB 2PK (27.950)",
+                    "BI RIB 6PK (82.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 87,
+              "name": "Home Grilling Dallas Filet",
+              "description": "Our most tender steak that is lean and melts in your mouth. Comes with Texas Roadhouse signature steak seasoning.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Home Grilling Dallas Filet",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "FILET 12OZ 1PC (10.950)",
+                    "FILET 6OZ 6PK (39.950)",
+                    "FILET 8OZ 1PC (8.950)",
+                    "FILET 8OZ 2PK (17.500)",
+                    "FILET 6OZ 1PC (6.950)",
+                    "FILET 8OZ 6PK (49.950)",
+                    "FILET 6OZ 2PK (13.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 88,
+              "name": "Home Grilling New York Strip",
+              "description": "This cut is aged longer for extra tenderness and flavor. Comes with Texas Roadhouse signature steak seasoning.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Home Grilling New York Strip",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "NY STRIP 8OZ 1PC (5.950)",
+                    "NY STRIP 13OZ 2PK (15.950)",
+                    "NY STRIP 8OZ 2PK (11.950)",
+                    "NY STRIP 130OZ 6PK (46.950)",
+                    "NY STRIP 8OZ 6PK (34.950)",
+                    "NY STRIP 13OZ 1PC (7.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 89,
+              "name": "Burger Patty",
+              "description": "USDA angus beef patties. Comes with Texas Roadhouse signature steak seasoning.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Burger Patty",
+                "price_details": {
+                  "Your Choice of (Choose up to 1 items)": [
+                    "BURGER 2OZ 2PK (0.950)",
+                    "BURGER 2OZ 6PK (2.750)",
+                    "BURGER 8OZ 1PC (1.950)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Mahboula, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/texas-roadhouse-mahboula",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "1027",
+          "Reviews_count": "206",
+          "General_review": [
+            "Texas RoadHouse is a restaurant located in Kuwait, serving a selection of American that delivers across Al Maryah Island, Downtown Burj Khalifa, Dubai Festival City, Mahboula and Mirdif.",
+            "Their best selling dishes are Country Fried Chicken, Grilled Chicken Salad, Mashed Potatoes With Brown Gravy and Ft. Worth Ribeye 10oz, although they have a variety of dishes and meals to choose from like American.",
+            "They have been reviewed 1027 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Amazing",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "s ا***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب ناقص"
+            },
+            {
+              "reviewer_name": "Valerie M***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great great"
+            },
+            {
+              "reviewer_name": "Justin Hart ***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "The buffalo wings didn’t taste fresh. Something was different this time ordering this."
+            },
+            {
+              "reviewer_name": "Anneanne B***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "i ordered fried pickle last night. OMG! it was my first time to tried it and it was super SALTY!!"
+            },
+            {
+              "reviewer_name": "Michelle B***",
+              "review_date": "21 March 2025",
+              "review_rating": "Good",
+              "review_comment": "I asked for the steak.to be well done, and the steak was pink in the middle"
+            },
+            {
+              "reviewer_name": "Kelleigh B***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I was charged 5kd for a rib full of all fat. 95% of the rib was nothing but disgusting fat. fine"
+            },
+            {
+              "reviewer_name": "Corey D***",
+              "review_date": "13 March 2025",
+              "review_rating": "OK",
+              "review_comment": "steak was so hard and fries was so soft should be crispy not good is not up to standard"
+            },
+            {
+              "reviewer_name": "Jason M***",
+              "review_date": "01 March 2025",
+              "review_rating": "OK",
+              "review_comment": "They only gave me 2 pieces of bread when normally, its 6"
+            },
+            {
+              "reviewer_name": "Jillian W***",
+              "review_date": "28 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "My meal was by the best I have ever had from Texas Roadhouse the taste, presentation, and packaging."
+            },
+            {
+              "reviewer_name": "STEPHANIE D***",
+              "review_date": "23 February 2025",
+              "review_rating": "OK",
+              "review_comment": "missing topping on cheese fries and vegetables"
+            },
+            {
+              "reviewer_name": "Valerie M***",
+              "review_date": "22 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great great"
+            },
+            {
+              "reviewer_name": "Patrick M***",
+              "review_date": "22 February 2025",
+              "review_rating": "OK",
+              "review_comment": "wrong order I ordered buffalo chicken sandwich, got a fried chicken sandwich"
+            },
+            {
+              "reviewer_name": "صقر ا***",
+              "review_date": "21 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "لذيذ والطلب يتم توصيله محكم الاغلاق، ممتاز"
+            },
+            {
+              "reviewer_name": "Crystina G***",
+              "review_date": "19 February 2025",
+              "review_rating": "OK",
+              "review_comment": "Ignored special request. Placed sour cream when it was asked no sour cream due to allergy."
+            },
+            {
+              "reviewer_name": "Ginnette O***",
+              "review_date": "17 February 2025",
+              "review_rating": "Good",
+              "review_comment": "Every item on this order arrived cold"
+            },
+            {
+              "reviewer_name": "Amann M***",
+              "review_date": "15 February 2025",
+              "review_rating": "OK",
+              "review_comment": "steak wasn’t well done tonight. yesterday had better preparation."
+            },
+            {
+              "reviewer_name": "Melorah Gene Q***",
+              "review_date": "14 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "I was missing the taste of the steak when in the physical restaurant."
+            },
+            {
+              "reviewer_name": "Ash S***",
+              "review_date": "13 February 2025",
+              "review_rating": "OK",
+              "review_comment": "the cut of meat was terrible ! it was all sinew ."
+            },
+            {
+              "reviewer_name": "Richard M***",
+              "review_date": "07 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "always good Great 👍"
+            },
+            {
+              "reviewer_name": "Charles T***",
+              "review_date": "02 February 2025",
+              "review_rating": "OK",
+              "review_comment": "I’m giving them they’re giving us chicken wings Two wings Pieces and it shoud be 4 whole wings"
+            },
+            {
+              "reviewer_name": "Sara u***",
+              "review_date": "02 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "so good 10/10 they gave me extra sauce which was really kind and the driver was kind and he didnt take too long"
+            },
+            {
+              "reviewer_name": "Valerie M***",
+              "review_date": "01 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great"
+            },
+            {
+              "reviewer_name": "Nicolas L***",
+              "review_date": "01 February 2025",
+              "review_rating": "OK",
+              "review_comment": "missing 2 items, vegetables from the chicken sides, AND the hot sauce from the chicken wings."
+            },
+            {
+              "reviewer_name": "Mais A***",
+              "review_date": "31 January 2025",
+              "review_rating": "OK",
+              "review_comment": "i received it so cold like its cooked in morning!!! and the meet was so over cooked."
+            },
+            {
+              "reviewer_name": "Robert Lindsay ***",
+              "review_date": "26 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "food was a little under cooked and steak was cold."
+            },
+            {
+              "reviewer_name": "Tareq A***",
+              "review_date": "23 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "افضل ستيك في منطقتي سريع التوصيل"
+            },
+            {
+              "reviewer_name": "Mary-Ann M***",
+              "review_date": "20 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "awesome"
+            },
+            {
+              "reviewer_name": "M A***",
+              "review_date": "18 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حلو بس يفضل بالمطعم"
+            },
+            {
+              "reviewer_name": "Amann M***",
+              "review_date": "17 January 2025",
+              "review_rating": "Good",
+              "review_comment": "salmon was smaller than expected potatoes were on."
+            },
+            {
+              "reviewer_name": "صقر ا***",
+              "review_date": "16 January 2025",
+              "review_rating": "Good",
+              "review_comment": "للأسف كباب الدجاج نصفه زفرة تلوع الجبد، Chicken Kabab has an awful taste"
+            },
+            {
+              "reviewer_name": "Scott B***",
+              "review_date": "16 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Unbelieveable steak, jacket potato and veg yet again. Thank you. Awesome!"
+            },
+            {
+              "reviewer_name": "جاسم م***",
+              "review_date": "15 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ولذيذ من اجمل مطاعم الستيك"
+            },
+            {
+              "reviewer_name": "Cameron H***",
+              "review_date": "15 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great food fast and yummy"
+            },
+            {
+              "reviewer_name": "abbas h***",
+              "review_date": "11 January 2025",
+              "review_rating": "OK",
+              "review_comment": "bad experience for third time"
+            },
+            {
+              "reviewer_name": "abbas h***",
+              "review_date": "09 January 2025",
+              "review_rating": "OK",
+              "review_comment": "i ordered well done,, received rare and cold!!"
+            },
+            {
+              "reviewer_name": "Darnell c***",
+              "review_date": "07 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "outstanding great"
+            },
+            {
+              "reviewer_name": "Tia S***",
+              "review_date": "01 January 2025",
+              "review_rating": "OK",
+              "review_comment": "I order full.order ribs, and received 1 ribbon and 1 fatty oily rib with no meat and had been charge worst ever rhe bag of food was torn from the bottom"
+            },
+            {
+              "reviewer_name": "Matthew S***",
+              "review_date": "01 January 2025",
+              "review_rating": "Good",
+              "review_comment": "Ordered a medium rare steak. it was medium at best. Slightly dry because it was overcooked. no issue"
+            },
+            {
+              "reviewer_name": "ghadeer a***",
+              "review_date": "30 December 2024",
+              "review_rating": "OK",
+              "review_comment": "the worst steak I’ve ever had 👎🏼👎🏼👎🏼"
+            },
+            {
+              "reviewer_name": "Jose U***",
+              "review_date": "29 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "👍👍👍😋 🙂✌"
+            },
+            {
+              "reviewer_name": "Yousef A***",
+              "review_date": "28 December 2024",
+              "review_rating": "OK",
+              "review_comment": "the steak wasnt good , the order was so cold !!!"
+            },
+            {
+              "reviewer_name": "Abdullatif A***",
+              "review_date": "27 December 2024",
+              "review_rating": "OK",
+              "review_comment": "the soup is only half portion!!"
+            },
+            {
+              "reviewer_name": "Eiman O***",
+              "review_date": "25 December 2024",
+              "review_rating": "OK",
+              "review_comment": "meat is not good hard and leas tasty than every time i order it"
+            },
+            {
+              "reviewer_name": "Amal D***",
+              "review_date": "25 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الاكل كله فوق بعض وبارد جداthe food is mix up and cold"
+            },
+            {
+              "reviewer_name": "Kelleigh B***",
+              "review_date": "22 December 2024",
+              "review_rating": "OK",
+              "review_comment": "Food was cold. Baked potato was over cooked, dry, and bured in some areas. no butter for baked potat"
+            },
+            {
+              "reviewer_name": "Isaac D***",
+              "review_date": "19 December 2024",
+              "review_rating": "OK",
+              "review_comment": "Food was spilled out of the container. Mash potatoes spilled everywhere inside the bag"
+            },
+            {
+              "reviewer_name": "Nicholas T***",
+              "review_date": "16 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "I'll tell you what, this was the best dang ol 'Merican dinner I done had since I got to Kuwait Outstanding"
+            },
+            {
+              "reviewer_name": "Timothy K***",
+              "review_date": "13 December 2024",
+              "review_rating": "OK",
+              "review_comment": "Missing side (mashed potatoes). Overcooked, dry steak AGAIN (steakhouse salad). Cheap service again!"
+            },
+            {
+              "reviewer_name": "Jose U***",
+              "review_date": "11 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "🙂👍 👍✌"
+            },
+            {
+              "reviewer_name": "Saoud A***",
+              "review_date": "11 December 2024",
+              "review_rating": "OK",
+              "review_comment": "I’m old customer, the price went up and the amount of the food became more less,not a customer now;)"
+            },
+            {
+              "reviewer_name": "Okeito B***",
+              "review_date": "11 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "great place for a moment with or without a special person food was on time"
+            },
+            {
+              "reviewer_name": "Dan O***",
+              "review_date": "09 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "He didn’t ask for directions already available in the app"
+            },
+            {
+              "reviewer_name": "Kendra G***",
+              "review_date": "08 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "awesome as usual"
+            },
+            {
+              "reviewer_name": "HH A***",
+              "review_date": "01 December 2024",
+              "review_rating": "OK",
+              "review_comment": "cold food!!!!!!!!!!!!!"
+            },
+            {
+              "reviewer_name": "Lamond W***",
+              "review_date": "01 December 2024",
+              "review_rating": "Good",
+              "review_comment": "Missing Item"
+            },
+            {
+              "reviewer_name": "Josue B***",
+              "review_date": "30 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "great rider and very professional"
+            },
+            {
+              "reviewer_name": "صالح ا***",
+              "review_date": "29 November 2024",
+              "review_rating": "OK",
+              "review_comment": "جداً سيء وعيب على شركة طلبات انه ماحلت مشكلتي ولا يوجد مصداقيه منكم ولا ثقه ابداً"
+            },
+            {
+              "reviewer_name": "Robert Lindsay ***",
+              "review_date": "25 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "great"
+            },
+            {
+              "reviewer_name": "Xiomara m***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "🤗 👍🏽"
+            },
+            {
+              "reviewer_name": "Kendra G***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Awesome"
+            },
+            {
+              "reviewer_name": "Valerie M***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "great great"
+            },
+            {
+              "reviewer_name": "Doug H***",
+              "review_date": "20 November 2024",
+              "review_rating": "OK",
+              "review_comment": "I ordered a 6 pack and only got one steak."
+            },
+            {
+              "reviewer_name": "Jeremy H***",
+              "review_date": "17 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "He was fast and very polite."
+            },
+            {
+              "reviewer_name": "Helena T***",
+              "review_date": "16 November 2024",
+              "review_rating": "Good",
+              "review_comment": "where are the fries....."
+            },
+            {
+              "reviewer_name": "Almubaraak b***",
+              "review_date": "13 November 2024",
+              "review_rating": "OK",
+              "review_comment": "مشوي الروبيان لذيييييذ 😋 ومطعم تغليفه مرتب ونظيف💜..."
+            },
+            {
+              "reviewer_name": "Karen P***",
+              "review_date": "13 November 2024",
+              "review_rating": "OK",
+              "review_comment": "My steak was Not the rib eye I ordered. Was overcooked and tough, tough, tough. Could not eat. Bad. Bad. Bad 😤😩😠😪"
+            },
+            {
+              "reviewer_name": "Marcus A B***",
+              "review_date": "12 November 2024",
+              "review_rating": "OK",
+              "review_comment": "small piece of chicken you are not feeding a child but a adult steak very dry"
+            },
+            {
+              "reviewer_name": "Mohammed A***",
+              "review_date": "11 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "can’t be better!!"
+            },
+            {
+              "reviewer_name": "Husain A***",
+              "review_date": "11 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "مافي لا شوكة ولا ملعقة و لا سكينه وهذي مو اول مرة تسوون هذي الحركة معاي"
+            },
+            {
+              "reviewer_name": "DEBRA H***",
+              "review_date": "09 November 2024",
+              "review_rating": "OK",
+              "review_comment": "I ordered a medium-well burger. It was raw in the middle instead of a bit of pink, unable to eat."
+            },
+            {
+              "reviewer_name": "Lee J***",
+              "review_date": "09 November 2024",
+              "review_rating": "Good",
+              "review_comment": "Fish was undercooked and cold, I didn’t get cutlery like I requested. bread was cold and hard."
+            },
+            {
+              "reviewer_name": "Ladybug T***",
+              "review_date": "08 November 2024",
+              "review_rating": "Very good",
+              "review_comment": "My chicken was a bit too salty this time. Other than that I was mostly satisfied👍🏼"
+            },
+            {
+              "reviewer_name": "Bogdan S***",
+              "review_date": "07 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "they allowed me to customize my order. super fast"
+            },
+            {
+              "reviewer_name": "Emy D***",
+              "review_date": "06 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "always the best"
+            },
+            {
+              "reviewer_name": "Joanna R***",
+              "review_date": "03 November 2024",
+              "review_rating": "OK",
+              "review_comment": "it was cold and the fish was rubbery and items were spilled on each other"
+            },
+            {
+              "reviewer_name": "Ali A***",
+              "review_date": "03 November 2024",
+              "review_rating": "OK",
+              "review_comment": "الحم عير مطبوخ"
+            },
+            {
+              "reviewer_name": "Laraine F***",
+              "review_date": "02 November 2024",
+              "review_rating": "OK",
+              "review_comment": "I laced a order for 5oz Salmon ,but received a 2 oz price of fish. This was a waste of 9.25 kd."
+            },
+            {
+              "reviewer_name": "Sarah M***",
+              "review_date": "02 November 2024",
+              "review_rating": "OK",
+              "review_comment": "I only received 2 bread rolls instead of 6"
+            },
+            {
+              "reviewer_name": "Jose U***",
+              "review_date": "28 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "👍😁👍 👍"
+            },
+            {
+              "reviewer_name": "Iman B***",
+              "review_date": "28 October 2024",
+              "review_rating": "Good",
+              "review_comment": "The bake potato small for the price also the meat was tough swimming in a lot so called gravy."
+            },
+            {
+              "reviewer_name": "STEPHANIE D***",
+              "review_date": "26 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "I wish there was more steak! Salad portion was amazing but the steak was small. I paid alot too."
+            },
+            {
+              "reviewer_name": "عادل ب***",
+              "review_date": "26 October 2024",
+              "review_rating": "OK",
+              "review_comment": "food was bad and tastes like rotten"
+            },
+            {
+              "reviewer_name": "Valerie M***",
+              "review_date": "23 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "great great"
+            },
+            {
+              "reviewer_name": "Xiomara m***",
+              "review_date": "17 October 2024",
+              "review_rating": "OK",
+              "review_comment": "😞"
+            },
+            {
+              "reviewer_name": "rosy ramos ***",
+              "review_date": "17 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "todo excelente lo traen en tiempo y forma"
+            },
+            {
+              "reviewer_name": "Sarah M***",
+              "review_date": "12 October 2024",
+              "review_rating": "OK",
+              "review_comment": "the bread was not fully baked and some of it was raw🙁"
+            },
+            {
+              "reviewer_name": "Akuba K***",
+              "review_date": "09 October 2024",
+              "review_rating": "Very good",
+              "review_comment": "Too much salt on the potato"
+            },
+            {
+              "reviewer_name": "Alwynn Russ A***",
+              "review_date": "09 October 2024",
+              "review_rating": "OK",
+              "review_comment": "portion was too small"
+            },
+            {
+              "reviewer_name": "Sarah M***",
+              "review_date": "04 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "yummy"
+            },
+            {
+              "reviewer_name": "Agripina N***",
+              "review_date": "04 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "good nice"
+            },
+            {
+              "reviewer_name": "Mohammed A***",
+              "review_date": "04 October 2024",
+              "review_rating": "Good",
+              "review_comment": "thare are no forks and knifes in the orde, how can i eat it?!!!"
+            },
+            {
+              "reviewer_name": "Charles T***",
+              "review_date": "28 September 2024",
+              "review_rating": "Good",
+              "review_comment": "The shrimp had a watery tast"
+            },
+            {
+              "reviewer_name": "Lorenza s***",
+              "review_date": "25 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "location awareness"
+            },
+            {
+              "reviewer_name": "bronwen G***",
+              "review_date": "17 September 2024",
+              "review_rating": "OK",
+              "review_comment": "I ordered a ribeye combo: steak and the rib. NO RIB…no response from Talabat either yet…"
+            },
+            {
+              "reviewer_name": "Nichole G***",
+              "review_date": "15 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very respectful"
+            },
+            {
+              "reviewer_name": "Alvin M***",
+              "review_date": "14 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "awesome good"
+            },
+            {
+              "reviewer_name": "Drea H***",
+              "review_date": "14 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "great great"
+            }
+          ]
+        }
       }
     ]
   },
@@ -86234,7 +87954,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -86292,7 +88012,8 @@
       "Jeder Soad",
       "PF Chang's,Mahboula",
       "The Local beet",
-      "Karam Sweet"
+      "Karam Sweet",
+      "Texas RoadHouse, Sidra Mahboula"
     ],
     "completed_pages": [
       1,
