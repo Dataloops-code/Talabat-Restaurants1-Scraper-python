@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:57:52.645903",
+  "last_updated": "2025-04-06T10:59:06.557171",
   "all_results": {
     "الظهر": [
       {
@@ -18361,6 +18361,763 @@
             }
           ]
         }
+      },
+      {
+        "name": "Blue Egg",
+        "cuisine": "Breakfast, Beverages, Cafe",
+        "url": "https://www.talabat.com/kuwait/restaurant/658555/blue-egg-sabah-al-salem?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 35 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Signature",
+              "description": "White Toasted Bread, Scrambled Eggs, Sautéed Mushrooms, Rocket Leaves, Cheddar Cheese, Truffle Oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "HASH BROWN",
+              "description": "Fried triangle potatoes,  tomato chutney",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "HALLOUMI",
+              "description": "White toasted bread, labneh honey & zaatar mix, grilled halloumi, sliced tomatoes, rocket leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "ORANGE JUICE",
+              "description": "Fresh orange juice, ice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Sumac Fries",
+              "description": "French fries with sumac and honey tomato sauce on the side",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "TURKEY",
+              "description": "White toasted bread, scrambled eggs, turkey, cheddar cheese, spring onions and white creamy sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Lunch Gathering Box": [
+            {
+              "index": 6,
+              "name": "Mini Gathering Box",
+              "description": "12 pcs mix mini sandwiches\n3 pcs mini halloumi (white toasted bread, grilled halloumi, sliced tomato, labneh sauce, rocket leaves)\n3 pcs tuna sandwich (white toasted bread, mix tuna, sweet chilli mayo, rocket leaves)\n3 pcs crispy chicken sandwich (white toasted bread, crispy chicken nuggets, curry mayo, tomato salsa, iceberg lettuce)\n3 pcs mini beef sandwich (white toasted bread, saute beef with mushroom sauce, rocket leaves)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Lunch Gathering Box",
+              "description": "Sumac fries, tomato chutney sauce, creamy chicken, pita chicken, egg burger, signature and halloumi",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Breakfast Sandwiches": [
+            {
+              "index": 8,
+              "name": "Oriental",
+              "description": "White toasted bread, scrambled eggs, tomato sauce, feta cheese & olive spread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Signature",
+              "description": "White Toasted Bread, Scrambled Eggs, Sautéed Mushrooms, Rocket Leaves, Cheddar Cheese, Truffle Oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Healthy",
+              "description": "Brown toasted bread, white eggs, sautéed spinach, spring onions, red capsicum, tomato, chutney spread, iceberg lettuce and quinoa.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Wakey Patty",
+              "description": "Bread, honey mustard sauce, omelette, grilled beef bacon and sliced cucumber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "GUACAMOLE",
+              "description": "Avocado guacamole sauce, egg omelette, beef bacon and cucumber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "HALLOUMI",
+              "description": "White toasted bread, labneh honey & zaatar mix, grilled halloumi, sliced tomatoes, rocket leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "TURKEY",
+              "description": "White toasted bread, scrambled eggs, turkey, cheddar cheese, spring onions and white creamy sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Egg's Burger",
+              "description": "White toast bread, omelet, beef patty, cheddar cheese, iceberg lettuce and special sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "SIMPLE",
+              "description": "White toasted bread, omelet, cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Greek",
+              "description": "White toasted bread, scrambled eggs, olive oil, yogurt, mint powder, sumac powder",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizers": [
+            {
+              "index": 18,
+              "name": "HASH BROWN",
+              "description": "Fried triangle potatoes,  tomato chutney",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Sumac Fries",
+              "description": "French fries with sumac and honey tomato sauce on the side",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Lunch And Dinner Sandwiches": [
+            {
+              "index": 20,
+              "name": "Pita Chicken Sandwich",
+              "description": "Chicken Mediterranean style with balsamic chocoroot rocket leaves with garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Creamy Chicken Sandwich",
+              "description": "Cream chicken with mushroom, garlic, truffle oil, parmesan cheese and rocket leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Breakfast Gathering Box": [
+            {
+              "index": 22,
+              "name": "Breakfast Gathering Box",
+              "description": "(Oriental, signature, wakey, guacamole, healthy, halloumi) hash browns, tomato chutney sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts": [
+            {
+              "index": 23,
+              "name": "Honey Kaymak",
+              "description": "Honey, kaymak, walnuts, simit bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Special Pancake",
+              "description": "2 Pieces pancake, sugar powder, maple, whipping cream, strawberries, blueberries and blackberries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "GRANOLA",
+              "description": "Organic granola, yogurt, honey, maple syrup, blueberry, blackberry and strawberry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "French Toast - Frenchie",
+              "description": "Crispy French toast, sugar powder, special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cold Drinks": [
+            {
+              "index": 27,
+              "name": "Passion Fruit Cooler",
+              "description": "Passion fruit, orange juice, passion fruit syrup, carbonated soda water, basil, ice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "ICED AMERICANO",
+              "description": "Ice, cold water and hot double shot.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "ICED LATTE",
+              "description": "Made with rich espresso, milk, and ice, it's the perfect way to cool down and refresh yourself during the hot summer days, or any time you crave a refreshing coffee.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Iced Spanish Late",
+              "description": "Ice, cold Spanish milk and hot double shot.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "ICED CARAMEL MACCHIATO",
+              "description": "Flevor vanilla, ice, caramel drizzle, cold milk, double hot shot",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Ice Chocolate",
+              "description": "Melted chocolate, milk, ice, chocolate sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Iced Dark Mocha",
+              "description": "Dark chocolate sauce, ice, cold milk, double hot shot",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Hot Drinks": [
+            {
+              "index": 34,
+              "name": "Solo",
+              "description": "Single shot",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Dobio",
+              "description": "Double shot",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "HOT AMERICANO",
+              "description": "Double Shot and Hot Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "FLAT WHITE",
+              "description": "Double shot, hot milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "CAFE LATTE",
+              "description": "Double Shot, Hot Milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "SPANISH LATTE",
+              "description": "Double shot, Spanish hot milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "CORTADO",
+              "description": "Double shot of espresso coffee, hot milk with enjoyable milk foam",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "HOT CHOCOLATE",
+              "description": "Melted chocolate chips, hot milk and chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "CARAMEL MACCHIATO",
+              "description": "Double shot, hot milk, and caramel",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "CAPPUCCINO",
+              "description": "Made with espresso and steamed milk creating rich, velvety taste.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Dark Mocha",
+              "description": "Double shot, hot milk, dark chocolate sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Chay Latte",
+              "description": "Hot drink fresh milk with spices (cloves, cinnamon, ginger)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Beverages": [
+            {
+              "index": 46,
+              "name": "Pepsi 250 ML",
+              "description": "Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Pepsi Diet",
+              "description": "Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "7 Up 250 ML",
+              "description": "Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "LEMON MINT",
+              "description": "Lemon juice, sugar syrup, mint syrup, ice, sliced lemon, mint leaves and soda.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Ocean",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "ORANGE JUICE",
+              "description": "Fresh orange juice, ice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Mineral Water",
+              "description": "Stay hydrated and refreshed with our mineral water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Sabah Al-Salem, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/blue-egg",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "4668",
+          "Reviews_count": "2542",
+          "General_review": [
+            "Blue Egg is a restaurant located in Kuwait, serving a selection of Breakfast, Beverages, Cafe that delivers across Ardhiya and Sabah Al-Salem.",
+            "Their best selling dishes are Signature, HASH BROWN, HALLOUMI and ORANGE JUICE, although they have a variety of dishes and meals to choose from like Breakfast, Beverages, Cafe.",
+            "They have been reviewed 4668 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل مالح والحلوم ماتنوكل"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "12 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "Sukannee B***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very delicious 😋 very polite and came ahead of the time"
+            },
+            {
+              "reviewer_name": "Vhe S***",
+              "review_date": "20 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Good"
+            },
+            {
+              "reviewer_name": "Ameena A***",
+              "review_date": "20 February 2025",
+              "review_rating": "OK",
+              "review_comment": "👍🏻"
+            },
+            {
+              "reviewer_name": "dalal a***",
+              "review_date": "19 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "القهوة منكبة خارج الكيس"
+            },
+            {
+              "reviewer_name": "aliyah A***",
+              "review_date": "09 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل لذيذ بس البيض اشوي مالح"
+            },
+            {
+              "reviewer_name": "Insaf G***",
+              "review_date": "07 February 2025",
+              "review_rating": "OK",
+              "review_comment": "المذاق خيس و زفار مو طبيعي كل رميتو"
+            },
+            {
+              "reviewer_name": "رقيه ب***",
+              "review_date": "28 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سيء حدا جدا الصمون مترووووس دهن دهن دهن البيض يطلع منه علبه دهن"
+            },
+            {
+              "reviewer_name": "فهد ا***",
+              "review_date": "28 January 2025",
+              "review_rating": "Good",
+              "review_comment": "جيد"
+            },
+            {
+              "reviewer_name": "Mona D***",
+              "review_date": "26 January 2025",
+              "review_rating": "Good",
+              "review_comment": "sandwich was not nice"
+            },
+            {
+              "reviewer_name": "Hissa S***",
+              "review_date": "24 January 2025",
+              "review_rating": "OK",
+              "review_comment": "وصلني الاكل بارد"
+            },
+            {
+              "reviewer_name": "mariam g***",
+              "review_date": "21 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "it was ok"
+            },
+            {
+              "reviewer_name": "Saud A***",
+              "review_date": "17 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ جداً"
+            },
+            {
+              "reviewer_name": "Lianna ***",
+              "review_date": "15 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "one of the bedt places to eat eggs"
+            },
+            {
+              "reviewer_name": "Nada A***",
+              "review_date": "13 January 2025",
+              "review_rating": "OK",
+              "review_comment": "للاسف البرقر مال الجمعية مستخدمينه بالصمونه"
+            },
+            {
+              "reviewer_name": "A K***",
+              "review_date": "10 January 2025",
+              "review_rating": "Good",
+              "review_comment": "القهوه حاره حاطين ستيكر على فتحه الشرب الصمغ كله ذاب عليها اضطريت ابطله.حلوه بس جان زين فيه اكبر"
+            },
+            {
+              "reviewer_name": "Abrar A***",
+              "review_date": "06 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سئ جدا حدا جدا العصير طايح على الصمونه و دمرني و وصل بارد وصل بارد و العصير طايح على الصمونه و دمرني"
+            }
+          ]
+        }
       }
     ]
   },
@@ -18368,7 +19125,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -18390,7 +19147,8 @@
       "Red Cream",
       "Burger King",
       "DIET CARE Abu Halifa",
-      "Caesars Confectionery"
+      "Caesars Confectionery",
+      "Blue Egg"
     ],
     "completed_pages": []
   }
