@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:22:41.979643",
+  "last_updated": "2025-04-06T18:24:11.340367",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 9,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -119,7 +119,8 @@
       "Morrano Sweets",
       "Bento Bakery",
       "McDonald's, Mahboula -Platinum",
-      "Marble Slab Creamery"
+      "Marble Slab Creamery",
+      "Salad Creation"
     ],
     "completed_pages": [
       1,
