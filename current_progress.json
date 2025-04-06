@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:01:27.854070",
+  "last_updated": "2025-04-06T18:05:06.700642",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 8,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -110,7 +110,8 @@
       "Al kadi",
       "Mhammash Restaurant",
       "Bo Masoud",
-      "WK"
+      "WK",
+      "Al Qasser Sweet"
     ],
     "completed_pages": [
       1,
