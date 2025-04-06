@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:52:38.471282",
+  "last_updated": "2025-04-06T10:57:52.645903",
   "all_results": {
     "الظهر": [
       {
@@ -17159,6 +17159,1208 @@
             }
           ]
         }
+      },
+      {
+        "name": "Caesars Confectionery",
+        "cuisine": "Bread & Bakery, Breakfast, Pastries",
+        "url": "https://www.talabat.com/kuwait/restaurant/38310/caesars-confectionery-al-qurain?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 31 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Cheese Pizza",
+              "description": "Freshly baked pizza topped with our special sauce and cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cheese Pizza",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (0.900)",
+                    "1 Dozen (1.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Hot Dog",
+              "description": "A juicy and flavorful sausage, nestled in a soft and fluffy bun, topped with your choice of savory and mouthwatering condiments, delivering a comforting and satisfying mea",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hot Dog",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (0.900)",
+                    "1 Dozen (1.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Cheese Roll",
+              "description": "Soft white dough filled with Cream cheese topped with sesame",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cheese Roll",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (0.900)",
+                    "1 Dozen (1.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Zattar Pizza",
+              "description": "Freshly baked pizza topped with our special Zaatar mix with green olive",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Zattar Pizza",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (0.900)",
+                    "1 Dozen (1.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Cheese Croissant",
+              "description": "Butter Croissant filled with Cream cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cheese Croissant",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 5,
+              "name": "Akawi Cheese Pizza With Zaatar",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Akawi Cheese Pizza With Zaatar",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "1/2 Dozen (1.800)",
+                    "1 Dozen (3.600)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Minis": [
+            {
+              "index": 6,
+              "name": "Mini Sandwiches Box",
+              "description": "A delicious box of latest addition to our mini's family! Contains 16 mini sandwiches. Enjoy our bite sized of 4 mini turkey and cheese, 4 mini halloumi and cucumber, 4 mini labneh and zaatar and 4 mini chutney sandwiches",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Mini Cheese Pizza",
+              "description": "Freshly baked mini pizzas topped with our special sauce and cheese - 30 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Mini Zaatar Pizza",
+              "description": "Freshly baked mini zaatar roll stuffed with green olive and coated with zaatar mix – 30 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Mini Hotdog",
+              "description": "Mini soft white dough rolled with Hotdog and special marination – 18 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering Boxes": [
+            {
+              "index": 10,
+              "name": "Diwaniya Box",
+              "description": "Box contains freshly baked of 10 cheese pizzas, 5 zaatar pizza, 5 cheese roll, 4 hot dog, 4 halloumi fatayer, 4 labneh fatayer and 4 spinach fatayer",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Dawam Box",
+              "description": "12 cheese pizzas, 6 zaatar pizzas, 6 cheese croissants, 6 white cheese fatayer, 6 labneh and zaatar fatayer. Suitable for vegetarian diet.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Chips And Dips Box",
+              "description": "Box comprises sweet potato chips, potato chips, spicy labneh, dill and cucumber labneh, red bell pepper hummus and green chutney hummus",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Family Combo",
+              "description": "Caesars Diwaniya Box, 3 Chicken sandwich, 3 Chicken Tikka sandwich, 3 Eggplant sandwich, 3 Halloumi sandwich, side potato chips",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Super Family Combo",
+              "description": "25 pieces Cheese Pizza, 10 Hotdogs, 10 Cheese Croissants, 10 Cheese Rolls, 6 White Cheese Fatayer, 6 Labneh and  Zaatar Fatayer",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Sandwich Box",
+              "description": "A combination of 3 chicken sandwich, 3 chicken tikka sandwich, 3 eggplant sandwich, 3 halloumi sandwich, side potato chips.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kaliyath Nahal": [
+            {
+              "index": 16,
+              "name": "Zaatar Kaliyath Nahal With Labna Dip",
+              "description": "Khaliath nahal with akawi zaatar with labneh dip sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Hotdog Kaliyath Nahal",
+              "description": "Hotdog kaliyath nahal served with mustard sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Khaliyat Nahal",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pizza": [
+            {
+              "index": 19,
+              "name": "Cheese Pizza",
+              "description": "Freshly baked pizza topped with our special sauce and cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Akawi Cheese Pizza With Zaatar",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "1/2 Dozen (1.800)",
+                    "1 Dozen (3.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 20,
+              "name": "Zattar Pizza",
+              "description": "Freshly baked pizza topped with our special Zaatar mix with green olive",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Zattar Pizza",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (0.900)",
+                    "1 Dozen (1.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 21,
+              "name": "Pepproni Pizza",
+              "description": "Pizza topped with special sauce, pepperoni, cheese and ketchup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pepproni Pizza",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "6 pieces (1.800)",
+                    "12 pieces (3.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 22,
+              "name": "Hot Dog Pizza",
+              "description": "Indulge in the fusion of pizza and hot dog in our irresistible Hot Dog Pizza, topped with juicy sausage, melted cheese, and favorite hot dog toppings on a crispy crust.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hot Dog Pizza",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.800)",
+                    "1 Dozen (3.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 23,
+              "name": "Mushroom Pizza",
+              "description": "Made with juicy and earthy mushrooms, cheese, it's a perfect meal for those who want a classic pizza with a twist of flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mushroom Pizza",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.800)",
+                    "1 Dozen (3.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 24,
+              "name": "Akawi Cheese Pizza With Zaatar",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Akawi Cheese Pizza With Zaatar",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "1/2 Dozen (1.800)",
+                    "1 Dozen (3.600)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Fatayer": [
+            {
+              "index": 25,
+              "name": "Halloumi Fatayer",
+              "description": "Soft white dough filled with Cream cheese topped with sesame",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Halloumi Fatayer",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 26,
+              "name": "Hotdog Fatayer",
+              "description": "Soft white dough filled with Hot dog topped with special sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hotdog Fatayer",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.500)",
+                    "1 Dozen (3.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 27,
+              "name": "Cheese Roll",
+              "description": "Soft white dough filled with Cream cheese topped with sesame",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cheese Roll",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (0.900)",
+                    "1 Dozen (1.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 28,
+              "name": "Hot Dog",
+              "description": "A juicy and flavorful sausage, nestled in a soft and fluffy bun, topped with your choice of savory and mouthwatering condiments, delivering a comforting and satisfying mea",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hot Dog",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (0.900)",
+                    "1 Dozen (1.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 29,
+              "name": "Labneh Fatayer",
+              "description": "fatayer with labneh (strained yogurt) filling.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Labneh Fatayer",
+                "price_details": {
+                  "Your Choice Of Quantity: (Choose 1)": [
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 30,
+              "name": "Labneh And Zaatar Fatayer",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Labneh And Zaatar Fatayer",
+                "price_details": {
+                  "Your Choice Of Quanity (Choose 1)": [
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Spinach Fatayer",
+              "description": "Delicate and savory, Spinach Fatayer offers a delightful combination of flaky pastry filled with a flavorful mixture of spinach, onions, and aromatic spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Spinach Fatayer",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 32,
+              "name": "White Cheese Fatayer",
+              "description": "Soft white Dough filled with feta cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "White Cheese Fatayer",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Croissants": [
+            {
+              "index": 33,
+              "name": "Cheese Croissant",
+              "description": "Butter Croissant filled with Cream cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cheese Croissant",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 34,
+              "name": "Zaatar Croissant",
+              "description": "Butter Croissant filled with Thyme",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Zaatar Croissant",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1 Piece (0.200)",
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Puffs": [
+            {
+              "index": 35,
+              "name": "Vegetable Puffs",
+              "description": "Flaky Baked Puff filled with Vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vegetable Puffs",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1 Piece (0.200)",
+                    "1/2 Dozen (1.200)",
+                    "1 Dozen (2.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 36,
+              "name": "Mushroom Tart",
+              "description": "Flaky Tart filled with Mushroom, Cheese and topped with Parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mushroom Tart",
+                "price_details": {
+                  "Your Choice Of Quantity (Choose 1)": [
+                    "1 Piece (0.250)",
+                    "1/2 Dozen (1.500)",
+                    "1 Dozen (3.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Sandwiches and Burgers": [
+            {
+              "index": 37,
+              "name": "Chicken Samoon",
+              "description": "Samoon bread with chicken filling.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Halloum Samoon",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Halloumi Zaatar Sandwich",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Chicken Tikka Sandwich",
+              "description": "Indulge our Chicken Tikka Sandwich, filled with tender and flavorful chicken tikka, fresh veggies, and a zesty chutney, creating a delectable sandwich",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Eggplant Samoon",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Falafel Samoon",
+              "description": "Samoon bread with falafel and tahini",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Vegetable Sandwich",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Chicken Sesame Sandwich",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Chicken Mongolian Sandwich",
+              "description": "Chicken mongolian sandwich.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Chicken Burger",
+              "description": "Made with a juicy, tender, and flavorful chicken patty, topped with fresh vegetables, and sauce. it's a perfect meal for lunch or dinner.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Mutton Burger",
+              "description": "Burger with a juicy mutton patty.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Snacks": [
+            {
+              "index": 48,
+              "name": "Potato Chips",
+              "description": "Salted natural potato chips.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sweets": [
+            {
+              "index": 49,
+              "name": "Mini Palmier",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Chocolate Chip Cookies",
+              "description": "Classic cookie with chocolate chips.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Brownies",
+              "description": "Indulge in the richness of our fudgy Brownies, made with chocolate and butter for intense flavor and finished with a crackly top for ultimate indulgence.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Box Of Chocolate And Vanilla Pastries",
+              "description": "1 box contains 3 chocolate pieces and 3 vanilla pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Muffins": [
+            {
+              "index": 53,
+              "name": "Blueberry Muffin",
+              "description": "Fresh and fluffy muffin filled with blueberries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Caramel Walnut Muffin",
+              "description": "Fresh and moist muffin filled with caramel and crushed walnut",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Chocolate Muffin",
+              "description": "Rich chocolate muffin filled with pieces of milk chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Beverages": [
+            {
+              "index": 56,
+              "name": "Fanta Orange",
+              "description": "250 ML .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Fanta Strawberry",
+              "description": "250 ML .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Sprite Light",
+              "description": "250 ML .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Arwa Water",
+              "description": "500 ML .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/caesar-confectionery",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "117474",
+          "Reviews_count": "71341",
+          "General_review": [
+            "Caesars Confectionery is a restaurant located in Kuwait, serving a selection of Bread & Bakery, Breakfast, Pastries that delivers across Abu Ftaira, Abu Halifa, Abu Hasaniya, Adailiya and Adan.",
+            "They have been reviewed 117474 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Dashti A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حلو ممتاز"
+            },
+            {
+              "reviewer_name": "Ali E***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الزعتر محمض"
+            },
+            {
+              "reviewer_name": "rashed A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جدا ممتاز وطيب ممتاز جدا شكرا لكم"
+            },
+            {
+              "reviewer_name": "rashed A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز جدا جدا جدا"
+            },
+            {
+              "reviewer_name": "Monia A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "I ordered 4 cheese pizza but you bring only 3"
+            },
+            {
+              "reviewer_name": "رباب ح***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "jumana a***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "اخترب صراحه حسافة عليه.. عيين خالي نتفه الصوص والحشوة وحجم الصمون وايد مصغرينه والاسعار مومناسبة"
+            },
+            {
+              "reviewer_name": "ŁòLó E***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب وصل ناقص وبارد جدا"
+            },
+            {
+              "reviewer_name": "Kwt K***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "وصل يابس وليس فريش"
+            },
+            {
+              "reviewer_name": "wuroud a***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد جداً طلب بارد جداً 💔"
+            },
+            {
+              "reviewer_name": "Mariam Khaled ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المعجنات لذيذه وفريش سلوك هم كان جدا لائق"
+            },
+            {
+              "reviewer_name": "مريم ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت ٢ درزن وكتبت بالملاحظة كل درزن بعلبة وحطهم اثنينهم بعلبه"
+            },
+            {
+              "reviewer_name": "Saleh A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب تالف"
+            },
+            {
+              "reviewer_name": "jasem f***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب مسكوب الطلب مسكوب"
+            },
+            {
+              "reviewer_name": "نبيل أ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "pizza & cheese cold not hot"
+            },
+            {
+              "reviewer_name": "Afrah A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "موجود حشره داخل البوكس وهو لم يفتح وجود حشره داخل البوكس"
+            },
+            {
+              "reviewer_name": "dr farheen huda s***",
+              "review_date": "01 April 2025",
+              "review_rating": "Good",
+              "review_comment": "two pieces were short"
+            },
+            {
+              "reviewer_name": "Dana A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد ويابس"
+            },
+            {
+              "reviewer_name": "jassem m***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "وجدنا ذباب صغير داخل علبة المعجنات"
+            },
+            {
+              "reviewer_name": "haifa h***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطعم سيء جدا جدا وليس طازج بس قديم"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "Good",
+              "review_comment": "باررد حييل"
+            },
+            {
+              "reviewer_name": "mona A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكل اعجبه ولحقتو علي ماعندنا ريوق"
+            },
+            {
+              "reviewer_name": "Mariham Z***",
+              "review_date": "31 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "He is aware of the area and very well mannered and a nice person 👍🏻👍🏻"
+            },
+            {
+              "reviewer_name": "بدور ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🤩👌🏻ممتاز 🤩"
+            },
+            {
+              "reviewer_name": "latifa a***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍🏼🤍"
+            },
+            {
+              "reviewer_name": "أسماء ا***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كالعاده لذيذة البيتزا"
+            },
+            {
+              "reviewer_name": "Ameerah A***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميل جدا تسلم ايديكم"
+            },
+            {
+              "reviewer_name": "Layla 88 ***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب وصل غير مرتبة البوكس غير نظيف يوجد به ماء"
+            },
+            {
+              "reviewer_name": "Hamad s***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Somehow they always top themselves"
+            },
+            {
+              "reviewer_name": "Masomaa A***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "soooooobrrr👄👄"
+            },
+            {
+              "reviewer_name": "Futouh A***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "not fresh at all it’s seem from yesterday very dry and cold"
+            },
+            {
+              "reviewer_name": "Irene Andos ***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Fast and good 👍"
+            },
+            {
+              "reviewer_name": "Waled W***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "mai F***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "بيتزا طماط وليست جبن!"
+            },
+            {
+              "reviewer_name": "ندى ا***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اسوأ طلب - من سنين نطلب من قيصر ويوصل حار وبسرعه امس وصل بارد وكأن كان الاكل بايت - كان شيء حداً"
+            },
+            {
+              "reviewer_name": "dalal f***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تاخييييير بس لذيذ محترم ونظيف"
+            },
+            {
+              "reviewer_name": "Eman A***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "شكلها و طعمها قديم"
+            },
+            {
+              "reviewer_name": "nora a***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "المعجنات وصلت بارده وماكانت فرش چنها بايته وكانوا معفسين داخل الكرتون وبعضهم عيينتهم متفتته"
+            },
+            {
+              "reviewer_name": "kazna a***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد والبيتزا عجين مو مستويه عدل"
+            },
+            {
+              "reviewer_name": "t t***",
+              "review_date": "28 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الاكل كان غير طازج"
+            },
+            {
+              "reviewer_name": "Naser A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I ordered zatar akawi and they gave me pizza instead"
+            },
+            {
+              "reviewer_name": "محمد ***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "كميه قليله"
+            }
+          ]
+        }
       }
     ]
   },
@@ -17166,7 +18368,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -17187,7 +18389,8 @@
       "Camellia",
       "Red Cream",
       "Burger King",
-      "DIET CARE Abu Halifa"
+      "DIET CARE Abu Halifa",
+      "Caesars Confectionery"
     ],
     "completed_pages": []
   }
