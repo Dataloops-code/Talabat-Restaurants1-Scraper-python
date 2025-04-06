@@ -1,0 +1,14 @@
+{
+  "completed_areas": [],
+  "current_area_index": 0,
+  "last_updated": "2025-04-06T10:13:23.504935",
+  "current_progress": {
+    "area_name": null,
+    "current_page": 0,
+    "total_pages": 0,
+    "current_restaurant": 0,
+    "total_restaurants": 0,
+    "processed_restaurants": [],
+    "completed_pages": []
+  }
+}
