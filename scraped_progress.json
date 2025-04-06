@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:22:07.038756",
+  "last_updated": "2025-04-06T12:24:49.951127",
   "all_results": {
     "الظهر": [
       {
@@ -57438,6 +57438,1079 @@
             }
           ]
         }
+      },
+      {
+        "name": "Rochas sweets",
+        "cuisine": "Desserts, Pastries, Cakes",
+        "url": "https://www.talabat.com/kuwait/restaurant/734896/rochas-sweets-egaila?aid=59",
+        "rating": "Amazing",
+        "page": 3,
+        "delivery_time": "Within 19 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Dolce Sweet",
+              "description": "Chocolate pieces filled with salted caramel and biscuits 500 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Fabio Sweet",
+              "description": "Digestive biscuits with pecans, milk and chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Snak",
+              "description": "Snak",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "The Cube",
+              "description": "500 Gm, crispy flakes cubes rich with ganache chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mini Fatayer Mix",
+              "description": "48 pieces of mix mini fatayer.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Cheese Balls",
+              "description": "25 pieces from cheese cream covered with golash.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Eid desserts": [
+            {
+              "index": 6,
+              "name": "Eid Al Fitr Tray 10",
+              "description": "Pistachio Arabic Coffee Coconut Chocolate Crunchy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "17.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Products": [
+            {
+              "index": 7,
+              "name": "New Coffee Sweet",
+              "description": "Belgian chocolate stuffed with pistachio, crunchy biscuits, lotus, neobar, coffee and caramelized hazelnuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Maltesers Trifle",
+              "description": "Chocolate cake with chocolate cream and digestive biscuits",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Mini Cake Chocolate",
+              "description": "36 pieces of ganache chocolate cake pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Chocolate Dubai",
+              "description": "Chocolate stuffed with kunafa and pistachio",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Dubai Truffle Cake",
+              "description": "Chocolate cake with Dubai kunafa and chocolate cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Dolce Sweet",
+              "description": "Chocolate pieces filled with salted caramel and biscuits 500 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Fabio Sweet",
+              "description": "Digestive biscuits with pecans, milk and chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "The Cube",
+              "description": "500 Gm, crispy flakes cubes rich with ganache chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Dubai Bar",
+              "description": "Kunafa, pistachio and chocolate filling",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Polish Sweet",
+              "description": "Wafer, crispy  and vanilla and chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Snacks Medium",
+              "description": "Chocolate with salted caramel and nuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "3 in1",
+              "description": "3 in1",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Zuaarat Alkhamis",
+              "description": "Zuaarat Alkhamis",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Trifle Cake 2025": [
+            {
+              "index": 20,
+              "name": "Choco Crunchy",
+              "description": "Chocolate cake milk mousse chocolate ganache chocolate coco pops",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Trafel Kandar",
+              "description": "Trafel Kandar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Arabic sweets": [
+            {
+              "index": 22,
+              "name": "Baklava",
+              "description": "36 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Cheese Balls",
+              "description": "25 pieces from cheese cream covered with golash.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Coffee Sweets": [
+            {
+              "index": 24,
+              "name": "Snak",
+              "description": "Snak",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Nutella Sweet",
+              "description": "Crunchy wafer biscuits with nuts dipped in Nutella cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Chocolate Cone",
+              "description": "Crispy chips dipped in chocolate with a sprinkle of sumac, Pistachio and thyme",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "New Salted Caramel",
+              "description": "Roasted pecans rich in caramel and dipped in chocolate 400 grams",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Coffee Sweets Tray",
+              "description": "Coffee Sweets Tray",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Petit four",
+              "description": "A small, bite-sized cake or pastry that is typically served as a dessert or sweet snack.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Joy Sweet",
+              "description": "Joy Sweet",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cakes": [
+            {
+              "index": 31,
+              "name": "Swiss Roll Chocolate",
+              "description": "Swiss Roll Chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Swiss Roll Vanilla",
+              "description": "Swiss Roll Vanilla",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Bikan Cake",
+              "description": "Bikan Cake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "New Dates Cake",
+              "description": "New Dates Cake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Victoria Cake",
+              "description": "Cream and stuffed with strawberry sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Qurs Eagili",
+              "description": "Qurs Eagili Bailkaramil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Raspberry Cheesecake",
+              "description": "Cheesecake with berries and digestive",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Zafran Cake",
+              "description": "Saffron cake with extra sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Snickers Cake",
+              "description": "Cake with Snickers flavors.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Cake Black Forest",
+              "description": "Black forest cake with a special taste we offer to you",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Cup Mango And Roman",
+              "description": "Cup Mango And Roman",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Mini Biscuit Cup",
+              "description": "10 Cups with biscuit flavor",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Cup Hala Barid",
+              "description": "A selection of our choice 3 Scot cups 2 Snickers cups 2 Oreo cups 2 Flake cups 2 Lotus cups With our cream and our secret mixture",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Hala Biscuits",
+              "description": "Hala Biscuits",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pastries": [
+            {
+              "index": 45,
+              "name": "Fatayer Serving",
+              "description": "Fresh fatayer assorted stuffing arrangement",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Mix Pastries And Savory",
+              "description": "Selection of our choice includes 43 fatayer piece, 18 vine leaves, and 14 Musakhan piece",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Sandwich",
+              "description": "30 pieces. labneh, chicken, mushroom, fries, cream cheese and feta cheese pepper",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Mini Fatayer Mix",
+              "description": "48 pieces of mix mini fatayer.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Musakan And Waraek Anab",
+              "description": "Chicken musakhan with sumac and vine leaves with pomegranate molasses",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Large Vine Leaves",
+              "description": "50 pieces of wareq eenab.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Egaila, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/roshas",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "14290",
+          "Reviews_count": "6864",
+          "General_review": [
+            "Rochas sweets is a restaurant located in Kuwait, serving a selection of Desserts, Pastries, Cakes that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Snak, Fabio Sweet, Fatayer Serving and Mini Cake Chocolate, although they have a variety of dishes and meals to choose from like Desserts, Pastries, Cakes.",
+            "They have been reviewed 14290 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Mohammad A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الفطائر باردهللأسف و الحلا لذيذ👍"
+            },
+            {
+              "reviewer_name": "manal k***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "قود"
+            },
+            {
+              "reviewer_name": "Amani A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميييييييييييل جحححداًً"
+            },
+            {
+              "reviewer_name": "مشاري 1***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "1000000000000000000000000لذيذ جداً"
+            },
+            {
+              "reviewer_name": "Muhammed K***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حلو بس الحجم حيللل صغير أتمنى تكبرونه"
+            },
+            {
+              "reviewer_name": "نورة ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "ahmad a***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الباكيجنق جميل لكن طعم السويت لم يعجب احد للاسف"
+            },
+            {
+              "reviewer_name": "CAMEROF0AHAR7A Alamalbe ***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حبيته حيل لذيذ استمرو شكرا جزيلا لكم ياطلبات علا توصيل مجاني"
+            },
+            {
+              "reviewer_name": "Meshal A***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازة"
+            },
+            {
+              "reviewer_name": "ريم ريم ***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "ذايب و فيه مكسرات و مو حلو لانه معاه مكسرات"
+            },
+            {
+              "reviewer_name": "M Alhajri ***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "المسخن جدا جدا جدا بارد + رطب مو كرنشي نفس الشي ورق العنب احس مطلعينه من الثلاجه والفطاير بعد بارده"
+            },
+            {
+              "reviewer_name": "Rimsha K***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "everything was good,but I had one request to write Eid Mubarak and they didn't write. it was a gift"
+            },
+            {
+              "reviewer_name": "A M***",
+              "review_date": "28 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الكمييييه صدمه جنه احد ماكل منه ردو الكميه القديمه 🤨"
+            },
+            {
+              "reviewer_name": "طلال ن***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الحلا قديم مو فرش"
+            },
+            {
+              "reviewer_name": "Peace k***",
+              "review_date": "16 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "مذاق لذيذ جداً ولكن لو كان الرمان من غير حبات رمان كان أفضل بالطعم لأن الحبات قاسية ومزعج أثناء الأكل"
+            },
+            {
+              "reviewer_name": "Sidharth Krishna ***",
+              "review_date": "16 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "be careful with the chocolates ensure they are in one piece"
+            },
+            {
+              "reviewer_name": "Aryam A***",
+              "review_date": "16 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "10/10"
+            },
+            {
+              "reviewer_name": "عثمان ا***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه وسريعه شكرا لكم"
+            },
+            {
+              "reviewer_name": "Firas A***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "قوي قوي قوي"
+            },
+            {
+              "reviewer_name": "Dlayel D***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ليس نفس الطلب"
+            },
+            {
+              "reviewer_name": "Fajer A***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "delices yummyyyyyyyyyyyyyyyyyyyyy"
+            },
+            {
+              "reviewer_name": "Sara M***",
+              "review_date": "13 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المذاق ممتاز زالكميه ممتاز وقت التوصيل بالموعد المحددمناوله ممتازه"
+            },
+            {
+              "reviewer_name": "dalia d***",
+              "review_date": "12 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطعم عادي و شكل الكيكة مو فرش عليها عفن خيبت ظني"
+            },
+            {
+              "reviewer_name": "Mariam G***",
+              "review_date": "12 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Generous portion & delicious! Thank you so much!"
+            },
+            {
+              "reviewer_name": "Hajer O***",
+              "review_date": "10 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "delicious dubai chocolate AMAZING GIVE HIM A RAISE !!!!"
+            },
+            {
+              "reviewer_name": "amonh b***",
+              "review_date": "10 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يعطيكم العافيه كيكة الرمان حلوه"
+            },
+            {
+              "reviewer_name": "Nmnm J***",
+              "review_date": "09 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريعه جدا شكررررررررررررررررررررااااااااااا طلبت مرتين بنفس اليوم ووصل باقل من ٢٠ دقيقه والسويت لذيذ"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "09 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Mohsin 7***",
+              "review_date": "08 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "وقت توصيل مشاء الله والله مصار له يمكن ٥ دقايق وهو عندي الباب اهينكم"
+            },
+            {
+              "reviewer_name": "Tasneem F***",
+              "review_date": "08 March 2025",
+              "review_rating": "OK",
+              "review_comment": "very bad test"
+            },
+            {
+              "reviewer_name": "هديل ا***",
+              "review_date": "08 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "mehmet akif K***",
+              "review_date": "07 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I like this store but this time I ordered rulo vanilla cake. we could not eat and put it in trash."
+            },
+            {
+              "reviewer_name": "سميره ا***",
+              "review_date": "07 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكاكاو بايت قديم مو فريش"
+            },
+            {
+              "reviewer_name": "Amal A***",
+              "review_date": "07 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب بارد جدا وكل الفطاير جبن ولبنه"
+            },
+            {
+              "reviewer_name": "MAN S***",
+              "review_date": "07 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تجربه سيئه الحلي قاسي جدا مذاق سئ"
+            },
+            {
+              "reviewer_name": "Farah A***",
+              "review_date": "07 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "it was super delicious,whenever I crave pistachio I come straight here and order by far my fav food! it could’ve been more faster"
+            },
+            {
+              "reviewer_name": "بشاير ا***",
+              "review_date": "07 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جداً الكل جميل جداً"
+            },
+            {
+              "reviewer_name": "حنان بوعذاب ***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا شكرا"
+            },
+            {
+              "reviewer_name": "Mohammad A***",
+              "review_date": "05 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سئ للغايه الحلويات طعمها صابون فيري"
+            },
+            {
+              "reviewer_name": "ام الحلوين ا***",
+              "review_date": "05 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "فاطمه ا***",
+              "review_date": "05 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سئ"
+            },
+            {
+              "reviewer_name": "ضحاوي م***",
+              "review_date": "04 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "التغليف موشي وصلتني الكيكة ذايبه وسايحه"
+            },
+            {
+              "reviewer_name": "د.رسميه ا***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت كيك الشوكلاته الرمضاني بالبسكويت سيء جدا ومافيه طعم طبقه كيك وبسكويت وصوص اقل من عادي"
+            },
+            {
+              "reviewer_name": "Awtan A***",
+              "review_date": "01 March 2025",
+              "review_rating": "OK",
+              "review_comment": "موحلو الظلب سيء جداً"
+            },
+            {
+              "reviewer_name": "ام فهد ا***",
+              "review_date": "28 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "الكاكاو لذيذ جيد"
+            },
+            {
+              "reviewer_name": "Bundaiji B***",
+              "review_date": "27 February 2025",
+              "review_rating": "Good",
+              "review_comment": "different type as i ordered, i ordered cake flag as i saw in picture"
+            },
+            {
+              "reviewer_name": "N A***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يوصل بوقته ومرتب ونظيف وطعمه يهبل .. يستاهل والله مايتاخر الصراحه يوصل بوقته وساعات ابجر بس للامانه يستاهل والله"
+            },
+            {
+              "reviewer_name": "Fatema Q***",
+              "review_date": "26 February 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد و كمية الجبن شوية و الجينة ناشفة سريع التوصيل"
+            },
+            {
+              "reviewer_name": "Abdulrahman A***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكراً لسرعة التوصيل والتعامل والمصداقية ممتازه لم اواجه اي مشكله والسائق محترم وذوق"
+            },
+            {
+              "reviewer_name": "Taghreed K***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "delicious good quality good price"
+            },
+            {
+              "reviewer_name": "Mk 1***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يهبل وصل بسرعه وسعره حلوووو ممتازه سريعه"
+            },
+            {
+              "reviewer_name": "FAHIM S***",
+              "review_date": "23 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "nice"
+            },
+            {
+              "reviewer_name": "YARELIS T***",
+              "review_date": "22 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍👍👍 👍👍👍"
+            },
+            {
+              "reviewer_name": "Khalid A***",
+              "review_date": "22 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "clean and very polite 🥰"
+            },
+            {
+              "reviewer_name": "hedi m***",
+              "review_date": "22 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very good very good"
+            },
+            {
+              "reviewer_name": "yousif a***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "القيمات موحلو ابدا ذابل وفيه زيت كثير وفستق قليل مافيه حشو مع انه سعره مورخيص مع التوصيل طالع ب7الا السايق تأخر 40دقيقه"
+            },
+            {
+              "reviewer_name": "Nouf A***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "دائما روشاس يكون افضل من جذي"
+            },
+            {
+              "reviewer_name": "تركي ا***",
+              "review_date": "21 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتااااااااااااز"
+            },
+            {
+              "reviewer_name": "Omar S***",
+              "review_date": "21 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the Dubai chocolate was the best chocolate I’ve had and it’s affordable the driver didn’t call or disturb he knew my location instantly"
+            },
+            {
+              "reviewer_name": "تركي نايف ا***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "تم التواصل معي بعدم توفر المنتج المطلوب وتم ترشيح بديل عنه بنفس القيمة ولكن لم يعجبنا"
+            },
+            {
+              "reviewer_name": "Mirna A***",
+              "review_date": "19 February 2025",
+              "review_rating": "OK",
+              "review_comment": "رائعة رائعة"
+            },
+            {
+              "reviewer_name": "mona ***",
+              "review_date": "17 February 2025",
+              "review_rating": "OK",
+              "review_comment": "the chocolate was broken and also taste weird as if like it was old"
+            },
+            {
+              "reviewer_name": "Meryem E***",
+              "review_date": "17 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "واعر"
+            },
+            {
+              "reviewer_name": "dalal a***",
+              "review_date": "15 February 2025",
+              "review_rating": "OK",
+              "review_comment": "I want to add a picture of how poor quality the chocolate was. It is only chocolate, how is it BAD!!"
+            },
+            {
+              "reviewer_name": "sara a***",
+              "review_date": "15 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "رائع"
+            },
+            {
+              "reviewer_name": "Hussain A***",
+              "review_date": "14 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكة جت قديمه ويابسه ما تنوكل"
+            },
+            {
+              "reviewer_name": "Ahmed A***",
+              "review_date": "14 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز 👌 سريعه"
+            },
+            {
+              "reviewer_name": "ام محمد ا***",
+              "review_date": "14 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "مو طبيعي حلا الكاراميل يجنن الاوصيل كان سريع جدا"
+            },
+            {
+              "reviewer_name": "فرح ح***",
+              "review_date": "13 February 2025",
+              "review_rating": "Good",
+              "review_comment": "ليس جيد"
+            },
+            {
+              "reviewer_name": "Nasser F***",
+              "review_date": "11 February 2025",
+              "review_rating": "Good",
+              "review_comment": "Portion wise, It needs to be slightly bigger, It was kinda small when I recieved my order. The dubai chocolate appeared cracked when I opened it."
+            },
+            {
+              "reviewer_name": "هبه م***",
+              "review_date": "11 February 2025",
+              "review_rating": "OK",
+              "review_comment": "التغليف سيء"
+            },
+            {
+              "reviewer_name": "nowyer a***",
+              "review_date": "10 February 2025",
+              "review_rating": "OK",
+              "review_comment": "كيك البيكان فاشل واضح انه قديم وطعمه مو حلوو كلشش الحلو وصل ذايبوالكراميل طالع لبرا مع ان الجو بارد"
+            },
+            {
+              "reviewer_name": "Zohorrka K***",
+              "review_date": "09 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ ممتازة"
+            },
+            {
+              "reviewer_name": "هويدا ا***",
+              "review_date": "09 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "💐ممتاز"
+            },
+            {
+              "reviewer_name": "Bnt A***",
+              "review_date": "08 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيييييذ سريعه"
+            }
+          ]
+        }
       }
     ]
   },
@@ -57445,7 +58518,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -57488,7 +58561,8 @@
       "Turkish Grill",
       "Karam Sweet",
       "Malas Bo Khamas",
-      "Jollibee"
+      "Jollibee",
+      "Rochas sweets"
     ],
     "completed_pages": [
       1,
