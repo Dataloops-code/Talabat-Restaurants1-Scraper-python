@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T14:09:08.038833",
+  "last_updated": "2025-04-06T14:19:48.771951",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -55,7 +55,8 @@
       "The Coffee Bean & Tea Leaf",
       "AlKhabaz & Fattoush",
       "Little Caesars Pizza",
-      "Konafa Habiba"
+      "Konafa Habiba",
+      "Chapatti Rashid"
     ],
     "completed_pages": [
       1,
