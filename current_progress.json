@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:20:38.796758",
+  "last_updated": "2025-04-06T12:22:07.036855",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -49,7 +49,8 @@
       "Cramello Sweet",
       "Turkish Grill",
       "Karam Sweet",
-      "Malas Bo Khamas"
+      "Malas Bo Khamas",
+      "Jollibee"
     ],
     "completed_pages": [
       1,

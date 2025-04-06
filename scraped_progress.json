@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:20:38.798428",
+  "last_updated": "2025-04-06T12:22:07.038756",
   "all_results": {
     "الظهر": [
       {
@@ -56210,6 +56210,1234 @@
             }
           ]
         }
+      },
+      {
+        "name": "Jollibee",
+        "cuisine": "Fast Food, Fried Chicken, Burgers",
+        "url": "https://www.talabat.com/kuwait/restaurant/625055/jollibeeal-qurain?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 40 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "2 Pieces Chickenjoy With Rice",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Chickenjoy Gravy Sauce",
+              "description": "Chickenjoy gravy sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Spaghetti",
+              "description": "Spaghetti.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Big Dinner Meal A",
+              "description": "4 pieces fried chickenjoy choices of bread or rice comes with coleslaw fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Rice",
+              "description": "Rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Vm 2 Pieces Chickenjoy",
+              "description": "2 pieces chickenjoy with rice  and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Solo Super Meal": [
+            {
+              "index": 6,
+              "name": "Regular Bucket - A",
+              "description": "8 Chicken pieces, 4 bun bread or rice, 1 large coleslaw salad, 1 extra large fries and 1.25 liters soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Regular Bundle Bucket-C",
+              "description": "18 chicken pieces, 6 bun bread or rice, 1 large coleslaw salad, 1 extra large fries and 1.25 liters soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Promotions": [
+            {
+              "index": 8,
+              "name": "Regular Bundle Bucket B",
+              "description": "12 chicken pieces, 4 bun bread or rice, 1 large coleslaw salad, 1 extra large fries and 1.25 liters soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Double Meal Deal",
+              "description": "4 Pieces chicken joy, 2 jolly spaghetti, 2 Pieces beef patty with mushroom sauce and rice and 1.25 coca-cola liter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Mega Meal Deal",
+              "description": "8 Pieces chicken joy, 2 jolly spaghetti, 2 pieces beef patty with mushroom sauce and rice, 2 rice or french fries and 2.25 coca-cola liter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Jolliburgers new product": [
+            {
+              "index": 11,
+              "name": "Jolliburger VM-Deluxe Double Patty Burger",
+              "description": "Pure beef patty burger buttered and season, with tomato lettuce and cheese, comes with drinks and fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Jolliburger VM Classic Double Patty Burger",
+              "description": "Pure beef burger buttered and season, with pickles onion and cheese, comes with drinks and french fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Jolliburger Classic Double Patty Burger",
+              "description": "Pure beef burger buttered and season, with pickles onion and cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Jolliburger Deluxe Double Patty Burger",
+              "description": "Pure beef patty burger buttered and season, with tomato lettuce and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Jolliburger Value Meal Deluxe Single Patty Burger",
+              "description": "Pure beef burger buttered and season, with pickles onion and cheese, comes with drinks and French fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Jollibee Burger - Classic Single Patty Burger Value Meal",
+              "description": "Pure beef burger buttered and season with pickles, onion and cheese comes with drink and French fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Jolliburger Classic Single Patty Burger",
+              "description": "Pure beef patty burger buttered and season with Onion, pickles and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Jolliburger Deluxe Single Patty Burger",
+              "description": "Pure beef patty burger buttered and season, with tomato lettuce and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Big dinner Meal": [
+            {
+              "index": 19,
+              "name": "Big Dinner Meal A",
+              "description": "4 pieces fried chickenjoy choices of bread or rice comes with coleslaw fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Big Dinner Meal-B",
+              "description": "5 pieces chicken strips comes with sauce coleslaw bread fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Big Dinner Meal C",
+              "description": "3 pieces fried chickenjoy choices of bread or rice comes with coleslaw fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Big Dinner Meal D",
+              "description": "6 pieces fried chickenjoy choice of 2 rice or 2 bread comes with coleslaw 2 regular fries and 2 drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Big Dinner Meal E",
+              "description": "2 pieces chicken wrap with coleslaw fries and drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Product": [
+            {
+              "index": 24,
+              "name": "Double Chicken Fillet Sandwich",
+              "description": "Double chicken fillet in brioche bun with lolo Bionda lettuce and garlic mayo",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "VM-Double Chicken Sandwich",
+              "description": "Double chicken fillet in brioche bun bread with lolo bionda lettuce and garlic mayo, with fries and drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "VM  Ultimate Meal",
+              "description": "Value meal beef Patty in mushroom sauce with egg, french fries and rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Chicken Sandwich New",
+              "description": "New crunchy juicy delicious chicken sandwich with brioche buns, lolo bionde lettuce and garlic mayo.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "New Chicken Sandwich Spicy",
+              "description": "New crunchy juicy delicious chicken sandwich spicy with brioche buns lolo bionde lettuce and siracha mayo",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Vm New Chicken Sandwich Spicy",
+              "description": "New Crunchy juicy delicious Chicken sandwich Spicy with brioche buns, lolo bionde lettuce and siracha mayo Comes with drinks and fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "VM New Chicken Sandwich",
+              "description": "New crunchy juicy delicious chicken sandwich with brioche buns, lolo bionde lettuce and garlic mayo comes with drinks and fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Cheesy Loaded Fries",
+              "description": "Potato fries toppings with chicken strips cheese sauce and parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Spicy Loaded Fries",
+              "description": "Potato fries toppings with chicken strip, spicy siracha mayonnaise and parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Ultimate Meal Solo",
+              "description": "Solo beef Patty in mushroom sauce with egg, french fries and rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Chicken Wrap",
+              "description": "Savor succulent chicken, fresh veggies, and flavorful sauce, wrapped in a soft tortilla",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Vm Chicken Wrap",
+              "description": "Vm chicken wrap with fries and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Vm 3 Pieces Chicken Tenders",
+              "description": "Vm 3 pieces chicken tenders.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Vm 5 Pieces Chicken Tenders",
+              "description": "Vm 5 pieces chicken tenders.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "3 Pieces Chicken Tenders",
+              "description": "3 pieces chicken tenders.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "5 Pieces Chicken Tenders",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "5pcs Chicken Wings Solo",
+              "description": "5pcs Chicken Wings Solo",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Value Meal 5pcs Chicken Wings With Regular Fries And Softdrinks",
+              "description": "Value Meal 5pcs Chicken Wings with Regular Fries and Softdrinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kiddie Meal": [
+            {
+              "index": 42,
+              "name": "Kiddie Meal Spaghetti",
+              "description": "Spaghetti With Regular Fries And soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Kiddie Meal Burger Yum With Cheese",
+              "description": "Burger Yum With Cheese With Regular Fries And Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Kiddie Meal Chickenjoy",
+              "description": "1pc Chicken With Regular Fries And Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Kiddie Meal Nuggets",
+              "description": "4pcs Chicken Nuggets With Regular Fries And Soft Drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chicken Joy Value Meal": [
+            {
+              "index": 46,
+              "name": "Vm 1 Pieces Chickenjoy",
+              "description": "1 piece chickenjoy with rice  and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Vm 2 Pieces Chickenjoy",
+              "description": "2 pieces chickenjoy with rice  and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Vm Chickenjoy With Spaghetti",
+              "description": "1 piece chickenjoy with spaghetti and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Arab Meal",
+              "description": "2 pieces chickenjoy with bun, large french fries and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Noodles Value Meals": [
+            {
+              "index": 50,
+              "name": "Vm Jolly Spaghetti",
+              "description": "Jolly spaghetti and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Vm Jolly Spaghetti With Regular Yum",
+              "description": "Jolly spaghetti with regular yum burger and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Burger Value Meals": [
+            {
+              "index": 52,
+              "name": "Vm Yumburger",
+              "description": "Yum burger with french fries and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Vm Yumburger With Cheese",
+              "description": "Yum burger with cheese with french fries and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Vm Champ Burger",
+              "description": "Champ burger with french fries and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.400",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sandwich Value Meal": [
+            {
+              "index": 55,
+              "name": "Vm Crispy Chicken Burger",
+              "description": "Crispy chicken burger sandwich with french fries and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Vm Jolly Beef Hotdog",
+              "description": "Jolly beef hotdog with fries and choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Viands": [
+            {
+              "index": 57,
+              "name": "12 Pieces Chickenjoy Bucket",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "1 Piece Chickenjoy With Rice",
+              "description": "1 piece chickenjoy with rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "2 Pieces Chickenjoy With Rice",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "1 Piece Burgersteak With Rice",
+              "description": "1 piece burger steak with rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "2 Pieces Steak Burger With Rice",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Chickenjoy With Spaghetti",
+              "description": "1 piece chickenjoy with spaghetti.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "2 Pieces Chickenjoy With Bun Large Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Chicken Nuggets",
+              "description": "4 pieces chicken nuggets.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "6 Pieces Chicken Nuggets",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "6 Pieces Chickenjoy Bucket",
+              "description": "6  pieces chicken",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Noodles": [
+            {
+              "index": 67,
+              "name": "Spaghetti",
+              "description": "Spaghetti.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Burger And Sandwiches": [
+            {
+              "index": 68,
+              "name": "Yumburger",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Yumburger With Cheese",
+              "description": "Yumburger with cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Burger Champ",
+              "description": "Burger champ.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Chicken Burger",
+              "description": "Chicken burger.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Jollyhotdog Sandwich",
+              "description": "Comes with Dressing, Cheese, and Ketchup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Rice Meal": [
+            {
+              "index": 73,
+              "name": "Vm 2 Pieces Burgersteak",
+              "description": "2 pieces burger steak with choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Vm 1 Pieces Burgersteak",
+              "description": "1 piece burger steak with choice of drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Snacks": [
+            {
+              "index": 75,
+              "name": "Jolly Fries Large",
+              "description": "Jolly fries-large.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Jolly Fries Extra Large",
+              "description": "Jolly fries-extra large.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Macaroni Salad",
+              "description": "Macaroni salad.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Soup": [
+            {
+              "index": 78,
+              "name": "Creamy Macaroni Soup",
+              "description": "Creamy macaroni soup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Side And Extra": [
+            {
+              "index": 79,
+              "name": "Buttered Corn",
+              "description": "Buttered corn.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Mashed Potato",
+              "description": "Experience our Mashed Potato, featuring smooth and fluffy potatoes, whipped with creamy butter and rich milk, creating a luscious side dish that will complement any meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Beef Patty",
+              "description": "Beef patty.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Cheese Slice",
+              "description": "Cheese slice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Chickenjoy Gravy Sauce",
+              "description": "Chickenjoy gravy sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Steak Gravy Sauce",
+              "description": "Steak gravy sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Mayonnaise",
+              "description": "Mayonnaise.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Rice",
+              "description": "Rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Bun",
+              "description": "A small, round bread roll.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.050",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Dessert And Beverages": [
+            {
+              "index": 88,
+              "name": "Soft Drink Can",
+              "description": "carbonated beverage",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Bottled Water",
+              "description": "Mineral water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Soft Drink Bottle 1.25 Liter",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Al-Qurain, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/jollibee",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.0",
+          "Ratings_count": "68153",
+          "Reviews_count": "40070",
+          "General_review": [
+            "Jollibee is a restaurant located in Kuwait, serving a selection of Fast Food, Fried Chicken, Burgers that delivers across Al-Ahmadi, Al-Bedae, Al-Qurain, Andalous and Ardhiya.",
+            "Their best selling dishes are Spaghetti, 2 Pieces Chickenjoy With Rice, Regular Bucket - A and 6 Pieces Chickenjoy Bucket, although they have a variety of dishes and meals to choose from like Fast Food, Fried Chicken, Burgers.",
+            "They have been reviewed 68153 times by talabat users, with a rating of 4."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Ma christina jay B***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the chicken is old not fresh have dark part"
+            },
+            {
+              "reviewer_name": "Motaz A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "The chicken not fresh and some parts not spicy"
+            },
+            {
+              "reviewer_name": "سميره ف***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "اقل من الجيد اقل من الجيد"
+            },
+            {
+              "reviewer_name": "Katherine G***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Excellent👌"
+            },
+            {
+              "reviewer_name": "Ria E***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good service good service"
+            },
+            {
+              "reviewer_name": "Laarni F***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the chicken is not fresh to dry😔 nice attitude"
+            },
+            {
+              "reviewer_name": "April rose P***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very satisfied"
+            },
+            {
+              "reviewer_name": "Yusra I***",
+              "review_date": "01 April 2025",
+              "review_rating": "Good",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Elena M***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "packaging is too much wet"
+            },
+            {
+              "reviewer_name": "Jona Boldario Conde ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Marilou Lanuza ***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "we order 6 joy rice but we received only chicken no rice"
+            },
+            {
+              "reviewer_name": "M H***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تجربة سيئة بل شديدة السوء حجم القطع لا يُعقل صغيرة جدا بل بلا أي لحم - أغلبها عظم تجربة ولا أسوأ"
+            },
+            {
+              "reviewer_name": "Vanesa V***",
+              "review_date": "31 March 2025",
+              "review_rating": "Good",
+              "review_comment": "I specifically noted that NO BREAST PLEASE. But still too many BREAST PART. so disappointing"
+            },
+            {
+              "reviewer_name": "Noemie A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Reliable, Fast and On time."
+            },
+            {
+              "reviewer_name": "hadi a***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "only wings and leg!!!! where is the breast !!!!!"
+            },
+            {
+              "reviewer_name": "Nowel M***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "grt grt"
+            },
+            {
+              "reviewer_name": "Michelle N***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "when I received the food it’s cold already it’s ok his on time"
+            },
+            {
+              "reviewer_name": "kimberly l***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "some chicken are new and some are old"
+            },
+            {
+              "reviewer_name": "Rennalou Lasmarias ***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Jabee people follows my request. Thank you so much! ♥️"
+            },
+            {
+              "reviewer_name": "andrew c***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "missing gravy"
+            },
+            {
+              "reviewer_name": "Aung M***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "having plastic inside the chicken A picece of plastic inside the chicken /"
+            },
+            {
+              "reviewer_name": "Jane O***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Craving satisfied 🩷"
+            },
+            {
+              "reviewer_name": "luna s***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I want to complain your chicken is not fresh I'm so disappointed ☹️"
+            },
+            {
+              "reviewer_name": "mariz I***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "not properly packed, mess. not careful handling the item"
+            }
+          ]
+        }
       }
     ]
   },
@@ -56217,7 +57445,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -56259,7 +57487,8 @@
       "Cramello Sweet",
       "Turkish Grill",
       "Karam Sweet",
-      "Malas Bo Khamas"
+      "Malas Bo Khamas",
+      "Jollibee"
     ],
     "completed_pages": [
       1,
