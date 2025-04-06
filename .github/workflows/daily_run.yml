@@ -1,35 +1,32 @@
-name: Talabat Scraper Workflow
+name: Daily Talabat Scraper
+
+# Trigger the workflow daily at midnight UTC or manually
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch: # Allows manual triggering
-concurrency:
-  group: scraper-workflow
-  cancel-in-progress: false # Don't cancel in-progress runs to avoid data loss
+    - cron: "0 */6 * * *"  # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Allows manual triggering from the GitHub UI
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
+      # Step 1: Checkout the repository with a token for pushing changes
+      - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Required for pushing updates
 
+      # Step 2: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.10"  # Match your local Python version
 
-      - name: Install Dependencies
+      # Step 3: Install dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install jq
-
-      - name: Install Playwright for Python
-        run: |
-          pip install playwright
-          python -m playwright install chromium firefox
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Update geckodriver
         run: |
@@ -47,49 +44,45 @@ jobs:
           npm cache clear --force
           npm install
 
-      - name: Download Progress Data
-        uses: actions/cache/restore@v4
+      # Step 4: Restore progress from cache (optional backup)
+      - name: Restore cached progress
         id: cache-restore
+        uses: actions/cache/restore@v4
         with:
-          path: talabat-scraper-progress-latest
-          key: talabat-scraper-progress
+          path: progress.json
+          key: talabat-scraper-progress-${{ github.run_id }}  # Unique per run
+          restore-keys: |
+            talabat-scraper-progress-  # Fallback to any previous progress
 
-      - name: Create Output Directory
-        run: |
-          mkdir -p output
-          mkdir -p .cache
-
-      - name: Check Progress State
-        run: |
-          echo "Cache restore status: ${{ steps.cache-restore.outputs.cache-hit }}"
-          if [ -f "talabat-scraper-progress-latest" ]; then
-            echo "talabat-scraper-progress-latest exists - resuming from previous state"
-            cat talabat-scraper-progress-latest
-          else
-            echo "No talabat-scraper-progress-latest found - starting fresh"
-            echo '{"completed_areas": [], "current_area_index": 0, "last_updated": null, "all_results": {}, "current_progress": {"area_name": null, "current_page": 0, "total_pages": 0, "current_restaurant": 0, "total_restaurants": 0, "processed_restaurants": [], "completed_pages": []}}' > talabat-scraper-progress-latest
-          fi
-          ls -la output/
-
-      - name: Run the scraper
-        env:
-          TALABAT_GCLOUD_KEY_JSON: ${{ secrets.TALABAT_GCLOUD_KEY_JSON }}
+      # Step 5: Run the scraper
+      - name: Run Talabat scraper
         run: python main.py
 
-      - name: Save Progress State
-        uses: actions/cache/save@v4
-        if: always()
-        with:
-          path: talabat-scraper-progress-latest
-          key: talabat-scraper-progress
+      # Step 6: Commit and push updated progress file
+      - name: Commit progress updates
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add progress.json
+          git commit -m "Update scraper progress for run ${{ github.run_id }}" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload Progress as Artifact
-        uses: actions/upload-artifact@v4
-        if: always()
+      # Step 7: Save progress to cache (optional backup)
+      - name: Save progress to cache
+        uses: actions/cache/save@v4
         with:
-          name: talabat-progress-data
-          path: talabat-scraper-progress-latest
-          retention-days: 7
+          path: progress.json
+          key: talabat-scraper-progress-${{ github.run_id }}  # Unique per run
+          
+      # - name: Upload Progress as Artifact
+      #   uses: actions/upload-artifact@v4
+      #   if: always()
+      #   with:
+      #     name: talabat-progress-data
+      #     path: progress.json
+      #     retention-days: 7
 
       - name: Cleanup
         if: always()
