@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:56:35.872779",
+  "last_updated": "2025-04-06T13:59:27.462278",
   "all_results": {
     "الظهر": [
       {
@@ -99073,6 +99073,1260 @@
             }
           ]
         }
+      },
+      {
+        "name": "AlKhabaz & Fattoush",
+        "cuisine": "Pasta, Grills, Juices",
+        "url": "https://www.talabat.com/kuwait/restaurant/642024/khabaz-fattoush-abu-halifa?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 33 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Chicken With Pasta",
+              "description": "Made with juicy pieces of tender chicken, al dente pasta, and a mouthwatering blend of aromatic herbs and spices in every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Chinese Food With Hamsaat",
+              "description": "Your choice of 4 items.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Vegetables Pasta",
+              "description": "A flavorful dish made with various vegetables, combined with pasta, and often topped with sauce or cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Pepsi",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Medium Koshary",
+              "description": "rice, macaroni, lentils, chickpeas, tomato sauce, fried onions, Salt and pepper to taste",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Shrimp Pasta",
+              "description": "Made with juicy shrimp, creamy sauce and cooked al dente, It's perfect meal for a gourmet seafood experience",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chinese Food": [
+            {
+              "index": 6,
+              "name": "Chinese Food With Hamsaat",
+              "description": "Your choice of 4 items.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Large Vegetables Noodles",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Medium Vegetables Noodles",
+              "description": "Spaghetti Noodles With Vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Vegetables Mesakaa",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Chicken Tikka",
+              "description": "Made with marinated chicken and roasted with spices. It's a perfect meal for lunch or dinner",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Stuffed Zucchini",
+              "description": "4 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Small Sweet Sour Chicken",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Small Chicken Maon",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Sautéed Vegetables",
+              "description": "Stirfried mixed vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sautéed Vegetables",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Large (2.000)",
+                    "Medium (1.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 15,
+              "name": "Penne Pasta With Minced Meat",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Small Meat Maon",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Vegetable Macaroni",
+              "description": "Macaroni pasta with a medley of vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Bechamel Pasta",
+              "description": "1 piece.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Large French Fries Plate",
+              "description": "potatoes, vegetable oil, salt",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Stuffed Cabbage",
+              "description": "12 Mahshi pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Biryani Rice",
+              "description": "Rice with saffron",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Small Vegetable White Rice",
+              "description": "Rice White",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Small Spicy Potatoes",
+              "description": "Fried potatoes spicy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Small Soy Sauce Rice",
+              "description": "Rice Chinese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Small Okra Broth With Potatoes",
+              "description": "Broth okra",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Small French Fries Plate",
+              "description": "Plate of small French fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ramadan drinks": [
+            {
+              "index": 27,
+              "name": "Ethan Syrup",
+              "description": "Almond syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ethan Syrup",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Small Butol (1.000)",
+                    "Large potol (1.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Pasta": [
+            {
+              "index": 28,
+              "name": "Chicken And Shrimp With Hot Dog Pasta",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Vegetables Pasta",
+              "description": "A flavorful dish made with various vegetables, combined with pasta, and often topped with sauce or cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Shrimp Pasta",
+              "description": "Made with juicy shrimp, creamy sauce and cooked al dente, It's perfect meal for a gourmet seafood experience",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Chicken And Shrimp Pasta",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Chicken With Pasta",
+              "description": "Made with juicy pieces of tender chicken, al dente pasta, and a mouthwatering blend of aromatic herbs and spices in every bite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Chicken And Hot Dog Pasta",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Plain Pasta",
+              "description": "Plain Pasta. Delight in the comforting texture of al dente pasta.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Hot Dog Pasta",
+              "description": "Dish that combines cooked pasta with sliced hot dogs, tomato sauce, and a variety of seasonings,",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Egyptian Koshary": [
+            {
+              "index": 36,
+              "name": "Large Koshary",
+              "description": "rice, pasta, chickpeas, fried onion and sauace",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Medium Koshary",
+              "description": "rice, macaroni, lentils, chickpeas, tomato sauce, fried onions, Salt and pepper to taste",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salad": [
+            {
+              "index": 38,
+              "name": "Mix Plate",
+              "description": "Plate with a mixture of different foods.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Tabbouleh",
+              "description": "Parsley with tomatoes, bulgur, secret lemon mixture and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Fattoush",
+              "description": "Made with fresh vegetables, herbs and toasted pita bread. Our Fattoush salad is made with crisp lettuce, tomatoes, cucumbers, onions, parsley and mint, making it a perfect side dish or a satisfying light meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Greek Salad",
+              "description": "Served with Saudi cubed cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Arugula With Beetroot",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Corn Salad",
+              "description": "Experience our Corn Salad, a deliciously satisfying blend of fresh and juicy corn kernels, crisp lettuce,, perfectly seasoned with our special blend of herbs and spices for a mouth-watering and healthy treat!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Potato Salad With Mayonnaise",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Beetroot Salad",
+              "description": "Indulge in our vibrant Beetroot Salad, featuring luscious crimson beets, crisp garden greens, tangy feta cheese, toasted walnuts, and a zesty citrus dressing, creating a refreshing symphony of flavors that will leave you craving more.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Coleslaw",
+              "description": "Made with freshly shredded cabbage, mixed with a tangy mayonnaise-based dressing, perfect for adding a crisp and refreshing touch to any meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Macaroni With Cream",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Yogurt With Cucumber",
+              "description": "A refreshing and creamy blend of tangy yogurt and cucumber.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Hummus",
+              "description": "Made with the freshest ingredients, including chickpeas, tahini and lemon juice, resulting in a creamy and flavorful dip that's perfect for any occasion.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Vine Leaves",
+              "description": "Sour vine leaves",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Kebbeh",
+              "description": "4 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Fatteh Hummus With Eggplant And Toasted Bread",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Samosa Dozen",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Beverages": [
+            {
+              "index": 54,
+              "name": "Red Bull",
+              "description": "Made with a blend of caffeine, taurine, and B-group vitamins, it's a perfect pick-me-up for those who need an extra energy boost to get through their day.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Small Water",
+              "description": "Stay hydrated and refreshed with our water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Pepsi",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Pepsi Diet",
+              "description": "Carbonated soft drink with zero sugar & zero calories",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "7 Up",
+              "description": "Non-caffeinated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Mirinda",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Mango Juice",
+              "description": "Made from the freshest, ripest mangos, carefully selected for the perfect balance of sweetness and tanginess.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Strawberry Juice",
+              "description": "Refreshing and delicious, rich in natural vitamins and minerals. Healthy alternative to sugary drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Banana With Milk Juice",
+              "description": "Relax and refresh with a sweet and creamy Banana With Milk Juice, made with ripe bananas blended with cold, fresh milk for a nourishing and satisfying drink that's perfect for any time of day",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Cocktail Juice",
+              "description": "Made with a blend of seasonal fruits and reat way to get your daily dose of vitamins and nutrients.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Awar Qalb Juice",
+              "description": "Experience pure refreshment with our Awar Qalb Juice, a blissful blend of sun-kissed oranges, succulent strawberries, and zesty lime—a vibrant elixir that awakens your senses and leaves you craving more.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Orange Juice",
+              "description": "Made capturing all the natural sweetness and tangy citrus flavor. Packed with Vitamin C, it's the perfect thirst quencher and a healthy addition to your daily diet.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Abu Halifa, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/khabaz-fattoush",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "4183",
+          "Reviews_count": "2522",
+          "General_review": [
+            "AlKhabaz & Fattoush is a restaurant located in Kuwait, serving a selection of Pasta, Grills, Juices that delivers across Abu Halifa, Al-Bedae, Bayan, Jabriya and Maidan Hawally.",
+            "Their best selling dishes are Chicken With Pasta, Vegetables Pasta, Chicken And Hot Dog Pasta and Shrimp Pasta, although they have a variety of dishes and meals to choose from like Pasta, Grills, Juices.",
+            "They have been reviewed 4183 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "maha s***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بايت وقديم السايق مايدل الطريق وطول ع مايجي"
+            },
+            {
+              "reviewer_name": "Manal M***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "افشل كشري بالعالم يفشل ولا الكوسه المحشيه شكلها يلوع الشبد لا في ريحة بعد"
+            },
+            {
+              "reviewer_name": "aziz A***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل مومستوي والربيان زفر وانا كل مره اكتب للمطعم ابي الاكل مستوي زياده وماراح اطلب منكم مره ثانيه"
+            },
+            {
+              "reviewer_name": "Tags I S***",
+              "review_date": "17 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "أفنان ع***",
+              "review_date": "12 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "كل شي كان حلو بس نسيتو اللقيمات"
+            },
+            {
+              "reviewer_name": "Abdullah O***",
+              "review_date": "12 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اقسم بالله الواحد يندم مليون مره انه طلب منكم لا مكان ولا رقم تواصل وفوق هذا الاكل يلوع الجبد"
+            },
+            {
+              "reviewer_name": "Aslaa A***",
+              "review_date": "12 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الطعم خييييييااااال جدا رهيب و جميل جدا و الجبن سايح جدا ومذاقه لذيذ ويشهي استمرو على ذلك جداً جداً"
+            },
+            {
+              "reviewer_name": "Manar M***",
+              "review_date": "11 March 2025",
+              "review_rating": "OK",
+              "review_comment": "في ريحه مو زينه في الاكل"
+            },
+            {
+              "reviewer_name": "مرحبا م***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذييييييذ❤ الى الامام"
+            },
+            {
+              "reviewer_name": "مرحبا م***",
+              "review_date": "05 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شي رائع مصداقية الوقت"
+            },
+            {
+              "reviewer_name": "مرحبا م***",
+              "review_date": "03 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عمل رائع واتمنى منكم المزيد خدمه سريعه وحسن التعامل"
+            },
+            {
+              "reviewer_name": "ساره خ***",
+              "review_date": "27 February 2025",
+              "review_rating": "OK",
+              "review_comment": "سيئ"
+            },
+            {
+              "reviewer_name": "ahmad a***",
+              "review_date": "14 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "ممتاز جدا جدا الاكل والتوصيل وكل شي"
+            },
+            {
+              "reviewer_name": "Kady A***",
+              "review_date": "12 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيييذذذذ 👍🏼👍🏼👍🏼"
+            },
+            {
+              "reviewer_name": "Jay A***",
+              "review_date": "10 February 2025",
+              "review_rating": "OK",
+              "review_comment": "كالعاده ناسين الاكل لازم في شي ناقص"
+            },
+            {
+              "reviewer_name": "Khaled a***",
+              "review_date": "08 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ok"
+            },
+            {
+              "reviewer_name": "Faiz A***",
+              "review_date": "03 February 2025",
+              "review_rating": "OK",
+              "review_comment": "طلب خاطئ.. طلبت صلصة حمرا فقط وليس مكس. الله يسامحكم بس"
+            },
+            {
+              "reviewer_name": "Dalia A***",
+              "review_date": "03 February 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء جداً بس القيمات حلوه الكشري والورق عنب سيء سيء سيء"
+            },
+            {
+              "reviewer_name": "nebula r***",
+              "review_date": "02 February 2025",
+              "review_rating": "Good",
+              "review_comment": "نودلز و الذرة خربانه"
+            },
+            {
+              "reviewer_name": "Hajar A***",
+              "review_date": "31 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the best i have taste"
+            },
+            {
+              "reviewer_name": "E M ***",
+              "review_date": "28 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "it's fine nothing to share"
+            },
+            {
+              "reviewer_name": "Marah K***",
+              "review_date": "23 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل طيب بس ما بنتبهو للملاحظة كنت كاتبة بدي الاكل حار و حطو من الفلفل المجفف الباودر بس ما اجى حار"
+            },
+            {
+              "reviewer_name": "Lulu A***",
+              "review_date": "13 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل تلفان"
+            },
+            {
+              "reviewer_name": "اماني ا***",
+              "review_date": "04 January 2025",
+              "review_rating": "OK",
+              "review_comment": "التبوله فيها خل؟! الكشري البصل يابس زياده على اللزوم والصلصه الطماطم قليله"
+            },
+            {
+              "reviewer_name": "Wafaa A***",
+              "review_date": "30 December 2024",
+              "review_rating": "OK",
+              "review_comment": "مافي نظافه بالاكل العيش الابيض مو طبخ جديد فيه شعره للاسف مع ان المطعم كان جيد جدا"
+            },
+            {
+              "reviewer_name": "Angelica D***",
+              "review_date": "27 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Because the rider came fast i recieved my order still hot."
+            },
+            {
+              "reviewer_name": "sara a***",
+              "review_date": "22 December 2024",
+              "review_rating": "OK",
+              "review_comment": "👎🏻baaaaad"
+            },
+            {
+              "reviewer_name": "At T***",
+              "review_date": "22 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "🙏🙏🙏 🙏🙏🙏"
+            },
+            {
+              "reviewer_name": "Sharefa A***",
+              "review_date": "17 December 2024",
+              "review_rating": "OK",
+              "review_comment": "احد يتصل على الحيييين"
+            },
+            {
+              "reviewer_name": "Dalaa RG ***",
+              "review_date": "17 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "🌷🌷"
+            },
+            {
+              "reviewer_name": "aziz A***",
+              "review_date": "15 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الاكل غير مطبوخ جيدا مع العلم انني كتبت لهم انني اريد الاكل مطبوخ جيدا ولاكن للأسف لا يقرأون ما نكتب"
+            },
+            {
+              "reviewer_name": "علي ا***",
+              "review_date": "12 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "كل شي ممتاز لكن معكرونه خضار كان فبها طعم سكر وارجو عدم وضع صوص حالي في معكرونه الخضار وشكرا لكم"
+            },
+            {
+              "reviewer_name": "Noura O***",
+              "review_date": "12 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "لذيذ والكميه كبيره حيل"
+            },
+            {
+              "reviewer_name": "Dana D***",
+              "review_date": "07 December 2024",
+              "review_rating": "OK",
+              "review_comment": "طلبت ورق عنب و ما جابوه"
+            },
+            {
+              "reviewer_name": "Jasmine M***",
+              "review_date": "03 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "طلبت باستا دجاج وصلت بس بالخضار لكن لذيييذة ونظيفة والخضار فريش"
+            },
+            {
+              "reviewer_name": "علي ا***",
+              "review_date": "01 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "محاشي روعه والكشري ممتاز. لو تقللون صوص مسكر في معكرونه اللي باللحم المفروم ... والله يعطيكم العافيه"
+            },
+            {
+              "reviewer_name": "ESLam S***",
+              "review_date": "30 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "١٠%١٠"
+            },
+            {
+              "reviewer_name": "خالد ا***",
+              "review_date": "27 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "منتاز منتاز"
+            },
+            {
+              "reviewer_name": "محمد م***",
+              "review_date": "25 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "اقوى مطعم شعبي"
+            },
+            {
+              "reviewer_name": "M S***",
+              "review_date": "24 November 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلب المرسل فيه دجاج وكوسا وبروكلي غير طلبي"
+            },
+            {
+              "reviewer_name": "انفال العلي ***",
+              "review_date": "22 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "🔥🔥🔥"
+            },
+            {
+              "reviewer_name": "Amoosh I***",
+              "review_date": "22 November 2024",
+              "review_rating": "Good",
+              "review_comment": "السايق ضيع اكثر من ٢٠ دقيقه ولايفهم ادزله لوكيشن مايعرفله ويدق كام 🙂 وادق مايرد الاكل وصل بارد بسبته"
+            },
+            {
+              "reviewer_name": "صقر ا***",
+              "review_date": "21 November 2024",
+              "review_rating": "Good",
+              "review_comment": "المطعم لم يشترك في طلبات برو"
+            },
+            {
+              "reviewer_name": "Aljowharh t***",
+              "review_date": "20 November 2024",
+              "review_rating": "Very good",
+              "review_comment": "جميللل جداً والكميه رائعه بس مشكلته جا بارد ياليت لو كان حار او دافي🌷 سرعه البرقققق⚡️"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "14 November 2024",
+              "review_rating": "OK",
+              "review_comment": "للامانه المطعم من تجربتي ماعليه كلام اكثر من مره اطلب منه باستا،لكن هالمره طلبت اكل صيني الصراحه سيء"
+            },
+            {
+              "reviewer_name": "Shoroq Y***",
+              "review_date": "09 November 2024",
+              "review_rating": "OK",
+              "review_comment": "طعم خروف"
+            },
+            {
+              "reviewer_name": "ABEER A***",
+              "review_date": "02 November 2024",
+              "review_rating": "Good",
+              "review_comment": "الباستا اللي طلبتها حمره مو بيضه"
+            },
+            {
+              "reviewer_name": "Bosbos H***",
+              "review_date": "28 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "اللقيمات رهيبه"
+            },
+            {
+              "reviewer_name": "عذبي ا***",
+              "review_date": "26 October 2024",
+              "review_rating": "OK",
+              "review_comment": "محشي الكوسة اليوم كان سيء للغاية.. وللعلم اول مره يحدث هذا الشيء لانه دايما يكون ممتاز"
+            },
+            {
+              "reviewer_name": "بوبدر ا***",
+              "review_date": "24 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الصوص غير موجود بالطلب الخاص بالفتوش"
+            },
+            {
+              "reviewer_name": "aziz A***",
+              "review_date": "23 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الربيان والنقانق مومطبوخين عدل نيي"
+            },
+            {
+              "reviewer_name": "عذبي ا***",
+              "review_date": "23 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "شي مرتب وطعم ممتاز"
+            },
+            {
+              "reviewer_name": "Jojo N***",
+              "review_date": "21 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "المطعم لذيذ ونظيف نتمنى يكون نفس المستوى دوم 👌🏻❤️"
+            },
+            {
+              "reviewer_name": "loody a***",
+              "review_date": "15 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلب خطى"
+            },
+            {
+              "reviewer_name": "Ecem Ölmez ***",
+              "review_date": "12 October 2024",
+              "review_rating": "Good",
+              "review_comment": "I didn’t want onion but there is onion inside my pasta . and I choosed spoon u didn’t send"
+            },
+            {
+              "reviewer_name": "Zainab D***",
+              "review_date": "10 October 2024",
+              "review_rating": "Very good",
+              "review_comment": "تأخر الطلب"
+            },
+            {
+              "reviewer_name": "qods a***",
+              "review_date": "09 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الباستا ماصخه مو نفس اول تغيرت"
+            },
+            {
+              "reviewer_name": "Shahad .***",
+              "review_date": "08 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الطعم متغيير"
+            },
+            {
+              "reviewer_name": "Salam S***",
+              "review_date": "08 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلبدايما غلط ٤ مرات كلمت المطعم الطلب غلط وكل مرة نفس الشي .. جدا سيئين فعلا اخر مرة"
+            },
+            {
+              "reviewer_name": "aziz A***",
+              "review_date": "07 October 2024",
+              "review_rating": "OK",
+              "review_comment": "الكميه غير كافيه"
+            },
+            {
+              "reviewer_name": "Reem B***",
+              "review_date": "01 October 2024",
+              "review_rating": "OK",
+              "review_comment": "ولا شي لذيذ"
+            },
+            {
+              "reviewer_name": "ام محمد ا***",
+              "review_date": "28 September 2024",
+              "review_rating": "OK",
+              "review_comment": "الاكل مو طيب النودلز مافيها خضار والكشري الرز معجن والمصقعه مو حلوه"
+            },
+            {
+              "reviewer_name": "salem a***",
+              "review_date": "26 September 2024",
+              "review_rating": "OK",
+              "review_comment": "مفقود النودلز و الفته"
+            },
+            {
+              "reviewer_name": "Zainab D***",
+              "review_date": "25 September 2024",
+              "review_rating": "Very good",
+              "review_comment": "مع انه تأخر الطلب علي من المطعم لكن وصلني دافي ينومل مايحتاج تسخين .. بس تجاهلوا الملاحظة متعاون"
+            },
+            {
+              "reviewer_name": "الجوري العتيبي ***",
+              "review_date": "23 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ع ع"
+            },
+            {
+              "reviewer_name": "Bader R***",
+              "review_date": "22 September 2024",
+              "review_rating": "OK",
+              "review_comment": "i wrote dont use white pepper but u did any way, i throw the whole thing away."
+            },
+            {
+              "reviewer_name": "Zxc D***",
+              "review_date": "21 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز 👍"
+            },
+            {
+              "reviewer_name": "Om F***",
+              "review_date": "10 September 2024",
+              "review_rating": "OK",
+              "review_comment": "لم يصل الطلب راح لمكان آخر"
+            },
+            {
+              "reviewer_name": "Analette C***",
+              "review_date": "06 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "my favorite pasta restaurant ❤️❤️❤️"
+            },
+            {
+              "reviewer_name": "عذبي ا***",
+              "review_date": "29 August 2024",
+              "review_rating": "Amazing",
+              "review_comment": "شي مرتب وطعم عجيب"
+            },
+            {
+              "reviewer_name": "Fawzyia M***",
+              "review_date": "26 August 2024",
+              "review_rating": "OK",
+              "review_comment": "للأسف المطعم وايد تغير طلبت باستا دجاج قليل من الخضروات والدجاج وكثير من الباستا آخر مرة اطلب منهم"
+            },
+            {
+              "reviewer_name": "Abraham S***",
+              "review_date": "15 August 2024",
+              "review_rating": "Good",
+              "review_comment": "they had poured the tomato sauce over the koshary instead of supplying it in another container."
+            },
+            {
+              "reviewer_name": "aziz A***",
+              "review_date": "13 August 2024",
+              "review_rating": "Very good",
+              "review_comment": "كل شي رائع بس الكميه قليله حاطين مكرونه كثير والربيان والدجاج شوي"
+            },
+            {
+              "reviewer_name": "Hamza ***",
+              "review_date": "12 August 2024",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Ahmad Jazzar ***",
+              "review_date": "12 August 2024",
+              "review_rating": "OK",
+              "review_comment": "so bad I didn’t like it at all"
+            }
+          ]
+        }
       }
     ]
   },
@@ -99080,7 +100334,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -99144,7 +100398,8 @@
       "Tabel",
       "Mama's Bakery",
       "Agnii",
-      "The Coffee Bean & Tea Leaf"
+      "The Coffee Bean & Tea Leaf",
+      "AlKhabaz & Fattoush"
     ],
     "completed_pages": [
       1,
