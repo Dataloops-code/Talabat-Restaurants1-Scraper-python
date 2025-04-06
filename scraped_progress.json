@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:24:04.366364",
+  "last_updated": "2025-04-06T11:26:41.015193",
   "all_results": {
     "الظهر": [
       {
@@ -26331,6 +26331,1548 @@
             }
           ]
         }
+      },
+      {
+        "name": "Asha's, Mahboula",
+        "cuisine": "Indian, Asian, Biryani",
+        "url": "https://www.talabat.com/kuwait/restaurant/655077/ashas-mahboula?aid=59",
+        "rating": "Very good",
+        "page": 2,
+        "delivery_time": "Within 32 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Asha For 1",
+              "description": "Asha For 1",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Chicken Curry Bundle",
+              "description": "Choice of Curry, Steam Rice, Naan Bread and Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Asha's Favorite",
+              "description": "Asha's favourite chicken biryani meal, murg makhani butter chicken, cheese samosas and 2 soft drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Value Meal For Two",
+              "description": "Asha's favourite meal, 1 kebab, 1 curry, 1 biryani, 2 bread and 2 soft drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Butter Naan",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Plain Naan",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Offers": [
+            {
+              "index": 6,
+              "name": "Value Meal For Two",
+              "description": "Asha's favourite meal, 1 kebab, 1 curry, 1 biryani, 2 bread and 2 soft drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Value Meal For Four",
+              "description": "Asha's favourite meal, 1 mix samosa, 1 kebab platter, 2 curries, 2 biryani, 4 bread and 4 soft drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Asha For 1",
+              "description": "Asha For 1",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Asha's Favorite",
+              "description": "Asha's favourite chicken biryani meal, murg makhani butter chicken, cheese samosas and 2 soft drinks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Prawn Curry Bundle",
+              "description": "Choice of Curry, Steam Rice, Naan Bread and Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Chicken Curry Bundle",
+              "description": "Choice of Curry, Steam Rice, Naan Bread and Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Vegetable Curry Bundle",
+              "description": "Price on Selection\nChoice of Curry, Steam Rice, Naan Bread and Soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vegetable Curry Bundle",
+                "price_details": {
+                  "Vegetable Curry Bundle (Choose 1)": [
+                    "Kadai Paneer Ash (4.500)",
+                    "Palak Paneer Ash (4.500)",
+                    "Kadai Vegetables Ash (4.500)",
+                    "Dal Makhni Ash (3.500)",
+                    "Tadka Dal Ash (3.500)"
+                  ],
+                  "Spice level (Choose 1)": [
+                    "Spicy",
+                    "Mild",
+                    "Regular"
+                  ],
+                  "Rice (Choose 1)": [
+                    "Steamed rice"
+                  ],
+                  "Naan (Choose 1)": [
+                    "Naan"
+                  ],
+                  "Drinks (Choose 1)": [
+                    "Diet 7 up Can",
+                    "Pepsi Can",
+                    "7 up Can",
+                    "Mirinda Can",
+                    "Diet Pepsi Can",
+                    "Lime Sweet mint (0.950)",
+                    "Salt Lassi Mint (0.950)",
+                    "Sweet Lassi (0.950)"
+                  ],
+                  "Curry Bundle add on (Choose up to 1 items)": [
+                    "Green Salad (0.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Appetisers": [
+            {
+              "index": 13,
+              "name": "Lentil Soup",
+              "description": "A traditional curried yellow lentil soup. A timeless classic.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Green Salad",
+              "description": "Cucumber, onions, tomatoes, carrots and mixed lettuce in an olive oil and lemon dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Summer Salad",
+              "description": "Mixed leafy greens, fresh summer berries, feta cheese & caramelized pecans in berry vinaigrette.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Chicken Tikka Salad",
+              "description": "Chicken tikka served with crispy naan croutons, mixed lettuce in a homemade honey mustard dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Vegetable Samosa",
+              "description": "Vegetable Samosa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Cheese Samosa",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Chicken Tikka Samosa",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Mixed Selection of Samosa",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Aloo Matar Ki Tikki",
+              "description": "Potato cutlets stuffed with mashed green peas, served with tangy chickpeas.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Aloo Chatpate",
+              "description": "Diced crispy potato tossed with tamarind chutney, fennel and ginger, garnished with pomegranate and spinach",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Chicken 65",
+              "description": "Southern-style batter fried chicken cubes spiced with curry leaves, ginger, black peppercorns and capsicum",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Prawn Koliwada",
+              "description": "Batter fried prawns spiced with curry leaves, ginger, black peppercorns & capsicum.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kebab": [
+            {
+              "index": 25,
+              "name": "Paneer Ka Soola",
+              "description": "Tandoori shashlik of cottage cheese, green peppers, tomatoes and pineapple flavoured with mustard",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Tandoori Chicken Tikka",
+              "description": "Succulent boneless chicken, marinated overnight in yoghurt, ginger, garlic and spices. A true classic",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Murg Malai Kebab",
+              "description": "Delectable boneless chicken breast, marinated in a creamy cheese and cashew nut paste with a touch of cardamom.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Gosht Seekh Kebab",
+              "description": "Traditional minced lamb kebab with ginger, garlic, roasted cumin powder and coriander",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Specialty Platter",
+              "description": "A selection of our all-time favourite Murg Malai, Chicken Tikka and Gosht Seekh Kebab",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.300",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Curries Non Veg": [
+            {
+              "index": 30,
+              "name": "Murg Kalimirch",
+              "description": "Boneless chicken tossed with garlic and diced onions in a lababdar sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Chicken Jhalfrezi",
+              "description": "Chicken tikka sautéed with onions, tomatoes and green peppers, spiced with garam masala",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Murg Makhani (Butter Chicken)",
+              "description": "Classic chicken tikka in a tomato and cream gravy, flavoured with dry fenugreek leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Chicken Tikka Masala",
+              "description": "Chicken tikka cooked with garam masala in a spicy onion and tomato gravy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Muscat Gosht",
+              "description": "Boneless tender lamb cooked with clarified butter in a spicy, rich onion and tomato gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Machli Masala",
+              "description": "Fish fillet cooked with garam masala in a spicy onion and tomato gravy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Prawn Masala",
+              "description": "Prawns cooked with red chillies in a spicy onion and tomato gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Prawn Makhani",
+              "description": "Prawns in a tomato and cream gravy, flavoured with dry fenugreek leaves",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Curries Veg": [
+            {
+              "index": 38,
+              "name": "Dal Tadka",
+              "description": "Yellow lentils tempered with cumin, garlic, tomatoes and green chillies",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Chef's Special Dal Makhani",
+              "description": "Classic black lentils slow-cooked overnight, with tomatoes, cream and butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Aloo Matar Gobi",
+              "description": "A traditional home-style preparation of potatoes, green peas and cauliflower cooked with cumin, green chillies and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Aloo Masala",
+              "description": "Potatoes in a spicy onion and tomato gravy, tempered with cumin, mustard and fennel seeds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Bhindi Masala",
+              "description": "Okra cooked with onions, tomatoes, green chillies, coriander and cumin",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Palak Paneer",
+              "description": "Cottage cheese in a spicy spinach gravy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Kadai Paneer",
+              "description": "Cottage cheese and green peppers in a spicy tomato and onion gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Biryanis & Rice": [
+            {
+              "index": 45,
+              "name": "Shahi Paneer Biryani",
+              "description": "A royal delicacy paired with two classic dishes - Shahi Paneer and Matar Pulao finished in a rich makhani gravy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Murg Biryani Awadhi",
+              "description": "Boneless chicken cooked in true Awadhi style with biryani rice, cardamom and saffron",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Chicken Tikka Biryani",
+              "description": "Biryani made with chicken tikka and egg in a classic makhani gravy and basmati rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Kesar Biryani",
+              "description": "Boneless lamb biryani with a rich saffron flavour.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Prawn Biryani",
+              "description": "Prawns cooked with biryani rice, flavoured with cumin, cardamom and saffron.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Steamed Rice",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Biryani Rice",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Saffron Rice",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Peas Pulao",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Vegetable Pulao",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Cumin Pulao",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Mushroom Pulao",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Breads & Sides": [
+            {
+              "index": 57,
+              "name": "Makhani Gravy (Butter Chicken Sauce)",
+              "description": "Makhani Gravy (Butter Chicken Sauce)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Roti",
+              "description": "Whole Wheat Flour Roti",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Plain Naan",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Butter Naan",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Garlic Naan",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Cheese Garlic Naan",
+              "description": "Naan topped with cheese and fresh garlic",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Lachha Paratha - Refined Flour",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Lachha Paratha - Whole Wheat",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Potato Kulcha",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Paneer Kulcha",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Potato Fries",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Plain Yoghurt",
+              "description": "Plain Yoghurt Dip",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Mixed Vegetable Raita",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Biryani Raita",
+              "description": "Biryani Raita",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts": [
+            {
+              "index": 71,
+              "name": "Gulab Jamun",
+              "description": "A classic dessert of milk and cottage cheese dumplings soaked in syrup, served with rabri - creamy thickened milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 72,
+              "name": "Pepsi Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Diet Pepsi Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "7Up Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Diet 7Up Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Mirinda Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Mango (500 mL)",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Lemon Mint (500 mL)",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Mango Lassi (500 mL)",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Salt & Mint Lassi (500 mL)",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Salt Lassi (500 mL)",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Sweet Lassi (500 mL)",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering Menu": [
+            {
+              "index": 83,
+              "name": "Dal Shorba",
+              "description": "A traditional curried yellow lentil soup. A timeless classic",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Aloo Matar Ki Tikki",
+              "description": "Potato cutlets stuffed with mashed green peas, served with tangy chickpeas.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Cheese Samosa",
+              "description": "Cheese Samosa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Chicken 65",
+              "description": "Southern-style batter fried chicken cubes spiced with curry leaves, ginger, black peppercorns and capsicum",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Tandoori Chicken Tikka",
+              "description": "Succulent boneless chicken, marinated overnight in yoghurt, ginger, garlic and spices. A true classic.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Murg Malai Kebab",
+              "description": "Delectable boneless chicken breast, marinated in a creamy cheese and cashew nut paste with a touch of cardamom.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Gosht Seekh Kebab",
+              "description": "Traditional minced lamb kebab with ginger, garlic, roasted cumin powder and coriander",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Butter Chicken",
+              "description": "Classic chicken tikka in a tomato and cream gravy, flavoured with dry fenugreek leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "20.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "Prawn Masala",
+              "description": "Prawns cooked with red chillies in a spicy onion and tomato gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Mutton Curry",
+              "description": "Mutton Curry",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "28.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "Dal Makhani",
+              "description": "Classic black lentils slow-cooked overnight with tomatoes, cream and butter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Palak Paneer",
+              "description": "Cottage cheese in a spicy spinach gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Aloo Matar Gobi",
+              "description": "A traditional home-style preparation of potatoes, green peas and cauliflower cooked with cumin, green chillies and spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Murg Biryani Awadhi",
+              "description": "Boneless chicken cooked in true Awadhi style with biryani rice, cardamom and saffron",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "20.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Prawn Biryani",
+              "description": "Prawns cooked with biryani rice, flavoured with cumin, cardamom and saffron",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Mahboula, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/ashas-mahboula",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "3459",
+          "Reviews_count": "2101",
+          "General_review": [
+            "Asha's is a restaurant located in Kuwait, serving a selection of Indian, Asian, Biryani that delivers across Al Waab, Bneid Al Qar, Jabriya, Mahboula and Oud Metha.",
+            "Their best selling dishes are Murg Makhani (Butter Chicken), Murg Biryani Awadhi, Prawn Biryani and Makhani Gravy (Butter Chicken Sauce), although they have a variety of dishes and meals to choose from like Indian, Asian, Biryani.",
+            "They have been reviewed 3459 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Dalal A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "العيش لي مستوي تماما"
+            },
+            {
+              "reviewer_name": "Hamda A***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت المرق عادي و لكن وصل المرق فلفل جدا"
+            },
+            {
+              "reviewer_name": "يوسف ا***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب ناقص"
+            },
+            {
+              "reviewer_name": "b v***",
+              "review_date": "22 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good good"
+            },
+            {
+              "reviewer_name": "Maria A***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "dalal f***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "shaikha B***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "15 March 2025",
+              "review_rating": "OK",
+              "review_comment": "portion way less than usual and we received the food cold"
+            },
+            {
+              "reviewer_name": "dante a***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "i like the taste very fast now"
+            },
+            {
+              "reviewer_name": "Amal A***",
+              "review_date": "13 March 2025",
+              "review_rating": "OK",
+              "review_comment": "portion is very small comparing wit the price - packaging is averages"
+            },
+            {
+              "reviewer_name": "Alvin P***",
+              "review_date": "12 March 2025",
+              "review_rating": "Good",
+              "review_comment": "Asked for a little spicy but had a ton of chillies in there having to pick em out from every bite"
+            },
+            {
+              "reviewer_name": "Afnan B***",
+              "review_date": "05 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the lentil soup was very salty we couldn’t even drink it and the chicken super salty.so disappointin"
+            },
+            {
+              "reviewer_name": "Bader A***",
+              "review_date": "01 March 2025",
+              "review_rating": "Good",
+              "review_comment": "The dishes were cramped in the bag because it was small, which caused some of the dishes to bend. Professional delivery with a smile."
+            },
+            {
+              "reviewer_name": "Omar A***",
+              "review_date": "28 February 2025",
+              "review_rating": "OK",
+              "review_comment": "NO INSTRUCTIONS FOLLOWED! LEMON IN SOUP & BIRYANI NOT EVEN A BIT SPICY AS MENTIONED TO BE MEDIUM Delivery was good & the driver delivered on time"
+            },
+            {
+              "reviewer_name": "Mona A***",
+              "review_date": "27 February 2025",
+              "review_rating": "OK",
+              "review_comment": "اكل وصل بحالة جداً سيئة"
+            },
+            {
+              "reviewer_name": "Maurice G***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "food was excellent as usual! delivery was fine, food arrived hot."
+            },
+            {
+              "reviewer_name": "Naser B***",
+              "review_date": "25 February 2025",
+              "review_rating": "Good",
+              "review_comment": "الكمية قليلة والسعر عالي، مالح ،بس أمانة لذيذ جداً"
+            },
+            {
+              "reviewer_name": "N B***",
+              "review_date": "23 February 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء سيء سيء"
+            },
+            {
+              "reviewer_name": "Noura salem a***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد وناقص الطلب والكميه قليله على السعر تار"
+            },
+            {
+              "reviewer_name": "Romy-Laura R***",
+              "review_date": "20 February 2025",
+              "review_rating": "Good",
+              "review_comment": "naan was burned"
+            },
+            {
+              "reviewer_name": "wallad q***",
+              "review_date": "19 February 2025",
+              "review_rating": "OK",
+              "review_comment": "no sauce very dry would not order again professional but the restaurant is at fault"
+            },
+            {
+              "reviewer_name": "Ashok s***",
+              "review_date": "16 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍👍👍👍👍👍 👍👍❤️❤️❤️👍👍"
+            },
+            {
+              "reviewer_name": "aisha A***",
+              "review_date": "12 February 2025",
+              "review_rating": "OK",
+              "review_comment": "باررد"
+            },
+            {
+              "reviewer_name": "NAGMA N***",
+              "review_date": "06 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very good"
+            },
+            {
+              "reviewer_name": "Zayd A***",
+              "review_date": "05 February 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء جدا جدا والدجاج زفر ماقدرنا ناكله وغالي سعره مايسوى ابدا اخره مره نطلب👎🏻"
+            },
+            {
+              "reviewer_name": "kareem a***",
+              "review_date": "04 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Food was hot and fresh. Very tasty"
+            },
+            {
+              "reviewer_name": "Monika K***",
+              "review_date": "02 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "Plain nan was very thick and not properly baked. The complimentary papad was gone bad smelling oil"
+            },
+            {
+              "reviewer_name": "Amina A***",
+              "review_date": "30 January 2025",
+              "review_rating": "OK",
+              "review_comment": "دياي البرياني زفر ومو مستوي الله يزيد النعمة"
+            },
+            {
+              "reviewer_name": "Yousef A***",
+              "review_date": "23 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الكميه قليله جدا خصوصا العيش واخر مره اطلب"
+            },
+            {
+              "reviewer_name": "Asma T***",
+              "review_date": "22 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "on Time"
+            },
+            {
+              "reviewer_name": "h a***",
+              "review_date": "19 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️❤️❤️❤️❤️perfect"
+            },
+            {
+              "reviewer_name": "Abdulaziz a***",
+              "review_date": "18 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الدياي كان طعمه عباره عن هييييل ماينوكل"
+            },
+            {
+              "reviewer_name": "Meshal A***",
+              "review_date": "13 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very polite 👌🏻"
+            },
+            {
+              "reviewer_name": "Sudharshan Reddy Paramati ***",
+              "review_date": "13 January 2025",
+              "review_rating": "OK",
+              "review_comment": "Chicken didn't even cooked properly poor quality but very expensive"
+            },
+            {
+              "reviewer_name": "Karezma K***",
+              "review_date": "13 January 2025",
+              "review_rating": "OK",
+              "review_comment": "شلون ناكل بدون قفشه يعني ؟؟؟ .. عيش البرياني عادي جدا .. بس للامانه العدس الاسود و خبز الزبده لذيذ"
+            },
+            {
+              "reviewer_name": "Ebraheem A***",
+              "review_date": "09 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز100%"
+            },
+            {
+              "reviewer_name": "Mohammad M***",
+              "review_date": "08 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good and tasty"
+            },
+            {
+              "reviewer_name": "Hamda A***",
+              "review_date": "04 January 2025",
+              "review_rating": "OK",
+              "review_comment": "المرق وايد فلفل اليوم مع ان طلبت الاقل شي للاسف"
+            },
+            {
+              "reviewer_name": "my i***",
+              "review_date": "31 December 2024",
+              "review_rating": "OK",
+              "review_comment": "فيه شعر الاكل"
+            },
+            {
+              "reviewer_name": "Krishna P***",
+              "review_date": "27 December 2024",
+              "review_rating": "OK",
+              "review_comment": "All 6 butter naans were burnt. Talabat refunded for only one. No contact or chat in Talabat Not so good"
+            },
+            {
+              "reviewer_name": "Tara M***",
+              "review_date": "27 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "I loved it will order again!"
+            },
+            {
+              "reviewer_name": "Sudharshan Reddy Paramati ***",
+              "review_date": "26 December 2024",
+              "review_rating": "OK",
+              "review_comment": "poor quality food food quality was poor"
+            },
+            {
+              "reviewer_name": "Ashok J***",
+              "review_date": "22 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Tasty food"
+            },
+            {
+              "reviewer_name": "Ebraheem F***",
+              "review_date": "16 December 2024",
+              "review_rating": "Good",
+              "review_comment": "ordered chicken 65 and lamb biryani. 65 was good, but the biryani lamb was very dry and not spicy. spoke very good English, and leave the order at my door as I asked."
+            },
+            {
+              "reviewer_name": "R S***",
+              "review_date": "13 December 2024",
+              "review_rating": "Good",
+              "review_comment": "الاكل وصل حار بس الطعم عادي جدا"
+            },
+            {
+              "reviewer_name": "Bella B***",
+              "review_date": "10 December 2024",
+              "review_rating": "Good",
+              "review_comment": "وايد تغير قبل كان احلى"
+            },
+            {
+              "reviewer_name": "بو حسين م***",
+              "review_date": "08 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "fatma b***",
+              "review_date": "05 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الطعام وصل مكتوت ودمر كل شي"
+            },
+            {
+              "reviewer_name": "alison w***",
+              "review_date": "02 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "good good"
+            },
+            {
+              "reviewer_name": "abrar b***",
+              "review_date": "02 December 2024",
+              "review_rating": "OK",
+              "review_comment": "طلبت الدجاج يكون سوا زيادة جاني الدجاج يادوب مشوي ولونه غريب حتى اللحم . الرز كان فيه شعرة"
+            },
+            {
+              "reviewer_name": "saja a***",
+              "review_date": "25 November 2024",
+              "review_rating": "OK",
+              "review_comment": "كمية العيش قلييلة جدا والطعم جدا عادي لا يكرر والدجاج كميته قليلة ،الحسنة الوحيدة وصل حار"
+            },
+            {
+              "reviewer_name": "mohammed b***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Nice every time"
+            },
+            {
+              "reviewer_name": "Adriana S***",
+              "review_date": "24 November 2024",
+              "review_rating": "Good",
+              "review_comment": "i asked mild they sent spicy"
+            },
+            {
+              "reviewer_name": "Michelle P***",
+              "review_date": "24 November 2024",
+              "review_rating": "OK",
+              "review_comment": "This was honestly the worst meal I have had from Ash’s. Rice overcooked. Butter Chicken aweful"
+            },
+            {
+              "reviewer_name": "Dhuha S***",
+              "review_date": "23 November 2024",
+              "review_rating": "OK",
+              "review_comment": "the butter chicken was sour"
+            },
+            {
+              "reviewer_name": "Nasser A***",
+              "review_date": "22 November 2024",
+              "review_rating": "OK",
+              "review_comment": "they did not bring any sauce for the rice and for the starters the Gwen chatni and mango chatni"
+            },
+            {
+              "reviewer_name": "Ashwin Z***",
+              "review_date": "16 November 2024",
+              "review_rating": "OK",
+              "review_comment": "asked for a hard copy bill n never sent, butter chicken taste like tomato soup!! taste was rubbish"
+            },
+            {
+              "reviewer_name": "ن ا***",
+              "review_date": "12 November 2024",
+              "review_rating": "OK",
+              "review_comment": "طلبت رز برياني دجاج ووصل الطلب بدونه"
+            },
+            {
+              "reviewer_name": "Dana A***",
+              "review_date": "09 November 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلب غلط"
+            },
+            {
+              "reviewer_name": "Lakshmi A***",
+              "review_date": "09 November 2024",
+              "review_rating": "Good",
+              "review_comment": "given wrong item. ordered Palak paneer received fish curry."
+            }
+          ]
+        }
       }
     ]
   },
@@ -26338,7 +27880,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -26366,7 +27908,8 @@
       "La Baguette",
       "La Baguette",
       "Sable",
-      "Mr Baker"
+      "Mr Baker",
+      "Asha's, Mahboula"
     ],
     "completed_pages": [
       1
