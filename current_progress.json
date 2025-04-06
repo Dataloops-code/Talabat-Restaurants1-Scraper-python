@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:16:04.349058",
+  "last_updated": "2025-04-06T18:19:33.063597",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 9,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -117,7 +117,8 @@
       "Joy Cafe",
       "Botata",
       "Morrano Sweets",
-      "Bento Bakery"
+      "Bento Bakery",
+      "McDonald's, Mahboula -Platinum"
     ],
     "completed_pages": [
       1,
