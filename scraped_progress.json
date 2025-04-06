@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:13:44.302045",
+  "last_updated": "2025-04-06T11:15:03.415458",
   "all_results": {
     "الظهر": [
       {
@@ -25340,6 +25340,997 @@
             }
           ]
         }
+      },
+      {
+        "name": "La Baguette",
+        "cuisine": "Desserts, Ice Cream, Sandwiches",
+        "url": "https://www.talabat.com/kuwait/restaurant/21186/la-baguette--mahboula?aid=59",
+        "rating": "Amazing",
+        "page": 2,
+        "delivery_time": "Within 30 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Mini Cupcakes",
+              "description": "Mini cupcakes flavors such as Red Velvet, chocolate, vanilla, and chocolate chip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Fatayer Box",
+              "description": "48 pieces fajita, labneh, spinach, cream cheese, pizza, potato Served with pickles",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Mixed Salties",
+              "description": "Cumin seeds, cheese, sesame, zaatar, snow sugar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Raspberry Vanilla Cake",
+              "description": "Layers of moist vanilla sponge, homemade raspberry puree and vanilla cream, topped with fresh raspberries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Biga Baguette Bread",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Choco Gateau",
+              "description": "Chocolate sponge, chocolate cream, chocolate glaze.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Items": [
+            {
+              "index": 6,
+              "name": "Triple Brownies",
+              "description": "Kinder brownies, louts brownies and Oreo brownies",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Dubai Chocolate",
+              "description": "3 Flavors pistachio lotus nutella",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ramadan": [
+            {
+              "index": 8,
+              "name": "Basbousa",
+              "description": "Basbousa belashta",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Lava Dish",
+              "description": "Satin sponge, Nutella sauce, fudge cream and milk chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Triple Flavor Cups",
+              "description": "Kinder cups, pistacho kunafa cups and lava cups.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cakes": [
+            {
+              "index": 11,
+              "name": "Half Half Cake",
+              "description": "Chocolate sponge, vanilla sponge, milk chocolate decoration, white chocolate decoration, chocolate shreds, strawberry, mango, kiwi and berries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Blueberry Cheesecake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Red Velvet Cake",
+              "description": "Red velvet sponge, vanilla cream, rosemary and candied cherry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Raspberry Vanilla Cake",
+              "description": "Layers of moist vanilla sponge, homemade raspberry puree and vanilla cream, topped with fresh raspberries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Queen Victoria",
+              "description": "Victoria sponge, cream, strawberry filling, snow sugar, topped with fresh strawberry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Cherry Black Forest",
+              "description": "Chocolate sponge, non-dairy cream, strawberry, chocolate shreds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Mini Cupcakes",
+              "description": "Mini cupcakes flavors such as Red Velvet, chocolate, vanilla, and chocolate chip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Moon Ganache -wild Berries",
+              "description": "Chocolate sponge, vanilla sponge, chocolate cream, vanilla mousse, strawberry, mango, and mixed berries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "English Cakes": [
+            {
+              "index": 19,
+              "name": "Classic English Cake",
+              "description": "Flour, sugar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Dried Fruits English Cake",
+              "description": "Dry fruits, flour, sugar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Orange English Cake",
+              "description": "Flour, sugar, orange flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Marble English Cake",
+              "description": "Sponge vanilla and chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Choco English Cake",
+              "description": "Flour, sugar, choco powder.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gateaux": [
+            {
+              "index": 24,
+              "name": "Pineapple Panna Cotta",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Mango Crunch Cup",
+              "description": "Mango cup crunch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Choco Gateau",
+              "description": "Chocolate sponge, chocolate cream, chocolate glaze.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Coconut Gateau",
+              "description": "Vanilla sponge with vanilla cream filling, roasted coconut toppings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Mille Feuille",
+              "description": "Mille-feuille, vanilla custard, snow sugar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Mini Black Forest",
+              "description": "Chocolate sponge, strawberry, chocolate shreds, non-dairy cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Mini Saﬀron Milk Cake",
+              "description": "Saffron milk cake in glass dish topped with cream and saffron",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Choco Eclair",
+              "description": "Milk, dairy cream, glucose, gelatin, milk chocolate, dark chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Caramel Eclair",
+              "description": "Choux pastry, caramel pastry cream, dulcey soft glaze, egg, custard cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Fruity Éclair",
+              "description": "Custard cream, kiwi, mango, strawberry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Fruity Tart",
+              "description": "Vanilla tart covered with nuts filled with custard cream topped with fresh fruits",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Strawberry Cheesecake",
+              "description": "Cream cheese, strawberry, strawberry filling.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Nutella Cup",
+              "description": "Vanilla sponge, chocolate sponge, hazelnut.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Mini Choco Ganache",
+              "description": "Chocolate sponge, chocolate cream, chocolate glaze.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Croissants & sandwiches": [
+            {
+              "index": 38,
+              "name": "Brioche",
+              "description": "Butter, sugar, salt, egg, milk, flour.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Spicy Tuna Brioche Sandwich",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Chicken Avocado Brioche Sandwich",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Kiri Beehive",
+              "description": "Modern beehive bread stuffed with melted cream cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Buttery Croissant",
+              "description": "Butter, flour, salt, milk powder, yeast, ice, wheat gluten.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Almond Croissants",
+              "description": "Butter, salt, milk, yeast, flour, wheat, almond.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Choco Croissant",
+              "description": "Butter, salt, milk, yeast, flour, wheat, chocolate filling and topping.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Cheesy Croissant",
+              "description": "Butter, salt, milk, yeast, flour, wheat, cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Zaatar Croissant",
+              "description": "Butter, salt, milk, yeast, flour, wheat, zaatar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Cheesy Zataar Croissant",
+              "description": "Butter, salt, milk, yeast, flour, wheat, zaatar and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Spinach Pastry",
+              "description": "Puff dough, spinach, almond.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Feta Cheese Pastry",
+              "description": "Puff pastry with feta cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Pizza",
+              "description": "Puff pastry with pizza filling.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Halloumi And Zaatar",
+              "description": "Puff pastry with halloumi and zaatar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Sausage Roll",
+              "description": "Puff pastry with sausage.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Chicken mushroom Quiche",
+              "description": "Chicken and mushroom quiche filled with chicken,mushroom and pepper.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Cheesy Quiche",
+              "description": "Quiche filled in cheese and tomato.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering Savories": [
+            {
+              "index": 55,
+              "name": "Mixed Salties",
+              "description": "Cumin seeds, cheese, sesame, zaatar, snow sugar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Grape Leaves And Musakhan",
+              "description": "Part of our delicious veggie grape leaves lemon sauce with pomegranate dipping musakhan rolls stuffed with chicken and yogurt dipping.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Fatayer Box",
+              "description": "48 pieces fajita, labneh, spinach, cream cheese, pizza, potato Served with pickles",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Smallish": [
+            {
+              "index": 58,
+              "name": "Lotus Bites",
+              "description": "Mascarponi filling, white chocolate, almond dice, digestive biscuit, loptus paste filling",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Pistachio Kunafa Bites",
+              "description": "Pistachio kunafa filling sf, milk chocolate 35%",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Nutella Cookie",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Kinder Cookies",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Chocolate Chip Cookie",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Choco Chips",
+              "description": "Crispy potato chips filled with Lotus and Nutella paste dipped in Belgium milk chocolate and topped with hazelnut and lotus biscuit.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Brownie & Meringue Box",
+              "description": "Mini brownies and meringue dipped with chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chocolate & Coffee Sweets": [
+            {
+              "index": 65,
+              "name": "Fancy Tower",
+              "description": "Assorted chocolate Tower Box Contains Delicious Flavors of Meringue, Snicker Bites, Mini Brownies, Dates Ghorayba, Nutella and Lotus chips",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Coﬀee Sweet",
+              "description": "Dates topped with lotus, pistachio, walnuts, chocolate, coconut.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Choco Box",
+              "description": "Mix chocolate box with flavor of salted caramel, coconut, wafer, sesame, salted pistachio, nutella, caramel with pecan and saffron.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Arabic Sweets": [
+            {
+              "index": 68,
+              "name": "Baklawa Box",
+              "description": "Asiya, kol w chkor, fingers, ballouriya pistachio, borma pistachio, bakalawa, surra.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Bakalwa Tin",
+              "description": "Assorted arabic sweet in tin containing baklawa-khol, chkor, baklawa fingers, baklawa ballouriya, basma cashew, basma-pistachio, borma cashew and borma pistachio",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Classic Petit Four",
+              "description": "Assorted Vanilla Biscuit and Chocolate Biscuit with Apricot jam",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Choco Petit Four",
+              "description": "Assorted flavors of petit four box with caramel, plain, lotus, Nutella and dipped in milk chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ice Cream": [
+            {
+              "index": 72,
+              "name": "Mango Bites",
+              "description": "Wonderful mango ice cream balls, topped with alfonse mango sauce mixed with nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Alaska",
+              "description": "Fantasy Alaska cake, consisting of four flavors (chocolate, vanilla, mango, strawberry), and above it wonderful meringue beads covered with delicious chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Pecan Bites",
+              "description": "Wonderful pecan ice cream balls topped with delicious white chocolate sauce mixed with nuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Choco Wafer Bites",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Summer Sticks",
+              "description": "variety of delicious ice cream sticks, with three wonderful summer flavors (watermelon, Pineapple, Blue Angel)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Mastic Roll",
+              "description": "Mastic ice cream based and mastic roll.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Vanilla Jar",
+              "description": "Vanilla gelato in jar , topped with diced almond .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Mango Jar",
+              "description": "Mango gelato in jar , topped with Mango filling .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Choco Jar",
+              "description": "Chocolate gelato in jar , topped with cashewnuts  .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bread": [
+            {
+              "index": 81,
+              "name": "Biga Baguette Bread",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Mahboula, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/la-baguette",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "42390",
+          "Reviews_count": "26522",
+          "General_review": [
+            "La Baguette is a restaurant located in Kuwait, serving a selection of Desserts, Ice Cream, Sandwiches that delivers across Abdullah Al-Salem, Abu Halifa, Abu Hasaniya, Adailiya and Adan.",
+            "They have been reviewed 42390 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Ahmad H***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "😍 😍"
+            },
+            {
+              "reviewer_name": "Islam A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the cake was upside down even the strawberry topping was fall down late and after contacting call center and he said 5 min and he will arrive , he arrived after 20 min"
+            },
+            {
+              "reviewer_name": "Naser N***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء جدا"
+            }
+          ]
+        }
       }
     ]
   },
@@ -25347,7 +26338,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
