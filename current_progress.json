@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T17:20:50.958102",
+  "last_updated": "2025-04-06T17:22:49.772539",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 8,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -102,7 +102,8 @@
       "Sea Sweet",
       "Batata Mudahdah",
       "Chicster",
-      "Baskin Robbins"
+      "Baskin Robbins",
+      "Elate"
     ],
     "completed_pages": [
       1,
