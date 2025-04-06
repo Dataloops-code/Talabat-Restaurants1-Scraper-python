@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:02:55.133745",
+  "last_updated": "2025-04-06T13:08:53.927421",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -42,7 +42,8 @@
       "Kalha , Mahboula TGO",
       "The Cheesecake Factory, Mahboula",
       "Health Stop",
-      "Al Anode"
+      "Al Anode",
+      "Jeder Soad"
     ],
     "completed_pages": [
       1
