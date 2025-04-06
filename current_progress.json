@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T17:53:56.747526",
+  "last_updated": "2025-04-06T17:56:44.916871",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 8,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -106,7 +106,8 @@
       "Elate",
       "Mango Talaat",
       "Raising Cane`s, Sabah Al-Salem",
-      "Shawarma Shakir"
+      "Shawarma Shakir",
+      "Al kadi"
     ],
     "completed_pages": [
       1,
