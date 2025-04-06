@@ -30,10 +30,10 @@ class MainScraper:
         self.current_progress = self.load_current_progress()
         self.scraped_progress = self.load_scraped_progress()
         
+        self.github_token = os.environ.get('GITHUB_TOKEN')
         self.ensure_playwright_browsers()
 
     def ensure_playwright_browsers(self):
-        """Ensure Playwright browsers are properly installed"""
         try:
             print("Installing Playwright browsers...")
             subprocess.run([sys.executable, "-m", "playwright", "install", "chromium", "firefox"], 
@@ -43,7 +43,6 @@ class MainScraper:
             print(f"Error installing Playwright browsers: {e}")
 
     def load_current_progress(self) -> Dict:
-        """Load current position from current_progress.json"""
         if os.path.exists(self.CURRENT_PROGRESS_FILE):
             try:
                 with open(self.CURRENT_PROGRESS_FILE, 'r', encoding='utf-8') as f:
@@ -71,7 +70,6 @@ class MainScraper:
         return default_progress
 
     def save_current_progress(self, progress: Dict = None):
-        """Save current position to current_progress.json"""
         if progress is None:
             progress = self.current_progress
         try:
@@ -87,7 +85,6 @@ class MainScraper:
             print(f"Error saving current progress: {e}")
 
     def load_scraped_progress(self) -> Dict:
-        """Load progress with scraped data from scraped_progress.json"""
         if os.path.exists(self.SCRAPED_PROGRESS_FILE):
             try:
                 with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
@@ -116,7 +113,6 @@ class MainScraper:
         return default_progress
 
     def save_scraped_progress(self, progress: Dict = None):
-        """Save progress with scraped data to scraped_progress.json"""
         if progress is None:
             progress = self.scraped_progress
         try:
@@ -131,18 +127,36 @@ class MainScraper:
         except Exception as e:
             print(f"Error saving scraped progress: {e}")
 
+    def commit_progress(self, message: str = "Periodic progress update"):
+        """Commit and push progress files to the repository"""
+        if not self.github_token:
+            print("No GITHUB_TOKEN available, skipping commit")
+            return
+        
+        try:
+            subprocess.run(["git", "config", "--global", "user.name", "GitHub Action"], check=True)
+            subprocess.run(["git", "config", "--global", "user.email", "action@github.com"], check=True)
+            subprocess.run(["git", "add", self.CURRENT_PROGRESS_FILE, self.SCRAPED_PROGRESS_FILE, self.output_dir], check=True)
+            result = subprocess.run(["git", "commit", "-m", message], capture_output=True, text=True)
+            if result.returncode == 0 or "nothing to commit" in result.stdout:
+                subprocess.run(["git", "push"], check=True, env={"GIT_AUTH_TOKEN": self.github_token})
+                print(f"Committed progress: {message}")
+            else:
+                print("No changes to commit")
+        except subprocess.CalledProcessError as e:
+            print(f"Error committing progress: {e}")
+
     def print_progress_details(self):
-        """Print details of both progress files"""
         try:
             with open(self.CURRENT_PROGRESS_FILE, 'r', encoding='utf-8') as f:
                 current = json.load(f)
             print("\nCurrent Progress:")
             print(json.dumps(current, indent=2, ensure_ascii=False))
 
-            with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
-                scraped = json.load(f)
-            print("\nScraped Progress with Results:")
-            print(json.dumps(scraped, indent=2, ensure_ascii=False))
+            # with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
+            #     scraped = json.load(f)
+            # print("\nScraped Progress with Results:")
+            # print(json.dumps(scraped, indent=2, ensure_ascii=False))
         except Exception as e:
             print(f"Error printing progress: {str(e)}")
 
@@ -175,6 +189,7 @@ class MainScraper:
             scraped_current_progress.update(current_progress)
             self.save_current_progress()
             self.save_scraped_progress()
+            self.commit_progress(f"Started scraping area {area_name}")
         
         skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
         
@@ -184,6 +199,7 @@ class MainScraper:
             scraped_current_progress["total_pages"] = total_pages
             self.save_current_progress()
             self.save_scraped_progress()
+            self.commit_progress(f"Determined {total_pages} pages for {area_name}")
         else:
             total_pages = current_progress["total_pages"]
         
@@ -204,6 +220,7 @@ class MainScraper:
             scraped_current_progress["current_page"] = page_num
             self.save_current_progress()
             self.save_scraped_progress()
+            self.commit_progress(f"Started page {page_num} in {area_name}")
             
             max_retries = 3
             for attempt in range(max_retries):
@@ -244,6 +261,7 @@ class MainScraper:
                     self.save_current_progress()
                     self.save_scraped_progress()
                     self.print_progress_details()
+                    self.commit_progress(f"Skipped restaurant {restaurant['name']} on page {page_num} in {area_name}")
                     continue
                 
                 print(f"\nProcessing restaurant {rest_idx+1}/{len(restaurants_on_page)} on page {page_num}: {restaurant['name']}")
@@ -273,6 +291,7 @@ class MainScraper:
                     self.save_current_progress()
                     self.save_scraped_progress()
                     self.print_progress_details()
+                    self.commit_progress(f"Processed restaurant {restaurant['name']} on page {page_num} in {area_name}")
                     await asyncio.sleep(2)
                 
                 except Exception as e:
@@ -284,6 +303,7 @@ class MainScraper:
                     self.save_current_progress()
                     self.save_scraped_progress()
                     self.print_progress_details()
+                    self.commit_progress(f"Error processing restaurant {restaurant['name']} on page {page_num} in {area_name}")
             
             current_progress["completed_pages"].append(page_num)
             scraped_current_progress["completed_pages"].append(page_num)
@@ -292,6 +312,7 @@ class MainScraper:
             self.save_current_progress()
             self.save_scraped_progress()
             self.print_progress_details()
+            self.commit_progress(f"Completed page {page_num} in {area_name}")
             await asyncio.sleep(3)
         
         json_filename = os.path.join(self.output_dir, f"{area_name}.json")
@@ -322,6 +343,7 @@ class MainScraper:
         self.save_current_progress()
         self.save_scraped_progress()
         self.print_progress_details()
+        self.commit_progress(f"Completed area {area_name}")
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name}")
         return all_area_results
@@ -495,6 +517,7 @@ class MainScraper:
                     self.scraped_progress["current_area_index"] = idx
                     self.save_current_progress()
                     self.save_scraped_progress()
+                    self.commit_progress(f"Resuming from area {resuming_area}")
                     break
         
         for idx, (area_name, area_url) in enumerate(ahmadi_areas):
@@ -509,6 +532,7 @@ class MainScraper:
             self.scraped_progress["current_area_index"] = idx
             self.save_current_progress()
             self.save_scraped_progress()
+            self.commit_progress(f"Starting area {area_name} at index {idx}")
             
             try:
                 area_results = await self.scrape_and_save_area(area_name, area_url)
@@ -523,6 +547,7 @@ class MainScraper:
                 self.save_current_progress()
                 self.save_scraped_progress()
                 self.print_progress_details()
+                self.commit_progress(f"Completed area {area_name} in run")
                 await asyncio.sleep(5)
             
             except Exception as e:
@@ -531,6 +556,7 @@ class MainScraper:
                 traceback.print_exc()
                 self.save_current_progress()
                 self.save_scraped_progress()
+                self.commit_progress(f"Progress update after error in {area_name}")
         
         workbook.save(excel_filename)
         combined_json_filename = os.path.join(self.output_dir, "الاحمدي_all.json")
@@ -549,6 +575,8 @@ class MainScraper:
                 print(f"Failed to upload Excel file to Google Drive")
         else:
             print(f"Scraping incomplete ({len(completed_areas)}/{len(ahmadi_areas)} areas)")
+        
+        self.commit_progress("Final progress update after run")
 
 def create_credentials_file():
     try:
@@ -581,6 +609,7 @@ async def main():
         if 'scraper' in locals():
             scraper.save_current_progress()
             scraper.save_scraped_progress()
+            scraper.commit_progress("Progress saved after interruption")
         print("Progress saved. Exiting.")
     except Exception as e:
         print(f"Critical error: {e}")
@@ -589,9 +618,10 @@ async def main():
         if 'scraper' in locals():
             scraper.save_current_progress()
             scraper.save_scraped_progress()
+            scraper.commit_progress("Progress saved after critical error")
         sys.exit(1)
 
 if __name__ == "__main__":
     scraper = MainScraper()
-    scraper.print_progress_details()
+    scraper.print_progress_details()  # Fixed typo from previous response
     asyncio.run(scraper.run())
