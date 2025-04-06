@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:11:17.313121",
+  "last_updated": "2025-04-06T12:17:30.598421",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -46,7 +46,8 @@
       "Kalha , Mahboula TGO",
       "Al Anode",
       "Jeder Soad",
-      "Cramello Sweet"
+      "Cramello Sweet",
+      "Turkish Grill"
     ],
     "completed_pages": [
       1,

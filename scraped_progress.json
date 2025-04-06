@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:11:17.314617",
+  "last_updated": "2025-04-06T12:17:30.600408",
   "all_results": {
     "الظهر": [
       {
@@ -51721,6 +51721,1583 @@
             }
           ]
         }
+      },
+      {
+        "name": "Turkish Grill",
+        "cuisine": "Grills, Sandwiches, Turkish",
+        "url": "https://www.talabat.com/kuwait/restaurant/695440/turkish-grill-fintas?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 34 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Hummus",
+              "description": "Mashed chickpeas mixed with tahini and seasoning",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hummus",
+                "price_details": {
+                  "Hummus (Choose 1)": [
+                    "Single (0.700)",
+                    "Medium (0.950)",
+                    "Large (1.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Grilled Chicken",
+              "description": "Marinated chicken char grilled to full flavour.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grilled Chicken",
+                "price_details": {
+                  "Izgara Tavuk (Choose 1)": [
+                    "Half Meal (2.000)",
+                    "Full Meal (3.250)"
+                  ],
+                  "Add Dips (Choose up to 9 items)": [
+                    "Tahini Dip (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Tabboula",
+              "description": "Finely chopped parsley, tomato, onion and bulgur seasoned with olive oil and lemon.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabboula",
+                "price_details": {
+                  "Tabboula (Choose 1)": [
+                    "Single (0.950)",
+                    "Medium (1.200)",
+                    "Large (1.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Shish Tawouk",
+              "description": "Mix small cubes of marinated charcoal grilled chicken with potatoes and garlic",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Supreme Mix",
+              "description": "Four different grill in one plate: kebab, shish , arayes and tikka, french fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Supreme Mix",
+                "price_details": {
+                  "Supreme Mix (Choose 1)": [
+                    "Meal (2.950)",
+                    "Family (11.800)"
+                  ],
+                  "Add Dips (Choose up to 8 items)": [
+                    "Tahini Dip (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Large Garlic Dip (0.600)",
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 5,
+              "name": "Mosahab Boneless Chicken",
+              "description": "Char grilled marinated boneless chicken.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mosahab Boneless Chicken",
+                "price_details": {
+                  "Boneless Chicken (Choose 1)": [
+                    "Half Meal (2.500)",
+                    "Full Meal (3.950)"
+                  ],
+                  "Add Dips (Choose up to 9 items)": [
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Tahini Dip (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Grills": [
+            {
+              "index": 6,
+              "name": "Supreme Mix",
+              "description": "Four different grill in one plate: kebab, shish , arayes and tikka, french fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Supreme Mix",
+                "price_details": {
+                  "Supreme Mix (Choose 1)": [
+                    "Meal (2.950)",
+                    "Family (11.800)"
+                  ],
+                  "Add Dips (Choose up to 8 items)": [
+                    "Tahini Dip (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Large Garlic Dip (0.600)",
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 7,
+              "name": "Classic Mix",
+              "description": "Three different grill items in one plate: tike, kebab and Shish Tawouk .French fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Classic Mix",
+                "price_details": {
+                  "Classic Mix (Choose 1)": [
+                    "Meal (2.950)",
+                    "Family (11.800)"
+                  ],
+                  "Add Dips (Choose up to 8 items)": [
+                    "Tahini Dip (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 8,
+              "name": "Premium Mix",
+              "description": "Three different grill items in one plate: - kebab and shish tawouk .French fries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Premium Mix",
+                "price_details": {
+                  "Premium Mix (Choose 1)": [
+                    "Meal (2.800)",
+                    "Family (11.240)"
+                  ],
+                  "Add Dips (Choose up to 8 items)": [
+                    "Tahini Dip (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Large Garlic Dip (0.600)",
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 9,
+              "name": "Original Mix Meal",
+              "description": "Three different grill items in one plate: kebab, Chicken kebab,shish tawouk  and arayes,fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Tikka",
+              "description": "Char grilled marinated small pieces of meat served with potato and humus.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Kebab",
+              "description": "Char grilled ground meat mixed with onions, parsley and spices With potatoes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Turkish Adana Kebab",
+              "description": "Ground meat mixed with fresh Turkish red pepper with fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Khishkash Kebab",
+              "description": "Meat Kebab served on tomato and parsley mix",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Chicken Kebab",
+              "description": "Chargrilled ground chicken mixed with spices With potatoes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Kebab Mix",
+              "description": "Beef kebab, adana kebab, and chicken kebab",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Cheese Kofta",
+              "description": "Chargrilled meat kofta stuffed with cheese and potatoes",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "White Shish Tawouk",
+              "description": "Grilled chicken breast cubes on charcoal with white sauce and fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Shish Tawouk",
+              "description": "Mix small cubes of marinated charcoal grilled chicken with potatoes and garlic",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Tawouk Mix",
+              "description": "Mix charcoal grilled chicken breast cubes with white garlic sauce and French fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Grilled Chicken",
+              "description": "Marinated chicken char grilled to full flavour.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grilled Chicken",
+                "price_details": {
+                  "Izgara Tavuk (Choose 1)": [
+                    "Half Meal (2.000)",
+                    "Full Meal (3.250)"
+                  ],
+                  "Add Dips (Choose up to 9 items)": [
+                    "Tahini Dip (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 21,
+              "name": "Mosahab Boneless Chicken",
+              "description": "Char grilled marinated boneless chicken.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mosahab Boneless Chicken",
+                "price_details": {
+                  "Boneless Chicken (Choose 1)": [
+                    "Half Meal (2.500)",
+                    "Full Meal (3.950)"
+                  ],
+                  "Add Dips (Choose up to 9 items)": [
+                    "Labneh Dip (0.250)",
+                    "Garlic Dip (0.250)",
+                    "BBQ (0.250)",
+                    "Lemon Garlic (0.250)",
+                    "Tahini Dip (0.250)"
+                  ],
+                  "Add Ons (Choose up to 7 items)": [
+                    "Turkish Bread (0.200)",
+                    "Pickles (0.350)",
+                    "Grilled Tomato (0.250)",
+                    "Grilled Pepper (0.250)",
+                    "Grilled Onion (0.350)",
+                    "French Fries (0.650)",
+                    "Bread Arayes (0.750)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Family Promos": [
+            {
+              "index": 22,
+              "name": "Value Meal ( 4 Persons)",
+              "description": "8 skewer Meat kebab, 4 skewer tawook, 2 arayes bread, hummus, Red Motabal with youghrt, tabbouleh, French fries and coca-cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Family Feast (4 Persons )",
+              "description": "6 skewer meat kebab, 3 skewer tawook, 4 skewer chicken kebab, 2 arayes bread, hummus, tahini, mutabbal, tabboula, french fries and coca-cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Royal Meal (4 Persons )",
+              "description": "4 skewer meat kebab, 4 skewer adana kebab, 3 skewer meat tikka, 5 white skewer tawook, 3 arayes bread, medium hummus, medium tahini, medium tabbouleh, large fries, and large Coca-Cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Party Meal (6 Persons )",
+              "description": "8 skewer Meat kebab, 4 skewer tawook, 4 arayes bread,1 full chicken on charcoal, hummus, patlican yogurtlu, tabbouleh, French fries and coca-cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Big Value (6 Persons )",
+              "description": "5 skewer Meat Kebab, 5 skewer chicken kebab, 5 skewer tawook, minis kebab, chicken kebab minis, 5 Arayes, vine leaves, 2 hummus, fattoush, fries and Coca-Cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Grill And Rolls (6 Persons )",
+              "description": "6 skewer Meat Kebab, 3 skewer tawook, 3 skewer chicken kebab, 2 arayes bread, hummus, fattoush, garlic, French fries, Coca-Cola and mix lavash rolls box consisting of kebab and tawook.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Grand Value (10 Persons )",
+              "description": "10 skewer shish Meat kebab,10 skewer shish adana kebab, 8 skewer shish chicken kebab, 8 skewer shish tawook, 4 meat arayes, 2 hummus, 2 muttabal with tahini, 2 tabbouleh, 2 fries and 2 coca-cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "24.450",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizers": [
+            {
+              "index": 29,
+              "name": "Hummus",
+              "description": "Mashed chickpeas mixed with tahini and seasoning",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hummus",
+                "price_details": {
+                  "Hummus (Choose 1)": [
+                    "Single (0.700)",
+                    "Medium (0.950)",
+                    "Large (1.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 30,
+              "name": "Motabal",
+              "description": "Eggplant mixed with tahina and seasoning.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Motabal",
+                "price_details": {
+                  "Patlican tahinli (Choose 1)": [
+                    "Single (0.750)",
+                    "Medium (1.100)",
+                    "Large (1.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Red Motabal",
+              "description": "Eggplant mixed with laban and seasoning",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Red Motabal",
+                "price_details": {
+                  "Patlican tahinli (Choose 1)": [
+                    "Single (0.750)",
+                    "Medium (1.100)",
+                    "Large (1.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 32,
+              "name": "Meat Hummus",
+              "description": "Mashed chickpeas mixed with tahini topped with meat and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Meat Hummus",
+                "price_details": {
+                  "Meat hummus (Choose 1)": [
+                    "Medium (1.500)",
+                    "Large (1.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 33,
+              "name": "Yoghurt And Cucumber",
+              "description": "Yogurt mixed with cucmbers.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Fattoush",
+              "description": "Salad made from toasted bread combined with mixed greens and other vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Fattoush",
+                "price_details": {
+                  "Fatoush (Choose 1)": [
+                    "Single (1.200)",
+                    "Large (1.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 35,
+              "name": "Tabboula",
+              "description": "Finely chopped parsley, tomato, onion and bulgur seasoned with olive oil and lemon.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabboula",
+                "price_details": {
+                  "Tabboula (Choose 1)": [
+                    "Single (0.950)",
+                    "Medium (1.200)",
+                    "Large (1.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 36,
+              "name": "Vine Leaves",
+              "description": "Vine leaves with rice stuffing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vine Leaves",
+                "price_details": {
+                  "Yaparak sarmasi (Choose 1)": [
+                    "Single (0.850)",
+                    "Medium (1.450)",
+                    "Large (2.250)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Rice bowls": [
+            {
+              "index": 37,
+              "name": "White Rice Bowl",
+              "description": "Healthy white rice steamed served with yoghurt sauce 250g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Red Rice Bowls",
+              "description": "Red rice with our special mixture served with yogurt sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Kebab Bowl",
+              "description": "Rice served with meat kebab and yogurt garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Shish Tawouk Bowl",
+              "description": "Rice served with char grilled small cubes of chicken and yogurt garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Mosahab Bowl",
+              "description": "Rice with boneless grilled cut boneless chicken and special rice sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Chicken Kebab With Rice",
+              "description": "Rice served with grilled chicken kebab and yogurt and garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Lavash Rolls": [
+            {
+              "index": 43,
+              "name": "Mosahab Chicken Roll",
+              "description": "Charcoal grilled boneless chicken inside our signature fresh lavash bread with lemon garlic sauce and pickled cucumber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mosahab Chicken Roll",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Single (1.250)",
+                    "Meal (1.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 44,
+              "name": "Tawook Roll",
+              "description": "Grilled tavuk shish, in our fresh signature lavash bread, with delicious homemade  garlic sauce & crunchy  cucumber pickles",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tawook Roll",
+                "price_details": {
+                  "Tavuk (Choose 1)": [
+                    "Single (1.150)",
+                    "Meal (1.650)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 45,
+              "name": "Kebab Roll",
+              "description": "Grilled sebzeli kebab, in our fresh signature lavash bread, with delicious homemade humus, crunchy pickles, mixed onions, fresh parsley and special tahini sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kebab Roll",
+                "price_details": {
+                  "Sebzeli Roll (Choose 1)": [
+                    "Single (1.150)",
+                    "Meal (1.650)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 46,
+              "name": "Kebab Adana Roll",
+              "description": "Char grilled beyti kebab, in our fresh signature lavash bread, with delicious homemade humus, crunchy pickles, fresh parsley, handmade red pepper paste and a drizzle of our special tahini sauce all put together for an amazing taste experience.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kebab Adana Roll",
+                "price_details": {
+                  "Adana Roll (Choose 1)": [
+                    "Single (1.150)",
+                    "Meal (1.650)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 47,
+              "name": "Double Tawook & Mosahab Roll",
+              "description": "You can choose 2 pieces of Mosahab shish tawook inside Lavash bread with potatoes and Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Mix Lavash Rolls Box",
+              "description": "Choose any 8 Lavash Rolls of your choice all cut in half served with fries and 4 dips",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sides": [
+            {
+              "index": 49,
+              "name": "Crunchy Thin Fries",
+              "description": "Long, thinly cut slices of fried potatoes.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Crunchy Thin Fries",
+                "price_details": {
+                  "French fries (Choose 1)": [
+                    "Small (0.650)",
+                    "Large (1.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 50,
+              "name": "Dippers Potato",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Dippers Potato",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Small (0.850)",
+                    "Large (1.550)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 51,
+              "name": "Cheese Rolls",
+              "description": "Fried dough rolls and stuffed with mixed cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Musakhan Rolls",
+              "description": "Sumac chicken wrapped in thin dough",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Fried Kibbeh",
+              "description": "Fried kebbeh w burghul stuffed with meat, onions and spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Arayes",
+              "description": "Char grilled bread filled with a spread of ground meat and vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Arayes",
+                "price_details": {
+                  "Arayes (Choose 1)": [
+                    "Meal Meat Arayes With Cheese (2.150)",
+                    "Meat Arayes With Cheese (1.750)",
+                    "Meat Arayes (1.750)",
+                    "Meal Meat Arayes (2.150)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 55,
+              "name": "Chicken Wings",
+              "description": "Marinated chicken wings grilled over charcoal served with barbecue sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Grilled Drumstick",
+              "description": "Charcoal Drumstick thighs served with lemon garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Wings & Drumsticks",
+              "description": "Marinated chicken wings grilled over charcoal served with barbecue sauce & charcoal drumsticks thighs served with lemon garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Kebab Minis",
+              "description": "Small kebabs meat mixed with onions parsley and spices with a tahini dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Adana Minis",
+              "description": "Ground meat mixed with fresh red pepper Served with a tahini dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Chicken Kebab Minis",
+              "description": "Small chicken kebabs served with a labneh dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kids Meal": [
+            {
+              "index": 61,
+              "name": "Tawouk Kids Meal",
+              "description": "Mini lavash roll served with fries and drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Kebab Kids Meal",
+              "description": "Small s kebabs served with a tahini dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Chicken Kebab Kids Meal",
+              "description": "Small pieces of chicken kebab served with a labneh dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Additions": [
+            {
+              "index": 64,
+              "name": "Charcoal Grilled Vegetables",
+              "description": "Grilled onions, grilled tomatoes and charcoal grilled peppers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Fresh Lavash Bread",
+              "description": "Fresh homemade Turkish lavash bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Cucumber Pickles Box",
+              "description": "Slices of pickled cucumber",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sauces": [
+            {
+              "index": 67,
+              "name": "Hot Smoky Sauce",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Dynamite Sauce",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Garlic",
+              "description": "Garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Garlic",
+                "price_details": {
+                  "Garlic (Choose 1)": [
+                    "Small (0.250)",
+                    "Large (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 70,
+              "name": "Lemon Garlic",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Labneh Dip",
+              "description": "dip made with labneh, yogurt, salt and extra virgin olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Barbecue Sauce",
+              "description": "Bursting with smoky and tangy flavors, this sauce adds a delectable touch to your favorite meats",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Ranch Sauce",
+              "description": "Made with a blend of herbs and spices, adding a delicious creamy touch to any dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Pomeg Molasses",
+              "description": "Steamed pomegranate juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Tahini Dip",
+              "description": "Tahini, Lemon Juice, Garlic, Salt, Water, Olive Oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cold Drinks": [
+            {
+              "index": 76,
+              "name": "Alsi Cola",
+              "description": "Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Alsi Cola Zero",
+              "description": "Alsi cola zero.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Stream Drink",
+              "description": "Stream Drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Coca-Cola Lite",
+              "description": "Coca cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Coca Cola Light",
+              "description": "Diet Coke",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Sprite",
+              "description": "Sprite.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Sprite Light",
+              "description": "Carbonated soft drink with zero sugar and zero calories",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Fanta Strawberry",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Fanta Orange",
+              "description": "Fanta orange",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Arwa",
+              "description": "Arwa, a pure and refreshing bottled water sourced from natural springs, providing hydration with no added flavors or preservatives.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Fintas, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/turkish-grill",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "33864",
+          "Reviews_count": "16763",
+          "General_review": [
+            "Turkish Grill is a restaurant located in Kuwait, serving a selection of Grills, Sandwiches, Turkish that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Tikka, Grilled Chicken, Vine Leaves and Shish Tawouk, although they have a variety of dishes and meals to choose from like Grills, Sandwiches, Turkish.",
+            "They have been reviewed 33864 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "eman a***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطعام الكرتون ذايب ومسكوب الكباب الحوده جدا رديئه"
+            },
+            {
+              "reviewer_name": "عبير ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الرز ما كان مطبوخ بشكل الصحيح"
+            },
+            {
+              "reviewer_name": "Mansoor H***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Only one issue that the some of food items got wet like Araees because of the heat. Thank you"
+            },
+            {
+              "reviewer_name": "Julah B***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "nice and delicious good hospitality"
+            },
+            {
+              "reviewer_name": "shm_ 7***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "وصل بالوقت المحدد والأكل دافئ وصل بسرعه"
+            },
+            {
+              "reviewer_name": "Wael H***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "thanks for your services 😊 thanks for your services"
+            },
+            {
+              "reviewer_name": "Mel C***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the roll in the chicken there was a stone 🤮 and fries not cooked properly very bad."
+            },
+            {
+              "reviewer_name": "عارف ا***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "صلصة الطحينة خربانه وطعمها لا يطاق والمشاوي بارده ليش جذي"
+            },
+            {
+              "reviewer_name": "Samee H***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the chicken pieces were not cooked properly and have blood inside showing. kebabs were cooked"
+            },
+            {
+              "reviewer_name": "Shayma K***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "وين الثوم"
+            },
+            {
+              "reviewer_name": "I-Zak K***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the bread was not packed"
+            },
+            {
+              "reviewer_name": "Rasha A***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز سريع ربي يسعده"
+            },
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "there was missing hummus and motabal and tabbouleh !!"
+            },
+            {
+              "reviewer_name": "Mel C***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "The best meal of Turkish grill I ever had keep it the same! amazing driver he was the best polite driver on that day I hope he delivers for me again very kind."
+            },
+            {
+              "reviewer_name": "Haifaa L***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "بصراحه الاكل حلو وشغل نظيف اشكركم على المطعم النظيف اللي صراحه ما اطلب الا منكم واعطيكم العافيه بصراحه شغل نظيف وما اطلب الا منكم ويعطيكم العافيه والدياي نظيف ومرتب والف الف شكر لكم صراحه"
+            },
+            {
+              "reviewer_name": "Asad A***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "no dip with the mini adanas nothing"
+            },
+            {
+              "reviewer_name": "ام حمد ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الدجاج للاسف محروق ومو طازج"
+            },
+            {
+              "reviewer_name": "Carlton T***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great food"
+            },
+            {
+              "reviewer_name": "QADEER A***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "food was cold"
+            },
+            {
+              "reviewer_name": "walid a***",
+              "review_date": "25 March 2025",
+              "review_rating": "Good",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Hamad A***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "كانت سيئة للغاية"
+            },
+            {
+              "reviewer_name": "Saeed A***",
+              "review_date": "24 March 2025",
+              "review_rating": "Good",
+              "review_comment": "cold"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "23 March 2025",
+              "review_rating": "OK",
+              "review_comment": "mixed chicken wasn’t good the white chicken is better"
+            },
+            {
+              "reviewer_name": "ام محمد ب***",
+              "review_date": "23 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الورق عنب سئ معلبات لا تعليق"
+            },
+            {
+              "reviewer_name": "Manal A***",
+              "review_date": "23 March 2025",
+              "review_rating": "OK",
+              "review_comment": "جاني الاكل بارد الصمون والشبس اما الرولات جبن لذييييييذه"
+            },
+            {
+              "reviewer_name": "Fatma H***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "Fazulu Azam ***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "not good cooking"
+            },
+            {
+              "reviewer_name": "Shana Lea V***",
+              "review_date": "19 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Mai A***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "it came spicy however I requested it to be not spicy"
+            },
+            {
+              "reviewer_name": "اماني ا***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "العرايس مو ذاك الزود"
+            },
+            {
+              "reviewer_name": "عارف ا***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الأكل بارد والبطاط قليل والصلصات الاربعه حاطينها كلها داخل العلبه مع المشويات"
+            },
+            {
+              "reviewer_name": "Sheemah A***",
+              "review_date": "17 March 2025",
+              "review_rating": "Good",
+              "review_comment": "العيش مو مستوي عدل.. وورق العنب كذلك العيش داخله مو مستوي..العرايس شوي ناشفه يتصل ويسكر مايمدي ارد.والعنوان عنده وكل شوي يدز لي مسج عن العنوان"
+            },
+            {
+              "reviewer_name": "Laila M***",
+              "review_date": "17 March 2025",
+              "review_rating": "Good",
+              "review_comment": "shush tawooq was burned from the side"
+            }
+          ]
+        }
       }
     ]
   },
@@ -51728,7 +53305,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -51767,7 +53344,8 @@
       "Kalha , Mahboula TGO",
       "Al Anode",
       "Jeder Soad",
-      "Cramello Sweet"
+      "Cramello Sweet",
+      "Turkish Grill"
     ],
     "completed_pages": [
       1,
