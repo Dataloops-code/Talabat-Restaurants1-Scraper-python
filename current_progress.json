@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:03:59.156827",
+  "last_updated": "2025-04-06T12:08:59.062958",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -44,7 +44,8 @@
       "Petit Four And More",
       "Health Stop",
       "Kalha , Mahboula TGO",
-      "Al Anode"
+      "Al Anode",
+      "Jeder Soad"
     ],
     "completed_pages": [
       1
