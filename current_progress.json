@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T16:06:39.405267",
+  "last_updated": "2025-04-06T16:08:48.551251",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 7,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -87,7 +87,8 @@
       "Al Aryaf Dessert",
       "Abby Shawaya",
       "Abu Saleem Restaurant",
-      "Chaclate"
+      "Chaclate",
+      "Alternative"
     ],
     "completed_pages": [
       1,
