@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:14:43.380681",
+  "last_updated": "2025-04-06T18:16:04.349058",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 9,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -116,7 +116,8 @@
       "BURGER BOUTIQUE",
       "Joy Cafe",
       "Botata",
-      "Morrano Sweets"
+      "Morrano Sweets",
+      "Bento Bakery"
     ],
     "completed_pages": [
       1,
