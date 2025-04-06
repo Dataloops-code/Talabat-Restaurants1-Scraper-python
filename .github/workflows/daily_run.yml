@@ -44,15 +44,18 @@ jobs:
         id: cache-restore
         uses: actions/cache/restore@v4
         with:
-          path: current_progress.json  # Match main.py’s file
+          path: current_progress.json
           key: talabat-scraper-progress-${{ github.run_id }}
           restore-keys: |
             talabat-scraper-progress-
 
       - name: Run Talabat scraper
         run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit progress updates
+        if: always()  # Run even if previous steps fail/cancel
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
@@ -63,17 +66,27 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Save progress to cache
+        if: always()  # Run even if previous steps fail/cancel
         uses: actions/cache/save@v4
         with:
-          path: current_progress.json  # Match main.py’s file
+          path: current_progress.json
           key: talabat-scraper-progress-${{ github.run_id }}
+
+      - name: Upload progress artifacts
+        if: always()  # Run even if cancelled
+        uses: actions/upload-artifact@v4
+        with:
+          name: talabat-progress-files
+          path: |
+            current_progress.json
+            scraped_progress.json
+          retention-days: 7
 
       - name: Cleanup
         if: always()
         run: |
           rm -rf node_modules
           rm -rf ~/.cache/ms-playwright
-
           
           
 # name: Talabat Scraper Workflow
