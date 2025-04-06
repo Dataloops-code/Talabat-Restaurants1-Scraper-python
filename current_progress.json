@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T15:49:07.394033",
+  "last_updated": "2025-04-06T15:54:39.868024",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 6,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -81,7 +81,8 @@
       "Papa Kanafa",
       "Ghraeyf",
       "Lumiere",
-      "Kefak Sweet"
+      "Kefak Sweet",
+      "Baklavaji Sweets"
     ],
     "completed_pages": [
       1,
