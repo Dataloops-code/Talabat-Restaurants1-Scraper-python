@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:51:56.340004",
+  "last_updated": "2025-04-06T12:53:18.610681",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -38,7 +38,8 @@
       "Chateau De Gateaux",
       "Petit Four And More",
       "Lunch & Dinner",
-      "Diet Care, Al-Qurain Lulu"
+      "Diet Care, Al-Qurain Lulu",
+      "Kalha , Mahboula TGO"
     ],
     "completed_pages": [
       1

@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:51:56.341219",
+  "last_updated": "2025-04-06T12:53:18.612342",
   "all_results": {
     "الظهر": [
       {
@@ -69458,6 +69458,1817 @@
             }
           ]
         }
+      },
+      {
+        "name": "Kalha , Mahboula TGO",
+        "cuisine": "Breakfast, Arabic, Falafel, Shawarma",
+        "url": "https://www.talabat.com/kuwait/restaurant/33320/kalha-mahboula-tgo?aid=59",
+        "rating": "Very good",
+        "page": 2,
+        "delivery_time": "Within 32 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Kinza Cola",
+              "description": "Kinza Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Orange juice",
+              "description": "Orange juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Ejjah",
+              "description": "Omelette eggs with parsley fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Kinza Cola - Lemon",
+              "description": "Kinza Cola - Lemon",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mofarakah",
+              "description": "Eggs with potato pieces fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Shakshoka",
+              "description": "Fried eggs with fresh tomatoes fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Saving meals": [
+            {
+              "index": 6,
+              "name": "Chicken Makloba Meal For 1 Person",
+              "description": "Chicken Makloba Meal For 1 Person",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Deyafa Box",
+              "description": "An assortment of our valuable products: Hummus, Mosabaha, Eggplant Mutabal, Foul, fatteht hummus, Fired Cauliflower & Eggplant, 3 Roll Musakhan, 3 Roll Falafel, 15 Falafel pieces, French fries, Vine leaves, service platter, 6 Bread bags.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "5 persons meal",
+              "description": "An assortment of our valuable products: Hummus, foul, mesabaha, falafel fatteh, 25 pieces falafel, mixed fried plate and falafel roll and chopped vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "10 persons meal",
+              "description": "An assortment of our valuable products hummus, foul, mesabaha, falafel fatteh, mutabal, qudsia, 25 pieces falafel, mixed fried plate and falafel roll. service platter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "20 persons meal",
+              "description": "An assortment of our valuable products hummus, 3 foul, 3 mesabaha, 3 qudsia, 3 hummus fatteh, 50 falafel pieces, 3 falafel, roll maon, 2 zahra mixed fired plate, 3 chopped vegetables and 3 service platters.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "20.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Super sandwiches meal box",
+              "description": "16 super sandwiches 8 falafel super 8 mushakal super and 6 Coca-Cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Musakhan Meal For 1 Person",
+              "description": "Half chicken coocked in the oven served on Iranian bread marinated in olive oil, onions and sumac, served with yogurt, salad, milk pudding & Coca cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Kofta Balls with Tahina Meal for 1 Person",
+              "description": "Mince meat balls cocked with tahini sauce & rice, served with salad, milk pudding & Coca cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Makloba For 2 Persons",
+              "description": "A selection of our special dishes: Chicken Makloba, kofta tahini, sambousek, 2 salad, 2 Coca-Cola and 2 milk pudding.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "KUFTA & MUSAKHAN (2 Persons)",
+              "description": "A selection of our special dishes: 1 kofta Tahina balls & rice, 1 Chicken Musakhan served with 2 salad, 2 milk pudding & 2 Coca cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "MAKLOBA & KOFTA ( 2 Persons)",
+              "description": "A selection of our special dishes: 1 Chicken Makloba, 1 kofta Tahina balls & rice served with 2 salad, 2 milk pudding & 2 Coca cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "MUSAKHAN & MAKLOBA (2 Persons)",
+              "description": "A selection of our special dishes: 1 Chicken Makloba, 1 Chicken Musakhan served with 2 salad, 2 milk pudding & 2 Coca cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Main dishes": [
+            {
+              "index": 18,
+              "name": "Musakhan roll 4 pieces",
+              "description": "Spring roll staffed with onion and Sumac",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Maklouba",
+              "description": "Half chicken with fried potatoes and eggplant, and rice all cooked with a special kalha mixture of spices, served with salad and  Coca-cola.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Mosakan Chicken",
+              "description": "Half chicken, Irani bread, cucumber with yogurt, fries onion and Coca-Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Kofta with Tomato",
+              "description": "Kofta meat with tomato sauce, Arabic salad, fries and Coca-Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Kofta with Tahina",
+              "description": "Kofta meat with tahini sauce, Arabic salad, fries and Coca-Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Kofta and rice balls meal",
+              "description": "Cooked kofta balls with your choice of tomato sauce or tahini sauce, served with rice, cola salad,",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Frying Tomato with Meat",
+              "description": "Meat with tomatoes sauce, Arabic salad, fries and Coca-Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Arayes",
+              "description": "4 Arayes pieces, yogurt with cucumber fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Kebbah with yogurt",
+              "description": "4 Pieces kebbeh with yogurt and Arabic salad",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Super Sandwiches": [
+            {
+              "index": 27,
+              "name": "Sandwich - Zahra",
+              "description": "Fried cauliflower, mint, radish, tomato, cucumber pickles and tahini sauce, served in Arabic bread or bun bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Zahra Mushakel Super",
+              "description": "Fried cauliflower, French fries, fried eggplant, falafel, tomatoes, mint, radish, cucumber pickles and tahini sauce served in Arabic bread or bun bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Falafel Super Sandwich",
+              "description": "Falafel, tomatoes, mint, radish, cucumber pickles and tahini sauce served in Arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Moshakal Super Sandwich",
+              "description": "Falafel, french fries, fried eggplant, tomatoes, mint, radish, cucumber pickles, tahini sauce  served in arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Flafel with Potato super",
+              "description": "Falafel, french fries, tomato, mint, radish, pickled cucumber and tahini sauce served in Arabic bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Flafel with Eggplant super",
+              "description": "Falafel, fried eggplant, tomato, mint, radish, pickled cucumber and tahini sauce served in Arabic bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "potato with Eggplant Super",
+              "description": "French fries, fried eggplant, tomato, mint, radish, pickled cucumber, tahini sauce, served in Arabic bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Eggplant Super sandwich",
+              "description": "Fried eggplant, tomato, mint, radish, pickled cucumber, tahini sauce, served in Arabic bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Hommous Super Sandwich",
+              "description": "Hummus, tomatoes, mint, radish and cucumber pickles served in Arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Potato Super Sandwich",
+              "description": "French fries, tahini sauce, pickles cucumber, mint, and radish and tomatoes, served in Arabic bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Potato ketchup Super",
+              "description": "French fries with ketchup served in arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Hommus with Meat Sandwich",
+              "description": "Hummus with minced meat pieces, tomatoes and cucumber pickles, served in Arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Fool Super Sandwich",
+              "description": "Foul, tomato and cucumber pickles served in Arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Motabal Super Sandwich",
+              "description": "Muttabal eggplant, tomatoes, mint, radish and cucumber pickles  served in Arabic bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Signature dishes": [
+            {
+              "index": 41,
+              "name": "Hommous with Meat",
+              "description": "Soft hummus with pieces of meat and olive oil, garnished with almond nuts and parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Hommous",
+              "description": "Smoothy chickpeas toped with green pepper dressing, olive oil and decorate with parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Hommous Beiruti",
+              "description": "Smoothy chickpeas mixed with parsley toped with green pepper dressing and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Frying Fool ( Kalayya )",
+              "description": "Foul cooked with fresh tomatoes, cumin and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Hommous with Nut",
+              "description": "Smoothie hummus with nuts, topped with green pepper dressing, olive oil garnished with almonds and parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Mosabaha",
+              "description": "Smoothy hummus mixed with whole chickpeas, parsley, topped with green pepper dressing and olive oil and decorated with parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Kudsiya",
+              "description": "Smoothy chickpeas with foul in the middle, topped with green pepper dressing and olive oil, decorated with parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Foul",
+              "description": "Foul toped with green pepper dressing and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Foul With Tehini",
+              "description": "Foul covered with olive oil and green pepper seasoning with tahini",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Foul With Tomato",
+              "description": "Foul with tomatoes, , toped with green pepper dressing and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Foul with Khalta",
+              "description": "Foul with tomatoes, tahini sauce , toped with green pepper dressing and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Foul With garlic",
+              "description": "Foul covered with olive oil and a seasoning of green pepper and garlic",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Foul with cumin",
+              "description": "Foul with cumin, toped with green pepper dressing and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Motabal",
+              "description": "Grilled eggplant mixed with tahini, topped with olive oil and decorated with parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Falafel and fried": [
+            {
+              "index": 55,
+              "name": "Musakhan roll 4 pieces",
+              "description": "Spring roll staffed with onion and Sumac",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "(12) Pieces Falafel",
+              "description": "(12) Pieces Falafel",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Falafel (5) Pcs",
+              "description": "pieces of special falafel alkalha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Filled Falafil ( 2 Pcs )",
+              "description": "Jumbo falafel stuffed with onions and sumac topped with with sesame seeds",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Falafel sesame 6 pieces",
+              "description": "Falafel sesame 6 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Zahara plate",
+              "description": "Fried cauliflower pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Zahara Moshakil - Ma'aoon",
+              "description": "Mix of fried cauliflower pieces, Potato and eggplant plate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Fried Mix",
+              "description": "Mix of fried potato pieces and fried eggplant plate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "large potato",
+              "description": "French fries fingers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "French Fries",
+              "description": "French fries fingers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Eggplant plate",
+              "description": "Fried eggplant pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Falafel Roll 5 Pieces",
+              "description": "5 pieces fried roll dough stuffed with plain falafel or with falafel, onion and sumac",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Kubbah borghl 4 Pcs",
+              "description": "4 pieces of bulgur kebbeh stuffed with meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Kubbah potato 4 Pcs",
+              "description": "4 pieces of potato kibbeh stuffed with meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "mix Kubbah 4 Pcs",
+              "description": "2 pcs of potato kibbeh 2 pcs of bulgur kibbeh",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Cheese Samboosa",
+              "description": "6 Samosa pieces stuffed with cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "vege Samboosa",
+              "description": "6 Samosa pieces stuffed with vegetables",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Meat Samboosa",
+              "description": "6 Samosa pieces stuffed with meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "mix Samboosa",
+              "description": "6 Samosa cut vegetables, meat and cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Onion Falafel Roll ( 5 pec )",
+              "description": "5 pieces fried roll dough stuffed with plain falafel or with falafel, onion and sumac",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Fatah": [
+            {
+              "index": 75,
+              "name": "Fattah With Meat",
+              "description": "Soft chickpeas with chickpeas, meat, sliced bread, green pepper dressing, and olive oil, garnished with fried almonds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Fattah Maqdous",
+              "description": "Fried eggplant, meat, tomato sauce, toasted bread, olive oil, yoghurt, to decorate with nuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Fatth Shamiya",
+              "description": "Soft chickpeas, chickpeas beans, toasted bread, yoghurt and tahini sauce, green pepper dressing, olive oil, garnished with fried almonds and parsley.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Fattah with Falafel",
+              "description": "Falafel pieces, Toasted bread, fried potato, fried eggplant, yoghurt & tahini sauce, decorate with nuts & sumac",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Fattah With Nuts",
+              "description": "Smooth chickpeas mixed with whole chickpeas, crushed bread, toped with green pepper dressing decorate with nuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Eggs palte": [
+            {
+              "index": 80,
+              "name": "Egg with meat",
+              "description": "Fried eggs with pieces of meat fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Ejjah",
+              "description": "Omelette eggs with parsley fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Eyes Egg",
+              "description": "Sunny side up eggs fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Fryed Eggs",
+              "description": "Plate of plain omelette eggs fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Mofarakah",
+              "description": "Eggs with potato pieces fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Shakshoka",
+              "description": "Fried eggs with fresh tomatoes fried with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "salads": [
+            {
+              "index": 86,
+              "name": "Vine Leaves8 pieces",
+              "description": "8 pieces of grape leaves stuffed with seasoned rice with lemon sauce and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Fattosh Salad big",
+              "description": "A mixture of sliced fresh vegetables topped with fried bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Taboula salad big",
+              "description": "Chopped parsley with tomatoes, onions, lemon and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Arabic Salad big",
+              "description": "A mixture of fresh sliced vegetables with lemon and olive oil dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "big Baqdonsiya Salad",
+              "description": "Tahini and lemon sauce with fresh parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "big Tahini Salad",
+              "description": "A mixture of fresh sliced vegetables mixed with tahini sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "big Cucumber With Yogurt Salad",
+              "description": "Fresh sliced cucumber with yoghurt, mixed with lemon and garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "Taboula salad",
+              "description": "Chopped parsley with tomatoes, onions, lemon and olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Fattosh Salad",
+              "description": "A mixture of sliced fresh vegetables topped with fried bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Arabic Salad",
+              "description": "A mixture of fresh sliced vegetables with lemon and olive oil dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Cucumber with Yogurt",
+              "description": "Fresh sliced cucumber with yoghurt, mixed with lemon and garlic sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Baqdonsiya Salad",
+              "description": "Tahini and lemon sauce with fresh parsley",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Tahini Salad",
+              "description": "A mixture of fresh sliced vegetables mixed with tahini sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Plain Tahini",
+              "description": "Our special tahini tarator Kalha sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Additions:": [
+            {
+              "index": 100,
+              "name": "green olive",
+              "description": "green olive",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Service",
+              "description": "Tomato, cucumber pickles, onion and mint",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "cucumber pickels",
+              "description": "Slices of cucumber pickles",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "musakhan bread",
+              "description": "Taboon bread with onions cooked in olive oil and sumac.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Green Tabila",
+              "description": "A wonderful mixture of hot green pepper and garlic with lemon juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Red Chilly Sauce",
+              "description": "Crushed spicy red pepper mixed with olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "tahini",
+              "description": "Our special tahini tarator Kalha sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "Super bread",
+              "description": "3 pieces of fresh bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "olive oil",
+              "description": "olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 109,
+              "name": "Cola",
+              "description": "Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Sprite",
+              "description": "Sprite",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 111,
+              "name": "Orange juice",
+              "description": "Orange juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Kinza Cola - Lemon",
+              "description": "Kinza Cola - Lemon",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "Kinza Cola",
+              "description": "Kinza Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "Sprite Diet",
+              "description": "Sprite Diet",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Kinza Cola - Orange",
+              "description": "Kinza Cola - Orange",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 116,
+              "name": "kinzaCitrus",
+              "description": "kinzaCitrus",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 117,
+              "name": "Water",
+              "description": "Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 118,
+              "name": "Fanta - Orange",
+              "description": "Fanta - Orange",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 119,
+              "name": "Fanta - Strawberry",
+              "description": "Fanta - Strawberry",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 120,
+              "name": "Coca Cola - Diet",
+              "description": "Coca Cola - Diet",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 121,
+              "name": "Milk Shanina",
+              "description": "Milk Shanina",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "sweets": [
+            {
+              "index": 122,
+              "name": "Muhalabia",
+              "description": "Muhalabia",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "frozen items": [
+            {
+              "index": 123,
+              "name": "Afrozen family box",
+              "description": "Mix Sambousek - 20 - Mix Kibbeh 15 - Falafel Roll 10 - Chicken Musakhan Roll 10",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 124,
+              "name": "Frozen Items Box",
+              "description": "5 pieces Kebbah, 8 pieces sambousek, 1 fresh raw falafel.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 125,
+              "name": "Samboosa Cheese Frozen ( 25 pieces )",
+              "description": "Samboosa Cheese Frozen ( 25 pieces )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 126,
+              "name": "Samboosa Vegetable Frozen ( 25 pieces )",
+              "description": "Samboosa Vegetable Frozen ( 25 pieces )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 127,
+              "name": "Samboosa Meat Frozen ( 25 pieces )",
+              "description": "Samboosa Meat Frozen ( 25 pieces )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Samboosa Mixed Frozen ( 25 pieces )",
+              "description": "Samboosa Mixed Frozen ( 25 pieces )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 129,
+              "name": "Kubbah Borgl Frozen ( 25 pieces )",
+              "description": "Kubbah Borgl Frozen ( 25 pieces )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 130,
+              "name": "Kubbah Potato Frozen ( 25 pieces )",
+              "description": "Kubbah Potato Frozen ( 25 pieces )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 131,
+              "name": "Kubbah Mixed Frozen ( 25 pieces )",
+              "description": "Kubbah Mixed Frozen ( 25 pieces )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 132,
+              "name": "Musakhan Roll Frozen ( 25 Pcs )",
+              "description": "Musakhan Roll Frozen ( 25 Pcs )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 133,
+              "name": "Falafel Roll Frozen ( 25 Pcs )",
+              "description": "Falafel Roll Frozen ( 25 Pcs )",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 134,
+              "name": "Flafel Dough Box",
+              "description": "2falafel, 1stuffing onion & sumac, 1 tahini sauce, 1 pickled cucumber, 1radish, 1 mint, 1 sliced ​​tomatoes, 1 mixed pickles, 3 spicy sauce and 5super bread bags.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 135,
+              "name": "Frozen Falafel Roll ( 10 Pcs )",
+              "description": "Roll dough (the filling is your choice of plain falafel or falafel, onions and sumac)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 136,
+              "name": "Frozen cheese sambousek 10 pieces",
+              "description": "10 pieces of sambousek (the filling is your choice of cheese, vegetables or meat)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 137,
+              "name": "Frozen vegetable sambousek, 10 pieces",
+              "description": "Frozen vegetable sambousek, 10 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 138,
+              "name": "Frozen meat sambousek, 10 pieces",
+              "description": "Frozen meat sambousek, 10 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 139,
+              "name": "Frozen potato kebbeh, 10 pieces",
+              "description": "5 pieces of kibbeh stuffed with meat and onions, prepared in our kitchens",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 140,
+              "name": "Frozen mixed sambousek, 10 pieces",
+              "description": "Frozen mixed sambousek, 10 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 141,
+              "name": "Falafel Dough Plate",
+              "description": "Falafel dough ready to fry",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 142,
+              "name": "Frozen bulgur kibbeh, 10 pieces",
+              "description": "5 pieces of kebbeh stuffed with meat and onions, prepared in our kitchens",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 143,
+              "name": "Frozen mixed kibbeh, 10 pieces",
+              "description": "Frozen mixed kibbeh, 10 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 144,
+              "name": "Frozen musakhan roll, 10 pieces",
+              "description": "Mosakhan Roll staffed with chicken onion & sumac",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Mahboula, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/kalha1",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.0",
+          "Ratings_count": "61022",
+          "Reviews_count": "33485",
+          "General_review": [
+            "Kalha is a restaurant located in Kuwait, serving a selection of Breakfast, Arabic, Falafel that delivers across Abdullah Al-Mubarak - West Jeleeb, Airport, Ali Sabah Al-Salem - Umm Al Hayman, Doha and Ghornata.",
+            "Their best selling dishes are (12) Pieces Falafel, Super sandwiches meal box, Fatth Shamiya and 5 persons meal, although they have a variety of dishes and meals to choose from like Breakfast, Arabic, Falafel.",
+            "They have been reviewed 61022 times by talabat users, with a rating of 4."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Ali Asgar Saifee s***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "we had asked for more tahina and also add spicy sauce which was not added on time"
+            },
+            {
+              "reviewer_name": "هاني ع***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الزهرة دون المستوى وقليلة والساندوتش ليس مليان ومخدوم كالعادة والفول السوبر أضيف إليه طماطم مع طحينة"
+            },
+            {
+              "reviewer_name": "Abdulwahab A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "i ordered masakhan is not there!!"
+            },
+            {
+              "reviewer_name": "oussema aic ***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the sandwich is so small , compared to his price , but the tast is good"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز جداً ممتاز"
+            },
+            {
+              "reviewer_name": "mohammed s***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الخبز بايت مو فرش"
+            },
+            {
+              "reviewer_name": "Rawan K***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء سيء سيء و مافي التزام ب ملاحظة الزبون ممتاز وصل بالوقت"
+            },
+            {
+              "reviewer_name": "Dhbb C***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "Naser A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "لا طعم ولا نكهة ،، فقط اكل نظيف ومرتب"
+            },
+            {
+              "reviewer_name": "Reem M***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "للأسف الفلافل يابسة ما تتاكل"
+            },
+            {
+              "reviewer_name": "M A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الشاورما دجاج محروق تالف والسندويش صغير جدا وبارد للأسف مطعم دون رقابه ."
+            },
+            {
+              "reviewer_name": "Salahaldien A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "السندويشات مالحة زيادة زيادة عن اللزووووم"
+            },
+            {
+              "reviewer_name": "mohammad a***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very good"
+            },
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "في أفضل منه من ناحيت الفطور"
+            },
+            {
+              "reviewer_name": "Montaha A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بايت و بارد وصل متاخر عن الوقت المحدد"
+            },
+            {
+              "reviewer_name": "Sarah A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "الفول كان طعمه سيء جدًا الله يديم النعمة"
+            },
+            {
+              "reviewer_name": "saud s***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "enjoyed meal"
+            },
+            {
+              "reviewer_name": "عطوفه ا***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيد"
+            },
+            {
+              "reviewer_name": "Akram A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "very cold and not tasty 🤮"
+            },
+            {
+              "reviewer_name": "ابراهيم ا***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الفلافل كان في طعم زيت قديم اقلوا بزيت جديد كل مره👎"
+            },
+            {
+              "reviewer_name": "Houssam M***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الفول بارد وبدون ملح ولمون ومقلي زيادة ، بابا غنوج لا تؤكل نكهة غريبة وبدون أي توابل ، الحمص ممتاز الشوفير وصل بسرعة ولكن الفول بارد"
+            },
+            {
+              "reviewer_name": "Magor F***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طلب ناقص طالب مشروبات ماوصلت"
+            },
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الفول والفلافل ابدن لا مش طيبين ابدننن الفلافل ناشفه و قاسيه كثير والفول بدون ملح و حامض بدون شي !!! كان محترم كثير بس المشكله انه طول لوصل"
+            },
+            {
+              "reviewer_name": "MOHAMMAD A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "للأسف الأكل لايصلح للأكل"
+            }
+          ]
+        }
       }
     ]
   },
@@ -69465,7 +71276,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -69515,7 +71326,8 @@
       "hopo",
       "Petit Four And More",
       "Lunch & Dinner",
-      "Diet Care, Al-Qurain Lulu"
+      "Diet Care, Al-Qurain Lulu",
+      "Kalha , Mahboula TGO"
     ],
     "completed_pages": [
       1,
