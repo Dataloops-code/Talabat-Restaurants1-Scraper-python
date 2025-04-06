@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:46:27.248754",
+  "last_updated": "2025-04-06T12:50:36.017340",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -36,7 +36,8 @@
       "Sable",
       "Mr Baker",
       "Chateau De Gateaux",
-      "Petit Four And More"
+      "Petit Four And More",
+      "Lunch & Dinner"
     ],
     "completed_pages": [
       1
