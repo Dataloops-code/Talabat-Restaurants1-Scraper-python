@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T14:20:45.500400",
+  "last_updated": "2025-04-06T14:23:02.058163",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -57,7 +57,8 @@
       "Little Caesars Pizza",
       "Konafa Habiba",
       "Chapatti Rashid",
-      "Umm Alaish"
+      "Umm Alaish",
+      "Krispy Kreme"
     ],
     "completed_pages": [
       1,
