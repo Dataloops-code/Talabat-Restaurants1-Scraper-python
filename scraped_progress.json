@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:31:31.417003",
+  "last_updated": "2025-04-06T12:33:20.754792",
   "all_results": {
     "الظهر": [
       {
@@ -61622,6 +61622,475 @@
             }
           ]
         }
+      },
+      {
+        "name": "hopo",
+        "cuisine": "Cakes, Desserts, Chocolate",
+        "url": "https://www.talabat.com/kuwait/restaurant/32193/hopo-west-abu-fetera-small-indust?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 29 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Ice Cream Sandwiches 12 Pieces",
+              "description": "Different flavors of ice cream sandwiches, 4 pieces mango, 4 pieces blueberry and 4 pieces raspberry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Mango Cheesecake",
+              "description": "Cheesecake mixed with cold mango",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "6 Pieces of Mini London Cheesecake",
+              "description": "The minis. A single shot of London",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Blueberry Cheesecake",
+              "description": "Mix of blueberry flavor and lemon.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Icecream Cheese Cake  Bite 20 Pieces",
+              "description": "2 flavours of ice cream cheese cake bites, 10 pieces of white chocolate and 10 pieces of chocolate coated with milk chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "12 Pieces of Mini London Cheesecake",
+              "description": "The minis. A single shot of London.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cake": [
+            {
+              "index": 6,
+              "name": "Chocolate Truffle Cake",
+              "description": "A decadent chocolate truffle cake with smooth ganache and rich, melt-in-your-mouth flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Flipped Pistachio Cheesecake",
+              "description": "Biscuit crumble, baked cheese cake, pistachio kunafa mix and cheese sauce with raspberry marble. Enough for 8 to 10 peoples",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "17.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "6 Pieces of Mini London Cheesecake",
+              "description": "The minis. A single shot of London",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "12 Pieces of Mini London Cheesecake",
+              "description": "The minis. A single shot of London.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Raspberry Cheesecake",
+              "description": "Mix of cheesecake with tangy raspberry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Blueberry Cheesecake",
+              "description": "Mix of blueberry flavor and lemon.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Mango Cheesecake",
+              "description": "Cheesecake mixed with cold mango",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ice Cream": [
+            {
+              "index": 13,
+              "name": "Ice Cream Sandwiches 12 Pieces",
+              "description": "Different flavors of ice cream sandwiches, 4 pieces mango, 4 pieces blueberry and 4 pieces raspberry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Icecream Cheese Cake  Bite 20 Pieces",
+              "description": "2 flavours of ice cream cheese cake bites, 10 pieces of white chocolate and 10 pieces of chocolate coated with milk chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/hoopoe",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "4919",
+          "Reviews_count": "3462",
+          "General_review": [
+            "hopo is a restaurant located in Kuwait, serving a selection of Cakes, Desserts, Chocolate that delivers across Abdullah Al-Salem, Abu Ftaira, Adailiya, Adan and Al Masayel.",
+            "Their best selling dishes are Flipped Pistachio Cheesecake, Mango Cheesecake, Blueberry Cheesecake and 12 Pieces of Mini London Cheesecake, although they have a variety of dishes and meals to choose from like Cakes, Desserts, Chocolate .",
+            "They have been reviewed 4919 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "عادل ا***",
+              "review_date": "23 March 2025",
+              "review_rating": "OK",
+              "review_comment": "لم يذكر في الوصف انها كيكة ايس كريم"
+            },
+            {
+              "reviewer_name": "lulwa m***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the mango cheese cake is 10/10 great delivary and fast as always"
+            },
+            {
+              "reviewer_name": "فاطمة م***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طالبة شيز كيك مانجا واصلني ايس كريم بايتس"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "16 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "😍😍😍 😍😍😍😍😍😍 ummmmmmmmmmmmmm"
+            },
+            {
+              "reviewer_name": "Nawal A***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكيكه لذيذه جدا"
+            },
+            {
+              "reviewer_name": "Hajer B***",
+              "review_date": "11 March 2025",
+              "review_rating": "Good",
+              "review_comment": "perfect"
+            },
+            {
+              "reviewer_name": "Ghaliya G***",
+              "review_date": "10 March 2025",
+              "review_rating": "OK",
+              "review_comment": "i ordered the mango cheesecake and it came melted and it spilled half of the mango syrup in the box"
+            },
+            {
+              "reviewer_name": "refaah a***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سيء"
+            },
+            {
+              "reviewer_name": "Asayel S***",
+              "review_date": "01 March 2025",
+              "review_rating": "OK",
+              "review_comment": "كل الصوص منكب بالبوكس و الشكل كان سيء"
+            },
+            {
+              "reviewer_name": "Ameera A***",
+              "review_date": "22 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الصوره الكيكه مغلفه مانجا ووصلت فيها بس صوص"
+            },
+            {
+              "reviewer_name": "غلا ا***",
+              "review_date": "20 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الاسف ريحة الجيس وكرتون كلها زقاير والمشكله انه الطلب غير مطبوخ"
+            },
+            {
+              "reviewer_name": "بشاير ا***",
+              "review_date": "10 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميله"
+            },
+            {
+              "reviewer_name": "غنايم ا***",
+              "review_date": "04 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا\" شكرا\""
+            },
+            {
+              "reviewer_name": "Afrah A***",
+              "review_date": "17 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذاذه"
+            },
+            {
+              "reviewer_name": "r e***",
+              "review_date": "23 December 2024",
+              "review_rating": "OK",
+              "review_comment": "سيء سيء سيء مو حلو ابداً تغير طعمه"
+            },
+            {
+              "reviewer_name": "Odai H***",
+              "review_date": "18 December 2024",
+              "review_rating": "OK",
+              "review_comment": "very bad"
+            },
+            {
+              "reviewer_name": "fatma a***",
+              "review_date": "04 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "كانت ذايبه 😔"
+            },
+            {
+              "reviewer_name": "maha a***",
+              "review_date": "27 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "mona a***",
+              "review_date": "27 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "No mention that we must pot it in freezer lkept in freg it melt"
+            },
+            {
+              "reviewer_name": "Maha S***",
+              "review_date": "18 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "عجييييب"
+            },
+            {
+              "reviewer_name": "khaled w***",
+              "review_date": "12 November 2024",
+              "review_rating": "OK",
+              "review_comment": "You can see a layer of snow on order so the testing was baaaad."
+            },
+            {
+              "reviewer_name": "Baqer K***",
+              "review_date": "09 November 2024",
+              "review_rating": "OK",
+              "review_comment": "الاكل بايت"
+            },
+            {
+              "reviewer_name": "Mona a***",
+              "review_date": "07 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "⭐️⭐️⭐️⭐️ ⭐️"
+            },
+            {
+              "reviewer_name": "maryam j***",
+              "review_date": "07 November 2024",
+              "review_rating": "OK",
+              "review_comment": "مندوب طلبات"
+            },
+            {
+              "reviewer_name": "Sara S***",
+              "review_date": "25 October 2024",
+              "review_rating": "Good",
+              "review_comment": "طلبت دايت .. حامض نوعا ما وبس نوعين .. العادي وايد احلى ومنوع اكثر"
+            },
+            {
+              "reviewer_name": "Mohammed A***",
+              "review_date": "24 October 2024",
+              "review_rating": "OK",
+              "review_comment": "سيء جداً حيييل اخترب.قبل سنة كان عجيب بس اليوم طعمه ثلج.. مافيه اي نكهة"
+            },
+            {
+              "reviewer_name": "Ahmad B***",
+              "review_date": "23 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "good good"
+            },
+            {
+              "reviewer_name": "abdullah a***",
+              "review_date": "11 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "the best sweet 😍👏🌹🌹🌹🌹"
+            },
+            {
+              "reviewer_name": "nora a***",
+              "review_date": "04 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "always perfect"
+            },
+            {
+              "reviewer_name": "عذبي ا***",
+              "review_date": "25 September 2024",
+              "review_rating": "OK",
+              "review_comment": "الطلب تالف"
+            },
+            {
+              "reviewer_name": "Somayah J***",
+              "review_date": "21 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "جربوا كيكة المنجا و مكعبات الكاكاو شي عجيب"
+            },
+            {
+              "reviewer_name": "abdulla h***",
+              "review_date": "12 September 2024",
+              "review_rating": "OK",
+              "review_comment": "الكميه قليله بالنسبه للسعر"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "08 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "Hussain D***",
+              "review_date": "07 September 2024",
+              "review_rating": "OK",
+              "review_comment": "the packaging is so bad. the cake juice is out all over the packaging."
+            },
+            {
+              "reviewer_name": "Somayah J***",
+              "review_date": "02 September 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز كيكة المنجا رهيبه ممتاز"
+            },
+            {
+              "reviewer_name": "ام مزنه ا***",
+              "review_date": "01 September 2024",
+              "review_rating": "Good",
+              "review_comment": "توت مو حلو والدايجستف ثقيل حيل"
+            },
+            {
+              "reviewer_name": "عبيد ا***",
+              "review_date": "30 August 2024",
+              "review_rating": "OK",
+              "review_comment": "الكيكه سائحه ليش التعامل هاذا انا مو اول مره اطلب ليش الطلب كذا الكيكه ذايبه"
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "14 August 2024",
+              "review_rating": "OK",
+              "review_comment": "صلصة الكيك انسكب في العلبه 😡"
+            },
+            {
+              "reviewer_name": "Jawan B***",
+              "review_date": "04 August 2024",
+              "review_rating": "Amazing",
+              "review_comment": "so delicious he delivered it perfectly on time"
+            },
+            {
+              "reviewer_name": "Hadeel A***",
+              "review_date": "30 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذه كيكه المانغو ووصل بارد مو ذايب تهبل تهبل اتمنى يستمر الاداء جذي كل التوفيق"
+            },
+            {
+              "reviewer_name": "lulu j***",
+              "review_date": "25 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "wow wow"
+            },
+            {
+              "reviewer_name": "ابو حسين ا***",
+              "review_date": "20 July 2024",
+              "review_rating": "Amazing",
+              "review_comment": "عجيييييييييب من الآخر"
+            }
+          ]
+        }
       }
     ]
   },
@@ -61629,7 +62098,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -61675,7 +62144,8 @@
       "Jollibee",
       "Rochas sweets",
       "Ananas",
-      "Overjar"
+      "Overjar",
+      "hopo"
     ],
     "completed_pages": [
       1,

@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:31:31.415056",
+  "last_updated": "2025-04-06T12:33:20.752881",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -53,7 +53,8 @@
       "Jollibee",
       "Rochas sweets",
       "Ananas",
-      "Overjar"
+      "Overjar",
+      "hopo"
     ],
     "completed_pages": [
       1,
