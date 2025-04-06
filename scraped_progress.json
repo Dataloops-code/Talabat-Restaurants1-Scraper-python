@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:27:16.206248",
+  "last_updated": "2025-04-06T10:29:51.223372",
   "all_results": {
     "الظهر": [
       {
@@ -5233,6 +5233,1267 @@
             }
           ]
         }
+      },
+      {
+        "name": "Bait Noura",
+        "cuisine": "Grills, Kuwaiti, Chicken",
+        "url": "https://www.talabat.com/kuwait/restaurant/46312/bait-noura-mahbula?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 36 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Majbos Chicken",
+              "description": "A national kuwaiti dish of chicken with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Red Kabsa Chicken",
+              "description": "A Special Dish Of Spiced Chicken With Red Rice, Pickles, Mabouj and Daqoos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Fattoush",
+              "description": "Fattoush salad with olive oil, lemon and sumac.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Cucumber Yogurt",
+              "description": "Cucumber, yogurt, garlic and mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cucumber Yogurt",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Cucumber Yogurt (0.950)",
+                    "Plain Yogurt (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Laban Bait Noura",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Makloba Chicken",
+              "description": "A Special Dish Of Spiced Chicken With Vegetable topped on Rice, Pickles, Mabouj and Dakkos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Diwania Trays": [
+            {
+              "index": 6,
+              "name": "Biryani Chicken Tray",
+              "description": "A Layered Biryani Spiced Rice Topped With Chicken Served With Pickles, small yougurt, Maabouj and Daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Biryani Chicken Tray",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "4 Persons (14.000)",
+                    "5 Persons (17.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 7,
+              "name": "Majbos Chicken Bo Abdulrahman Tray",
+              "description": "A national kuwaiti dish of spiced chicken 500grms stuffed with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Majbos Chicken Bo Abdulrahman Tray",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "5 Persons (19.750)",
+                    "4 Persons (15.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 8,
+              "name": "Makloba Lamb Tray",
+              "description": "Special dish of spiced fresh lamb meat with vegetable topped on rice, pickles, mabouj and dakkos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Makloba Lamb Tray",
+                "price_details": {
+                  "Your Choice (Choose 1)": [
+                    "5 Persons (27.500)",
+                    "4 Persons (22.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 9,
+              "name": "Majbos Chicken Tray",
+              "description": "A national Kuwaiti dish of spiced chicken with rice, pickles, mabouj and dakkos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Majbos Chicken Tray",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "5 Persons (13.750)",
+                    "4 Persons (11.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 10,
+              "name": "Majbos Lamb Tray",
+              "description": "A national Kuwaiti dish of spiced fresh lamb with rice, pickles, mabouj and dakkos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Majbos Lamb Tray",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "5 Persons (27.500)",
+                    "4 Persons (22.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 11,
+              "name": "Makloba Chicken Tray",
+              "description": "A Special Dish Of Spiced Chicken With Vegetable topped on Rice, Pickles, Mabouj and Dakkos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Makloba Chicken Tray",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "5 Persons (17.500)",
+                    "4 Persons (14.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Main Courses": [
+            {
+              "index": 12,
+              "name": "Grilled Chicken Majboos",
+              "description": "Half grilled chicken majboos marinated in a special mixture, prepared with rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Majbos Lamb Naemi",
+              "description": "Majbos lamb neami served with pickles, mabouj and dakkos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Kabsa Lamb Naemi",
+              "description": "Kabsa lamb naemi served with pickles, mabouj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Majbos Chicken Bo Abdulrahman",
+              "description": "A national kuwaiti dish of spiced chicken 500grms stuffed with  rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Majbos Chicken",
+              "description": "A national kuwaiti dish of chicken with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Lamb Momwash",
+              "description": "National Kuwaiti dish. Spiced lamb with momwash rice, pickles, maabouj and daqoos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Brown Kabsa Chicken",
+              "description": "Special dish of spiced chicken with brown rice, pickles, mabouj and daqoos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Red Kabsa Chicken",
+              "description": "A Special Dish Of Spiced Chicken With Red Rice, Pickles, Mabouj and Daqoos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Makloba Chicken",
+              "description": "A Special Dish Of Spiced Chicken With Vegetable topped on Rice, Pickles, Mabouj and Dakkos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Biryani Chicken",
+              "description": "A layered biryani spiced chicken served with, rice, pickles, maboj, daqoos and yoghurt.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Royal Zubadi",
+              "description": "A traditional kuwaiti prawn, zubadi fish served with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Motabaq Zubaidi",
+              "description": "Zubaidi platter served with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Royal Sea Bass",
+              "description": "A traditional kuwaiti prawn, Sea Bass fish served with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Motabaq Sea Bass",
+              "description": "Sea Bass platter served with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Murabyan",
+              "description": "A traditional kuwaiti prawn served with rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Biryani Prawn",
+              "description": "A layered biryani spiced prawns served with, rice, pickles, maboj, daqoos and yoghurt.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Soft Momawash Prawn",
+              "description": "Cooked prawn with yellow rice served with kuwaiti pickles and daqoos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Majbos Lamb",
+              "description": "A national kuwaiti dish of spiced lamb with  rice, pickles, maboj and daqoos.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Brown Kabsa Lamb",
+              "description": "A Special Dish Of Spiced Lamb With Brown Rice, Kuwaiti Pickles, Mabouj & Dakkos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Red Kabsa Lamb",
+              "description": "A Special Dish Of Spiced Lamb With Red Rice, Pickles, Mabouj & Dakkos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Biryani Lamb",
+              "description": "A layered biryani spiced lamb served with, rice, pickles, maboj, daqoos and yoghurt.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Makloba Lamb",
+              "description": "A Special Dish Of Spiced Fresh lamb With Vegetable topped on Rice, Pickles, Mabouj & Dakkos",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Rice With Okra Meat Stew",
+              "description": "Special okra with meat dish served with rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Traditional Kuwait Food": [
+            {
+              "index": 35,
+              "name": "Mafroukeh",
+              "description": "Mafroukeh with dates and ghee.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Eash Malbosh Chicken",
+              "description": "One of the oldest traditional Kuwaiti food",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Eash Malbosh Lamb",
+              "description": "One of the oldest traditional Kuwaiti food",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Chicken Harees",
+              "description": "Traditional dish made of wheat pureed with chicken , topped caster sugar, margarine and cinnamon.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Lamb Gresh",
+              "description": "Cooked of wheat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Gaboot  Bait Noura",
+              "description": "Dough stuffed with onions, black pepper and cooked with meat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Margoga Lamb",
+              "description": "Special mixture of margoga , served with vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Chicken Tashrepa",
+              "description": "Bake Bread pieces, topped with chicken gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Lamb Tashrepa",
+              "description": "Bake Bread pieces, topped with meat gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Mahroq Soubha",
+              "description": "Bake tanoor pieces topped with chicken gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Red Pasta with Chicken",
+              "description": "Chicken pasta with red tomato sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Soups": [
+            {
+              "index": 46,
+              "name": "Lentil Soup",
+              "description": "Lentil soup served with roasted bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Chicken Soup",
+              "description": "Cream soup with chicken served with sweet corn.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Prawn Soup",
+              "description": "Cream soup with shrimp.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Side Additions": [
+            {
+              "index": 49,
+              "name": "Original Lamb Ghee",
+              "description": "Original Lamb Ghee 1/4 Kilogram.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Red Maabouj",
+              "description": "Grounded red chili",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Green Maabouj",
+              "description": "Grounded Green Chili",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Tamarind Paste",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Hot Sauce Red Rooster",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Somatra Hot Sauce Indofood",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Original Lamb Ghee Small",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizers And Salads": [
+            {
+              "index": 56,
+              "name": "Bait Noura Salad",
+              "description": "Cucumber, tomato, parsley, mint, lemon juice, olive oil, and vinegar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Fattoush",
+              "description": "Fattoush salad with olive oil, lemon and sumac.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Green Salad",
+              "description": "Oriental salad.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Tabbouleh",
+              "description": "Oriental salad.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Rocca Salad",
+              "description": "Rocca with beetroot and special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Beetroot Salad",
+              "description": "Mixture of beets and oil with lemon sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Hummus",
+              "description": "Chickpeas with tahini and olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Muttabal",
+              "description": "Mix of grilled eggplant dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Cucumber Yogurt",
+              "description": "Cucumber, yogurt, garlic and mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cucumber Yogurt",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Cucumber Yogurt (0.950)",
+                    "Plain Yogurt (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 65,
+              "name": "Vine Leaves",
+              "description": "Stuffed with rice, vegetables, limon and olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Samosa",
+              "description": "Get ready to indulge in the crispy and savory goodness of our freshly made samosas - perfectly spiced and stuffed with a mouthwatering filling of potatoes and peas that will leave you craving for more!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Kebbeh",
+              "description": "Savory and spiced meat patties, made with bulgur wheat and ground meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Spring Roll",
+              "description": "Crispy Spring Rolls, filled with a delectable combination of fresh vegetables accompanied by a sweet and spicy dipping sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Chilli Potato",
+              "description": "Fresh potatoes, coriander,hot pepper, garlic, lemon and olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Grilled On Charcoal": [
+            {
+              "index": 70,
+              "name": "Rotisserie Chicken",
+              "description": "Slow Roasted chicken Served with potato, garlic and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Rotisserie Chicken",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Half (1.950)",
+                    "Whole (2.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 71,
+              "name": "Charcoal Grilled Chicken",
+              "description": "Served with potato, grilled vegetables, garlic sauce and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Charcoal Grilled Chicken",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Half (1.950)",
+                    "Whole (2.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 72,
+              "name": "Barbeque Mix",
+              "description": "1 Shish tawook, 1 tikka, 1 kebab, Arays Served with French Fries, tahini dip and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Shish Tawook",
+              "description": "2 skewers of spiced chicken served with potato, garlic sauce and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Tikka Meat",
+              "description": "2 skewers pieces of spiced meat marinated with chef special mix served with potato, tahini dip and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Kebab Meat",
+              "description": "3 skewers of spiced meat, served with potato and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Kebab Kheshkhash",
+              "description": "3 skewers of grilled kofta with chili sauce and bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Arays Meat",
+              "description": "Served with potatoes.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Side Dishes And Maraq": [
+            {
+              "index": 78,
+              "name": "Okra Stew",
+              "description": "Stew made with okra.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Potato Stew",
+              "description": "Potatoes, Meat, Onion, Garlic, Tomatoes, Salt, Pepper, Cumin, Turmeric, Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Biryani Rice",
+              "description": "Basmati rice with saffron mix.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "French Fries",
+              "description": "Traditional fried Kuwaiti potatoes.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cold Drinks": [
+            {
+              "index": 82,
+              "name": "Laban Bait Noura",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Coca-Cola",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Coca-Cola Light",
+              "description": "Sugar free carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Sprite",
+              "description": "Non-caffeinated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Fanta Orange",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Fanta Strawberry",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Mineral Water Small",
+              "description": "Quench your thirst with the crisp and refreshing taste of our premium Mineral Water Small, to deliver pure hydration in every sip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/bait-noura",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "3971",
+          "Reviews_count": "2628",
+          "General_review": [
+            "Bait Noura is a restaurant located in Kuwait, serving a selection of Grills, Kuwaiti, Chicken that delivers across Abu Ftaira, Abu Hasaniya, Adan, Airport and Al Masayel.",
+            "Their best selling dishes are Bait Noura Salad, Makloba Lamb, Red Kabsa Chicken and Majbos Chicken Bo Abdulrahman, although they have a variety of dishes and meals to choose from like Grills, Kuwaiti, Chicken.",
+            "They have been reviewed 3971 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "معالي ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الورق عنب فيه دبس رمان وليس ليمون"
+            },
+            {
+              "reviewer_name": "هند ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "روعه ممتاز"
+            },
+            {
+              "reviewer_name": "Salem A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء سيء سيء جدا وماينوكل شغل مش حالك واقل الله يكرم النعمه ويزيدها واضح العمال مالهم خلق يشتغلون"
+            },
+            {
+              "reviewer_name": "Huda A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل سيء اللحم عاصي وطعمه غريب والقبوط الله يزيد النعمه لاطعم لاريحه لا شكل"
+            },
+            {
+              "reviewer_name": "bo W***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I throw it in the garbage"
+            },
+            {
+              "reviewer_name": "Ali A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "i ordered red kabsa and got maqlouba"
+            },
+            {
+              "reviewer_name": "Naser H***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "دجاج عرد وطعم ماصخ والعيش مايستحق التجربة"
+            },
+            {
+              "reviewer_name": "Najat A***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "العيش قليل جداا الكميه غير كافيه"
+            },
+            {
+              "reviewer_name": "anfal e***",
+              "review_date": "16 March 2025",
+              "review_rating": "OK",
+              "review_comment": "وريحه زفر للاسف ودجاج شويه كله دم مومغسول عدل"
+            },
+            {
+              "reviewer_name": "Salahaldien A***",
+              "review_date": "15 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الدجاجة زفرة ، وماكان في حشو 💔"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "11 March 2025",
+              "review_rating": "OK",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Abou N***",
+              "review_date": "10 March 2025",
+              "review_rating": "OK",
+              "review_comment": "لا يئكل والمذاق سيئ والدجاج غير مستوي وصل الدجاج ني ورمينا اكل غير مستوي"
+            },
+            {
+              "reviewer_name": "انوار A***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "تشريب الدجاج طعمه حلو 👍🏻 توصيل سريع سلوك السائق جيد"
+            },
+            {
+              "reviewer_name": "shaimaa a***",
+              "review_date": "01 March 2025",
+              "review_rating": "OK",
+              "review_comment": "العيش مو مغسىول عدل قبل الطبخ واليريش مليان زيت."
+            },
+            {
+              "reviewer_name": "صفية ع***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ تبارك الرحمن انشالله ما يتغيرون بالمستقبل"
+            },
+            {
+              "reviewer_name": "انوار A***",
+              "review_date": "24 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ماشاء الله التشريب لذيذ توصيل سريع"
+            },
+            {
+              "reviewer_name": "متعب ن***",
+              "review_date": "20 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب بارد ولا ينوكل"
+            },
+            {
+              "reviewer_name": "الزيــن ا***",
+              "review_date": "04 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا من القلب♥️"
+            },
+            {
+              "reviewer_name": "فاطمه ا***",
+              "review_date": "01 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "برياني دجاج خيال خيال خياااال"
+            },
+            {
+              "reviewer_name": "hanouf a***",
+              "review_date": "29 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "اللحم طعمه قديم"
+            },
+            {
+              "reviewer_name": "Mutlaq a***",
+              "review_date": "28 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكميه قليله شوي"
+            }
+          ]
+        }
       }
     ]
   },
@@ -5240,7 +6501,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -5253,7 +6514,8 @@
       "Ghanayem",
       "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira",
-      "Elevation Burger, Abu Ftaira"
+      "Elevation Burger, Abu Ftaira",
+      "Bait Noura"
     ],
     "completed_pages": []
   }
