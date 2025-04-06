@@ -1,28 +1,24 @@
 name: Daily Talabat Scraper
 
-# Trigger the workflow daily at midnight UTC or manually
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs daily at 00:00 UTC
-  workflow_dispatch:     # Allows manual triggering from the GitHub UI
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:     # Allows manual triggering
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout the repository with a token for pushing changes
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Required for pushing updates
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 2: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"  # Match your local Python version
+          python-version: "3.10"
 
-      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -39,56 +35,45 @@ jobs:
 
       - name: Fix PhantomJS Issue
         run: |
-          npm uninstall phantomjs-prebuilt
-          npm install phantomjs-prebuilt@2.1.13
+          npm uninstall phantomjs-prebuilt || true
+          npm install phantomjs-prebuilt@2.1.13 || true
           npm cache clear --force
-          npm install
+          npm install || true
 
-      # Step 4: Restore progress from cache (optional backup)
       - name: Restore cached progress
         id: cache-restore
         uses: actions/cache/restore@v4
         with:
-          path: progress.json
-          key: talabat-scraper-progress-${{ github.run_id }}  # Unique per run
+          path: current_progress.json  # Match main.py’s file
+          key: talabat-scraper-progress-${{ github.run_id }}
           restore-keys: |
-            talabat-scraper-progress-  # Fallback to any previous progress
+            talabat-scraper-progress-
 
-      # Step 5: Run the scraper
       - name: Run Talabat scraper
         run: python main.py
 
-      # Step 6: Commit and push updated progress file
       - name: Commit progress updates
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add progress.json
-          git commit -m "Update scraper progress for run ${{ github.run_id }}" || echo "No changes to commit"
+          git add current_progress.json scraped_progress.json output/
+          git commit -m "Update scraper progress and data for run ${{ github.run_id }}" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 7: Save progress to cache (optional backup)
       - name: Save progress to cache
         uses: actions/cache/save@v4
         with:
-          path: progress.json
-          key: talabat-scraper-progress-${{ github.run_id }}  # Unique per run
-          
-      # - name: Upload Progress as Artifact
-      #   uses: actions/upload-artifact@v4
-      #   if: always()
-      #   with:
-      #     name: talabat-progress-data
-      #     path: progress.json
-      #     retention-days: 7
+          path: current_progress.json  # Match main.py’s file
+          key: talabat-scraper-progress-${{ github.run_id }}
 
       - name: Cleanup
         if: always()
         run: |
           rm -rf node_modules
           rm -rf ~/.cache/ms-playwright
+
           
           
 # name: Talabat Scraper Workflow
