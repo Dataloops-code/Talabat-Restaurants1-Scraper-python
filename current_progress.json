@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T18:26:57.008628",
+  "last_updated": "2025-04-06T18:28:25.451909",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 9,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -122,7 +122,8 @@
       "Marble Slab Creamery",
       "Salad Creation",
       "Jollibee",
-      "Byalat Karak"
+      "Byalat Karak",
+      "Raising Cane's"
     ],
     "completed_pages": [
       1,
