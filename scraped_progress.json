@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:31:50.034529",
+  "last_updated": "2025-04-06T13:41:24.798396",
   "all_results": {
     "الظهر": [
       {
@@ -90761,6 +90761,3000 @@
             }
           ]
         }
+      },
+      {
+        "name": "Mama's Bakery",
+        "cuisine": "Breakfast, Pastries, Pies, Bakery",
+        "url": "https://www.talabat.com/kuwait/restaurant/47831/mamas-bakery-fintas-tgo?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 29 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Meat Pie",
+              "description": "Meat Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Meat Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.450)",
+                    "With Cheese (0.500)",
+                    "with Pomegranate Molasses (0.500)"
+                  ],
+                  "Add Ons: (Choose up to 3 items)": [
+                    "Add Jalapeno (0.100)",
+                    "Extra Meat (0.100)",
+                    "Add Hot sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Akkawi Cheese Pie",
+              "description": "Pie filled with Akkawi cheese, a Middle Eastern cheese variety.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Akkawi Cheese Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.500)",
+                    "Full (0.550)"
+                  ],
+                  "Add Ons (Choose up to 4 items)": [
+                    "Extra Akkawi Cheese (0.100)",
+                    "Add Pomegranate Molasses (0.050)",
+                    "Add Jalapeno (0.100)",
+                    "Add Hot Sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Kraft Pie",
+              "description": "Pie made with Creamy Kraft cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kraft Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.450)",
+                    "With Hot Dog (0.500)",
+                    "With Mortadella (0.500)",
+                    "Full (0.500)"
+                  ],
+                  "Add-Ons (Choose up to 4 items)": [
+                    "Add Hot sauce",
+                    "Add pomegranate molasses (0.050)",
+                    "Add Jalapeno (0.100)",
+                    "Extra Kraft (0.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "French Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Zaatar Mahsi",
+              "description": "Zaatar Mahsi",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Distinctive Zaatar",
+              "description": "Distinctive Zaatar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Offers": [
+            {
+              "index": 6,
+              "name": "Gathering Box",
+              "description": "Large box of syrian dishes, small box of plates",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.700",
+                "new_price": "11.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Gathering Box",
+              "description": "Large box of syrian dishes, small box of plates",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.700",
+                "new_price": "11.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "2Kd Deals": [
+            {
+              "index": 8,
+              "name": "Mix Meal",
+              "description": "Saj Mix Cheese +Meat Pie +Distinctive Zaatar +soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Trio Meal",
+              "description": "Mortadella with cheese saj + whole halloumi pie + special falafel pie + soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Beef Meal",
+              "description": "Burger Pie + Burger special pie + fries + soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Items": [
+            {
+              "index": 11,
+              "name": "Zwara",
+              "description": "A dozen safayeh, a dozen mini fatayer and a dozen mini shamiyyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Mini Shawarma Box",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Gathering Box",
+              "description": "Large box of syrian dishes, small box of plates",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.700",
+                "new_price": "11.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Distinctive Zaatar",
+              "description": "Distinctive Zaatar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Turkey Pizza",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Turkey Pizza",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Medium (2.350)",
+                    "Small (1.900)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 16,
+              "name": "Mini Fatayer  Box",
+              "description": "Mini Fatayer  Box",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Fatayer  Box",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Dozen - 12 Pieces (2.800)",
+                    "2 Dozen - 24 Pieces (5.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 17,
+              "name": "Zataar Mahshi Labneh",
+              "description": "Zataar Mahshi Labneh",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Spinach Mahshi Labneh",
+              "description": "Spinach Mahshi Labneh",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Special Mama's": [
+            {
+              "index": 19,
+              "name": "Special Vegetable",
+              "description": "Special Vegetable",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Special Vegetable",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Pie (0.750)",
+                    "Saj (1.350)",
+                    "Shamiyat (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 20,
+              "name": "Special Meat",
+              "description": "Grilled mixed meat platter",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Special Meat",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "Pie (0.950)",
+                    "Saj (1.350)",
+                    "Shamiyat (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 21,
+              "name": "Chicken Special",
+              "description": "Juicy chicken patty with shredded lettuce, tomato, creamy cheese, spices and herbs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Special",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "Pie (0.900)",
+                    "Saj (1.350)",
+                    "Shamiyat (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 22,
+              "name": "Shawarma Meat",
+              "description": "Shawarma Meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Shawarma Meat",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Pie (0.950)",
+                    "Saj (1.350)",
+                    "Shamiyat (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 23,
+              "name": "Meat Mushroom",
+              "description": "Meat Mushroom",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Meat Mushroom",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Pie (0.950)",
+                    "Saj (1.350)",
+                    "Shamiyat (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 24,
+              "name": "Chicken French",
+              "description": "Chicken French",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken French",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Pie (0.900)",
+                    "Saj (1.350)",
+                    "Shamiat (1.350)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 25,
+              "name": "Shawarma Chicken",
+              "description": "Shawarma chicken is a popular Middle Eastern dish made with thinly sliced",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Shawarma Chicken",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Pie (0.900)",
+                    "Saj (1.350)",
+                    "Shamiat (1.350)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Boxes": [
+            {
+              "index": 26,
+              "name": "Zwara",
+              "description": "A dozen safayeh, a dozen mini fatayer and a dozen mini shamiyyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Gathering Box",
+              "description": "Large box of syrian dishes, small box of plates",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.700",
+                "new_price": "11.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Mini Shawarma Box",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Sefayeh Box",
+              "description": "Small size 2 dozen, large size 3 dozen.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sefayeh Box",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (3.900)",
+                    "Large (5.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 30,
+              "name": "Mini Shamiyyat Box",
+              "description": "Small size 2 dozen, large size 3 dozen.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Shamiyyat Box",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "Small (5.200)",
+                    "Large (7.800)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Shamiyyat Box",
+              "description": "A mix of shamiyyat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Shamiyyat Box",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 16 Pieces (3.200)",
+                    "Large 28 Pieces (5.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 32,
+              "name": "Saaj Box",
+              "description": "Small size 12 pieces, large size 21 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Saaj Box",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (3.200)",
+                    "Large (5.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 33,
+              "name": "Dessert Box Shamiyyat",
+              "description": "Small size 16 pieces, large size 28 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Dessert Box Shamiyyat",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (4.000)",
+                    "Large (7.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 34,
+              "name": "Mini Shamiyyat Dessert Box",
+              "description": "Small size 2 dozen, large size 3 dozen.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Shamiyyat Dessert Box",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (5.200)",
+                    "Large (7.800)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Appetizer": [
+            {
+              "index": 35,
+              "name": "Super Crispy Potatoes",
+              "description": "Fried to a golden crisp perfection and seasoned",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "French Fries",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Mahshi": [
+            {
+              "index": 37,
+              "name": "Zaatar Mahsi",
+              "description": "Zaatar Mahsi",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Meat Mahshi",
+              "description": "Meat Mahshi",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Spinach Mahshi",
+              "description": "Spinach Mahshi",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Spinach Mahshi Labneh",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Zataar Mahshi Labneh",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Manaeesh": [
+            {
+              "index": 42,
+              "name": "Mix Cheese Manousha",
+              "description": "Mix Cheese Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Akkawi Manousha",
+              "description": "Akkawi Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Akkawi Manousha",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "Plain (0.600)",
+                    "Whole (0.650)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 44,
+              "name": "Halloumi Manousha",
+              "description": "Halloumi Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Halloumi Manousha",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Plain (0.550)",
+                    "Whole (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 45,
+              "name": "Kashkaval Manousha",
+              "description": "Kashkaval Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kashkaval Manousha",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Plain (0.550)",
+                    "Whole (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 46,
+              "name": "Labneh Manousha",
+              "description": "Labneh Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Labneh Manousha",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Plain (0.500)",
+                    "Whole (0.600)",
+                    "Labneh With Zaatar (0.550)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 47,
+              "name": "Spinach Manousha",
+              "description": "Spinach Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Spinach Manousha",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Plain (0.500)",
+                    "With Cheese (0.600)",
+                    "With Pomegranate Molasses (0.550)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 48,
+              "name": "Mortadella With Cheese Manousha",
+              "description": "Mortadella With Cheese Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Hot Dog With Cheese Manousha",
+              "description": "Hot Dog With Cheese Manousha",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pastries": [
+            {
+              "index": 50,
+              "name": "Mix Cheese Pie",
+              "description": "A combination of 3 different cheese types.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Cheese Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Whole (tomatoes, Zataar, black olives) (0.650)",
+                    "Plain (0.600)"
+                  ],
+                  "Addons: (Choose up to 4 items)": [
+                    "Add Hot Sauce",
+                    "Add Pomegranate Molasses (0.050)",
+                    "Extra Mix Cheese (0.100)",
+                    "Add Jalapeno (0.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 51,
+              "name": "Akkawi Cheese Pie",
+              "description": "Pie filled with Akkawi cheese, a Middle Eastern cheese variety.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Akkawi Cheese Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.500)",
+                    "Full (0.550)"
+                  ],
+                  "Add Ons (Choose up to 4 items)": [
+                    "Extra Akkawi Cheese (0.100)",
+                    "Add Pomegranate Molasses (0.050)",
+                    "Add Jalapeno (0.100)",
+                    "Add Hot Sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 52,
+              "name": "Kraft Pie",
+              "description": "Pie made with Creamy Kraft cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kraft Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.450)",
+                    "With Hot Dog (0.500)",
+                    "With Mortadella (0.500)",
+                    "Full (0.500)"
+                  ],
+                  "Add-Ons (Choose up to 4 items)": [
+                    "Add Hot sauce",
+                    "Add pomegranate molasses (0.050)",
+                    "Add Jalapeno (0.100)",
+                    "Extra Kraft (0.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 53,
+              "name": "Halloumi Cheese Pie",
+              "description": "A pie filled with delicious halloumi cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Halloumi Cheese Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.450)",
+                    "Full (0.500)"
+                  ],
+                  "Add On's: (Choose up to 4 items)": [
+                    "Add Jalapeno (0.100)",
+                    "Extra Halloumi Cheese (0.100)",
+                    "Add Hot sauce",
+                    "Add Pomegranate Molasses (0.050)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 54,
+              "name": "Kashkawan Cheese Pie",
+              "description": "Kashkawan Cheese Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kashkawan Cheese Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.450)",
+                    "Full (0.500)"
+                  ],
+                  "Add-Ons (Choose up to 4 items)": [
+                    "Add Jalapeno (0.100)",
+                    "Add Hot sauce",
+                    "Add Pomegranate Molasses (0.050)",
+                    "Extra Kashkawan Cheese (0.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 55,
+              "name": "Mozzarella Pie",
+              "description": "Pie with mozzarella cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mozzarella Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.450)",
+                    "Full (0.500)"
+                  ],
+                  "Add-Ons (Choose up to 4 items)": [
+                    "Add pomegranate molasses (0.050)",
+                    "Add Jalapeno (0.100)",
+                    "Extra Mozzarella (0.100)",
+                    "Add Hot sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 56,
+              "name": "Labneh Pie",
+              "description": "Labneh Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Labneh Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.400)",
+                    "With Mint (0.500)",
+                    "With Zaatar (0.450)",
+                    "Full (0.500)"
+                  ],
+                  "Add-Ons (Choose up to 4 items)": [
+                    "Add Jalapeno (0.100)",
+                    "Add Hot sauce",
+                    "Extra Labneh (0.100)",
+                    "Add pomegranate molasses (0.050)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 57,
+              "name": "Feta Cheese Pie",
+              "description": "Pie stuffed with light feta cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Feta Cheese Pie",
+                "price_details": {
+                  "Your Choice From: (Choose 1)": [
+                    "Full (0.500)",
+                    "Plain (0.450)"
+                  ],
+                  "Add Ons: (Choose up to 4 items)": [
+                    "Add Pomegranate Molasses (0.050)",
+                    "Extra Feta Cheese (0.100)",
+                    "Add Jalapeno (0.100)",
+                    "Add Hot Sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 58,
+              "name": "Cheese Pie",
+              "description": "Cheese Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cheese Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "With Zaatar (0.550)",
+                    "With Parsley (0.550)"
+                  ],
+                  "Add-Ons: (Choose up to 4 items)": [
+                    "Add Jalapeno (0.100)",
+                    "Add Hot sauce",
+                    "Extra Cheese (0.100)",
+                    "Add pomegranate molasses (0.050)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 59,
+              "name": "Meat Pie",
+              "description": "Meat Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Meat Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.450)",
+                    "With Cheese (0.500)",
+                    "with Pomegranate Molasses (0.500)"
+                  ],
+                  "Add Ons: (Choose up to 3 items)": [
+                    "Add Jalapeno (0.100)",
+                    "Extra Meat (0.100)",
+                    "Add Hot sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 60,
+              "name": "Hot Dog With Cheese Pie",
+              "description": "A pie with a filling of hot dog and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Mortadella With Cheese Pie",
+              "description": "Mortadella With Cheese Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Mortadella with Labneh Pie",
+              "description": "Mortadella with Labneh Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Burger Pie",
+              "description": "Burger with cheese , mayonnaise and ketchup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Chicken Hamsaa Pie",
+              "description": "Chicken Hamsaa Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Meat Hamsa Pie",
+              "description": "Meat Hamsaa Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Egg Pie",
+              "description": "Pie with egg filling.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Turkey Pie",
+              "description": "Turkey, tomatoes with sliced cheese and ranch sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Zaatar Pie",
+              "description": "Zaatar Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Zaatar Pie",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "Normal (0.250)",
+                    "Distinctive (0.650)",
+                    "Special Zaatar (0.400)",
+                    "Palestinian Zaatar (0.500)",
+                    "Zaatar With Cheese (0.500)",
+                    "Pomegranate Molasses (0.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 69,
+              "name": "Falafel Pie",
+              "description": "A savory pie filled with falafel, a Middle Eastern chickpea based fritter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Falafel Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "With Labneh (0.500)",
+                    "With Tahini (0.450)"
+                  ],
+                  "Add-Ons (Choose up to 4 items)": [
+                    "Add Hot sauce",
+                    "Add Jalapeno (0.100)",
+                    "Extra Falafel (0.100)",
+                    "Add pomegranate molasses (0.050)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 70,
+              "name": "Falafel Special Pie",
+              "description": "Falafel Special Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Spinach Pie",
+              "description": "Spinach Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Spinach Pie",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (0.400)",
+                    "With Cheese (0.500)",
+                    "Pomegranate Molasses (0.450)"
+                  ],
+                  "Add-Ons (Choose up to 3 items)": [
+                    "Add Jalapeno (0.100)",
+                    "Extra Spinach (0.100)",
+                    "Add Hot sauce"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 72,
+              "name": "Potato And Eggplant Pie",
+              "description": "Mama's special potato and eggplant recipe.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Saj": [
+            {
+              "index": 73,
+              "name": "Saj Mix Cheese",
+              "description": "Saj Mix Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Akkawi Saj",
+              "description": "Akkawi Saj, a Middle Eastern flatbread topped with Akkawi cheese, olive oil, and a sprinkle of za'atar, creating a savory and satisfying dish.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Kraft Saj",
+              "description": "flatbread made from saj bread topped with cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Halloumi Saj",
+              "description": "Halloumi cheese cooked on saj bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Kashkawan Cheese Saj",
+              "description": "Kashkawan Cheese Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Mozzarella Cheese Saj",
+              "description": "saj bread, mozzarella cheese, olive oil and spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Labneh Saj",
+              "description": "Saj bread filled with labneh.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Feta Cheese Saj",
+              "description": "Feta Cheese Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "Hot Dog With Cheese Saj",
+              "description": "Hot Dog With Cheese Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Mortadella With Cheese Saj",
+              "description": "Saj bread, mortadella, mozzarella cheese, olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Mortadella With Labneh Saj",
+              "description": "Mortadella With Labneh Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Burger Saj",
+              "description": "Burger with cheese, mayonnaise and ketchup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Chicken Hamsaa Saj",
+              "description": "Chicken Hamsaa Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 86,
+              "name": "Meat Hamsaa Saj",
+              "description": "Meat Hamsaa Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Turkey Saj",
+              "description": "Turkish flatbread filled with turkey.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Zaatar Saj",
+              "description": "Flatbread topped with a flavorful blend of zaatar spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Falafel Saj",
+              "description": "Falafel wrap on saj bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Special Falafel Saj",
+              "description": "Special Falafel Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "Spinach Saj",
+              "description": "Saj bread with spinach.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Eggplant And Potato Saj",
+              "description": "Mama's special potato and eggplant recipe.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "Pizza Saj",
+              "description": "Pizza Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Shamiyat": [
+            {
+              "index": 94,
+              "name": "Mix Cheese Shamiyat",
+              "description": "Mix Cheese Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Akkawi Shamiyat",
+              "description": "Akkawi Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Kraft Shamiyat",
+              "description": "Kraft Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Halloumi Cheese Shamiyat",
+              "description": "Halloumi Cheese Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Mozzarella Cheese Shamiyat",
+              "description": "Mozzarella Cheese Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Labneh Shamiyat",
+              "description": "Labneh Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "Feta Cheese Shamiyat",
+              "description": "Feta Cheese Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Hot Dog With Cheese Shamiyat",
+              "description": "Hot Dog With Cheese Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "Mortadella With Cheese Shamiyat",
+              "description": "Mortadella With Cheese Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Mortadella with Labneh Shamiyat",
+              "description": "Mortadella with Labneh Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Burger Shamiyat",
+              "description": "Burger with cheese , mayonnaise and ketchup.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Chicken Hamsaa Shamiyat",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "Meat Hamsaa Shameyat",
+              "description": "Meat Hamsaa Shameyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "Turkey Shamiyat",
+              "description": "Turkey, tomatoes with sliced cheese and ranch sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "Zaatar Shamiyat",
+              "description": "Zaatar, sumac, sesame seeds, dried thyme, dried oregano, salt, olive oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "Falafel Shamiyat",
+              "description": "Falafel Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Special Falafel Shamiyat",
+              "description": "Special Falafel Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 111,
+              "name": "Spinach Shamiyat",
+              "description": "Shamia dough with spiced spinach.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Potato And Eggplant Shamiyat",
+              "description": "Mama's special potato and eggplant recipe.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "Pizza Shamiyat",
+              "description": "Pizza Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "Kashkawan Cheese Shamiyat",
+              "description": "Kashkawan Cheese Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pizza": [
+            {
+              "index": 115,
+              "name": "Margherita Pizza",
+              "description": "Margherita Pizza",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Margherita Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.250)",
+                    "Medium (1.500)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 116,
+              "name": "Turkey Pizza",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Turkey Pizza",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Medium (2.350)",
+                    "Small (1.900)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 117,
+              "name": "Rocca Pizza",
+              "description": "Rocca Pizza",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Rocca Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.500)",
+                    "Medium (1.750)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 118,
+              "name": "Vegetables Pizza",
+              "description": "Veggie pizza,  pizza sauce, black olive, mushroom, green peppers and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vegetables Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.500)",
+                    "Medium (1.750)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 119,
+              "name": "Jalapeno Pizza",
+              "description": "Jalapeno Pizza",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Jalapeno Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.500)",
+                    "Medium (1.750)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 120,
+              "name": "Pepperoni Pizza",
+              "description": "Pepperoni Pizza",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pepperoni Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.500)",
+                    "Medium (2.000)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 121,
+              "name": "Hot Dog Pizza",
+              "description": "Hot dog with pizza sauce and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hot Dog Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.500)",
+                    "Medium (2.000)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 122,
+              "name": "Meat Pizza",
+              "description": "Beef with pizza sauce and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Meat Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.750)",
+                    "Medium (2.000)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 123,
+              "name": "Chicken Pizza",
+              "description": "Chicken with pizza sauce and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.750)",
+                    "Medium (2.000)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 124,
+              "name": "Vegetables With Pepperoni Pizza",
+              "description": "Vegetable pizza topped with pepperoni slices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vegetables With Pepperoni Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.750)",
+                    "Medium (2.000)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 125,
+              "name": "Pepperoni With Hot Dog Pizza",
+              "description": "Pepperoni With Hot Dog Pizza",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pepperoni With Hot Dog Pizza",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.750)",
+                    "Medium (2.000)"
+                  ],
+                  "Add-Ons: (Choose up to 2 items)": [
+                    "To Add Jalapeno (0.250)",
+                    "To Add The Edges Of The Cheese (0.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Desserts": [
+            {
+              "index": 126,
+              "name": "Nutella Pie",
+              "description": "Nutella Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Nutella Pie",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "Plain (0.500)",
+                    "Nutella Rahash (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 127,
+              "name": "Rahash Pie",
+              "description": "Rahash Pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Nutella Saj",
+              "description": "Nutella Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 129,
+              "name": "Kinder Saj",
+              "description": "Kinder Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 130,
+              "name": "Rahash Saj",
+              "description": "Rahash Saj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 131,
+              "name": "Nutella Shamiyat",
+              "description": "Nutella Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 132,
+              "name": "Kinder Shamiyat",
+              "description": "Kinder Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 133,
+              "name": "Rahash Shamiyat",
+              "description": "Rahash Shamiyat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 134,
+              "name": "Sukariyya",
+              "description": "Sukariyya",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sukariyya",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Medium (1.500)",
+                    "Small (1.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Extra Side Sauce": [
+            {
+              "index": 135,
+              "name": "Ranch Sauce",
+              "description": "Ranch Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 136,
+              "name": "BBQ Sauce",
+              "description": "BBQ Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 137,
+              "name": "Pizza Sauce",
+              "description": "tomato-based sauce that is used to top pizzas. It is typically made with tomatoes, onions, garlic, herbs, and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 138,
+              "name": "Pomegranate Molasses Sauce",
+              "description": "sweet and sour sauce made with pomegranate molasses",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 139,
+              "name": "Tahini Sauce",
+              "description": "Tahini Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 140,
+              "name": "Garlic Sauce",
+              "description": "Garlic Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 141,
+              "name": "French Sauce",
+              "description": "A flavorful sauce with French influences.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 142,
+              "name": "Jalapeno Cans",
+              "description": "Jalapeno Cans",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 143,
+              "name": "Orange Juice",
+              "description": "Orange Juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 144,
+              "name": "Coca Cola",
+              "description": "Coca Cola",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 145,
+              "name": "Diet Coca Cola",
+              "description": "Soft Drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 146,
+              "name": "Fanta Orange",
+              "description": "Orange flavored carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 147,
+              "name": "Fanta Strawberry",
+              "description": "Fanta Strawberry",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 148,
+              "name": "Sprite",
+              "description": "Sprite",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 149,
+              "name": "Water",
+              "description": "Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Ready To Cook": [
+            {
+              "index": 150,
+              "name": "Refrigerated Mix Cheese Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 151,
+              "name": "Refrigerated Plain Halloumi Cheese Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 152,
+              "name": "Refrigerated Zaatar Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 153,
+              "name": "Refrigerated Plain Akkawi Cheese Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 154,
+              "name": "Refrigerated Zaatar With Cheese Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 155,
+              "name": "Refrigerated Plain Kraft Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 156,
+              "name": "Refrigerated Spinach With Cheese Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 157,
+              "name": "Refrigerated Spinach Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 158,
+              "name": "Refrigerated Zaatar Mahshi Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 159,
+              "name": "Refrigerated Labneh Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Refrigerated Labneh Pie",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Plain (0.400)",
+                    "With Zaatar (0.450)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 160,
+              "name": "Refrigerated Plain Mozzarella Cheese Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 161,
+              "name": "Refrigerated Spinach Mahshi Pie",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 162,
+              "name": "Refrigerated Margherita Pizza",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Refrigerated Margherita Pizza",
+                "price_details": {
+                  "Your choice of (Choose 1)": [
+                    "Medium (1.750)",
+                    "Small (1.250)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 163,
+              "name": "Refrigerated Pepperoni Pizza",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Refrigerated Pepperoni Pizza",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Medium (2.000)",
+                    "Small (1.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 164,
+              "name": "Refrigerated Shamiya Mix Cheese",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 165,
+              "name": "Refrigerated Shamiya Akkawi Cheese",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 166,
+              "name": "Refrigerated Shamiya Plain Kraft",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 167,
+              "name": "Refrigerated Shamiya Plain Halloumi",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 168,
+              "name": "Refrigerated Shamiya Plain Mozzarella",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 169,
+              "name": "Refrigerated Shamiya Spinach",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 170,
+              "name": "Refrigerated Shamiya Pizza",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 171,
+              "name": "Refrigerated Shamiya Spinach With Cheese",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 172,
+              "name": "Refrigerated Shamiyat Spinach Pomegranate Molasses",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 173,
+              "name": "Refrigerated Shamiya Zaatar",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 174,
+              "name": "Refrigerated Shamiya Zaatar With Cheese",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 175,
+              "name": "Refrigerated Shamiya Labneh",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 176,
+              "name": "Refrigerated Shamiya Labneh With Zaatar",
+              "description": "Keep the pastry refrigerated 2 days only, or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 177,
+              "name": "Refrigerated Sukariyya",
+              "description": "Refrigerated Sukariyya",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 178,
+              "name": "Refrigerated  Mini Fatayer Box",
+              "description": "Refrigerated  Mini Fatayer Box",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 179,
+              "name": "Refrigerated Box Safayeh",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Refrigerated Box Safayeh",
+                "price_details": {
+                  "اختيارك من: (Choose 1)": [
+                    "15 Pieces (2.500)",
+                    "30 Pieces (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 180,
+              "name": "Refrigerated Box Mini Shamiyat",
+              "description": "Keep the pastry refrigerated 2 days only or frozen for 2 weeks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Refrigerated Box Mini Shamiyat",
+                "price_details": {
+                  "اختيارك من: (Choose 1)": [
+                    "15 Pieces (3.300)",
+                    "30 Pieces (6.600)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Egaila, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/mamas-bakery-qibla",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "26568",
+          "Reviews_count": "14359",
+          "General_review": [
+            "Mama's Bakery is a restaurant located in Kuwait, serving a selection of Breakfast, Pastries, Pies that delivers across Abdullah Al-Salem, Abu Ftaira, Abu Halifa, Abu Hasaniya and Adailiya.",
+            "Their best selling dishes are Zaatar Mahsi, Labneh Pie, Meat Pie and Shamiyyat Box , although they have a variety of dishes and meals to choose from like Breakfast, Pastries, Pies.",
+            "They have been reviewed 26568 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "ش ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتازه"
+            },
+            {
+              "reviewer_name": "حصه ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلب سيي"
+            },
+            {
+              "reviewer_name": "Danah ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ثاني مره اطلب منكم الصاج لذيذ وساخن وفريش .. يستحق تكرار التجربة👍🏻 سريع"
+            },
+            {
+              "reviewer_name": "maha Alshmri ***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب سريعه"
+            },
+            {
+              "reviewer_name": "Hassan S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "فهيد ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الصفايح روعه خفيفه وحاره وحشواتها لذيذه السايق ماشاءالله فاهم وذكي"
+            },
+            {
+              "reviewer_name": "Anwar A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل وصل فرش و العجينه روعه خفيفه و الحشوات لذيذه و كميتها ممتازه 👍🏻 التوصيل كان سويع و ممتاز"
+            },
+            {
+              "reviewer_name": "خديجه ك***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ألذ فطاير في الكويت 👍 جيده وصل في الموعد"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء وصل متأخر طالب ساعه ١ وصل ساعه ٣:١٥ وكان بارد وكان سيء الطعم"
+            },
+            {
+              "reviewer_name": "Kiran I***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "very very bad teste chinken was not cooked well I eill never old again"
+            },
+            {
+              "reviewer_name": "Alhrbi A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "abdulmohsen a***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "wrong order"
+            },
+            {
+              "reviewer_name": "انوار ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازة"
+            },
+            {
+              "reviewer_name": "sara g***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "اقوي فطاير"
+            },
+            {
+              "reviewer_name": "sanaa A***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "طيب"
+            },
+            {
+              "reviewer_name": "جنان ف***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذذذذذذيذذذ"
+            },
+            {
+              "reviewer_name": "Moudhi a***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يجنن الطعم انصح فيه بالوقت المحددد"
+            },
+            {
+              "reviewer_name": "Moudhi a***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يجنن والعجيبه حلوه ماتغث انصح فيه حلوه بنفس الوقت المحدد"
+            },
+            {
+              "reviewer_name": "May A***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل كل مره يتم طلبه يأتي غير منظم"
+            },
+            {
+              "reviewer_name": "NASSER_MR_FIFA 5***",
+              "review_date": "15 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل جميل لكن ماحبو ببسي"
+            },
+            {
+              "reviewer_name": "عمر ا***",
+              "review_date": "13 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Altaf A***",
+              "review_date": "12 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ وصل حار وحشوه راهيه أكلوه حزتها يوصل يهبل شيف شكرا ❤️ وصل الاكل شاطر ومؤدب"
+            },
+            {
+              "reviewer_name": "Jay D***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "My first time to order here and it will not be the last. The meat pie is awesome... ⭐⭐⭐⭐⭐ on time"
+            },
+            {
+              "reviewer_name": "Ella Alamo ***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very delicious o love everything good job"
+            },
+            {
+              "reviewer_name": "اريام ا***",
+              "review_date": "02 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "فطاير المرتديلا لذيذة ولكن فيها شوي ملوحة زايدة. حبيت الفلافل. الاكل وصل نصف دافي ليته كان ساخن thank you !"
+            },
+            {
+              "reviewer_name": "ناصر ا***",
+              "review_date": "01 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكميه قليله"
+            },
+            {
+              "reviewer_name": "Ali Z***",
+              "review_date": "28 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حلوة وكل شيبس الزعتر اوفر حاطين"
+            },
+            {
+              "reviewer_name": "sanaa A***",
+              "review_date": "28 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ok 👌🏼"
+            },
+            {
+              "reviewer_name": "Omr O***",
+              "review_date": "28 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "من افضل المطاعم الفطاير في الكويت"
+            },
+            {
+              "reviewer_name": "Amina A***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "Bedoor A***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "فطيرة البطاط والبيديان رهيبة"
+            },
+            {
+              "reviewer_name": "Bedour M***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كامل مكمل ♥️"
+            },
+            {
+              "reviewer_name": "sanaa A***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "طيب 🤤"
+            },
+            {
+              "reviewer_name": "Abdullah T***",
+              "review_date": "26 February 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء"
+            },
+            {
+              "reviewer_name": "Ferdinand C***",
+              "review_date": "25 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "good job and keep up the good work"
+            },
+            {
+              "reviewer_name": "Raj M***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Very important to eat it hot and fresh within the first 30 minutes of being made. DELICIOUS! Fast and Efficient"
+            },
+            {
+              "reviewer_name": "Jasem A***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريع ، وجودة الاكل كالعادة ممتازه👌"
+            },
+            {
+              "reviewer_name": "Talal A***",
+              "review_date": "24 February 2025",
+              "review_rating": "OK",
+              "review_comment": "كان بارد مع الاسف ،"
+            },
+            {
+              "reviewer_name": "Sarah M***",
+              "review_date": "23 February 2025",
+              "review_rating": "OK",
+              "review_comment": "جاني إسهال بعد مااكلت"
+            },
+            {
+              "reviewer_name": "Abduallah B***",
+              "review_date": "23 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "يرجى تعديل فطاير اللحم"
+            },
+            {
+              "reviewer_name": "SARA A***",
+              "review_date": "23 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "خيال خيااال وفرش احلى فطاير بالكويت خيال خيال خيال احلى فطاير بالكويت"
+            },
+            {
+              "reviewer_name": "Huda B***",
+              "review_date": "22 February 2025",
+              "review_rating": "OK",
+              "review_comment": "المذاق لم يعجبني"
+            },
+            {
+              "reviewer_name": "bassim I***",
+              "review_date": "21 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "تشكيلة الطلب اليوم الجبن واللحم والزعتر كانت ممتازة"
+            },
+            {
+              "reviewer_name": "Hessa A***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "very bad food … عجينه الصاج جداً سميكه و الفطاير وصلت بارده عجينة الصاج سميكه و ثقيله غير عن المعتاد لافينه كثير، لي درجة حاول اقص منها عشان نقدر ناكلها خفيفه."
+            },
+            {
+              "reviewer_name": "الوايليهه م***",
+              "review_date": "21 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جدا جذا لذيذ… بس الزعتر كميته وااجد"
+            },
+            {
+              "reviewer_name": "sanaa A***",
+              "review_date": "21 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👌🏼"
+            },
+            {
+              "reviewer_name": "Rana N***",
+              "review_date": "21 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "delicious and fresh"
+            },
+            {
+              "reviewer_name": "Batoul H***",
+              "review_date": "20 February 2025",
+              "review_rating": "OK",
+              "review_comment": "عجينة الفطاير وايد سميكه ياليت لو تضعفونها شوي"
+            }
+          ]
+        }
       }
     ]
   },
@@ -90768,7 +93762,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -90829,7 +93823,8 @@
       "Karam Sweet",
       "Texas RoadHouse, Sidra Mahboula",
       "Aaya Sweets",
-      "Tabel"
+      "Tabel",
+      "Mama's Bakery"
     ],
     "completed_pages": [
       1,

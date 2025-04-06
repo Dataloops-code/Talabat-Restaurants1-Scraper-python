@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:31:50.033280",
+  "last_updated": "2025-04-06T13:41:24.796850",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -49,7 +49,8 @@
       "Karam Sweet",
       "Texas RoadHouse, Sidra Mahboula",
       "Aaya Sweets",
-      "Tabel"
+      "Tabel",
+      "Mama's Bakery"
     ],
     "completed_pages": [
       1,
