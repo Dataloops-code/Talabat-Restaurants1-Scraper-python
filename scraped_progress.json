@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T14:02:38.102952",
+  "last_updated": "2025-04-06T14:09:08.040353",
   "all_results": {
     "الظهر": [
       {
@@ -101832,6 +101832,1136 @@
             }
           ]
         }
+      },
+      {
+        "name": "Konafa Habiba",
+        "cuisine": "Desserts, Arabic, Arabic sweets",
+        "url": "https://www.talabat.com/kuwait/restaurant/674394/konafa-habiba-egaila-tgo?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 24 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Konafa Jagged",
+              "description": "Rough konafa with cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa Jagged",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Basbousa with Cream",
+              "description": "Semolina cake topped with cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Basbousa with Cream",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Warabat with Cream",
+              "description": "Your choice of size",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Warabat with Cream",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Konafa Khechena Tray",
+              "description": "Tray konafa kheshena, a small tray for 4 to 5 people, or a medium tray: enough for 6-7 people or a large tray: enough for 8-10 people",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa Khechena Tray",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Small (5.500)",
+                    "Medium (6.500)",
+                    "Large (8.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mohalabiya",
+              "description": "Mohalabiya",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Plain Basbousa",
+              "description": "Original basbousa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Plain Basbousa",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Ramadan sweets": [
+            {
+              "index": 6,
+              "name": "Maamoul with Pistachio",
+              "description": "Box 500gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Brazak",
+              "description": "Box 500gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Maamoul With Walnuts",
+              "description": "Box 500 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Ghorayeba",
+              "description": "Box 500 gm",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Konafa": [
+            {
+              "index": 10,
+              "name": "Konafa Jagged",
+              "description": "Rough konafa with cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa Jagged",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 11,
+              "name": "Kunafa With Cream",
+              "description": "Cold kunafa with cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kunafa With Cream",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 12,
+              "name": "Konafa with Nuts",
+              "description": "Your choice of size",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa with Nuts",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 13,
+              "name": "Mabroma With Cream",
+              "description": "Your choice of kilo",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mabroma With Cream",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "kilo (5.000)",
+                    "Half A Kilo (2.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Konafa Tray": [
+            {
+              "index": 14,
+              "name": "Konafa Khechena Tray",
+              "description": "Tray konafa kheshena, a small tray for 4 to 5 people, or a medium tray: enough for 6-7 people or a large tray: enough for 8-10 people",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa Khechena Tray",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Small (5.500)",
+                    "Medium (6.500)",
+                    "Large (8.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 15,
+              "name": "Konafa Soft Tray",
+              "description": "Small tray: enough for 4-5 people, medium tray: enough for 6-7 people, large tray: enough for 8-10 people",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa Soft Tray",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Small (5.500)",
+                    "Medium (6.500)",
+                    "Large (8.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 16,
+              "name": "Konafa Khechena Tray with heater",
+              "description": "Konafa Khechena Tray with heater\nMedium tray: enough for 6-7 people \nLarge tray: enough for 8-10 people",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa Khechena Tray with heater",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Medium (11.000)",
+                    "Large (13.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 17,
+              "name": "Konafa soft Tray with heater",
+              "description": "Konafa soft Tray with heater, Medium tray: enough for 6-7 people, Large tray: enough for 8-10 people",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Konafa soft Tray with heater",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Medium (11.000)",
+                    "Large (13.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Arabic Desserts": [
+            {
+              "index": 18,
+              "name": "Mixed Baklawa",
+              "description": "A box of mix baklava",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Basbousa with Cream",
+              "description": "Semolina cake topped with cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Basbousa with Cream",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 20,
+              "name": "Warabat with Cream",
+              "description": "Your choice of size",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Warabat with Cream",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 21,
+              "name": "Harissa Shamiya",
+              "description": "Your choice of size",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Harissa Shamiya",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 22,
+              "name": "Plain Basbousa",
+              "description": "Original basbousa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Plain Basbousa",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 23,
+              "name": "Aish Al Saraya",
+              "description": "Your choice of size",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Aish Al Saraya",
+                "price_details": {
+                  "Your Choice Of : (Choose 1)": [
+                    "2 Persons (2.500)",
+                    "3 Persons (3.750)",
+                    "5 Persons (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 24,
+              "name": "Mohalabiya",
+              "description": "Mohalabiya",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Halawet Al Jeben",
+              "description": "Box of halawet al jeben",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Arabic Coffee Pot",
+              "description": "Traditional Arabic coffee.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Egaila, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/konafa-habiba",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.0",
+          "Ratings_count": "25189",
+          "Reviews_count": "16415",
+          "General_review": [
+            "Konafa Habiba is a restaurant located in Kuwait, serving a selection of Desserts, Arabic, Arabic sweets that delivers across Ardiya Small Industrial, Egaila, Farwaniya, Hawally and Jahra - Jahra Area.",
+            "Their best selling dishes are Konafa Jagged, Basbousa with Cream, Kunafa With Cream and Soft Konafa, although they have a variety of dishes and meals to choose from like Desserts, Arabic, Arabic sweets.",
+            "They have been reviewed 25189 times by talabat users, with a rating of 4."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Salman#youtube#yt ***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "cold kanafa poor service by talabat"
+            },
+            {
+              "reviewer_name": "Naser A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سى كل مره حجم مختلف ونفس الطلب ومره يحط صحون ومره لا على المزاج"
+            },
+            {
+              "reviewer_name": "Manilyn L***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "its great"
+            },
+            {
+              "reviewer_name": "Hind A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الكنافه بايته ليست فرش"
+            },
+            {
+              "reviewer_name": "iead ق***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "100/100"
+            },
+            {
+              "reviewer_name": "omran t***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "مع الاسف اخر مره اطلب منهم"
+            },
+            {
+              "reviewer_name": "Abo N***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "too much syrup & way too sweet making it difficult to accept to taste on time"
+            },
+            {
+              "reviewer_name": "zaynab a***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "حلاوة الجبن مالها دخل بحلاوة الجبن جدا مو طيبة"
+            },
+            {
+              "reviewer_name": "حبيبه م***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكنافه بارده"
+            },
+            {
+              "reviewer_name": "مشعل ا***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Naeem Qasem ***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "Farooq Zuberi ***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "nice nice"
+            },
+            {
+              "reviewer_name": "خالد ص***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "مع الاسف طلب شيره خفيفه جابوا لي متروسه شيره"
+            },
+            {
+              "reviewer_name": "faisal a***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اسوء كنافه بدون جبن ثلج من يومين يمكن مسوينها اخر مره اطلبها والله"
+            },
+            {
+              "reviewer_name": "رانيه ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "ما قطر ولاطعم"
+            },
+            {
+              "reviewer_name": "Henda A***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "رهيب"
+            },
+            {
+              "reviewer_name": "Eman A***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "البسبوسة بالقشطه بارده حييييل و مذاقها مو طازج 👎"
+            },
+            {
+              "reviewer_name": "Ahmed A***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز جدا"
+            },
+            {
+              "reviewer_name": "Ghada A***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "البسبوسه ولا غلطه"
+            },
+            {
+              "reviewer_name": "Ali K***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I don’t like the cheese"
+            },
+            {
+              "reviewer_name": "Ghada A***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "زنود الست سيء جدا الكنافه ماشي حالها"
+            },
+            {
+              "reviewer_name": "Hf H***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the box ia too big"
+            },
+            {
+              "reviewer_name": "Sayed H***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيد"
+            },
+            {
+              "reviewer_name": "Khalifa A***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "البسبوسه قديمه مو فريش صراحه انصدمت من المذاق"
+            },
+            {
+              "reviewer_name": "Eva A***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "on time"
+            },
+            {
+              "reviewer_name": "Mahmoud E***",
+              "review_date": "19 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "جميل ناس محترمين"
+            },
+            {
+              "reviewer_name": "Mohammed R***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "جميع الاصناف سيئة جدا. .طلبنا عيش السرايا وبلح الشام كلاهما غير طازج وسئ"
+            },
+            {
+              "reviewer_name": "وليد خ***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكنافه وصلت ساخنه وجذا لذيذه وبسبوسة القشطة لذيذه وكمية راهيه لشخصين تكفي 6 اشخاص شكرا التوصيل لم يتاخر وصل سريعا"
+            },
+            {
+              "reviewer_name": "eman s***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "reem d***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "ismail k***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very good good"
+            },
+            {
+              "reviewer_name": "Mubarak A***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز والمواعيد ممتازه"
+            },
+            {
+              "reviewer_name": "لطيفه ا***",
+              "review_date": "14 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الهريسة قديمة جدا، ونااااشفة، سيئة للغاية وبشهادت الكل، والكنافة بااااردة والجبن ما فية مطة، انصدمت"
+            },
+            {
+              "reviewer_name": "dana d***",
+              "review_date": "13 March 2025",
+              "review_rating": "OK",
+              "review_comment": "البسبوسه جااامده حيل مو فرش كأنها قديمه وصل بوقت قصير بس جودة الطعام سيئه"
+            },
+            {
+              "reviewer_name": "Saud Alotaibi ***",
+              "review_date": "13 March 2025",
+              "review_rating": "OK",
+              "review_comment": "لاطعم ولاشكل أسوأ كنافة جربتها"
+            },
+            {
+              "reviewer_name": "Nasser A***",
+              "review_date": "12 March 2025",
+              "review_rating": "OK",
+              "review_comment": "بلح الشام مو فرش"
+            },
+            {
+              "reviewer_name": "ساره ع***",
+              "review_date": "11 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاوردار مش نفس المطلوب طالبه بالقشطه ارسلتم بالجبنه طالبه عيش السرايا ارسلتم بلح الشام"
+            },
+            {
+              "reviewer_name": "N F***",
+              "review_date": "11 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اللقيمات سئيه جداً و بارده"
+            },
+            {
+              "reviewer_name": "Muhammad a***",
+              "review_date": "11 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكنافة الخشنة عجيبة"
+            },
+            {
+              "reviewer_name": "First Name L***",
+              "review_date": "10 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اللقيمات بارده جدا لا تؤكل"
+            },
+            {
+              "reviewer_name": "Meetali Amate ***",
+              "review_date": "10 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Fous A***",
+              "review_date": "09 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيده"
+            },
+            {
+              "reviewer_name": "omar a***",
+              "review_date": "09 March 2025",
+              "review_rating": "OK",
+              "review_comment": "لم يغلف الطلب جيداً"
+            },
+            {
+              "reviewer_name": "Yasmin S***",
+              "review_date": "09 March 2025",
+              "review_rating": "OK",
+              "review_comment": "البقلاوة بايته وبلح الشام سكره كثيير"
+            },
+            {
+              "reviewer_name": "عمر ع***",
+              "review_date": "08 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميل"
+            },
+            {
+              "reviewer_name": "Denta_dream ***",
+              "review_date": "08 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I ordered maamoul walnut ...they sent Maamoul dates"
+            },
+            {
+              "reviewer_name": "Abdullah A***",
+              "review_date": "08 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اللقيمات صغيره حيل ويابسه وكلها شيره . اذا ما تعرفون لها شيلوها من المنيو افضل للمحل"
+            },
+            {
+              "reviewer_name": "ahmed a***",
+              "review_date": "08 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "اللقيمات سيئة جدا وناشفة لا أنصح بشرائها جيدة جدا"
+            },
+            {
+              "reviewer_name": "Heba S***",
+              "review_date": "08 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "delicious 😍😍😍😍😍😍"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "08 March 2025",
+              "review_rating": "Good",
+              "review_comment": "البسبوسه غير مطبوخه بسكل جيد"
+            },
+            {
+              "reviewer_name": "Abrar Y***",
+              "review_date": "06 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكنافه وزنود الست قديمه"
+            },
+            {
+              "reviewer_name": "maha b***",
+              "review_date": "06 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I the kunafa is soggy and it was pieces not a whole tray good"
+            },
+            {
+              "reviewer_name": "ValerieMorningstar .***",
+              "review_date": "06 March 2025",
+              "review_rating": "OK",
+              "review_comment": "لقيمات سيئين مبين بايت"
+            },
+            {
+              "reviewer_name": "Nadia A***",
+              "review_date": "04 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكنافه وصلت بارده جداً"
+            },
+            {
+              "reviewer_name": "بتول ا***",
+              "review_date": "03 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الاكل بارد عدم الاتصال بأن الطلب قد وصل قام بالارسال على الواتساب"
+            },
+            {
+              "reviewer_name": "أم عبدالعزيز ا***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "جدا سيء"
+            },
+            {
+              "reviewer_name": "First Name L***",
+              "review_date": "03 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سئ سئ ولن اكرره لقيماتهم حصى الله يديم النعمه خساره فلوسي ياليتني ماطلبت منهم الكميه قليله تفشل والجوده"
+            },
+            {
+              "reviewer_name": "Muhanad A***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Abeer k***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء جدا اربد ارجاع"
+            },
+            {
+              "reviewer_name": "ali a***",
+              "review_date": "03 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "جميل جدا"
+            },
+            {
+              "reviewer_name": "هيا ا***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اللقيمات ياااابسه والقطايف يابسه موفريش والحشوة قشطة طرارة فاااشل جدًا"
+            },
+            {
+              "reviewer_name": "Mrm A***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد و دهن"
+            },
+            {
+              "reviewer_name": "Nouf A***",
+              "review_date": "02 March 2025",
+              "review_rating": "OK",
+              "review_comment": "لقيمات ناشفة و مغيرين في الطلب"
+            },
+            {
+              "reviewer_name": "Karla N***",
+              "review_date": "02 March 2025",
+              "review_rating": "OK",
+              "review_comment": "qatayef is wrong.. i ordered cream and i got with nuts"
+            },
+            {
+              "reviewer_name": "Riwy A***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Perfect! ✔️"
+            },
+            {
+              "reviewer_name": "Abdulaziz ***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "وايد حلو ولذيذ"
+            },
+            {
+              "reviewer_name": "naser n***",
+              "review_date": "01 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "أحمد ب***",
+              "review_date": "27 February 2025",
+              "review_rating": "OK",
+              "review_comment": "مثلجه طالب برد مو كنافه"
+            },
+            {
+              "reviewer_name": "Nouar i***",
+              "review_date": "27 February 2025",
+              "review_rating": "Good",
+              "review_comment": "tast of the halwat al jabn was mediocre but muhalabiya was great"
+            },
+            {
+              "reviewer_name": "Bader A***",
+              "review_date": "27 February 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء"
+            },
+            {
+              "reviewer_name": "Ali A***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👌ممتازة"
+            },
+            {
+              "reviewer_name": "الزين ا***",
+              "review_date": "25 February 2025",
+              "review_rating": "OK",
+              "review_comment": "اللقيمات صخر والكنافه الناعمه مو فريش الجبنه مبين معاد تسخينها"
+            },
+            {
+              "reviewer_name": "مريم ا***",
+              "review_date": "24 February 2025",
+              "review_rating": "OK",
+              "review_comment": "مو حلوه مو نفس كل مره"
+            },
+            {
+              "reviewer_name": "Hanan A***",
+              "review_date": "24 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "روعه ممتازه"
+            },
+            {
+              "reviewer_name": "احمد ا***",
+              "review_date": "24 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سيئه حداً"
+            },
+            {
+              "reviewer_name": "بندر ا***",
+              "review_date": "23 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الذ منه مافي حلو حيييييل😍 سريع"
+            },
+            {
+              "reviewer_name": "Fahad A***",
+              "review_date": "23 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الكنافه غير مستويه عدل والسخان اصغر من الصحن"
+            },
+            {
+              "reviewer_name": "Nash B***",
+              "review_date": "22 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريع"
+            },
+            {
+              "reviewer_name": "KHALED k***",
+              "review_date": "22 February 2025",
+              "review_rating": "Good",
+              "review_comment": "مايحطون شيره إلا حبه وحده صغيره إذا حاسين ان فيها تكلفه بيعوها واحنا مستعدين نشتري"
+            },
+            {
+              "reviewer_name": "Osama Q***",
+              "review_date": "22 February 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد جدا، الجبن مالح .. سي جدا"
+            },
+            {
+              "reviewer_name": "Mohamed Ahmed ***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الكنافة عنده أفضل من البسبوسة"
+            },
+            {
+              "reviewer_name": "Hussain D***",
+              "review_date": "20 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الكنافة مو فرش جنه مصخنينها والوربات كلش ما تنوكل ناشفه وقديمة ما انصح تطلبون منهم"
+            },
+            {
+              "reviewer_name": "محمد موسى ح***",
+              "review_date": "20 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "بارك الله فيك شكرا"
+            },
+            {
+              "reviewer_name": "Khaled A***",
+              "review_date": "19 February 2025",
+              "review_rating": "Good",
+              "review_comment": "مو نفس اخر مره كانها ناشفه شوي"
+            },
+            {
+              "reviewer_name": "Ayesha Malik ***",
+              "review_date": "18 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very fresh baleh el sham"
+            },
+            {
+              "reviewer_name": "عبدالهادي ا***",
+              "review_date": "18 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه وتجربه جمممممممممميله جدا وشخص محترم ومثقف ونفسيته زينه"
+            },
+            {
+              "reviewer_name": "Sakina K***",
+              "review_date": "17 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "perfect"
+            },
+            {
+              "reviewer_name": "Mohamed M***",
+              "review_date": "17 February 2025",
+              "review_rating": "OK",
+              "review_comment": "لا يوجد غير علبة شيرة واحدة فقط مع اربع قطع كنافة"
+            },
+            {
+              "reviewer_name": "rawan .***",
+              "review_date": "16 February 2025",
+              "review_rating": "OK",
+              "review_comment": "بااااارد"
+            },
+            {
+              "reviewer_name": "نداء ا***",
+              "review_date": "16 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازة"
+            },
+            {
+              "reviewer_name": "سميره أ***",
+              "review_date": "16 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الوصول قبل الوقت وصلت الكنافه حاره الف شكر على الخدمه السريعه السايق جدااا مهذب وخلوق"
+            },
+            {
+              "reviewer_name": "وليد ا***",
+              "review_date": "15 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الكنافه بارده"
+            },
+            {
+              "reviewer_name": "amal A***",
+              "review_date": "14 February 2025",
+              "review_rating": "OK",
+              "review_comment": "ياريت توضع الكنافه في صينيه بدال الصحن الورق انا طلبت كنافه ثلاث صحون بس كتقديم ما يشرفني عند ضيوفنا"
+            },
+            {
+              "reviewer_name": "Fetooh S***",
+              "review_date": "14 February 2025",
+              "review_rating": "Good",
+              "review_comment": "dessert cheese was not good"
+            },
+            {
+              "reviewer_name": "Ahmed A***",
+              "review_date": "13 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "alwo 0***",
+              "review_date": "12 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حلو"
+            },
+            {
+              "reviewer_name": "bader A***",
+              "review_date": "11 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "unfortunately arrived cold"
+            },
+            {
+              "reviewer_name": "Khalaf I***",
+              "review_date": "09 February 2025",
+              "review_rating": "OK",
+              "review_comment": "Ordered aish al saraya and in the picture it included pistachios on top, it came with 0 pistachios👎🏻"
+            },
+            {
+              "reviewer_name": "m j***",
+              "review_date": "08 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الجبن مال الكنافه فيها طعم خايس ، اخترب"
+            }
+          ]
+        }
       }
     ]
   },
@@ -101839,7 +102969,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -101905,7 +103035,8 @@
       "Agnii",
       "The Coffee Bean & Tea Leaf",
       "AlKhabaz & Fattoush",
-      "Little Caesars Pizza"
+      "Little Caesars Pizza",
+      "Konafa Habiba"
     ],
     "completed_pages": [
       1,
