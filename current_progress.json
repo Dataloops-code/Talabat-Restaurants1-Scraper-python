@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:17:33.609383",
+  "last_updated": "2025-04-06T12:19:23.689895",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -47,7 +47,8 @@
       "Al Anode",
       "Jeder Soad",
       "Cramello Sweet",
-      "Turkish Grill"
+      "Turkish Grill",
+      "Karam Sweet"
     ],
     "completed_pages": [
       1,
