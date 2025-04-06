@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:10:16.227368",
+  "last_updated": "2025-04-06T11:11:47.183365",
   "all_results": {
     "الظهر": [
       {
@@ -24652,6 +24652,694 @@
             }
           ]
         }
+      },
+      {
+        "name": "Mr Baker",
+        "cuisine": "Desserts, Cakes",
+        "url": "https://www.talabat.com/kuwait/restaurant/36894/mr-baker-al-qurain-al-qusour?aid=59",
+        "rating": "Amazing",
+        "page": 2,
+        "delivery_time": "Within 25 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Millefeuille",
+              "description": "Millefeuille puff pastry with custard crème.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "London Éclair",
+              "description": "Éclair With Vanilla Cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Chocolate Éclair",
+              "description": "Éclair With Chocolate Cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Fruit Tart",
+              "description": "Tart Biscuit With Mixed Fresh Fruits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Small Mawaleh Bamboo Box",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Strawberry Cheesecake Tart Gateaux",
+              "description": "Tart Biscuit With Baked Cheesecake And Fresh Strawberries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Organic": [
+            {
+              "index": 6,
+              "name": "Organic Savories Collection",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gelato": [
+            {
+              "index": 7,
+              "name": "Mango Gelato",
+              "description": "Vanilla sponge cake with mango ice-cream and vanilla ice-cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Gelato Sandwiches",
+              "description": "Chocolate biscuits, vanilla gelato, and mixed berries 14pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Gelato Cookies",
+              "description": "Chocolate chips cookies with vanilla gelato 8pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Nutella Gelato Cake",
+              "description": "Chocolate gelato, nutella, chocolate sponge cake, and crispy biscuits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Pistachio Gelato Cake",
+              "description": "Pistachio sponge cake and Arabic ice cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Blackberry Gelato Cake",
+              "description": "Ricotta gelato, vanilla cake, mixed berries gelato and mango gelato.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Mille-feuille Gelato Bites",
+              "description": "Mini Mille-feuille with vanilla flavor and stuffed with Italian gelato. 24 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Pistachio Gelato Bites",
+              "description": "20 Pieces, pistachio gelato in a chocolate balls.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Lotus Gelato Bites",
+              "description": "Lotus gelato in a chocolate ball 20 pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gateaux": [
+            {
+              "index": 16,
+              "name": "Baba Rohm",
+              "description": "Soft cake with fresh cream and pineapple slices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Mango Glass",
+              "description": "Vanilla sponge cake with mango supreme cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Tiramisu Glass",
+              "description": "Biscuits, vanilla, mascarpone cheese cream and coffee.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Chocolate Éclair",
+              "description": "Éclair With Chocolate Cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Strawberry Cheesecake Tart Gateaux",
+              "description": "Tart Biscuit With Baked Cheesecake And Fresh Strawberries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Fruit Tart",
+              "description": "Tart Biscuit With Mixed Fresh Fruits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "London Éclair",
+              "description": "Éclair With Vanilla Cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Millefeuille",
+              "description": "Millefeuille puff pastry with custard crème.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Saffron Cake Glass",
+              "description": "Saffron sponge cake with milk and fresh cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Molten Chocolate",
+              "description": "Chocolate volcano cake with schwarz chocolate and fresh chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cake": [
+            {
+              "index": 26,
+              "name": "Tropical Mango",
+              "description": "Coconut cake, fresh mango with vanilla sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Small Classic Chocolate Cake",
+              "description": "Chocolate Sponge Cake with Butter Cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Small Classic Strawberry Cake",
+              "description": "Vanilla Sponge Cake with Strawberry Jam and Butter Cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Black Forest Cake",
+              "description": "Chocolate cake with fresh cream covered with chocolate flake.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Classic Cheesecake",
+              "description": "Baked cheesecake, sour cream, digestive biscuit, fresh cream and fresh raspberries. Mixed raspberry and strawberry sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pasta": [
+            {
+              "index": 31,
+              "name": "Pasta Bolognese",
+              "description": "Spaghetti, bolonese sauce, parmesan cheese, basil leaves, and cherry tomato.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Mawaleh And Sandwiches": [
+            {
+              "index": 32,
+              "name": "French Pastries Box",
+              "description": "Box of mix of French pastries and croissants.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Small Mawaleh Bamboo Box",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.400",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 34,
+              "name": "Halloumi Salad",
+              "description": "Mixed lettuce, halloumi cheese, cranberry, dry apricot, quinoa and beetroot",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Mango Salad",
+              "description": "Mix romaine lettuce, mango fruit, quinoa, edamame, sesame seeds and sweet potato chips with sesame oil mixed with mango sauce, olive oil and rice vinegar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Danish Pastries": [
+            {
+              "index": 36,
+              "name": "Cheese Danish",
+              "description": "Danish pastry with cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.400",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Trope Éclair": [
+            {
+              "index": 37,
+              "name": "Trope Éclair",
+              "description": "Éclair dough with Double Cream and Pearl Sugar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Vine Leaves": [
+            {
+              "index": 38,
+              "name": "Vine Leaves",
+              "description": "Vine leaves, rice stuffing and lemon juice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Mix Cabbage And Vine Leaves",
+              "description": "Vine leaves and cabbage with rice stuffing, lemon and pomegranate molasses.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Al-Qusour, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/mr-baker",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "51523",
+          "Reviews_count": "29882",
+          "General_review": [
+            "Mr Baker is a restaurant located in Kuwait, serving a selection of Desserts, Cakes that delivers across Abdullah Al-Mubarak - West Jeleeb, Abu Ftaira, Abu Halifa, Adailiya and Adan.",
+            "Their best selling dishes are Mawaleh Medium Box, Dry Fruit Tea Cake, Pecan Caramel and Marble Tea Cake, although they have a variety of dishes and meals to choose from like Desserts, Cakes.",
+            "They have been reviewed 51523 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Hamed A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "منتاز"
+            },
+            {
+              "reviewer_name": "Salwa A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "محترم جدا"
+            },
+            {
+              "reviewer_name": "sare m***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "The cake was spoiled, and I had a bad experience at the Eid party. My family and I were very disappo"
+            },
+            {
+              "reviewer_name": "فاطمة ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكة مخمره وكانت خربانه !!!!!"
+            },
+            {
+              "reviewer_name": "Meshael A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه جدا شكرا لكم الخباز شدو حيلكم شوي بيصير عالمي"
+            },
+            {
+              "reviewer_name": "Omahmad A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "Amer A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الحلو فيه ذبانه (حشره) للاسف الحلو فيه حشره"
+            },
+            {
+              "reviewer_name": "غنيمة م***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي الحراره والمذاق والكميه والتغليف ممتازين👌👌👌🌹🌹🌹🌹🌹"
+            },
+            {
+              "reviewer_name": "Mona A***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "صب القفش كان محروق"
+            },
+            {
+              "reviewer_name": "sana a***",
+              "review_date": "28 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "طبق المانجو كان. مفتوح. والطعام. متنثر. ولم يكون حيد"
+            },
+            {
+              "reviewer_name": "zanda a***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "صب القفشة محترق ولونه بني غامق"
+            },
+            {
+              "reviewer_name": "Sahar K***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the order was opened n it seems like someone ate from it..but I was at my guest home already. the order was opened n it seems like someone ate from it..but I was at my guest home already."
+            },
+            {
+              "reviewer_name": "Waled W***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتازممتاز"
+            },
+            {
+              "reviewer_name": "Waled W***",
+              "review_date": "26 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "Dalal A***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكه وصلتني من فرع جمعية الزهرا كانت قديمه مو فرش !!"
+            },
+            {
+              "reviewer_name": "saoud A***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the grape leaves full of flies"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Manal M***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيك مافيه بس كاكاو وكميه قليله ماتستاهل سعرها حرام خمسة عشر دينار ما تستاهل تفشل"
+            },
+            {
+              "reviewer_name": "Hala A***",
+              "review_date": "22 March 2025",
+              "review_rating": "Good",
+              "review_comment": "not fresh"
+            },
+            {
+              "reviewer_name": "Hajar A***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "bad experience"
+            },
+            {
+              "reviewer_name": "Ragy M***",
+              "review_date": "21 March 2025",
+              "review_rating": "Good",
+              "review_comment": "the dessert was very dry and didn’t have enough grenadine sauce"
+            },
+            {
+              "reviewer_name": "Dana M***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "always the best very fast delivery every time"
+            },
+            {
+              "reviewer_name": "Aliah A***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الورد ذبلان"
+            },
+            {
+              "reviewer_name": "خديجة ع***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "مو حلو اول مره مو حلو من الخباز خيب ظنوني ومايستاهل السعر سيءجدا محد حب الطبق"
+            },
+            {
+              "reviewer_name": "YOUSEF A***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الخباز احلى واطعم وازكى سويت"
+            },
+            {
+              "reviewer_name": "Ala M***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "horrible taste I don’t like it and we threw it out"
+            },
+            {
+              "reviewer_name": "safia h***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "as usual , Mr bakery is the best in tast package and presentation 💖 very good and quick"
+            },
+            {
+              "reviewer_name": "Om noor O***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجيب كالعاده"
+            },
+            {
+              "reviewer_name": "Fahad A***",
+              "review_date": "19 March 2025",
+              "review_rating": "Good",
+              "review_comment": "اللقيمات غير جيدة"
+            },
+            {
+              "reviewer_name": "Sup G***",
+              "review_date": "19 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيدة"
+            }
+          ]
+        }
       }
     ]
   },
@@ -24659,7 +25347,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -24686,7 +25374,8 @@
       "Sable",
       "La Baguette",
       "La Baguette",
-      "Sable"
+      "Sable",
+      "Mr Baker"
     ],
     "completed_pages": [
       1
