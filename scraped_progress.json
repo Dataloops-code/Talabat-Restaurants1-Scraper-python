@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:24:47.504192",
+  "last_updated": "2025-04-06T10:27:16.206248",
   "all_results": {
     "الظهر": [
       {
@@ -4102,6 +4102,1137 @@
             }
           ]
         }
+      },
+      {
+        "name": "Elevation Burger, Abu Ftaira",
+        "cuisine": "Burgers, Fast Food, Healthy",
+        "url": "https://www.talabat.com/kuwait/restaurant/706153/elevation-burger-abu-ftaira?aid=59",
+        "rating": "Amazing",
+        "page": 1,
+        "delivery_time": "Within 32 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Fresh Fries",
+              "description": "Freshly Cut Potatoes Cooked In Heart-healthy Olive Oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Cheese Burger",
+              "description": "1 Organic Beef Patty, 1 Slice Of Real Cheddar Cheese With Your Choice of Toppings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Fancy Fries",
+              "description": "2 Slices Of Real Cheddar Cheese With Your Choice of Toppings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Elevation Burger",
+              "description": "2 organic Beef Patties, 2 slices of real cheddar cheese and Your Choice of Add Ons",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Coke Zero",
+              "description": "Coke Zero",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "The Bello",
+              "description": "Organic beef patty Served with Portobello Mushroom, Arugula, Grilled Onions, Aioli Sauce And White cheddar cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "NEW! Local Chef Collaboration": [
+            {
+              "index": 6,
+              "name": "Smokehouse Burger",
+              "description": "Organic Beef Patty, Fried Pickles, Yellow Cheddar Cheese, Caramelized Onions, Chopped Jalapenos, Barbecue Sauce, Smokehouse Sauce, Sesame Brioche Bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Fried pickles",
+              "description": "Fried pickles with smokehouse sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "All Day Breakfast": [
+            {
+              "index": 8,
+              "name": "Bacon Classic",
+              "description": "2 Slices Of Bacon, 1 Fried egg, 1 Slice Of Real Cheddar Cheese, Caramelized Onions With a Spicy Sriracha Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Halloum",
+              "description": "Brioche bun, Halloumi Cheese, Organic Egg Whites, Roasted Tomato, Rocca With a Zaatar Pesto Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Breakfast Burger",
+              "description": "Organic Beef Patty with An Organic fried egg, Grilled Onions, Cheddar Cheese, Garlic Cheese Sauce on a Potato bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Hash brown",
+              "description": "Hash Brown Cooked In Heart Healthy Olive Oil",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Organic Coffee",
+              "description": "Locally roasted organic coffee by Jumo.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Kids Menu": [
+            {
+              "index": 13,
+              "name": "Hot Dog Kids Meal",
+              "description": "Hot Dog with ketchup, fresh fries, drink and a toy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Cheeseburger Kids Meal",
+              "description": "Organic beef patty, 1 slice of real cheddar cheese, choice of ketchup or elevation sauce, fresh fries, drink, toy",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Signature Menu": [
+            {
+              "index": 15,
+              "name": "The Bello",
+              "description": "Organic beef patty Served with Portobello Mushroom, Arugula, Grilled Onions, Aioli Sauce And White cheddar cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Bistro Brioche",
+              "description": "USDA Organic Grass-fed Beef, Arugula, Gruyere Cheese, Caramelized onions, Black pepper Sauce Served On A Brioche Bun.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Burgers & more": [
+            {
+              "index": 17,
+              "name": "Elevation Burger",
+              "description": "2 organic Beef Patties, 2 slices of real cheddar cheese and Your Choice of Add Ons",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Cheese Burger",
+              "description": "1 Organic Beef Patty, 1 Slice Of Real Cheddar Cheese With Your Choice of Toppings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Hamburger",
+              "description": "1 Organic Beef Patty With Your Choice Of Toppings",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Hot Dog",
+              "description": "Hot Dog With Your Choice of Toppings",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Half The Guilt Burger",
+              "description": "1 Organic Beef Patty And 1 Veggie Patty With Your Choice of Toppings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Veggie Burger",
+              "description": "A Savory Blend Of Vegetables and Whole Grains With Your Choice of Add Ons .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Vegan Burger",
+              "description": "A Savory Blend Of Organic Whole Grains And Organic Vegetables Sweetened With Organic Spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Grilled Cheese Sandwich",
+              "description": "Real Cheddar Cheese Sandwich with Your Choice of Add Ons.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Homegrown Salad": [
+            {
+              "index": 25,
+              "name": "Green Herb Salad",
+              "description": "Arugula, Basil, Dill, Mint, Zaatar, Cherry Tomatoes, Red onions and Green Capsicum With Parmesan Cheese and Berry Pomegranate Dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Oriental Salad",
+              "description": "Baby Red Chard Lettuce, Baby Spinach, Chickpeas, Cucumbers, Edamame And Parmesan Cheese With A Cumin Yogurt Dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Fresh Fries": [
+            {
+              "index": 27,
+              "name": "Bacon Fancy Fries",
+              "description": "Bacon Fancy Fries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Fancy Fries",
+              "description": "2 Slices Of Real Cheddar Cheese With Your Choice of Toppings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Fresh Fries",
+              "description": "Freshly Cut Potatoes Cooked In Heart-healthy Olive Oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Onion Rings",
+              "description": "Gluten free Fresh Onion Rings Cooked In Heart Healthy Olive Oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Small Bites": [
+            {
+              "index": 31,
+              "name": "Veggie Bites",
+              "description": "Carrots and Cucumber Sticks Served with Hummus.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Pom Bites",
+              "description": "Fresh Pomegranate seeds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Apple Bites",
+              "description": "Sliced Green Apples Served With a Peanut Butter Dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Fruit Bites",
+              "description": "Freshly Cut Kiwi, Pineapple, Mango and Strawberry Pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Mango Bites",
+              "description": "Fresh Mango Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Dessert": [
+            {
+              "index": 36,
+              "name": "Cookies",
+              "description": "A Blend of Whole Oats and Cocoa with Chocolate Pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sauces": [
+            {
+              "index": 37,
+              "name": "Extra Smokehouse Sauce",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Elevation Sauce",
+              "description": "Elevation Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Ketchup",
+              "description": "Ketchup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Barbecue Sauce",
+              "description": "Barbecue Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Chimichurri Sauce",
+              "description": "A herb-based sauce freshly made in house with the use of our heart-healthy olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Mayonnaise",
+              "description": "Mayonnaise",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Spicy Sriracha Sauce",
+              "description": "Spicy Sriracha Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Ranch Sauce",
+              "description": "Made with a blend of herbs and spices,adding a delicious creamy touch to any dish",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Maple Chipotle Sauce",
+              "description": "Maple Chipotle Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "House Made Black Pepper Sauce",
+              "description": "House Made Black Pepper Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Garlic Cheese Sauce",
+              "description": "Garlic Cheese Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Honey Mustard",
+              "description": "Honey Mustard",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Bleu Cheese",
+              "description": "Bleu Cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 50,
+              "name": "Chocolate Milkshake",
+              "description": "Chocolate Milkshake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Vanilla Milkshake",
+              "description": "Vanilla Milkshake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Coffee Milkshake",
+              "description": "Coffee Milkshake",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Fresh Orange Juice",
+              "description": "Made with freshly squeezed oranges, it's a great source of Vitamin C and perfect for any time of the day.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Fresh Lemon With Mint",
+              "description": "lemon with mint",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Fresh Red Juice",
+              "description": "Beet root, red apple, lemon & carrot.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Fresh Mango Lemonade",
+              "description": "Fresh Mango Lemonade",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Fresh Sunray Juice",
+              "description": "Organic wheat grass, apples and ginger.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Root Beer",
+              "description": "Root Beer",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Cream Soda",
+              "description": "Cream Soda",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Coke",
+              "description": "Coke",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Coke Zero",
+              "description": "Coke Zero",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Sprite",
+              "description": "Non-caffeinated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Fanta Orange",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Fanta Strawberry",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Sparkling Water",
+              "description": "Stay hydrated and refreshed with our sparkling water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Acqua Panna Water",
+              "description": "Acqua Panna Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Abu Ftaira, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/abu-ftaira-elevation-burger",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "79487",
+          "Reviews_count": "2294",
+          "General_review": [
+            "Elevation Burger is a restaurant located in Kuwait, serving a selection of Burgers, Fast Food, Healthy that delivers across Abu Ftaira, Abu Halifa, Al Masayel, Al-Bedae and Ardhiya.",
+            "Their best selling dishes are Fresh Fries, Cheese Burger, Fancy Fries and Elevation Burger, although they have a variety of dishes and meals to choose from like Burgers, Fast Food, Healthy.",
+            "They have been reviewed 79487 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "alia n***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "وصل البيرجر بارد التوصيل ممتاز لكن الاكل بارد"
+            },
+            {
+              "reviewer_name": "Rawan A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الاكل حلو بس كان بارد، اتمنى في المرات القادمة يكون ساخن"
+            },
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "كان بارد البرغر"
+            },
+            {
+              "reviewer_name": "Naser S***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👌🏽"
+            },
+            {
+              "reviewer_name": "A K***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "فاشل بمعنى الكلمة ، وصل الطلب بارد جداً ولايوجد اي صوص بالهمبرجر حاطين برجر وخبز والله عيب عليكم تأخر كثيرا"
+            },
+            {
+              "reviewer_name": "Fahad M***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "للأسف المطعم سيء بدون جودة والاكل بارد غير طازج انا كذا مره اقول بطلب منهم يمكن صاروا افضل لكن للاسف"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "برجر فقط جبن و بدون معالق او شوكة طعام"
+            },
+            {
+              "reviewer_name": "Sultan A***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حيل حلوو"
+            },
+            {
+              "reviewer_name": "علي ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد الصمون ناشف سي جدا مع الاسف"
+            },
+            {
+              "reviewer_name": "مريم حبيب ت***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اللحم زفر والاكل بارد متاخر ونفسيه وريحته مو حلوه"
+            },
+            {
+              "reviewer_name": "saron s***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الأكل بايت وقديم جداً والدجاج مو مشوي مسلوق ويعلج يالله ينقطع"
+            },
+            {
+              "reviewer_name": "abeer a***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "المفروض تحطون الخيارات اجباري ومن صمنهم بدون اضافه عشان اللي ماينتبه ماينصدم بالصمونه ناشفه"
+            },
+            {
+              "reviewer_name": "abdullah a***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the pickup time for my order at 1:48 nad i get it at 2:35 the food was cold and not eatable"
+            },
+            {
+              "reviewer_name": "Abdulmohsen b***",
+              "review_date": "16 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارددددد ماينوكل الله يسامحكم بس انا طالب مطعم يوصل بدينار عساس يوصل بسرعة ويكون حار"
+            },
+            {
+              "reviewer_name": "saron s***",
+              "review_date": "12 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الخيار خربان اللي مع الحمص"
+            },
+            {
+              "reviewer_name": "علي م***",
+              "review_date": "12 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الدجاج كان سيء جداً جداً جداً"
+            },
+            {
+              "reviewer_name": "راشد ا***",
+              "review_date": "04 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم الجيز بيرجر سئ جداً جداً و الطعام بارد جداً"
+            },
+            {
+              "reviewer_name": "حسون ا***",
+              "review_date": "27 February 2025",
+              "review_rating": "OK",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "فارس ا***",
+              "review_date": "27 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الوجبات بارده جدا"
+            },
+            {
+              "reviewer_name": "SULTAN A***",
+              "review_date": "26 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد"
+            },
+            {
+              "reviewer_name": "Fatemah B***",
+              "review_date": "26 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي لذيذ وجميل وحااااار"
+            },
+            {
+              "reviewer_name": "Ghada A***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Extremely Polite"
+            },
+            {
+              "reviewer_name": "gk a***",
+              "review_date": "24 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "امل ا***",
+              "review_date": "22 February 2025",
+              "review_rating": "OK",
+              "review_comment": "البرجر ناشفه جدا جدا"
+            },
+            {
+              "reviewer_name": "Tahany A***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "للمره الثانيه الاكل يوصلني بارد جداا"
+            },
+            {
+              "reviewer_name": "Debra Grey ***",
+              "review_date": "20 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the best."
+            },
+            {
+              "reviewer_name": "Dawood S***",
+              "review_date": "20 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد والهوت دوج حاطينه فاضي بدون ولا صلصة.. اخر مرة اطلب على هالسعر العالي وجودتكم سيئة"
+            },
+            {
+              "reviewer_name": "Abdulaziz Al Dughaishem ***",
+              "review_date": "18 February 2025",
+              "review_rating": "OK",
+              "review_comment": "they did not consider my request regarding removing the cheese and everything I asked for"
+            },
+            {
+              "reviewer_name": "Bashayer A***",
+              "review_date": "17 February 2025",
+              "review_rating": "Good",
+              "review_comment": "هالمطعم احبه واايد بس اليوم يابولس سلطه فواكة خربانه ومذويه"
+            },
+            {
+              "reviewer_name": "Khalid A***",
+              "review_date": "16 February 2025",
+              "review_rating": "OK",
+              "review_comment": "this is the first time the food from elevation is extremely cold. i am extremely upset and unhappy"
+            },
+            {
+              "reviewer_name": "Ashwaq A***",
+              "review_date": "16 February 2025",
+              "review_rating": "Good",
+              "review_comment": "البطاط كان كله دهن"
+            },
+            {
+              "reviewer_name": "Amal A***",
+              "review_date": "13 February 2025",
+              "review_rating": "OK",
+              "review_comment": "البطاط مفتوح وبارد ثلج"
+            },
+            {
+              "reviewer_name": "sweet k***",
+              "review_date": "13 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "best burger ever love u elevation yuuummmyyyyyyyyy خيال ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥 love u"
+            },
+            {
+              "reviewer_name": "Ghada A***",
+              "review_date": "12 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "I wish if they return to send wet wipes again"
+            },
+            {
+              "reviewer_name": "بسمة س***",
+              "review_date": "12 February 2025",
+              "review_rating": "Good",
+              "review_comment": "الاكل بارد الصمون ليس طازجا"
+            },
+            {
+              "reviewer_name": "Anwar B***",
+              "review_date": "11 February 2025",
+              "review_rating": "OK",
+              "review_comment": "تعبت من اغلاط هالمطعم 😤😡"
+            },
+            {
+              "reviewer_name": "Abdulmohsen A***",
+              "review_date": "11 February 2025",
+              "review_rating": "OK",
+              "review_comment": "بطاط نتفه حاطين 😅"
+            },
+            {
+              "reviewer_name": "محمد ع***",
+              "review_date": "09 February 2025",
+              "review_rating": "Good",
+              "review_comment": "للا إسف مصغرين البرقر عن قبل ؟"
+            },
+            {
+              "reviewer_name": "aziz a***",
+              "review_date": "07 February 2025",
+              "review_rating": "OK",
+              "review_comment": "وصلني الاكل بارررد 👎🏻"
+            },
+            {
+              "reviewer_name": "Aziz A***",
+              "review_date": "06 February 2025",
+              "review_rating": "OK",
+              "review_comment": "من غير المشروب والعصير طلب وجبه ألأطفال البطآطس ذبلان ومثلج بارد وصل والدجاج بارد تحت الصفر سايق متعاون ودقيق المطعم وجبه الاطفال فاشله والبطاط بارد حيييل"
+            },
+            {
+              "reviewer_name": "Zahra a***",
+              "review_date": "01 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الصمونه كل مره تصغر صارت سلايدر"
+            },
+            {
+              "reviewer_name": "A K***",
+              "review_date": "31 January 2025",
+              "review_rating": "OK",
+              "review_comment": "e bleu cheese taste very bad!"
+            },
+            {
+              "reviewer_name": "Naser A***",
+              "review_date": "30 January 2025",
+              "review_rating": "OK",
+              "review_comment": "طالب شيبس بطاط وحاطيلي حلقات بصل 🤷🏻‍♂️"
+            },
+            {
+              "reviewer_name": "Mohamed M***",
+              "review_date": "30 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكراً لكم على السرعة"
+            },
+            {
+              "reviewer_name": "Abdulrahman A***",
+              "review_date": "24 January 2025",
+              "review_rating": "OK",
+              "review_comment": "ابي اعرف ليش ماتحطون شوكة! احط علامة ادوات طعام أو اشيلها ماتحطون! بفهم شلون ناكل البطاط مع الصوص!"
+            },
+            {
+              "reviewer_name": "Sh W***",
+              "review_date": "22 January 2025",
+              "review_rating": "Good",
+              "review_comment": "البطاط سيء مزيت جداً والعلبة كذلك / البرجر زينة"
+            },
+            {
+              "reviewer_name": "Sawsan H***",
+              "review_date": "22 January 2025",
+              "review_rating": "Good",
+              "review_comment": "حجم النقتس بوجبة الأطفال يفشل .. حبتين مع بعض يكملون حجم حبة وحده من ماك او اي مطعم ثاني"
+            },
+            {
+              "reviewer_name": "Anwar B***",
+              "review_date": "19 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the best 👍☺️♥️"
+            },
+            {
+              "reviewer_name": "Mohamed E***",
+              "review_date": "17 January 2025",
+              "review_rating": "OK",
+              "review_comment": "so bad. they add jalepeno for no reason. forget sauces. build your own hot dog. uncooked fries."
+            },
+            {
+              "reviewer_name": "Fatoom Q***",
+              "review_date": "14 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "احبب بطاطهمم"
+            },
+            {
+              "reviewer_name": "Lolutaa L***",
+              "review_date": "14 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد للاسف وماينوكل"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "12 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الأكل جدا جدا جدا بارد"
+            },
+            {
+              "reviewer_name": "Hajar A***",
+              "review_date": "11 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الخبز كله ماي"
+            },
+            {
+              "reviewer_name": "Amal M***",
+              "review_date": "10 January 2025",
+              "review_rating": "OK",
+              "review_comment": "البرجر بارد وناشف ومضعفين اللحم والبطاط كميته قليلة جداً ولونه اسود مبين الزيت قديم وحلقات البصل سيء"
+            }
+          ]
+        }
       }
     ]
   },
@@ -4120,6 +5251,7 @@
       "Malala",
       "Ghanayem",
       "Ghanayem",
+      "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira",
       "Elevation Burger, Abu Ftaira"
     ],
