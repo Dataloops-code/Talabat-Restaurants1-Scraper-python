@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:40:39.711590",
+  "last_updated": "2025-04-06T10:46:49.887291",
   "all_results": {
     "الظهر": [
       {
@@ -10380,6 +10380,948 @@
             }
           ]
         }
+      },
+      {
+        "name": "Red Cream",
+        "cuisine": "Desserts, Breakfast, Ice cream",
+        "url": "https://www.talabat.com/kuwait/restaurant/755093/red-cream-west-abu-fetera-small-indust?aid=59",
+        "rating": "Amazing",
+        "page": 1,
+        "delivery_time": "Within 45 mins",
+        "delivery_fee": "1.000",
+        "min_order": "0.000",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Brownie Bite",
+              "description": "42 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Brownie Bite",
+                "price_details": {
+                  "Size (Choose 1)": [
+                    "Big (42Pcs) (10.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Pecan Bite",
+              "description": "Brownie with chewy caramel and pecan piece covered with milk chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pecan Bite",
+                "price_details": {
+                  "Size (Choose 1)": [
+                    "Big 45pcs (10.000)",
+                    "Small 15pcs (4.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Chocolate Meringue",
+              "description": "Pieces of meringue covered with chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chocolate Meringue",
+                "price_details": {
+                  "Size: (Choose 1)": [
+                    "Small (145g) (3.250)",
+                    "Big (380g) (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Ultimate Chocolate",
+              "description": "Fluffy chocolate cake with rich ganache sauce covered with chocolate milk and a dust of Oreo biscuits",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ultimate Chocolate",
+                "price_details": {
+                  "Size (Choose 1)": [
+                    "Big (11.500)",
+                    "Small (2.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Zwara Box 1",
+              "description": "4 kinds from our best selling, brownie bite,  mirang, rocky road and bomb balls",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Mini Pecan Pie",
+              "description": "Pieces of pecan pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Pecan Pie",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (16 Pcs) (3.000)",
+                    "Big (60 Pcs) (8.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Chocolate": [
+            {
+              "index": 6,
+              "name": "The Cube",
+              "description": "Moist chocolate cake fulled with delicious kinder sauce and ganache cover with milk chocolate and a layer of crispy crepe , for 4-5 persons",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Mix Coffee Sweet",
+              "description": "Mix from most delicious coffee sweet\n (Caramel with Caramelized pistachio, sesame finger with caramel, salted caramel truffle, Brownies with Nutella, berhi finger with caramel.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Crunchy",
+              "description": "Crunchy bites filled with pistachio paste covered with chocolate milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Crunchy",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Big 42 pics (10.000)",
+                    "Small 16 pics (4.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 9,
+              "name": "Zwara Box 2",
+              "description": "Zowara box 2 contains four types of chocolate crunchy, brownie flake, pecan bite and fudge square",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Brownie Bite",
+              "description": "42 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Brownie Bite",
+                "price_details": {
+                  "Size (Choose 1)": [
+                    "Big (42Pcs) (10.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 11,
+              "name": "Pecan Bite",
+              "description": "Brownie with chewy caramel and pecan piece covered with milk chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pecan Bite",
+                "price_details": {
+                  "Size (Choose 1)": [
+                    "Big 45pcs (10.000)",
+                    "Small 15pcs (4.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 12,
+              "name": "Fudge Squares",
+              "description": "Super fudge brownie squares with a layer of salted caramel on top and coated with chocolate milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Fudge Squares",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Small (16pcs) (4.750)",
+                    "Big (35pcs) (10.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 13,
+              "name": "Flake Brownies",
+              "description": "brownies covered with Nutella and flake chocolates",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Flake Brownies",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Small - 16 Pcs (4.250)",
+                    "Big - 48 Pcs (10.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 14,
+              "name": "Rocky Road",
+              "description": "1Kilo",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Rocky Road",
+                "price_details": {
+                  "Size: (Choose 1)": [
+                    "Big (1kilo) (10.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 15,
+              "name": "Over Dose",
+              "description": "Warm brownie cake layered with feuilletine crunch and soaked with chocolate milk, white chocolate, and dark chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Chocolate Meringue",
+              "description": "Pieces of meringue covered with chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chocolate Meringue",
+                "price_details": {
+                  "Size: (Choose 1)": [
+                    "Small (145g) (3.250)",
+                    "Big (380g) (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 17,
+              "name": "Bomb Balls",
+              "description": "Jar with 28 brownie balls filled with peanut butter and salted caramel.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Zwara Box 1",
+              "description": "4 kinds from our best selling, brownie bite,  mirang, rocky road and bomb balls",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Chocolate Box",
+              "description": "10 Types of finest chocolate bonbon with mixed filling and flavors.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bites": [
+            {
+              "index": 20,
+              "name": "Pecan Pie 3 pcs",
+              "description": "Mini Pecan Pie with Pecan Cream and Butter\n\nCalories: 41 KCAL 1 Pieces\nQuantity: 3pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Caramel Bomb Balls 3 pcs",
+              "description": "Brownie balls filled with Cream Cheese, Biscuits, Caramel and Milk Chocolate\n\nCalories: 65 KCAL 1 Pieces \nQuantity: 3pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Peanut Bomb Balls 3 pcs",
+              "description": "Brownie balls filled with Peanut Butter, Biscuits, Cream Cheese, White Chocolate and Milk Chocolate\n\nCalories: 23 KCAL 1 Pieces\nQuantity: 3pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Fudge Square 3 pcs",
+              "description": "Super fudge brownie squares with a layer of salted caramel on top and coated with chocolate\n\nCalories: 69 KCAL 1 Pieces\nQuantity: 3 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Pecan Bites 3 pcs",
+              "description": "Brownie with chewy caramel and pecan piece covered with milk chocolate\n\nCalories: 50 KCAL 1 Pieces\nQuantity: 3 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Salt Potato",
+              "description": "Natural potatoes without preservatives or artificial colors",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cake and cheescake": [
+            {
+              "index": 26,
+              "name": "Kinder Bueno Trifle",
+              "description": "A cold delicious layers of chocolate cake, kinder bueno sauce, almond cream, and chocolate ganache",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Mango Pistachio Trifle",
+              "description": "A delicious cold layers trifle contains vanilla cake, pistachio sauce, and fresh mango puree garnished with caramelised pistachio pieces and toasted kunafa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Ultimate Chocolate",
+              "description": "Fluffy chocolate cake with rich ganache sauce covered with chocolate milk and a dust of Oreo biscuits",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ultimate Chocolate",
+                "price_details": {
+                  "Size (Choose 1)": [
+                    "Big (11.500)",
+                    "Small (2.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 29,
+              "name": "Berry Forest",
+              "description": "Vanilla cake filled with layers of berries and fluffy cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Lava Chocolate Cake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Lava Chocolate Cake",
+                "price_details": {
+                  "Size (Choose 1)": [
+                    "Small (3.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Choco Caramel Cake",
+              "description": "Moist chocolate cake layers that are filled with a caramel sauce and covered in a smooth chocolate ganache frosting, and milk chocolate shavings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Chocolate Trifle",
+              "description": "Layers of biscuits, chocolate cream, custard cream, chocolate cake, and heavenly creamy ganache sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Specials": [
+            {
+              "index": 33,
+              "name": "Date Maamoul",
+              "description": "Luxurious maamoul stuffed with the finest types of dates",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Mini Pecan Pie",
+              "description": "Pieces of pecan pie",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Pecan Pie",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (16 Pcs) (3.000)",
+                    "Big (60 Pcs) (8.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 35,
+              "name": "Mini Gers Egaily",
+              "description": "Kuwaiti traditional cake moist and fluffy with cardamom and saffron flavors .\n24 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mini Gers Egaily",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "24 Pcs (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 36,
+              "name": "Gers Dorah",
+              "description": "Date cake with special sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Gers Dorah",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Big 24 Pcs (9.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Cookies": [
+            {
+              "index": 37,
+              "name": "Kinder Cookies",
+              "description": "Box kinder chocolate cookies with milk chocolate dipping sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Kinder Cookies",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Small - 5 Pcs (2.500)",
+                    "Big - 15 Pcs (8.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Coffee": [
+            {
+              "index": 38,
+              "name": "Arabic Coffee",
+              "description": "Arabic coffee thermos 1 liter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Karak",
+              "description": "1 litter thermos with Hot tea milk flavored with saffron and cardamom spices, served with with 12 mini cups",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/red-cream",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "3703",
+          "Reviews_count": "1376",
+          "General_review": [
+            "Red Cream is a restaurant located in Kuwait, serving a selection of Desserts, Breakfast, Ice cream that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Ultimate Chocolate, Brownie Bite, Chocolate Meringue and Zwara Box 1, although they have a variety of dishes and meals to choose from like Desserts, Breakfast, Ice cream.",
+            "They have been reviewed 3703 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Omhashem M***",
+              "review_date": "28 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الكميه جدا قليله"
+            },
+            {
+              "reviewer_name": "Sh S***",
+              "review_date": "23 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سعر كثير وكميه قليله"
+            },
+            {
+              "reviewer_name": "dana h***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the best"
+            },
+            {
+              "reviewer_name": "S M***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكيكة والتغليف روعة تبين وسط بس غنية بالطعم وتوصل باردة حاطين معاها علبة تبريد. صج لذيذة ."
+            },
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very nice sweets 💕💯"
+            },
+            {
+              "reviewer_name": "Mohamed H***",
+              "review_date": "15 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "شغلهم ممتاز والتغليف عجيب والتوصيل سريع اتمنى يستمر على نفس المستوى وصل قبل الوقت شكراً"
+            },
+            {
+              "reviewer_name": "wasen a***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🥰😘😚"
+            },
+            {
+              "reviewer_name": "Farah A***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the best"
+            },
+            {
+              "reviewer_name": "Farah A***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "so good so good"
+            },
+            {
+              "reviewer_name": "mohamed e***",
+              "review_date": "14 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "tasty...thanks"
+            },
+            {
+              "reviewer_name": "Fatma R***",
+              "review_date": "13 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "size too small than your photo"
+            },
+            {
+              "reviewer_name": "Thara A***",
+              "review_date": "08 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكوكيز وصلني قديم ويوجد به بقع بيضاء دليل الخراب وان الطعام تم اعداه من قبل كم يوم وليس بنفس اليوم سيئه جدًا الكوكيز به بقع بيضاء دليل الفساد"
+            },
+            {
+              "reviewer_name": "ayaa A***",
+              "review_date": "07 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الحلو لذيذ 👌🏻"
+            },
+            {
+              "reviewer_name": "Bedour K***",
+              "review_date": "05 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "Aldana a***",
+              "review_date": "28 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حلو"
+            },
+            {
+              "reviewer_name": "fatima f***",
+              "review_date": "28 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "best aseeeda everrrr"
+            },
+            {
+              "reviewer_name": "Moon D***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the karak tea is not to order again"
+            },
+            {
+              "reviewer_name": "Zenab R***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "perfect"
+            },
+            {
+              "reviewer_name": "ayaa A***",
+              "review_date": "24 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الروكي رود لذيذ🫶🏻 البراوني حلو بعد"
+            },
+            {
+              "reviewer_name": "منيره ا***",
+              "review_date": "20 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ماشاءالله العصيده عجيبه راهيه ولذيذه وصلت فرش وسوو الي قلته بالملاحظات حطو البيض بروح"
+            },
+            {
+              "reviewer_name": "Dalal A***",
+              "review_date": "08 February 2025",
+              "review_rating": "OK",
+              "review_comment": "the sweet shows in a big size and there is not Any information or sizes about it. its come on small!"
+            },
+            {
+              "reviewer_name": "Aseel A***",
+              "review_date": "01 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Its good but the millefie biscuit is a bit too salty. The vanilla ice cream was absolutely perfect."
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "30 January 2025",
+              "review_rating": "OK",
+              "review_comment": "متوسط"
+            },
+            {
+              "reviewer_name": "Mu6 A***",
+              "review_date": "30 January 2025",
+              "review_rating": "Good",
+              "review_comment": "كيكه اللافا حلوه بس ماكررها بس الالتميت حيل خبصه ماعجبتني الككاو اللي مستخدمينه جودته سيئه الطعم"
+            },
+            {
+              "reviewer_name": "dalal a***",
+              "review_date": "27 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي يسوونه لذيذ 😋"
+            },
+            {
+              "reviewer_name": "Rawan A***",
+              "review_date": "22 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Omsaad O***",
+              "review_date": "20 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شغلهم لذيذ الكيك والككاو بس الاسعار غاليه شوي التوصيل يطول بس كاتبين من البدايه ٩٠دقيقه ويجون بالوقت"
+            },
+            {
+              "reviewer_name": "Fajer R***",
+              "review_date": "18 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "تهبل العصيده مضبوطه"
+            },
+            {
+              "reviewer_name": "fajer a***",
+              "review_date": "16 January 2025",
+              "review_rating": "OK",
+              "review_comment": "ليس جيد و كانه صارله جم يوم"
+            },
+            {
+              "reviewer_name": "dhuha a***",
+              "review_date": "13 January 2025",
+              "review_rating": "OK",
+              "review_comment": "too small for price"
+            },
+            {
+              "reviewer_name": "h a***",
+              "review_date": "11 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكاكاو عجيب وحبوه بالزواره وايد. ووصل بالوقت"
+            },
+            {
+              "reviewer_name": "مريم ا***",
+              "review_date": "08 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لقيت شعر بالحلو"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "04 January 2025",
+              "review_rating": "Good",
+              "review_comment": "الحجم جداً صغير يفشل"
+            },
+            {
+              "reviewer_name": "طيبه ا***",
+              "review_date": "02 January 2025",
+              "review_rating": "OK",
+              "review_comment": "لم يصل بالوقت المطلوب تاخر ساعه وضيع العنوان"
+            },
+            {
+              "reviewer_name": "fatma a***",
+              "review_date": "02 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "المرة الي طافت كان الكرانشي وايد احلى تغير الطعم"
+            },
+            {
+              "reviewer_name": "wael a***",
+              "review_date": "01 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very delicious Service was elegent"
+            },
+            {
+              "reviewer_name": "alaa A***",
+              "review_date": "01 January 2025",
+              "review_rating": "Good",
+              "review_comment": "late than the time they write in the order"
+            },
+            {
+              "reviewer_name": "wael a***",
+              "review_date": "30 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Wonderful On time"
+            },
+            {
+              "reviewer_name": "فاطمه ا***",
+              "review_date": "27 December 2024",
+              "review_rating": "OK",
+              "review_comment": "لن اطلب مره ثانيه اكلمهم من ساعه ونص ويقولون طالع الطلب وللحين ماوصل للاسف وابي الغي الطلب😡"
+            },
+            {
+              "reviewer_name": "souad R***",
+              "review_date": "27 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الحجم صدمه نتفه كلش مايستاهل"
+            },
+            {
+              "reviewer_name": "Bebe H***",
+              "review_date": "27 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very good good luck good"
+            },
+            {
+              "reviewer_name": "لطيفه ف***",
+              "review_date": "26 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Lujain S***",
+              "review_date": "25 December 2024",
+              "review_rating": "OK",
+              "review_comment": "its hot and melted"
+            },
+            {
+              "reviewer_name": "Dana K***",
+              "review_date": "22 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "it’s so delicious red cream is the best"
+            },
+            {
+              "reviewer_name": "Mona A***",
+              "review_date": "21 December 2024",
+              "review_rating": "Good",
+              "review_comment": "cold and hard"
+            },
+            {
+              "reviewer_name": "Wwsszx A***",
+              "review_date": "20 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "تأخر كثيرا"
+            },
+            {
+              "reviewer_name": "Maleka M***",
+              "review_date": "13 December 2024",
+              "review_rating": "Good",
+              "review_comment": "العدد قليل جدا"
+            },
+            {
+              "reviewer_name": "White P***",
+              "review_date": "12 December 2024",
+              "review_rating": "Good",
+              "review_comment": "طلبت براونيز ياب لي بيكان والمشكله انه موديته نقصه حق البحرين ماعرفت الا اليوم الي وراه لما بطلوه"
+            }
+          ]
+        }
       }
     ]
   },
@@ -10405,7 +11347,8 @@
       "Achar Chefna (Lake Mall)",
       "Mishkak",
       "Al Maida Al Yemeni",
-      "Camellia"
+      "Camellia",
+      "Red Cream"
     ],
     "completed_pages": []
   }
