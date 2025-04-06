@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:32:26.522617",
+  "last_updated": "2025-04-06T10:35:56.613042",
   "all_results": {
     "الظهر": [
       {
@@ -8236,6 +8236,1132 @@
             }
           ]
         }
+      },
+      {
+        "name": "Al Maida Al Yemeni",
+        "cuisine": "Kuwaiti, Breakfast, Grills",
+        "url": "https://www.talabat.com/kuwait/restaurant/717710/al-maida-al-yemeni-west-abu-fetera-small-indust?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 38 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Chicken 65",
+              "description": "With salad and free yogurt",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Jelly Fry",
+              "description": "Jelly Fry",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Chicken Mandi",
+              "description": "Made with  tender and juicy chicken, marinated in a blend of aromatic spices and cooked to perfection, served atop a bed of fragrant and fluffy rice, creating a mouth-watering and unforgettable meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Yogurt",
+              "description": "Made with the freshest and highest quality ingredients, packed with probiotics and nutrients,  delivering a delicious and healthy snack",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Water",
+              "description": "Stay hydrated and refreshed with our water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Cucumber And Yoghurt",
+              "description": "Cucumber And Yoghurt",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Breakfast": [
+            {
+              "index": 6,
+              "name": "Tomato Hamsa",
+              "description": "Tomato Hamsa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Offers": [
+            {
+              "index": 7,
+              "name": "Steam Tray Grill 6 People",
+              "description": "2 whole grilled chickens - 6 bowls of Bukhari rice - 6 broths - 6 yogurt - 2 fattoush - 2 cucumber yogurt - service - hot sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Arabic Meat Magboos Tray 6 People",
+              "description": "10 pieces of meat - 6 broths - 6 milk - 6 maoun Aish - 2 fattoush - 2 rob cucumbers - service - chila",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Chicken Magboos Tray 3 People",
+              "description": "4 pieces of chicken, 3 bread, 3 broth, 3 milk, 1 fattoush salad, 1 rob cucumber salad, arugula service and mabouj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Chicken Tray 6 People",
+              "description": "Tray Mandi- Bukhari- Biryani - Gly Free 5 broths - 5 milk - 5 mixed bread - Service - Maabouj- 2 salads and 2 rob cucumbers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Free Jelly Tray (3-4) Persons",
+              "description": "12 pieces of boneless chicken - 3 broth - 3 bread - 1 rob cucumber - 1 fattoush salad - service - frown",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Arabic Meat Mansaf Tray (5-6) People",
+              "description": "12 pieces of Arabic lamb meat - 6 bread of Mansaf - 6 milk - Mansaf broth - 2 Fattoush - Robe cucumber - Service - Mabouj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "25.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Chicken Magboos Tray 4 People",
+              "description": "6 pieces of chicken - 4 bread maon - 4 broths - 4 milk - 1 fattoush salad - 1 rob cucumber salad - arugula service - mabouj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Chicken Biryani Tray 3 / 4 People",
+              "description": "8 Pieces of chicken with the mixture of sauce - 3 biryani bread - 3 broths - 3 milk - aftosh - rob cucumber salad - service - mabouj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Chinese Chicken Biryani 4 / 5 People",
+              "description": "12 Pieces of chicken with the mixture of sauce - 4 maaaon biryani - 4 broth - 4 milk - service - mabouj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Charcoal Steamer Tray 6 People",
+              "description": "2 whole charcoal chicken - 6 steamed bread - 6 broth - 6 milk - 2 rob cucumbers - 2 fattoush - service - mabouj",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Makloba Chicken Tray (6-7) People",
+              "description": "16 pieces of chicken- 6 ma'aoon aish - 6 broths - 6 milk - 2 cucumber salads - 2 fattoush - maabouj - service",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Chicken Tray 65 6 People",
+              "description": "20 pieces of chicken, 6 red bread, 6 broths, 6 milk, 2 cucumber salads, 2 fattoush, majab, and service",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "11.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Meat": [
+            {
+              "index": 19,
+              "name": "Meat Majboos",
+              "description": "Free salad and milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Australian Meat Maqluba",
+              "description": "Meat Maqluba",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Meat Borma",
+              "description": "Meat Borma",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Arabic Mandi Meat",
+              "description": "Arabic Mandi Meat",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Australian Meat Mansaf",
+              "description": "Australian Meat Mansaf",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Arabian Meat Mansaf",
+              "description": "Arabian Meat Mansaf",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Arabic Meat Wilderness",
+              "description": "2 pieces of meat with living , 1 broth , 1 soup , 1 salad , 1 yogurt , arugula and chili",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "chicken": [
+            {
+              "index": 26,
+              "name": "Chicken Mandi",
+              "description": "Made with  tender and juicy chicken, marinated in a blend of aromatic spices and cooked to perfection, served atop a bed of fragrant and fluffy rice, creating a mouth-watering and unforgettable meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Chicken Kabsa",
+              "description": "Tender chicken cooked with aromatic spices, mixed with long-grain rice, and garnished with nuts and herbs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Chicken Maqluba",
+              "description": "seasoned rice, potatoes, eggplant, tender pieces of chicken",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Chicken Borma",
+              "description": "Chicken Borma",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Bukhari Charcoal",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Chicken Mansaf",
+              "description": "chicken cooked in a rich, creamy sauce made with yogurt, lamb fat, and spices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Jelly Fry",
+              "description": "Jelly Fry",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Chicken 65",
+              "description": "With salad and free yogurt",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Chicken Biryani",
+              "description": "Made with tender chicken, basmati rice, and a blend of spices, it's a classic dish from the Indian subcontinent, perfect for a main course or as a side dish.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Bukhari Shwayih",
+              "description": "Bukhari Shwayih",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizers": [
+            {
+              "index": 36,
+              "name": "Arabic Salad",
+              "description": "Made with a mix of fresh vegetables and dressed with lemon juice and olive oil. it's a healthy and delicious option for those looking for a side dish or a light meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Cucumber And Yoghurt",
+              "description": "Cucumber And Yoghurt",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Fattoush",
+              "description": "Made with fresh vegetables, herbs and toasted pita bread. Our Fattoush salad is made with crisp lettuce, tomatoes, cucumbers, onions, parsley and mint, making it a perfect side dish or a satisfying light meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Tabbouleh",
+              "description": "Made with finely chopped parsley, tomatoes, and onions, mixed with mint, and a lemon dressing. A perfect blend of flavors and textures, making it a refreshing and healthy side dish or a satisfying light meal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Beverages": [
+            {
+              "index": 40,
+              "name": "Yogurt",
+              "description": "Made with the freshest and highest quality ingredients, packed with probiotics and nutrients,  delivering a delicious and healthy snack",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Water",
+              "description": "Stay hydrated and refreshed with our water.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Pepsi",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "7-Up",
+              "description": "Soft Drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/al-maida-al-yemeni",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.0",
+          "Ratings_count": "3368",
+          "Reviews_count": "2039",
+          "General_review": [
+            "Al Maida Al Yemeni is a restaurant located in Kuwait, serving a selection of Kuwaiti, Breakfast, Grills that delivers across Hawally, Jahra - Jahra Area, Sabah Al Ahmad Marine City, Shuwaikh Industrial 1 and West Abu Fetera Small Indust.",
+            "Their best selling dishes are Jelly Fry, Abawi Foul, Eggs With Cheese and Eggplant Hamsa, although they have a variety of dishes and meals to choose from like Kuwaiti, Breakfast, Grills.",
+            "They have been reviewed 3368 times by talabat users, with a rating of 4."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Hamad A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "بيض كله كاري ليش؟ ومالح وحمسة لحم بطماط ماتحس بلحم اللحمه كبر ظفري الصغير اذا مو اصغر، شهالبخل؟"
+            },
+            {
+              "reviewer_name": "Hoba Re ***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الدجاج ليس جيد وبيه دماء و العيش مملح جدآ"
+            },
+            {
+              "reviewer_name": "Om A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "تجربة سيئة ووصلني الدجاج ناشف ومافي صوص والرز مو احمر نفس فيديوهات التيك توك مجرد كذبة الله لايوفقكم جيد"
+            },
+            {
+              "reviewer_name": "bader N***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "وصلني خبز عادي وليس خبز تنور اما الباقي تمام ممتاز"
+            },
+            {
+              "reviewer_name": "ام فهد ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت خبز ملوح وماجاني جاني خبز عادي"
+            },
+            {
+              "reviewer_name": "جواهر ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اللحم وصلني كله شحم وصغيييير"
+            },
+            {
+              "reviewer_name": "ام يوسف ا***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "جاني الطلب بدون خبز"
+            },
+            {
+              "reviewer_name": "S M***",
+              "review_date": "26 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجيب"
+            },
+            {
+              "reviewer_name": "مريم ا***",
+              "review_date": "25 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "جيد جيدا. و رائع ممتاز"
+            },
+            {
+              "reviewer_name": "مشعل ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "chicken smells weird and undercooked"
+            },
+            {
+              "reviewer_name": "AAaa A***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الخبز ليس جيدا محترق قليلا"
+            },
+            {
+              "reviewer_name": "Hmd F***",
+              "review_date": "20 March 2025",
+              "review_rating": "Good",
+              "review_comment": "طلبنا الدجاج محمر زيادة للاسف وصلنا الدجاج ابيض عكس الي طلبناه وعكس الصورة في الموقع"
+            },
+            {
+              "reviewer_name": "Wahiba D***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "thank you"
+            },
+            {
+              "reviewer_name": "سلمى ا***",
+              "review_date": "17 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "طعمه خاااااايسس يع وريحته مو حلوه 0/10"
+            },
+            {
+              "reviewer_name": "Ahmed A***",
+              "review_date": "14 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب بارد ، اللحم ليس لحم مندي"
+            },
+            {
+              "reviewer_name": "Sheikh A***",
+              "review_date": "14 March 2025",
+              "review_rating": "Good",
+              "review_comment": "there was coal dust on kababs great fast on time"
+            },
+            {
+              "reviewer_name": "A f***",
+              "review_date": "10 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز سريع لذيذ 🤤"
+            },
+            {
+              "reviewer_name": "salman s***",
+              "review_date": "08 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الوجبة غير ناضجة"
+            },
+            {
+              "reviewer_name": "Abdullah a***",
+              "review_date": "08 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الدجاج ناشف دون صلصه"
+            },
+            {
+              "reviewer_name": "حمني ح***",
+              "review_date": "07 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب ناقص ياطيب ماكو دجاج !! عيش بدون دجاج"
+            },
+            {
+              "reviewer_name": "Awrad d***",
+              "review_date": "28 February 2025",
+              "review_rating": "OK",
+              "review_comment": "وصل المعصوب بدون موز وعسل"
+            },
+            {
+              "reviewer_name": "Madiha A***",
+              "review_date": "27 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "wow it was very good and really filling 😊"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "24 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍🏼👍🏼👍🏼"
+            },
+            {
+              "reviewer_name": "Ashwag🕊♥️ .***",
+              "review_date": "24 February 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبي كان كرك ليش جايبين بس شاي !!!! ارجو ارجاع الطلب الان اين الكرك انا طلبت كرك وليس شاي"
+            },
+            {
+              "reviewer_name": "فهد ب***",
+              "review_date": "24 February 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم الاكل تغيير والسبب الفلفل البارد الاخضر جدا سئ"
+            },
+            {
+              "reviewer_name": "نايف ا***",
+              "review_date": "21 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الكبده طعمها سيئ لا انصح فيه"
+            },
+            {
+              "reviewer_name": "سلمى ا***",
+              "review_date": "19 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الكرك ماينشرب"
+            },
+            {
+              "reviewer_name": "Shefaa a***",
+              "review_date": "16 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيده"
+            },
+            {
+              "reviewer_name": "سعد ا***",
+              "review_date": "15 February 2025",
+              "review_rating": "OK",
+              "review_comment": "بالصور خبز واللي وصل خبز لبناني وطالب حمص باللحم حاطلي تكه لحم بطماط فوق الحمص تأليف"
+            },
+            {
+              "reviewer_name": "Adel H***",
+              "review_date": "15 February 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبي ليس كامل وينقصه الخبز كما هو موضح بالصور"
+            },
+            {
+              "reviewer_name": "ali h***",
+              "review_date": "14 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الحم سيى"
+            },
+            {
+              "reviewer_name": "Sara A***",
+              "review_date": "14 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "دجاج الفحم بالعيش رهيييب 😍"
+            },
+            {
+              "reviewer_name": "Abdullah G***",
+              "review_date": "13 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المطعم بصفه عامه ممتاز ❤️ المندوب علي درجه عاليه من الاحترام والذوق"
+            },
+            {
+              "reviewer_name": "N bb G***",
+              "review_date": "13 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "اكثر من ممتازه"
+            },
+            {
+              "reviewer_name": "افراح ا***",
+              "review_date": "13 February 2025",
+              "review_rating": "OK",
+              "review_comment": "الخبز جدا سيئ ماقدرنا ناكله لانه محترق"
+            },
+            {
+              "reviewer_name": "abdulaziz a***",
+              "review_date": "07 February 2025",
+              "review_rating": "Good",
+              "review_comment": "طلبت مندي دجاج الصراحه العيش كله صبغة زعفران مبالغ فيها شدعوه جذي صبغ اوووووفر والدجاج بعد كله لون"
+            },
+            {
+              "reviewer_name": "Yousf A***",
+              "review_date": "07 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "😍"
+            },
+            {
+              "reviewer_name": "Abdulaziz A***",
+              "review_date": "07 February 2025",
+              "review_rating": "Good",
+              "review_comment": "الأكل وصل حار ، مشكلته الدهن كثير، يحتاجون تطوير"
+            },
+            {
+              "reviewer_name": "Marwah E***",
+              "review_date": "06 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "exceptional!"
+            },
+            {
+              "reviewer_name": "Sara A***",
+              "review_date": "05 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيييذ والسيرفس حلو"
+            },
+            {
+              "reviewer_name": "A f***",
+              "review_date": "04 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ 😋 سريع"
+            },
+            {
+              "reviewer_name": "Abdelmenem Nasr ***",
+              "review_date": "04 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "من افضل مطاعم الكويت اللهم بارك طيب"
+            },
+            {
+              "reviewer_name": "-فيصل -***",
+              "review_date": "02 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👍🏻❤️ 👍🏻❤️"
+            },
+            {
+              "reviewer_name": "راكان ا***",
+              "review_date": "31 January 2025",
+              "review_rating": "Good",
+              "review_comment": "الدجاج يابس والعيش بارد المشكله مو من السايق من الطباخ"
+            },
+            {
+              "reviewer_name": "A .***",
+              "review_date": "29 January 2025",
+              "review_rating": "OK",
+              "review_comment": "انا اول مره بحياتي يمر علي عيش زفر الله يزيد النعمة بس ."
+            },
+            {
+              "reviewer_name": "Ss Alfa ***",
+              "review_date": "29 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "رائع"
+            },
+            {
+              "reviewer_name": "talal a***",
+              "review_date": "26 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "Nawaf A***",
+              "review_date": "23 January 2025",
+              "review_rating": "OK",
+              "review_comment": "عادي جدآ الطعم وكان بارد الطعام ممتاز"
+            },
+            {
+              "reviewer_name": "A f***",
+              "review_date": "22 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميل 🌹🌹🌹 سريع 🌹"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "20 January 2025",
+              "review_rating": "OK",
+              "review_comment": "طالبين مندي واصل نص مندي ونص مجبوس!!! شكو حشو بالمندي"
+            },
+            {
+              "reviewer_name": "Turki A***",
+              "review_date": "20 January 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء جدا مايسوى فلس"
+            },
+            {
+              "reviewer_name": "Hamza d***",
+              "review_date": "20 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميل صراحة"
+            },
+            {
+              "reviewer_name": "Sid Sayyed ***",
+              "review_date": "18 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good as said in the menu very good behaviour and very fastest delivery"
+            },
+            {
+              "reviewer_name": "Abdelmenem Nasr ***",
+              "review_date": "14 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "خوش مطعم كويس"
+            },
+            {
+              "reviewer_name": "A f***",
+              "review_date": "14 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ 😍 سريع"
+            },
+            {
+              "reviewer_name": "Hamza d***",
+              "review_date": "13 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "دائما عند حسن ظن"
+            },
+            {
+              "reviewer_name": "Abdelmenem Nasr ***",
+              "review_date": "12 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "خطير ولذيذ و وايد رهيب كويس"
+            },
+            {
+              "reviewer_name": "A f***",
+              "review_date": "12 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ 😋 سلوك السائق محترم"
+            },
+            {
+              "reviewer_name": "ناصر ا***",
+              "review_date": "12 January 2025",
+              "review_rating": "OK",
+              "review_comment": "العيش مو مستوي ناشف والدجاجة كذلك … طلبت قبل هذه المره وكان ممتاز لكن للاسف هذه المرة كرهته"
+            },
+            {
+              "reviewer_name": "Zainab A***",
+              "review_date": "11 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل جدا سئ حرام والله كل فلس فيه"
+            },
+            {
+              "reviewer_name": "Abeer A***",
+              "review_date": "11 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكبده كانت حاضه جدا جدا ماقدت اكلها"
+            },
+            {
+              "reviewer_name": "Abdulkareem A***",
+              "review_date": "11 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب وصل غلط"
+            },
+            {
+              "reviewer_name": "A f***",
+              "review_date": "10 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "قوي يستاهل التجربة 😋😋😋 توصيل سريع"
+            },
+            {
+              "reviewer_name": "ابو ع***",
+              "review_date": "10 January 2025",
+              "review_rating": "OK",
+              "review_comment": "السمكه كانت صغيره انصدمت"
+            },
+            {
+              "reviewer_name": "Abdelmenem Nasr ***",
+              "review_date": "10 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "من أفضل المطاعم بصراحه مشاء الله طيب"
+            },
+            {
+              "reviewer_name": "Mano Mano ***",
+              "review_date": "10 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الله يعطيكم العافيه الاكل ممتاز جدا والطعم حلو الله يعطيكم العافيه الله يعطيكم العافيه"
+            },
+            {
+              "reviewer_name": "جاسم م***",
+              "review_date": "08 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "محسن ا***",
+              "review_date": "07 January 2025",
+              "review_rating": "OK",
+              "review_comment": "دجاج كله عضم اهتمو بطعمك"
+            },
+            {
+              "reviewer_name": "Sa r***",
+              "review_date": "07 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "اخذ باقي النقود"
+            },
+            {
+              "reviewer_name": "Mansour A***",
+              "review_date": "07 January 2025",
+              "review_rating": "OK",
+              "review_comment": "مطعم أول وآخر مرة ، لا طعم لا جودة لا سعر"
+            },
+            {
+              "reviewer_name": "أبو عامر ا***",
+              "review_date": "06 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الطعم جداا لذييذ وساخن ووفير سرعه ودقة"
+            },
+            {
+              "reviewer_name": "Ahmad Al Motiry ***",
+              "review_date": "06 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "سعد ع***",
+              "review_date": "05 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ 😋 ونظيف الله يعطيكم العافيه"
+            },
+            {
+              "reviewer_name": "حيدر ا***",
+              "review_date": "03 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "تجربة ممتازة متكاملة وأول مرة نجربه بس الطلب للأسف كان ناقص الفتوش وسلطة الخيار بالروب"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "01 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الحم مو طيب ومطبوخ واجد منهري مولاذيذ"
+            },
+            {
+              "reviewer_name": "mishal93 k***",
+              "review_date": "01 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "امتياز"
+            },
+            {
+              "reviewer_name": "Faisal A***",
+              "review_date": "29 December 2024",
+              "review_rating": "OK",
+              "review_comment": "تاخير تاخير"
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "28 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "it would be nice if there were a lemon slice."
+            },
+            {
+              "reviewer_name": "fatma b***",
+              "review_date": "28 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "حلو"
+            },
+            {
+              "reviewer_name": "ناصر ا***",
+              "review_date": "28 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "من افضل المطاعم اليمنية"
+            },
+            {
+              "reviewer_name": "Ragab A***",
+              "review_date": "27 December 2024",
+              "review_rating": "Good",
+              "review_comment": "meat full of grease and parts of lamb with less meat in it."
+            },
+            {
+              "reviewer_name": "ابو حسين ا***",
+              "review_date": "23 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الصورة بصوب والأكل الواقع بصوب"
+            },
+            {
+              "reviewer_name": "manal a***",
+              "review_date": "23 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "منتاز ممتاز"
+            },
+            {
+              "reviewer_name": "Phone P***",
+              "review_date": "22 December 2024",
+              "review_rating": "Very good",
+              "review_comment": "كمية العيش قليله جدا"
+            },
+            {
+              "reviewer_name": "h.26 Alsmak ***",
+              "review_date": "21 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Ħàšàn Ä***",
+              "review_date": "14 December 2024",
+              "review_rating": "OK",
+              "review_comment": "Bad taste and high price"
+            },
+            {
+              "reviewer_name": "KWT Q***",
+              "review_date": "09 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "شغل طيب ومرتب"
+            },
+            {
+              "reviewer_name": "سعود ا***",
+              "review_date": "07 December 2024",
+              "review_rating": "OK",
+              "review_comment": "كمية الدهن لا توصف ( اتوقع حاطين دهن محرك سياره )"
+            },
+            {
+              "reviewer_name": "Homam A***",
+              "review_date": "06 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very good test and rich meat."
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "01 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": ":3 :3"
+            },
+            {
+              "reviewer_name": "Ali A***",
+              "review_date": "01 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الطعم الله يزيد النعمه والمنسف متروس هيل جنك تشرب كرك"
+            },
+            {
+              "reviewer_name": "سعود ا***",
+              "review_date": "29 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "خيالي والله عازمين الربع دوانية وخيال"
+            },
+            {
+              "reviewer_name": "عبدالرحمن ا***",
+              "review_date": "28 November 2024",
+              "review_rating": "OK",
+              "review_comment": "مقلقل اللحم كان بدون جبن"
+            },
+            {
+              "reviewer_name": "سالم ا***",
+              "review_date": "27 November 2024",
+              "review_rating": "OK",
+              "review_comment": "الكبده طالبها معا جبن ويجني بدون والاكل مو حلو"
+            },
+            {
+              "reviewer_name": "علي ا***",
+              "review_date": "26 November 2024",
+              "review_rating": "OK",
+              "review_comment": "مطعم سيء مو نفس الصوره"
+            },
+            {
+              "reviewer_name": "ahmad k***",
+              "review_date": "23 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "دجاج ٦٥ ممتاز والاكل حار ومهتمين بالسيرفس يجي معاه مرق و شوربة و سلطه و معبوج و لبن و سفره"
+            },
+            {
+              "reviewer_name": "Moon A***",
+              "review_date": "22 November 2024",
+              "review_rating": "OK",
+              "review_comment": "ت"
+            }
+          ]
+        }
       }
     ]
   },
@@ -8243,7 +9369,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -8259,7 +9385,8 @@
       "Elevation Burger, Abu Ftaira",
       "Bait Noura",
       "Achar Chefna (Lake Mall)",
-      "Mishkak"
+      "Mishkak",
+      "Al Maida Al Yemeni"
     ],
     "completed_pages": []
   }
