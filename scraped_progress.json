@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:24:45.669687",
+  "last_updated": "2025-04-06T13:31:50.034529",
   "all_results": {
     "الظهر": [
       {
@@ -88517,6 +88517,2250 @@
             }
           ]
         }
+      },
+      {
+        "name": "Tabel",
+        "cuisine": "Grills, Shawarma, Healthy, Arabic",
+        "url": "https://www.talabat.com/kuwait/restaurant/724027/tabel-mahboula?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 34 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Tabel Tawouk Wrap",
+              "description": "Chargrilled Shish Tawouk marinated with our special recipe, topped with your choice of TABEL™ sauce or TABEL™ spicy sauce and pickles. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel Tawouk Wrap",
+                "price_details": {
+                  "Your Choice Of Flavor (Choose 1)": [
+                    "Tabel Tawouk Wrap (Regular) (1.200)",
+                    "Tabel Tawouk Wrap (Spicy) (1.200)"
+                  ],
+                  "Entrees (Choose up to 3 items)": [
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Wedges (1.350)",
+                    "Sweet Batata Harra (1.650)"
+                  ],
+                  "Sauces (Choose up to 5 items)": [
+                    "Tabel™ Sauce- 40 ML (0.300)",
+                    "Tabel™ Spicy Sauce- 40 ML (0.300)",
+                    "Garlic Sauce- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Khishkhash Kabab Wrap",
+              "description": "Chargrilled Kabab wrap, seasoned with our blend of spices, topped with tahini sauce, grilled onions, parsley, grilled tomato and sumac. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Khishkhash Kabab Wrap",
+                "price_details": {
+                  "Your Choice Of Flavor (Choose 1)": [
+                    "Khishkash Kabab Wrap (Regular) (1.300)",
+                    "Khishkash Kabab Wrap (Spicy) (1.300)"
+                  ],
+                  "Entrees (Choose up to 3 items)": [
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Wedges (1.350)",
+                    "Sweet Batata Harra (1.650)"
+                  ],
+                  "Sauces (Choose up to 9 items)": [
+                    "Khishkhash Sauce- 40 ML (0.300)",
+                    "Tabel™ Tahini- 40 ML (0.300)",
+                    "Tabel™ Spicy Tahini- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Khishkhash Kabab",
+              "description": "3 Chargrilled Kabab skewers with our special khishkash sauce. Served with a side of roasted potato fingers, TABEL™ bran bread, hummus and spicy TABEL™ Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Khishkhash \"Mangoo3\"",
+              "description": "\"Your choice of chargrills dunked in our tangy Khishkash stew. Served with TABEL™ bran bread, toasted herbs bread, and our special topping mix on the side (Almonds, pine nuts and crispy onion).\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Khishkhash \"Mangoo3\"",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (4.250)",
+                    "Shish Tawouk (3.250)",
+                    "Herbs Tawouk (3.250)",
+                    "Kabab (3.500)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 4 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Farm Salad",
+              "description": "\"Tabel signature fine cut\" Cucumbers, Tomato, Lettuce, Capsicum, Radish, & Parsley topped with our signature vinaigrette.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Herbs Tawouk & Mushroom Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Herbs Tawouk skewers & our Mushroom Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New at Tabel": [
+            {
+              "index": 6,
+              "name": "Chef Salad",
+              "description": "The mix includes, quinoa, grilled halloumi, sweet potato, romaine lettuce, rocca, and thyme, paired with the crunch of cucumber, radish, green capsicum, with tomatoes and refreshing mint. A touch of sweet and caramelized pumpkin cubes. Served with TABEL™ vinaigrette and Tahini dressings",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Roasted Pumpkin Soup",
+              "description": "This soup is the perfect blend of roasted pumpkin, fresh thyme, butter, and our special mix of herbs & spices, topped off with Pumpkin pieces to add flavor. A comfy warm bowl for a cold, cozy night.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Grilled Halloumi wrap",
+              "description": "Grilled halloumi cheese topped with our TABEL™ signature chimichurri & a touch of our cherry sauce, fresh salad, pine, mix nuts & sumac in our toasted homemade bran bread. An experience beyond fusion.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Farm Salad",
+              "description": "\"Tabel signature fine cut\" Cucumbers, Tomato, Lettuce, Capsicum, Radish, & Parsley topped with our signature vinaigrette.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Creamy Choconafa Goodness Box",
+              "description": "Doughy chunks mixed with Belgian chocolate, covered with a heavenly creamy recipe, and topped with Kunafa.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "First Course": [
+            {
+              "index": 11,
+              "name": "Eggplant Fattah",
+              "description": "Chef's recipie of homemade fattah with chickpeas and mutabbal, topped with fresh yogurt and garnished with pine nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Eggplant Fattah",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Plain (1.950)",
+                    "Chicken (2.350)",
+                    "Beef (2.750)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Add-ons (Choose up to 1 items)": [
+                    "Tabel™ Bread (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 12,
+              "name": "Tabel™ Grape Leaves",
+              "description": "Signature grape leaves stuffed with our \"zesty-sweet\" flavorful rice mix.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Grilled Wings",
+              "description": "Fresh chargrilled chicken wings with your choice of TABEL™ flavours.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grilled Wings",
+                "price_details": {
+                  "Your Choice Of Flavor (Choose 1)": [
+                    "Karaz (1.500)",
+                    "Karaz Large (2.750)",
+                    "Chimichurri (1.500)",
+                    "Chimichurri Large (2.750)",
+                    "Tabel™ Sauce (1.500)",
+                    "Tabel™ Sauce Large (2.750)",
+                    "Spicy Tabel™ Sauce (1.500)",
+                    "Spicy Tabel™ Sauce Large (2.750)",
+                    "Plain (1.500)",
+                    "Plain Large (2.750)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 14,
+              "name": "Roasted Potato Fingers",
+              "description": "Homemade Fresh roasted potato fingers seasoned with our house blend of spices, herbs and virgin olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Roasted Potato Fingers",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Regular (1.350)",
+                    "Large (2.250)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Sauces (Choose up to 4 items)": [
+                    "Tabel™ Sauce- 40 ML (0.300)",
+                    "Tabel™ Spicy Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 15,
+              "name": "Tabel™ Batata Harra",
+              "description": "Roasted sweet potato cubes tossed in our homemade blend of spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sides & Salads": [
+            {
+              "index": 16,
+              "name": "Farm Salad",
+              "description": "\"Tabel signature fine cut\" Cucumbers, Tomato, Lettuce, Capsicum, Radish, & Parsley topped with our signature vinaigrette.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Fattoush",
+              "description": "Freshly prepared fattoush salad made from lettuce, cucumber, thyme, parsley, fresh mint, raddish, tomato, spring onion, capsicum, and sumac, served with TABEL™ vinaigrette dressing and toasted herbs bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Tabboulah",
+              "description": "Freshly prepared tabboulah salad made from parsley, tomato, jumbo burgul, and spring onions, served with TABEL™ vinaigrette dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Yogurt Salad",
+              "description": "Our recipe of homemade fresh yogurt with diced cucumber and mint. - Served without bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Tabel™ Hummus",
+              "description": "Our recipe of homemade blended chickpeas with tahini, lemon and chimichurri pesto, garnished with pine nuts and extra virgin olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel™ Hummus",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Tabel™ Hummus (Without Bread) (1.450)",
+                    "Tabel™ Hummus (With Bread) (1.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 21,
+              "name": "Beef Hummus",
+              "description": "Our recipe of homemade blended chickpeas with tahini, lemon topped with beef bites and garnished with pine nuts and extra virgin olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Beef Hummus",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Beef Hummus (Without Bread) (1.750)",
+                    "Beef Hummus (With Bread) (2.050)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 22,
+              "name": "Hummus",
+              "description": "Our recipe of blended chickpeas with tahini, lemon, garnished with fresh chickpeas and extra virgin olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hummus",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "Hummus (Without Bread) (1.100)",
+                    "Hummus (With Bread) (1.400)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 23,
+              "name": "Mutabbal",
+              "description": "Mashed chargrilled eggplant, blended with tahini, lemon and topped with extra virgin olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mutabbal",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Mutabbal (Without Bread) (1.350)",
+                    "Mutabbal (With Bread) (1.650)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 24,
+              "name": "Muhammarah",
+              "description": "Our recipe of blended red chili paste with walnuts, pomegranate molasses, bread crumbs, garnished with crushed walnuts and extra virgin olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Muhammarah",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Muhamarah (Without Bread) (1.450)",
+                    "Muhamarah (With Bread) (1.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 25,
+              "name": "Tabel™ Tahini- 150 Ml",
+              "description": "Our signature slimmed and light Tabel™ tahini sauce. - Served without bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Tabel™ Spicy Tahini- 150 Ml",
+              "description": "Our signature Tabel™ tahini sauce with a hint of heat. - Served without bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Organic Brown Rice",
+              "description": "Organic Brown Rice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Tabel™ Bread",
+              "description": "Homemade Bran Bread",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Wholesome Art": [
+            {
+              "index": 29,
+              "name": "Quinoa Wholesome Bowl",
+              "description": "Your choice of grills along with grilled corn, grilled sweet potatoes, green peas, & red kidney beans, topped with our signature “Slimmed Tahini”or \"Spicy Slimmed Tahini\" sauce on a bed of mixed quinoa",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Quinoa Wholesome Bowl",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (3.850)",
+                    "Kabab (3.550)",
+                    "Tawouk (3.550)",
+                    "Herb Tawouk (3.550)"
+                  ],
+                  "Your Choice Of (Choose 1)": [
+                    "Regular",
+                    "Spicy"
+                  ],
+                  "Do you want the sauce on the side? (Choose up to 1 items)": [
+                    "Yes"
+                  ],
+                  "Extra Skewer (Choose up to 1 items)": [
+                    "Extra Tikka Skewer (1.250)",
+                    "Extra Kabab Skewer (0.950)",
+                    "Extra Tawouk Skewer (0.850)",
+                    "Extra Herb Tawouk Skewer (0.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 30,
+              "name": "Brown Rice Wholesome Bowl",
+              "description": "Your choice of grills along with grilled corn, grilled sweet potatoes, green peas, & red kidney beans, topped with our signature “Slimmed Tahini”or \"Spicy Slimmed Tahini\" sauce on a bed of organic brown rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Brown Rice Wholesome Bowl",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (3.700)",
+                    "Kabab (3.400)",
+                    "Tawouk (3.200)",
+                    "Herb Tawouk (3.200)"
+                  ],
+                  "Your Choice Of (Choose 1)": [
+                    "Regular",
+                    "Spicy"
+                  ],
+                  "Do you want the sauce on the side? (Choose up to 1 items)": [
+                    "Yes"
+                  ],
+                  "Extra Skewer (Choose up to 1 items)": [
+                    "Extra Tikka Skewer (1.250)",
+                    "Extra Kabab Skewer (0.950)",
+                    "Extra Tawouk Skewer (0.850)",
+                    "Extra Herb Tawouk Skewer (0.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Quinoa & Brown Rice Wholesome Bowl",
+              "description": "Your choice of grills along with grilled corn, grilled sweet potatoes, green peas, & red kidney beans, topped with our signature “Slimmed Tahini”or \"Spicy Slimmed Tahini\" sauce on a bed of quinoa & brown rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Quinoa & Brown Rice Wholesome Bowl",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (3.600)",
+                    "Kabab (3.300)",
+                    "Tawouk (3.100)",
+                    "Herb Tawouk (3.100)"
+                  ],
+                  "Your Choice Of (Choose 1)": [
+                    "Regular",
+                    "Spicy"
+                  ],
+                  "Do you want the sauce on the side? (Choose up to 1 items)": [
+                    "Yes"
+                  ],
+                  "Extra Skewer (Choose up to 1 items)": [
+                    "Extra Tikka Skewer (1.250)",
+                    "Extra Kabab Skewer (0.950)",
+                    "Extra Tawouk Skewer (0.850)",
+                    "Extra Herb Tawouk Skewer (0.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 32,
+              "name": "Veggies Wholesome Bowl",
+              "description": "Your choice of grills along with grilled corn, grilled sweet potatoes, green peas, & red kidney beans, topped with our signature vinaigrette dressing on a bed of mixed vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Veggies Wholesome Bowl",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (3.500)",
+                    "Kabab (3.200)",
+                    "Tawouk (3.000)",
+                    "Herb Tawouk (3.000)"
+                  ],
+                  "Do you want the sauce on the side? (Choose up to 1 items)": [
+                    "Yes"
+                  ],
+                  "Extra Skewer (Choose up to 1 items)": [
+                    "Extra Tikka Skewer (1.250)",
+                    "Extra Kabab Skewer (0.950)",
+                    "Extra Tawouk Skewer (0.850)",
+                    "Extra Herb Tawouk Skewer (0.850)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Brown Rice Bowls": [
+            {
+              "index": 33,
+              "name": "Herbs Tawouk & Tahini Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Herbs Tawouk skewers & Tabel's Slimmed Tahini Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Herbs Tawouk & Khishkhash Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Herbs Tawouk skewers & our Khishkash Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Herbs Tawouk & Mushroom Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Herbs Tawouk skewers & our Mushroom Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Herbs Tawouk & Chimichurri Pesto Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Herbs Tawouk skewers & our Chimichurri Pesto Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Herbs Tawouk & Karaz Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Herbs Tawouk skewers & our Cherry Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Herbs Tawouk Rice Bowl without sauce",
+              "description": "Organic Brown Rice topped with 2 Herbs Tawouk skewers. Served without Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Tawouk & Tahini Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Shish Tawouk skewers & our Slimmed Tahini Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Tawouk & Khishkhash Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Shish Tawouk skewers & our Khishkash Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Tawouk & Mushroom Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Shish Tawouk skewers & our Mushroom Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Tawouk & Chimichurri Pesto Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Shish Tawouk skewers & our Chimichurri Pesto Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Tawouk & Karaz Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Shish Tawouk skewers & our Cherry Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Tawouk Rice Bowl without sauce",
+              "description": "Organic Brown Rice topped with 2 Shish Tawouk skewers. Served without Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Tenderloin & Tahini Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Prime Tikka Tenderloin Beef skewers & our Slimmed Tahini Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Tenderloin & Khishkhash Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Prime Tikka Tenderloin Beef skewers & our Khishkash Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Tenderloin & Mushroom Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Prime Tikka Tenderloin Beef skewers & our Mushroom Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Tenderloin & Chimichurri Pesto Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Prime Tikka Tenderloin Beef skewers & our Chimichurri Pesto Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Tenderloin & Karaz Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Prime Tikka Tenderloin Beef skewers & our Cherry Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Tenderloin Rice Bowl without sauce",
+              "description": "Organic Brown Rice topped with 2 Prime Tikka Tenderloin Beef skewers. Served without Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Kabab & Tahini Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Kabab skewers & our Slimmed Tahini Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Kabab & Khishkhash Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Kabab skewers & our Khishkash Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Kabab & Mushroom Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Kabab skewers & our Mushroom Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Kabab & Chimichurri Pesto Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Kabab skewers & our Chimichurri Pesto Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Kabab & Karaz Rice Bowl",
+              "description": "Organic Brown Rice topped with 2 Kabab skewers & our Cherry Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Kabab Rice Bowl without sauce",
+              "description": "Organic Brown Rice topped with 2 Kabab skewers. Served without Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Managee3": [
+            {
+              "index": 57,
+              "name": "Tahini \"Mangoo3\"",
+              "description": "\"Your choice of chargrills dunked in bold and rich Tahini stew. Served with TABEL™ bran bread, toasted herbs bread, and our special topping mix on the side (Almonds, pine nuts and crispy onion).\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tahini \"Mangoo3\"",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (4.250)",
+                    "Shish Tawouk (3.250)",
+                    "Herbs Tawouk (3.250)",
+                    "Kabab (3.500)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 4 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 58,
+              "name": "Karaz \"Mangoo3\"",
+              "description": "\"Your choice of chargrills dunked in sweet and tangy Cherry stew. Served with TABEL™ bran bread, toasted herbs bread, and our special topping mix on the side (Almonds, pine nuts and crispy onion).\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Karaz \"Mangoo3\"",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (4.250)",
+                    "Shish Tawouk (3.250)",
+                    "Herbs Tawouk (3.250)",
+                    "Kabab (3.500)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 4 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 59,
+              "name": "Khishkhash \"Mangoo3\"",
+              "description": "\"Your choice of chargrills dunked in our tangy Khishkash stew. Served with TABEL™ bran bread, toasted herbs bread, and our special topping mix on the side (Almonds, pine nuts and crispy onion).\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Khishkhash \"Mangoo3\"",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (4.250)",
+                    "Shish Tawouk (3.250)",
+                    "Herbs Tawouk (3.250)",
+                    "Kabab (3.500)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 4 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 60,
+              "name": "Mushroom \"Mangoo3\"",
+              "description": "\"Your choice of chargrills dunked in a flavorful creamy Mushroom stew. Served with TABEL™ bran bread, toasted herbs bread, and our special topping mix on the side (Almonds, pine nuts and crispy onion).\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mushroom \"Mangoo3\"",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (4.250)",
+                    "Shish Tawouk (3.250)",
+                    "Herbs Tawouk (3.250)",
+                    "Kabab (3.500)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 4 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 61,
+              "name": "Chimichurri Pesto \"Mangoo3\"",
+              "description": "\"Your choice of chargrills dunked in an aromatic Chimichurri Pesto stew. Served with TABEL™ bran bread, toasted herbs bread, and our special topping mix on the side (Almonds, pine nuts and crispy onion).\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chimichurri Pesto \"Mangoo3\"",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Tikka (4.250)",
+                    "Shish Tawouk (3.250)",
+                    "Herbs Tawouk (3.250)",
+                    "Kabab (3.500)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 4 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Fresh off the Grill": [
+            {
+              "index": 62,
+              "name": "Mixed Grills",
+              "description": "A selection of prime grills consisting of 1 Tenderloin Beef Tikka skewer, 1 Kabab skewer, 1 Shish Tawouk skewer , and 1 Herbs Tawouk skewer. Served with a side of roasted potato fingers, TABEL™ bran bread, hummus, and garlic Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Kabab",
+              "description": "3 Chargrilled Kabab skewers, marinated with our special recipe. Served with a side of roasted potato fingers, TABEL™ bran bread, hummus and spicy TABEL™ Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Khishkhash Kabab",
+              "description": "3 Chargrilled Kabab skewers with our special khishkash sauce. Served with a side of roasted potato fingers, TABEL™ bran bread, hummus and spicy TABEL™ Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Shish Tawouk",
+              "description": "3 Skewers of chargrilled succulent cubes of marinated chicken breast. Served with a side of roasted potato fingers, TABEL™ bran bread, garlic sauce and spicy TABEL™ Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Herbs Tawouk",
+              "description": "3 Chargrilled Shish Tawouk skewers, marinated with TABEL™ herb mix. Served with a side of roasted potato fingers, TABEL™ bran bread, garlic sauce and spicy TABEL™ Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Tenderloin Tikka",
+              "description": "3 Chargrilled Prime Tenderloin Beef skewers marinated with our blend of spices. Served with a side of roasted potato fingers, TABEL™ bran bread, hummus and spicy TABEL™ Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Tabel™ Arayes",
+              "description": "Seasoned ground Tenderloin beef with our blend of spices, spread on chargrilled TABEL™ bran bread. Order your choice of 2 breads of Beef, or 2 breads of Beef Cheese, or 1 bread Beef & 1 Bread of Beef Cheese Served with a side of roasted potato fingers, tahini, and spicy TABEL™ sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel™ Arayes",
+                "price_details": {
+                  "Your Choice Of Arayes (Choose 1)": [
+                    "Beef Arayis (2.750)",
+                    "Beef Arayis With Cheese (2.550)",
+                    "Mix Arayis (2.650)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 5 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Fingers (1.350)",
+                    "Sweet Batata Harra (1.650)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Sauces (Choose up to 2 items)": [
+                    "Tahini (1.100)",
+                    "Spicy Tahini (1.100)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 69,
+              "name": "Grilled Chicken",
+              "description": "Chargrilled partially deboned chicken, marinated overnight with our special blend of spices – [Al Mutaheda Fresh Chicken]. Served with a side of roasted potato fingers, TABEL™ bran bread, garlic sauce, and spicy TABEL™ sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Grilled Chicken",
+                "price_details": {
+                  "Your Choice Of Grilled Chicken (Choose 1)": [
+                    "Half Grilled Chicken Regular (2.950)",
+                    "Whole Grilled Chicken Regular (4.250)",
+                    "Half Grilled Chicken Spicy (2.950)",
+                    "Whole Grilled Chicken Spicy (4.250)"
+                  ],
+                  "Salads (Choose up to 2 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 5 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Fingers (1.350)",
+                    "Sweet Batata Harra (1.650)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Sauces (Choose up to 3 items)": [
+                    "Garlic Sauce - L (0.900)",
+                    "Mutabbal (1.350)",
+                    "Muhamarah (1.450)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Tabel Goodness Boxes": [
+            {
+              "index": 70,
+              "name": "Fam Goodness Box",
+              "description": "\"A selection of mixed grills consisting of 1 Whole chicken, 4 Kabab Skewers, 2 Shish tawouk skewers, 2 Herbs tawouk skewers, 3 Prime Tenderloin Beef skewers, 1 Beef Arayes (3 Pieces). Served with roasted potato, TABEL™ Bran Bread, Hummus, Garlic Sauce, Spicy TABEL™ Sauce (serves 3 - 4 persons).\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 71,
+              "name": "Gathering Goodness Box",
+              "description": "\"Selection of mixed grills consisting of 1 Whole chicken, 6 Kabab skewers, 3 Shish tawouk skewers, 3 Herbs tawouk skewers, 5 Prime Tenderloin Beef skewers, 1 Beef Arayes (3 pieces) and 1 Beef Cheese Arayes (3 pieces). Served with roasted potato, TABEL™ Bran Bread, Hummus, Garlic Sauce, TABEL™ Sauce, Spicy TABEL™ Sauce (serves 6 - 7 persons)\"",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Brown Rice Goodness Box",
+              "description": "Brown Basmati Rice [Natureland] topped with 8 skewers of your favorite grills and your choice of our flavourful homemade sauces. Serves 4 - 5 persons",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Brown Rice Goodness Box",
+                "price_details": {
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Kabab (11.250)",
+                    "Tikka (13.850)",
+                    "Tawouk (9.950)",
+                    "Herb Tawouk (9.950)"
+                  ],
+                  "Your Choice Of Sauce (Choose 1)": [
+                    "Without Sauce",
+                    "Karaz",
+                    "Chimichurri Pesto",
+                    "Mushroom",
+                    "Khishkhash",
+                    "Tahini"
+                  ],
+                  "Sides & Salads (Choose up to 10 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Tabel Hummus (1.450)",
+                    "Hummus Bl Lahma (1.750)",
+                    "Hummus (1.100)",
+                    "Garlic Sauce - L (0.900)",
+                    "Mutabbal (1.350)",
+                    "Muhamarah (1.450)",
+                    "Tahini (1.100)",
+                    "Yogurt Salad (1.000)",
+                    "Brown Rice (1.450)"
+                  ],
+                  "add-on (Choose up to 1 items)": [
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 5 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Fingers (1.350)",
+                    "Sweet Batata Harra (1.650)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Grills (Choose up to 10 items)": [
+                    "Mixed Grills (3.800)",
+                    "Tabel Kabab (3.450)",
+                    "Tabel Khishkash Kabab (3.650)",
+                    "Shish Tawook (3.200)",
+                    "Tabel Herbs Tawook (3.200)",
+                    "Tenderloin Tikka (4.200)",
+                    "Grilled Chicken Regular (4.250)",
+                    "Grilled Chicken Spicy (4.250)"
+                  ],
+                  "Sauces (Choose up to 9 items)": [
+                    "Tabel™ Sauce- 40 ML (0.300)",
+                    "Tabel™ Spicy Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)",
+                    "Tabel™ Tahini- 40 ML (0.300)",
+                    "Tabel™ Spicy Tahini- 40 ML (0.300)",
+                    "Khishkhash Sauce- 40 ML (0.300)",
+                    "Mushroom Sauce- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Garlic Sauce- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 73,
+              "name": "\"Mangoo3\" Goodness Box",
+              "description": "Your choice of chargrills dunked in your choice of our signature \"Mangoo3\" stews. Served with TABEL™ bran bread, toasted herbs bread, and our special topping mix on the side (Almonds, pine nuts and crispy onion). Serves 4 - 5 persons",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "\"Mangoo3\" Goodness Box",
+                "price_details": {
+                  "Your Choice Of Mangoo3 (Choose 1)": [
+                    "Chimichurri Pesto",
+                    "Mushroom",
+                    "Khishkhash",
+                    "Tahini",
+                    "Karaz"
+                  ],
+                  "Your Choice Of Protein (Choose 1)": [
+                    "Kabab (12.450)",
+                    "Tikka (14.950)",
+                    "Tawouk (11.950)",
+                    "Herb Tawouk (11.950)"
+                  ],
+                  "Sides & Salads (Choose up to 10 items)": [
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Tabel Hummus (1.450)",
+                    "Hummus Bl Lahma (1.750)",
+                    "Hummus (1.100)",
+                    "Garlic Sauce - L (0.900)",
+                    "Mutabbal (1.350)",
+                    "Muhamarah (1.450)",
+                    "Tahini (1.100)",
+                    "Yogurt Salad (1.000)",
+                    "Brown Rice (1.450)"
+                  ],
+                  "add-on (Choose up to 1 items)": [
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 5 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Fingers (1.350)",
+                    "Sweet Batata Harra (1.650)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Grills (Choose up to 10 items)": [
+                    "Mixed Grills (3.800)",
+                    "Tabel Kabab (3.450)",
+                    "Tabel Khishkash Kabab (3.650)",
+                    "Shish Tawook (3.200)",
+                    "Tabel Herbs Tawook (3.200)",
+                    "Tenderloin Tikka (4.200)",
+                    "Grilled Chicken Regular (4.250)",
+                    "Grilled Chicken Spicy (4.250)"
+                  ],
+                  "Sauces (Choose up to 9 items)": [
+                    "Tabel™ Sauce- 40 ML (0.300)",
+                    "Tabel™ Spicy Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)",
+                    "Tabel™ Tahini- 40 ML (0.300)",
+                    "Tabel™ Spicy Tahini- 40 ML (0.300)",
+                    "Khishkhash Sauce- 40 ML (0.300)",
+                    "Mushroom Sauce- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Garlic Sauce- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 74,
+              "name": "Shawarma Goodness Box",
+              "description": "20 halves of your favorite Shawarma wraps, wrapped in our chargrilled bran bread, served with 3 different homemade sauces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Shawarma Goodness Box",
+                "price_details": {
+                  "Your Choice Of Sandwiches (Choose 1)": [
+                    "All Chicken (7.950)",
+                    "All Beef (9.950)",
+                    "Five & Five (8.950)"
+                  ],
+                  "Sides & Salads (Choose up to 8 items)": [
+                    "Appetizer Goodness Box (6.600)",
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Tabel Hummus (1.450)",
+                    "Hummus Bl Lahma (1.750)",
+                    "Hummus (1.100)",
+                    "Brown Rice (1.450)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "add-on (Choose up to 1 items)": [
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 5 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Fingers (1.350)",
+                    "Sweet Batata Harra (1.650)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Sauces (Choose up to 5 items)": [
+                    "Mushroom Sauce - 150 ML (1.100)",
+                    "Tabel™ Cherry Sauce- 150 ML (1.250)",
+                    "Tabel™ Tahini- 150 ML (0.950)",
+                    "Chimichurri Pesto- 150 ML (1.100)",
+                    "Khishkhash Sauce- 150 ML (0.900)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 75,
+              "name": "Chargrilled Wraps Goodness Box",
+              "description": "20 Halves of your favorite Chargrilled Wraps, wrapped in our chargrilled bran bread, served with 3 different homemade sauces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chargrilled Wraps Goodness Box",
+                "price_details": {
+                  "Your Choice Of Wraps (Choose 1)": [
+                    "All Kabab (10.950)",
+                    "All Mutabbal Kabab (11.750)",
+                    "All Tawouk Wrap (8.950)",
+                    "All Herbs Tawouk (9.750)",
+                    "5 X 5 Regular Wraps (9.950)",
+                    "5 X 5 Tabel Wraps (10.950)"
+                  ],
+                  "Sides & Salads (Choose up to 8 items)": [
+                    "Appetizer Goodness Box (6.600)",
+                    "Fettoush (1.400)",
+                    "Tabboula (1.500)",
+                    "Tabel Hummus (1.450)",
+                    "Hummus Bl Lahma (1.750)",
+                    "Hummus (1.100)",
+                    "Brown Rice (1.450)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "add-on (Choose up to 1 items)": [
+                    "Farm Salad (1.100)"
+                  ],
+                  "Entrees (Choose up to 5 items)": [
+                    "Eggplant Fatteh (Plain) (1.950)",
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Fingers (1.350)",
+                    "Sweet Batata Harra (1.650)",
+                    "Tabel™ Bread (0.300)"
+                  ],
+                  "Sauces (Choose up to 5 items)": [
+                    "Mushroom Sauce - 150 ML (1.100)",
+                    "Tabel™ Cherry Sauce- 150 ML (1.250)",
+                    "Tabel™ Tahini- 150 ML (0.950)",
+                    "Chimichurri Pesto- 150 ML (1.100)",
+                    "Khishkhash Sauce- 150 ML (0.900)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 76,
+              "name": "Appetizer Goodness Box",
+              "description": "Box of mixed appetizers consisting of Grilled Chicken Wings, Vine Leaves, TABEL™ Batata Harra, Yogurt Salad, Roasted Potato Fingers, & Eggplant Fattah.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.600",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Shawarmas & Grills Wraps": [
+            {
+              "index": 77,
+              "name": "Grilled Halloumi wrap",
+              "description": "Grilled halloumi cheese topped with our TABEL™ signature chimichurri & a touch of our cherry sauce, fresh salad, pine, mix nuts & sumac in our toasted homemade bran bread. An experience beyond fusion.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Beef Shawarma",
+              "description": "Beef Shawarma seasoned with our blend of spices, topped with your choice of tahini or spicy tahini sauce, parsely, onions, tomatoes and sumac. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Beef Shawarma",
+                "price_details": {
+                  "Your Choice Of Flavor (Choose 1)": [
+                    "Regular (1.100)",
+                    "Spicy (1.100)"
+                  ],
+                  "Entrees (Choose up to 3 items)": [
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Wedges (1.350)",
+                    "Sweet Batata Harra (1.650)"
+                  ],
+                  "Sauces (Choose up to 4 items)": [
+                    "Tabel™ Tahini- 40 ML (0.300)",
+                    "Tabel™ Spicy Tahini- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 79,
+              "name": "Chicken Shawarma",
+              "description": "Chicken Shawarma seasoned with our blend of spices, topped with your choice of garlic chimmichuri sauce or spicy TABEL™ sauce and pickles. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chicken Shawarma",
+                "price_details": {
+                  "Your Choice Of Flavor (Choose 1)": [
+                    "Regular (0.950)",
+                    "Spicy (0.950)"
+                  ],
+                  "Entrees (Choose up to 3 items)": [
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Wedges (1.350)",
+                    "Sweet Batata Harra (1.650)"
+                  ],
+                  "Sauces (Choose up to 5 items)": [
+                    "Tabel™ Sauce- 40 ML (0.300)",
+                    "Tabel™ Spicy Sauce- 40 ML (0.300)",
+                    "Garlic Sauce- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 80,
+              "name": "Khishkhash Kabab Wrap",
+              "description": "Chargrilled Kabab wrap, seasoned with our blend of spices, topped with tahini sauce, grilled onions, parsley, grilled tomato and sumac. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Khishkhash Kabab Wrap",
+                "price_details": {
+                  "Your Choice Of Flavor (Choose 1)": [
+                    "Khishkash Kabab Wrap (Regular) (1.300)",
+                    "Khishkash Kabab Wrap (Spicy) (1.300)"
+                  ],
+                  "Entrees (Choose up to 3 items)": [
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Wedges (1.350)",
+                    "Sweet Batata Harra (1.650)"
+                  ],
+                  "Sauces (Choose up to 9 items)": [
+                    "Khishkhash Sauce- 40 ML (0.300)",
+                    "Tabel™ Tahini- 40 ML (0.300)",
+                    "Tabel™ Spicy Tahini- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 81,
+              "name": "Mutabbal Kabab Wrap",
+              "description": "Chargrilled Kabab wrap, seasoned with our blend of spices, topped with mashed eggplant, tahini, grilled onions, parsley, pickles, grilled tomato and sumac. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Herbs Tawouk Wrap",
+              "description": "Chargrilled Shish Tawouk marinated with TABEL™ herb mix, topped with garlic chimmichuri sauce, pickles and garlic. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Tabel Tawouk Wrap",
+              "description": "Chargrilled Shish Tawouk marinated with our special recipe, topped with your choice of TABEL™ sauce or TABEL™ spicy sauce and pickles. Wrapped in our toasted homemade bran bread.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel Tawouk Wrap",
+                "price_details": {
+                  "Your Choice Of Flavor (Choose 1)": [
+                    "Tabel Tawouk Wrap (Regular) (1.200)",
+                    "Tabel Tawouk Wrap (Spicy) (1.200)"
+                  ],
+                  "Entrees (Choose up to 3 items)": [
+                    "Grape Leaves (1.400)",
+                    "Roasted Potato Wedges (1.350)",
+                    "Sweet Batata Harra (1.650)"
+                  ],
+                  "Sauces (Choose up to 5 items)": [
+                    "Tabel™ Sauce- 40 ML (0.300)",
+                    "Tabel™ Spicy Sauce- 40 ML (0.300)",
+                    "Garlic Sauce- 40 ML (0.300)",
+                    "Tabel™ Cherry Sauce- 40 ML (0.300)",
+                    "Chimichurri Pesto- 40 ML (0.300)"
+                  ],
+                  "Beverages (Choose up to 8 items)": [
+                    "Mint Lemonade (1.250)",
+                    "Orange Juice (1.250)",
+                    "Alsi Cola (0.450)",
+                    "Alsi Cola Zero (0.450)",
+                    "Mineral Water (0.250)",
+                    "Carbonated Water (0.600)",
+                    "Lemon Flavor Carbonated Water (0.600)",
+                    "Strawberry Flavor Carbonated Water (0.600)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Homemade Tabel™ Sauces": [
+            {
+              "index": 84,
+              "name": "Tabel™ Spicy Sauce",
+              "description": "Our Homemade Special Spicy Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel™ Spicy Sauce",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Tabel™ Spicy Sauce- 40 ML (0.300)",
+                    "Tabel™ Spicy Sauce - 150 Ml (0.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 85,
+              "name": "Tabel™ Sauce",
+              "description": "Our Homemade Special Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel™ Sauce",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Tabel™ Sauce - 40 ML (0.300)",
+                    "Tabel™ Sauce - 150 Ml (0.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 86,
+              "name": "Chimichurri Pesto",
+              "description": "Our Homemade Chimichurri Pesto Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chimichurri Pesto",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Chimichurri Pesto- 40 ML (0.300)",
+                    "Chimichurri Pesto- 150 Ml (1.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 87,
+              "name": "Tabel™ Tahini",
+              "description": "Our Homemade Slimmed Tahini",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel™ Tahini",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Tabel™ Tahini- 40 ML (0.300)",
+                    "Tabel™ Tahini- 150 Ml (0.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 88,
+              "name": "Tabel™ Spicy Tahini",
+              "description": "Our Homemade Spicy Slimmed Tahini",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel™ Spicy Tahini",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Tabel™ Spicy Tahini- 40 ML (0.300)",
+                    "Tabel™ Spicy Tahini- 150 ML (0.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 89,
+              "name": "Khishkhash Sauce",
+              "description": "Our Homemade Khishkash Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Khishkhash Sauce",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Khishkhash Sauce- 40 ML (0.300)",
+                    "Khishkhash Sauce- 150 Ml (0.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 90,
+              "name": "Mushroom Sauce",
+              "description": "Our homemade Mushroom Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mushroom Sauce",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Mushroom - 40 ml (0.300)",
+                    "Mushroom Sauce - 150 Ml (1.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 91,
+              "name": "Tabel™ Karaz Sauce",
+              "description": "Our homemade Signature Cherry Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tabel™ Karaz Sauce",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Tabel™ Cherry Sauce- 40 ML (0.400)",
+                    "Tabel™ Cherry Sauce- 150 Ml (1.250)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 92,
+              "name": "Garlic Sauce",
+              "description": "Our Homemade Garlic Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Garlic Sauce",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Garlic Sauce - 40 ML (0.300)",
+                    "Garlic Sauce - L (0.900)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 93,
+              "name": "Garlic Chimmichuri",
+              "description": "Our Homemade Garlic Chimmichuri Sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Garlic Chimmichuri",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Garlic Chimmichuri - 40 ML (0.300)",
+                    "Garlic Chimmichuri - 150 ML (0.950)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Beverages": [
+            {
+              "index": 94,
+              "name": "Alsi Cola",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Alsi Cola Zero",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Mint Lemonade",
+              "description": "Freshly Squeezed Lemonade with fresh mint",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Orange Juice",
+              "description": "Freshly Squeezed Orange Juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Mineral Water",
+              "description": "500ml Al Rawdatain Mineral Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Carbonated Water",
+              "description": "Al Rawdatain Sparkling Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "Lemon Falvor Carbonated Water",
+              "description": "Al Rawdatain Sparkling Water with lemon flavour",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Strawberry Flavor Carbonated Water",
+              "description": "Al Rawdatain Sparkling Water with Strawberry flavour",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.600",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts": [
+            {
+              "index": 102,
+              "name": "Creamy Choconafa",
+              "description": "Doughy chunks mixed with Belgian chocolate, covered with a heavenly creamy recipe, and topped with Kunafa.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Creamy Choconafa Goodness Box",
+              "description": "Doughy chunks mixed with Belgian chocolate, covered with a heavenly creamy recipe, and topped with Kunafa.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.950",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Mahboula, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/tabel-salmiya",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "14406",
+          "Reviews_count": "2837",
+          "General_review": [
+            "Tabel is a restaurant located in Kuwait, serving a selection of Grills, Shawarma, Healthy that delivers across Al-Ahmadi, Ardhiya, Bneid Al Qar, Farwaniya and Hawally.",
+            "Their best selling dishes are Herbs Tawouk & Mushroom Rice Bowl and Tabel Tawouk Wrap, although they have a variety of dishes and meals to choose from like Grills, Shawarma, Healthy.",
+            "They have been reviewed 14406 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Fouz A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "it was good"
+            },
+            {
+              "reviewer_name": "Aziz A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الكباب ليس مشوي على الفحم"
+            },
+            {
+              "reviewer_name": "T N***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "10/10"
+            },
+            {
+              "reviewer_name": "رهف س***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ 😋 تاخر فوق نص ساعه و عرف عنوان البيت و تخربط فيه"
+            },
+            {
+              "reviewer_name": "abdulaziz a***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "التكه ماتنوكل"
+            },
+            {
+              "reviewer_name": "Ghali G***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "من أروع المطاعم الصحية الاكل عجييييب والمنيو الجديد مع الخضراوات والفاصوليا والذرة والبازيلا والصلصا عالم آخر تسلم أيد الشيف ويسلم ذوق المالك فعلاً شكراً منيو منوع وصحي 💐💐💐"
+            },
+            {
+              "reviewer_name": "ابرار ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الطعام وصل ساخنا ولذيذ"
+            },
+            {
+              "reviewer_name": "Ghada A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ كالعادة، يهبل أحبكم تابل"
+            },
+            {
+              "reviewer_name": "Aliyah A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ❤️"
+            }
+          ]
+        }
       }
     ]
   },
@@ -88524,7 +90768,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -88584,7 +90828,8 @@
       "The Local beet",
       "Karam Sweet",
       "Texas RoadHouse, Sidra Mahboula",
-      "Aaya Sweets"
+      "Aaya Sweets",
+      "Tabel"
     ],
     "completed_pages": [
       1,
