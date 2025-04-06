@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:27:32.676448",
+  "last_updated": "2025-04-06T12:31:31.417003",
   "all_results": {
     "الظهر": [
       {
@@ -60418,6 +60418,1210 @@
             }
           ]
         }
+      },
+      {
+        "name": "Overjar",
+        "cuisine": "Desserts, Cakes",
+        "url": "https://www.talabat.com/kuwait/restaurant/33072/overjar-abu-halifa?aid=59",
+        "rating": "Amazing",
+        "page": 3,
+        "delivery_time": "Within 38 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Small Profiteroles Pyramid",
+              "description": "Crunchy baked profiteroles with a light custard center, served with pure milk & white chocolate sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Cinnamon Churros",
+              "description": "Darseen churros served with your choice of chocolate (18 pieces)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Small Memories",
+              "description": "Layers of fluffy chocolate cake with a chocolate center, covered in chocolate ganache and chocolate flakes. Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Profiteroles Pyramid",
+              "description": "Crunchy baked profiteroles with a light custard center filling, served with pure milk and white Belgian chocolate sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Small Date Cake",
+              "description": "Layers of date cake, with a  white chocolate center and  a caramelized date sauce.  Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Cheesecake Pops",
+              "description": "20 pieces of mini cheesecake domes, a jar of blueberry compote, and a baked cheesecake crumble",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Gathering": [
+            {
+              "index": 6,
+              "name": "Kakaw Bu Njoom Cake",
+              "description": "Layers of chocolate and vanilla bean mousse, soft chocolate biscuits and a chocolate ganache, topped with a crispy kakaw bunjoom crunch.​",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Pecan Cake",
+              "description": "Layers of fluffy pecan cake, pecan custard, and butterscotch, with a white chocolate center, covered with cinnamon caramel and crunchy pecan brittle. Served with a side of white chocolate sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Date Cake",
+              "description": "Layers of date cake, with a white chocolate center and a caramelized dates sauce Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "16.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Profiteroles Pyramid",
+              "description": "Crunchy baked profiteroles with a light custard center filling, served with pure milk and white Belgian chocolate sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Memories",
+              "description": "Layers of fluffy chocolate cake with a chocolate center, covered in chocolate ganache and chocolate flakes. Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Red Velvet Large",
+              "description": "Layers fluffy red velvt cake, covered in cream cheese frosting, with a white chocolate center. Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Black & White",
+              "description": "Layers of fluffy chocolate cake, with a dark and white chocolate center, covered in chocolate cookie crumbs and cream cheese frosting.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "15.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Cinnamon Churros",
+              "description": "Darseen churros served with your choice of chocolate (18 pieces)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Small Box of Crolls",
+              "description": "10 pieces of light and crunchy crolls, served with our signature amber sauce. Choose between our classic custard or cookies & cream fillings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Big Box of Crolls",
+              "description": "20 pieces of light and crunchy crolls, served with our signature amber sauce. Choose between our classic custard or chocolate fillings - or both!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "14.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bites": [
+            {
+              "index": 16,
+              "name": "Mini Kinder Cookies",
+              "description": "15 Pieces of mini fudgy cookies with crisp edges topped with Kinder chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Mixed Mini Cookies",
+              "description": "15 mini soft cookies with crispy edges in three different flavors, 5 pieces milk chocolate, 5 pieces white chocolate, 5 pieces dark chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "PB Munchies",
+              "description": "A soft and crumbly peanut butter base, topped with chocolate coated crispies. (32 bite-sized pieces)",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Cheesecake Pops",
+              "description": "20 pieces of mini cheesecake domes, a jar of blueberry compote, and a baked cheesecake crumble",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Cocoa Truffles",
+              "description": "25 pieces of melt-in-your-mouth chocolate truffles, dusted in cocoa powder.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Good For Two": [
+            {
+              "index": 21,
+              "name": "Small Profiteroles Pyramid",
+              "description": "Crunchy baked profiteroles with a light custard center, served with pure milk & white chocolate sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Small Date Cake",
+              "description": "Layers of date cake, with a  white chocolate center and  a caramelized date sauce.  Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Small Honey Blossom",
+              "description": "Layers of fluffy vanilla and honey milk cake with a white chocolate center, covered in blossom water, caramelized marshmallows and pistachios. Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Small Black & White",
+              "description": "Layers of fluffy chocolate cake, with a dark and white chocolate center, covered in chocolate cookie crumbs and cream cheese frosting.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Small Cocoa Truffle Cake",
+              "description": "Crunchy cocoa truffle, chocolate semifreddo, cocoa dusted chocolate sheet. contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Small Memories",
+              "description": "Layers of fluffy chocolate cake with a chocolate center, covered in chocolate ganache and chocolate flakes. Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Small Red Velvet",
+              "description": "Layers fluffy red velvet cake, covered in cream cheese frosting, with a white chocolate center. Contains tree nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Dessert Pizzas": [
+            {
+              "index": 28,
+              "name": "MIxed Berries Pizza",
+              "description": "Pate a choux crust topped with custard, mixed berries and Belgian milk and white chocolate drizzle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Kinder Pizza",
+              "description": "Pate a choux crust topped with Belgian milk chocolate, Kinder chocolate and a drizzle of milk and white chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Custard Pizza",
+              "description": "Pate a choux crust topped with custard and Belgian milk and white chocolate drizzle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Oh My!": [
+            {
+              "index": 31,
+              "name": "Original Brownie Bites",
+              "description": "32 piece bited-sized chocolate brownies",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Salted Caramel Brownies",
+              "description": "Soft and fudgy bite sized brownies with an irresistible salted caramel center. 32 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Dark Chocolate Cookies",
+              "description": "A box of 6 dark chocolate cookies - soft on the inside and perfectly crispy on the outside.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Kinder Cookies",
+              "description": "A box of 6 Kinder cookies - soft on the inside and perfectly crispy on the outside.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Profiterola": [
+            {
+              "index": 35,
+              "name": "Tiramisu Profiteroles",
+              "description": "baked profiteroles with a creamy coffee center. Served with a side of vanilla milk.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Tiramisu Profiteroles",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Large (35pcs) (14.000)",
+                    "Small (10pcs) (4.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 36,
+              "name": "Crunchy Bueno Profiteroles",
+              "description": "baked profiteroles with a crunchy bueno center, and served with a side of a mixed milk and white sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Crunchy Bueno Profiteroles",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Large (35pcs) (16.000)",
+                    "Small (10pcs) (5.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 37,
+              "name": "Vanilla Cheesecake Profiteroles",
+              "description": "baked profiteroles with a whipped vanilla cheesecake center. Served with a side of crunchy caramel sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vanilla Cheesecake Profiteroles",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Large (35pcs) (17.000)",
+                    "Small (10pcs) (5.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 38,
+              "name": "Key Lime Profiteroles",
+              "description": "baked profiteroles with a lime curd center. Served with a side of vanilla whipped cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Key Lime Profiteroles",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Large (35pcs) (12.000)",
+                    "Small (10pcs) (4.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 39,
+              "name": "Cinnamon Darcin And Sugar Profiteroles",
+              "description": "35 piece baked profiteroles with a cream center filling, covered in darcin cinnamon and sugar. served with a side of cinnamon caramel pecan sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "18.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Small Cinnamon Sugar Profiterole",
+              "description": "10 pieces of crispy profiteroles filled with cream and covered with sugar and cinnamon. Served with caramel sauce and pecans.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Add Ons": [
+            {
+              "index": 41,
+              "name": "Amber Chocolate Jar",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "White Chocolate Jar",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Milk Chocolate Jar",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Milk and White Chocolate Jar",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Dark Chocolate Jar",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Abu Halifa, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/over-jar-abu-halifa",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "52278",
+          "Reviews_count": "33326",
+          "General_review": [
+            "Overjar is a restaurant located in Kuwait, serving a selection of Desserts, Cakes that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Hasaniya.",
+            "Their best selling dishes are Kakaw Bu Njoom Cake, Pecan Cake, Cinnamon Churros and Profiteroles Pyramid, although they have a variety of dishes and meals to choose from like Desserts, Cakes.",
+            "They have been reviewed 52278 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Z S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "قووي جداً 👍🏻"
+            },
+            {
+              "reviewer_name": "besho A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سسسسييء جداااا.. الاكل قديم وليس جديد,,,, verey bad not good and not fresh 👎🏻 good.. جيد التوصيل"
+            },
+            {
+              "reviewer_name": "mo m***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the food not firsh and cold"
+            },
+            {
+              "reviewer_name": "ahmad a***",
+              "review_date": "01 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "الصوص قليل جداً ممتازه"
+            },
+            {
+              "reviewer_name": "Hawraa S***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "not good food"
+            },
+            {
+              "reviewer_name": "Mona A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "quality is too bad"
+            },
+            {
+              "reviewer_name": "أم مـتـعـب ا***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "😍😍😍"
+            },
+            {
+              "reviewer_name": "altaf a***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "not good , old stuff , not good for eating , not fresh"
+            },
+            {
+              "reviewer_name": "Abdulrahman A***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "damaged items and missinf cola"
+            },
+            {
+              "reviewer_name": "Om Abdelaziz ***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المذاق روعة بس الكمية قليلة للأسف بعض السواق يقلبون ماعون الأكل"
+            },
+            {
+              "reviewer_name": "fatma f***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "انا طالبه بيراميدز البروفيترول و ماجا صوص الجوكلت !!!!"
+            },
+            {
+              "reviewer_name": "asma a***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "wrong order item"
+            },
+            {
+              "reviewer_name": "Bashar A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Amazing"
+            },
+            {
+              "reviewer_name": "سالم ا***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "جداً الكيكة طعمها عادي واقل من عادي وسعرها اوفر كيكة بونجوم"
+            },
+            {
+              "reviewer_name": "zahraa a***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب سيء جدا"
+            },
+            {
+              "reviewer_name": "M S***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جدااا لذيذ بشكل مو طبيعي بذات البيتزا كسترد ع ج ي ب ه بمعنى الكلمه 🔥🔥"
+            },
+            {
+              "reviewer_name": "Shosho A***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكة واصلة مايله و مفقوصة"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "27 March 2025",
+              "review_rating": "Good",
+              "review_comment": "بارد"
+            },
+            {
+              "reviewer_name": "Fatma H***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "bad"
+            },
+            {
+              "reviewer_name": "ريمان م***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكة باردة ومطاطية،، واضح انها قديمه"
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "26 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "رائع جداً"
+            },
+            {
+              "reviewer_name": "Owayed a***",
+              "review_date": "25 March 2025",
+              "review_rating": "Good",
+              "review_comment": "يجب التنبيه بوجود ادوات الاكل مثال : السكين و الملعقه"
+            },
+            {
+              "reviewer_name": "امنه ا***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "خيال مممتاااز"
+            },
+            {
+              "reviewer_name": "jennifer j***",
+              "review_date": "24 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "really really good"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "23 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "needed a little more choclate sauce inside the small memories"
+            },
+            {
+              "reviewer_name": "خالد علي ا***",
+              "review_date": "23 March 2025",
+              "review_rating": "Good",
+              "review_comment": "السعر مبالغ بالحجم والطعم جدااا عادي"
+            },
+            {
+              "reviewer_name": "Ggg O***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "للأسف وصلتني الكيكه مقلوبه"
+            },
+            {
+              "reviewer_name": "Naznin P***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the description of item was melt in the mouth, but when received it seems the item was refrigerated."
+            },
+            {
+              "reviewer_name": "Mohammed K***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the churros was very hard and not fresh"
+            },
+            {
+              "reviewer_name": "Abdullah A***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the cake was ruined it was delivered upside down bad attitude and so rude"
+            },
+            {
+              "reviewer_name": "hasnah f***",
+              "review_date": "22 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good good good"
+            },
+            {
+              "reviewer_name": "anwar a***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "وصلتني غير مرتبه الكيكه معفوسه"
+            },
+            {
+              "reviewer_name": "ian L***",
+              "review_date": "22 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "taste so good ... I love it 🥰 thank you. it's new to me but it pass my taste. fast delivery , rider smiling"
+            },
+            {
+              "reviewer_name": "Maryam A***",
+              "review_date": "22 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the cake was too hard"
+            },
+            {
+              "reviewer_name": "م م***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت مبموري بالككاو وصلتني مبموري بالكاكاو الابيض ويع"
+            },
+            {
+              "reviewer_name": "Marianne E***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "i mentioned twice to add “happy mothers day” on it, and they didnt. I was taking it as a gift."
+            },
+            {
+              "reviewer_name": "islam g***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تم طلب عنصر معرالطلب ولم يتم ارسالع"
+            },
+            {
+              "reviewer_name": "Saad A***",
+              "review_date": "21 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "excellent"
+            },
+            {
+              "reviewer_name": "asia al-shammri ***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز مممتاز"
+            },
+            {
+              "reviewer_name": "Fatma B***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the cake was messed up and melted !"
+            },
+            {
+              "reviewer_name": "bbbb a***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكه موفرش كلششششششششش تجربه التوصيل ممتازه بس الكيكه قديمه وبايته"
+            },
+            {
+              "reviewer_name": "Haneen A***",
+              "review_date": "20 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "it’s my third time ordering and I received the cake not in a good position and the suce is all over"
+            },
+            {
+              "reviewer_name": "remya a***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very delicious"
+            },
+            {
+              "reviewer_name": "yaser a***",
+              "review_date": "20 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز توصيل وطلب"
+            },
+            {
+              "reviewer_name": "Jassim A***",
+              "review_date": "19 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازة هالمرة"
+            },
+            {
+              "reviewer_name": "abrar a***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل قديم"
+            },
+            {
+              "reviewer_name": "Zahra A***",
+              "review_date": "19 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the order delivered in a messy way"
+            },
+            {
+              "reviewer_name": "Mohamed M***",
+              "review_date": "19 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Ali F***",
+              "review_date": "19 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "LOVE LOVE LOVE ❤️ SUPER COOL LOVE"
+            },
+            {
+              "reviewer_name": "Fsd Z***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "رهيب والكميه راهيه ممتاز التوصيل سريع ويعرف المناطق عدل بسرعه وصل"
+            },
+            {
+              "reviewer_name": "Ahlam S***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "amazing 🤩"
+            },
+            {
+              "reviewer_name": "HAIFAA A***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل فوق الممتاز يعطيكم العافيه محترم جداً"
+            },
+            {
+              "reviewer_name": "Abd Elrahman R***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سلوك السائق جيد جدا"
+            },
+            {
+              "reviewer_name": "مها ا***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه ممتازه"
+            },
+            {
+              "reviewer_name": "zou z***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "العرض رائعععع"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "wow good offer"
+            },
+            {
+              "reviewer_name": "abdullah a***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great offer"
+            },
+            {
+              "reviewer_name": "Amthal H***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "بارد والكيكه ناشفه صراحه حيل سيئ"
+            },
+            {
+              "reviewer_name": "Jassim A***",
+              "review_date": "17 March 2025",
+              "review_rating": "Good",
+              "review_comment": "العجينه مو تمام تأخير"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "المذاق سيء جدا"
+            },
+            {
+              "reviewer_name": "Entsar A***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "تم طلبمن اوفر جار وكان جورز وكان ناشف وبارد ويكأنه قديم وتم تسخينه ومذاقه فاشل"
+            },
+            {
+              "reviewer_name": "Shaher MU ***",
+              "review_date": "17 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جدا جدا قويهههه شكراً شكرا جدا."
+            },
+            {
+              "reviewer_name": "ساره ا***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "شكل الكيكه متدمر"
+            },
+            {
+              "reviewer_name": "نوره ا***",
+              "review_date": "16 March 2025",
+              "review_rating": "OK",
+              "review_comment": "غير طازح وغير ساخن"
+            },
+            {
+              "reviewer_name": "maha k***",
+              "review_date": "16 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم زنخة بيض في الكاسترد قويه"
+            },
+            {
+              "reviewer_name": "Fidan V***",
+              "review_date": "15 March 2025",
+              "review_rating": "OK",
+              "review_comment": "it was super dry it means it was old; I asked for a note. Mafi. you do for other customers"
+            },
+            {
+              "reviewer_name": "حوري ا***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "توصيل سربع لحلو رمضان 😍 ، يعطيهم العافيه سرييييييعه اقل من نص ساعه اهو عندي"
+            },
+            {
+              "reviewer_name": "DEEMA S***",
+              "review_date": "14 March 2025",
+              "review_rating": "OK",
+              "review_comment": "جدا مستائه لعدم الالتزام بالملاحظات هذا اهمال من فريق العمل لن اكرر الطلب من عندهم ابدا!"
+            },
+            {
+              "reviewer_name": "asfora f***",
+              "review_date": "14 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيك طايح على بعض"
+            },
+            {
+              "reviewer_name": "Hussein S***",
+              "review_date": "14 March 2025",
+              "review_rating": "OK",
+              "review_comment": "overpriced for the quality."
+            },
+            {
+              "reviewer_name": "yousef a***",
+              "review_date": "13 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكيكه مقلوبه وشكلها ماهو طيب وانحرجنا جدام الضيوف"
+            },
+            {
+              "reviewer_name": "Maryam A***",
+              "review_date": "13 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Rima H***",
+              "review_date": "13 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "the tast is very good but recently too much sweet ,, too much sugar the cake was melted not his fault but maby the air conditioner was low"
+            },
+            {
+              "reviewer_name": "as a***",
+              "review_date": "13 March 2025",
+              "review_rating": "OK",
+              "review_comment": "اسوء سويت والله مايسوى !"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "12 March 2025",
+              "review_rating": "OK",
+              "review_comment": "wrong items"
+            },
+            {
+              "reviewer_name": "mona b***",
+              "review_date": "12 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ 👍🏼"
+            },
+            {
+              "reviewer_name": "Fahad A***",
+              "review_date": "11 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الصوص كان ناقص وبارد"
+            },
+            {
+              "reviewer_name": "Fidan V***",
+              "review_date": "11 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I ordered the amount wasn’t much as it supposed t to plus I requested especial note but wasn’t there delivery was good"
+            },
+            {
+              "reviewer_name": "kuwait k***",
+              "review_date": "11 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "❤️❤️👍"
+            },
+            {
+              "reviewer_name": "Fatemah A***",
+              "review_date": "10 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيد جدا"
+            },
+            {
+              "reviewer_name": "Nourya B***",
+              "review_date": "09 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي عندهم يقول الزود عندي"
+            },
+            {
+              "reviewer_name": "Shosho a***",
+              "review_date": "09 March 2025",
+              "review_rating": "OK",
+              "review_comment": "للأسف طعمها سيئ عباره عن كريمه فقط ولا تشتبه الوصف والمكونات المكتوبه"
+            },
+            {
+              "reviewer_name": "Abdelrahman M***",
+              "review_date": "09 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "😋 👍🏻"
+            },
+            {
+              "reviewer_name": "curlio a***",
+              "review_date": "09 March 2025",
+              "review_rating": "Good",
+              "review_comment": "وايد حالي الكوكيز"
+            },
+            {
+              "reviewer_name": "Hessah Alshammare ***",
+              "review_date": "08 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكوكيز سيء والحبه متينه حيل ماتنوكل"
+            },
+            {
+              "reviewer_name": "Dana F***",
+              "review_date": "08 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "love the date cake! so yummy loved my driver, there was a difference between the location n address written and he called to chec"
+            },
+            {
+              "reviewer_name": "Marwan M***",
+              "review_date": "07 March 2025",
+              "review_rating": "OK",
+              "review_comment": "arrived late, cold, chewable, and not tasty at all! so disappointing! last time will order. lost, went to a different area, and cant speak proper language.."
+            },
+            {
+              "reviewer_name": "Elyssa B***",
+              "review_date": "07 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Just wow 🤩"
+            },
+            {
+              "reviewer_name": "Lulwah A***",
+              "review_date": "07 March 2025",
+              "review_rating": "OK",
+              "review_comment": "وصلني الطلب من غير علبه الككاو و العينه فيها زفره بيض جدا متعاون"
+            },
+            {
+              "reviewer_name": "Faizah A***",
+              "review_date": "06 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطعم مو حلو ابدا مخربين الطعم وليش حاطين دارسين"
+            },
+            {
+              "reviewer_name": "Khadeja A***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "loved it!! never disappoints!! always a hit"
+            },
+            {
+              "reviewer_name": "Ghadeer A***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لم اتذوقها ولكن الاهل اعجبوا بها كثيرا وطلبوا نعرفة اسم المطعم."
+            },
+            {
+              "reviewer_name": "mohamad d***",
+              "review_date": "05 March 2025",
+              "review_rating": "OK",
+              "review_comment": "worst thing"
+            },
+            {
+              "reviewer_name": "Hussein A***",
+              "review_date": "04 March 2025",
+              "review_rating": "Good",
+              "review_comment": "taste not like before and its empty from inside, no custard"
+            },
+            {
+              "reviewer_name": "Rasha B***",
+              "review_date": "04 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very tasty and delicious i will definitely eat it again and again"
+            },
+            {
+              "reviewer_name": "Shayokha A***",
+              "review_date": "04 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكوكيز وصلني مو فرش ويابس والشوروز نفس الشي مو حار وكله دهن مو نفس كل مره"
+            },
+            {
+              "reviewer_name": "Manor A***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل متسخ"
+            },
+            {
+              "reviewer_name": "Yusuf Muhammad ***",
+              "review_date": "03 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "they use to be my fav back in the day now it is good too but a bit cold"
+            },
+            {
+              "reviewer_name": "da m***",
+              "review_date": "02 March 2025",
+              "review_rating": "OK",
+              "review_comment": "Too pricy for the amount"
+            },
+            {
+              "reviewer_name": "Ahmed Q***",
+              "review_date": "02 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "جميل جدا 💙🌙"
+            }
+          ]
+        }
       }
     ]
   },
@@ -60425,7 +61629,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -60470,7 +61674,8 @@
       "Malas Bo Khamas",
       "Jollibee",
       "Rochas sweets",
-      "Ananas"
+      "Ananas",
+      "Overjar"
     ],
     "completed_pages": [
       1,

@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:27:32.674604",
+  "last_updated": "2025-04-06T12:31:31.415056",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -52,7 +52,8 @@
       "Malas Bo Khamas",
       "Jollibee",
       "Rochas sweets",
-      "Ananas"
+      "Ananas",
+      "Overjar"
     ],
     "completed_pages": [
       1,
