@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:41:24.798396",
+  "last_updated": "2025-04-06T13:44:18.047144",
   "all_results": {
     "الظهر": [
       {
@@ -93755,6 +93755,1320 @@
             }
           ]
         }
+      },
+      {
+        "name": "Agnii",
+        "cuisine": "Indian, Biryani, Chicken",
+        "url": "https://www.talabat.com/kuwait/restaurant/690764/agnii-seaview-abu-halifa?aid=59",
+        "rating": "Amazing",
+        "page": 3,
+        "delivery_time": "Within 35 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Chicken Biryani",
+              "description": "Long grain basmati rice, cooked with chicken cubes, crispy onion, yogurt, and a mixture of indian spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Butter Naan",
+              "description": "Baked refined flour cooked in a clay oven tandoor served with butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Luxury Butter Chicken",
+              "description": "Rich creamy tomato curry with tender chicken cubes grilled in tandoor with butter and cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Steamed Rice",
+              "description": "Steamed basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Lamb Biryani",
+              "description": "Long grain basmati rice, cooked with cuts of lamb, crispy onion, yogurt, and a mixture of indian spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Prawns Biryani",
+              "description": "Long grain basmati rice, cooked with prawn, crispy onion, yogurt, and a mixture of indian spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 6,
+              "name": "Crispy Zucchini Chaat",
+              "description": "Chilled Indian street salad with crispy fried zucchini, fried spinach, mashed maple butternut ,sweet yogurt and beetroot yogurt with cinnamon flavour garnished with potato bhujiya.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Chicken Tikka Caesar Salad",
+              "description": "Tandoor cooked chicken tikka, with romaine lettuce, in parmesan mayonnaise dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Strawberry Rocca Salad",
+              "description": "Mix lettuce with orange, strawberry, roasted pecan nuts, pomegranate seeds, honey pomegranate molasses dressing topped with feta cheese and almond slices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Desi Quinoa & Asparagus Salad",
+              "description": "Red & White Quinoa seeds, with Arugulas, Asparagus, Mixed cherry tomato & Pomegranate seeds tossed in Lemon molasses vinaigrette with Chives Ranch",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Appetizers": [
+            {
+              "index": 10,
+              "name": "Mango And Maple Chicken",
+              "description": "Cooked chicken pieces with maple and mango sauce and onions, served with our ranch sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Butter Chicken Samosa",
+              "description": "Chunks of tandoor cooked chicken in butter gravy, filled in short crisp crust dough.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Biryani Arancini Balls",
+              "description": "Crispy fried arancini balls stuffed with biryani rice with small chicken pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Agnii Fries",
+              "description": "French fries fingers with indian masala curry powder and special channel sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Cashew Crusted Prawns",
+              "description": "Shrimp stuffed with cashew nuts and crispy fried panko crumbs.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Achari Cheese Rolls",
+              "description": "Deep fried spring rolls filled with 5 types of cheese and caramelized sweet corn, jalapenos and peppers served with honey Sriracha sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Tandoori Chicken Pizza",
+              "description": "Cheddar filled tandoori pizza topped with chicken tikka and herbed oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Chicken Golgappa",
+              "description": "Crispy poori shells, stuffed with kolhapuri chicken chunks, served with flavorful home style curry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Biryani Dishes": [
+            {
+              "index": 18,
+              "name": "Chicken Biryani",
+              "description": "Long grain basmati rice, cooked with chicken cubes, crispy onion, yogurt, and a mixture of indian spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.850",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Lamb Biryani",
+              "description": "Long grain basmati rice, cooked with cuts of lamb, crispy onion, yogurt, and a mixture of indian spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Prawns Biryani",
+              "description": "Long grain basmati rice, cooked with prawn, crispy onion, yogurt, and a mixture of indian spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Vegetable Biryani",
+              "description": "Long grain basmati rice, cooked with veggies, crispy onion, yogurt, and a mixture of indian spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Tandoori Dishes": [
+            {
+              "index": 22,
+              "name": "Smoked Tandoori Prawns",
+              "description": "Chilli and lemon marinated prawns cooked in traditional clay pot oven.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Spicy Garlic Tikka",
+              "description": "Tender chicken cubes marinated in garlic grilled in traditional clay pot oven.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Punjabi Chicken Tikka",
+              "description": "Tender chicken cubes marinated in sweet pepper and yogurt, grilled in traditional clay pot oven, served with mint chutney and lachha salad.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Cheesy Garlic Shrimp",
+              "description": "Tandoori prawns with a blend of creamy and cheesy texture",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Agni's Favorite Dishes": [
+            {
+              "index": 26,
+              "name": "Lamb Korma",
+              "description": "Boneless lamb leg cooked overnight in stock with cashew , onion and spices finished with cream and butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Luxury Butter Chicken",
+              "description": "Rich creamy tomato curry with tender chicken cubes grilled in tandoor with butter and cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Coconut Prawns Curry",
+              "description": "Juicy prawns cooked in creamy coconut curry, with turmeric and curry leaves.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Penne Alla Tikka Masala",
+              "description": "Penne pasta with chicken tikka masala.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Eggplant Masala Curry",
+              "description": "Aubergine with mushroom fritters, sesame curry and crispy rokak",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Dhaba Style Chicken Tikka Masala",
+              "description": "Dhaba style roasted marinated chicken chunks in spiced curry sauce, garnished with fresh coriander sliced ginger and swirled with cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Mango Butter Chicken",
+              "description": "Blend of our favorite butter chicken with juicy kesar mango & secret spice mix.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Pepper Prawns",
+              "description": "Crisp fried prawns tossed in crushed pepper and lemon-honey, served with coconut and cashew flavored risotto .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Jumbo Shrimp Risotto",
+              "description": "Jeera kasala rice cooked over biryani masala and served with grilled jumbo shrimps and over lemony butter sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Malai Chicken Pasta",
+              "description": "Penne pasta tossed in creamy cheese sauce with chicken & mushroom",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Side Dishes": [
+            {
+              "index": 36,
+              "name": "Saffron Rice",
+              "description": "Saffron flavoured basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Steamed Rice",
+              "description": "Steamed basmati rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Fresh Bread": [
+            {
+              "index": 38,
+              "name": "Butter Naan",
+              "description": "Baked refined flour cooked in a clay oven tandoor served with butter.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Garlic Naan",
+              "description": "Refined flour bread cooked with garlic in tandoor clay oven.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Cheese Naan",
+              "description": "Refined flour bread stuffed with cheddar and mozzarella cheese cooked tandoor clay oven.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Mabooj Naan",
+              "description": "Naan bread topped with hand crushed chilies and garlic.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Yoghurt": [
+            {
+              "index": 42,
+              "name": "Cucumber Raita",
+              "description": "Yogurt with cucumber and crushed cumin powder.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Boondi Raita",
+              "description": "Yogurt with crisp fried gram flour.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Pineapple Raita",
+              "description": "Sweet and sour yogurt with chopped pineapples and mint.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts": [
+            {
+              "index": 45,
+              "name": "Pistachio Gulab Jamun",
+              "description": "Pistachio crusted milking dumplings filled with almonds, and cashew, served with pistachio sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Rasmalai Mouse",
+              "description": "Saffron rasmalai layered with cream cheese mousse.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 47,
+              "name": "Kinza Lemon Zero",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Summer Delight",
+              "description": "Fresh mango blended with ice and carnation milk topped with fresh mango",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Fanta Orange",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Fanta Strawberry",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Sprite",
+              "description": "Non-caffeinated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Coca-Cola Light",
+              "description": "Sugar free carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Coca-Cola",
+              "description": "Carbonated soft drink",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "San Benedetto 500 Ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "San Pellegrino 250 Ml",
+              "description": "Sparkling water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Kinza Cola",
+              "description": "Cola beverage from the Kinza brand.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Kinza Citrus",
+              "description": "Citrus-flavored soda from the Kinza brand.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Kinza Lemon",
+              "description": "Water, sugar, citric acid, citrus flavorings, preservatives and acidity regulator",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Kinza Orange",
+              "description": "water, sugar, orange juice, citric acid, orange color, orange flavor",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Rawdatain ( 240 Ml )",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.950",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Add On": [
+            {
+              "index": 61,
+              "name": "Agnii Sauce",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Extra Nuts",
+              "description": "A dish with extra nuts.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Extra Caesar Dressing",
+              "description": "Extra Caesar dressing for your salad.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "MABOOCH",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Papadam",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Extra Salan",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Extra Raita",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Extra Mint Sauce",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Abu Halifa, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/agnii",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "6059",
+          "Reviews_count": "3908",
+          "General_review": [
+            "Agnii is a restaurant located in Kuwait, serving a selection of Indian, Biryani, Chicken that delivers across Abdullah Al-Mubarak - West Jeleeb, Abdullah Al-Salem, Abu Ftaira, Abu Halifa and Abu Halifa.",
+            "Their best selling dishes are Lamb Biryani, Luxury Butter Chicken, Chicken Biryani and Saffron Rice, although they have a variety of dishes and meals to choose from like Indian, Biryani, Chicken.",
+            "They have been reviewed 6059 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "FLFL A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "كميه اللحم والربيان جدأ قليله"
+            },
+            {
+              "reviewer_name": "abdulaziz A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ و حار لذيذ و حاور اوكيه التوصيل زين جاء الاكل حار و طعمه حلو حبيت المطعم كل شي تمااااااااااااااااااااااااا"
+            },
+            {
+              "reviewer_name": "KHALED Q***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "انا زبون دائم شكرا لكم من افضل المطاعم بالكويت واكلتي المفضله برياني دجاج شي فاخر من الاخر شكرا ثم ش"
+            },
+            {
+              "reviewer_name": "Mubarak A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "افضل مطعم هندي حالياً"
+            },
+            {
+              "reviewer_name": "fatmaa e***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء"
+            },
+            {
+              "reviewer_name": "Fatima A***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل غير نضيف!!!!!!"
+            },
+            {
+              "reviewer_name": "zahraa j***",
+              "review_date": "24 March 2025",
+              "review_rating": "OK",
+              "review_comment": "للأسف برياني اللحم كان سيء جدا ، اللحم قديم ولونه اسود وعرد وتسبب بألم في البطن"
+            },
+            {
+              "reviewer_name": "nawal a***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "عند طلب طبق بقيمه 6د.ك يحب ان يتناسب الطبق مع القيمه المدفوعه لم يتوفر سوى 5 حبات ربيان بالطلب 👎"
+            },
+            {
+              "reviewer_name": "jassem h***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "سئ سئ الدجاج يايس في اليتر تشيكن وكرات البرياني العيش داخلها يابس الله يزيد النعمه"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "16 March 2025",
+              "review_rating": "Good",
+              "review_comment": "في رائحه ليس لطيفه"
+            },
+            {
+              "reviewer_name": "عامر ا***",
+              "review_date": "16 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل بارد"
+            },
+            {
+              "reviewer_name": "مشعل ا***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذذذذذذذذذذذذذذذددذذذذذذذذذدذذذذذذذذدذذ حيللللللل وطططططعمه خييييييييييييييال اهنيييييكم الصراحه 😍 جيددددددددددددددددددددددددددددددددد وسرييييييييييييييييييييييع ومحتتتتتترررمممممممم اهنبييييكم عليه🩷"
+            },
+            {
+              "reviewer_name": "Fatmah A***",
+              "review_date": "15 March 2025",
+              "review_rating": "Good",
+              "review_comment": "الكميه قليله مقارنه بالسعر"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "13 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "تبارك الله لذيذ وحار فرش السمبوسة عجيبه"
+            },
+            {
+              "reviewer_name": "Hasan A***",
+              "review_date": "07 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جبار! بالوقت وفريش!"
+            },
+            {
+              "reviewer_name": "Hasan A***",
+              "review_date": "07 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي لذيذ و وصل حار ، الغريب ان عندهم اقوى باستا بيضاء تاكلها بحياتك حتى الايطاليين مايقدرون عليها توصيل سريع وبالوقت و الاكل حاو"
+            },
+            {
+              "reviewer_name": "مشاعل -***",
+              "review_date": "06 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "دايم اقني لذذذيذ وساخن وتغليف ممتاز شكرا لكم"
+            },
+            {
+              "reviewer_name": "Mona A***",
+              "review_date": "04 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "طالبه مرق إضافي و ما وصلني 🙄"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "21 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "Fajer A***",
+              "review_date": "21 February 2025",
+              "review_rating": "Good",
+              "review_comment": "ماصخ"
+            },
+            {
+              "reviewer_name": "W A***",
+              "review_date": "19 February 2025",
+              "review_rating": "Good",
+              "review_comment": "الطعم متغير ماعجبني بس الاغليف ممتاز والاكل حار"
+            },
+            {
+              "reviewer_name": "Hessah Alshammare ***",
+              "review_date": "18 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يفوزووووووز الله يبارك لكم"
+            },
+            {
+              "reviewer_name": "Bader A***",
+              "review_date": "18 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Sheima A***",
+              "review_date": "16 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "رائع"
+            },
+            {
+              "reviewer_name": "ريم ع***",
+              "review_date": "14 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "برياني اللحم لذيييييذ واللحم ترف ماشاءالله 👌🏼 بسرعة وصل بنص ساعة"
+            },
+            {
+              "reviewer_name": "Fajer A***",
+              "review_date": "11 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل لذيييذ والتغليف ممتاز ومرتب"
+            },
+            {
+              "reviewer_name": "nouf a***",
+              "review_date": "09 February 2025",
+              "review_rating": "OK",
+              "review_comment": "تم التسبب لي بتسمم غذائي"
+            },
+            {
+              "reviewer_name": "FAY A***",
+              "review_date": "09 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل حار ولذيذ"
+            },
+            {
+              "reviewer_name": "Hayat A***",
+              "review_date": "07 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "أحمد ا***",
+              "review_date": "03 February 2025",
+              "review_rating": "OK",
+              "review_comment": "وجود شعر في الأكل"
+            },
+            {
+              "reviewer_name": "Salah A***",
+              "review_date": "03 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the is great but it's expensive"
+            },
+            {
+              "reviewer_name": "sara z***",
+              "review_date": "02 February 2025",
+              "review_rating": "OK",
+              "review_comment": "البتر جكن متروس هيل و البهارات الي فيه وايد و الطعم يغث ما انصحكم في الشراء"
+            },
+            {
+              "reviewer_name": "Ab mahmad A***",
+              "review_date": "31 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازة"
+            },
+            {
+              "reviewer_name": "منيرة م***",
+              "review_date": "30 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "والله العظيم البرياني عندكم شيء فوق الخيااااال ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥"
+            },
+            {
+              "reviewer_name": "as a***",
+              "review_date": "20 January 2025",
+              "review_rating": "OK",
+              "review_comment": "لقيت شعره بالاكل"
+            },
+            {
+              "reviewer_name": "Ghzlan A***",
+              "review_date": "20 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ألذ برياني"
+            },
+            {
+              "reviewer_name": "kaloud d***",
+              "review_date": "18 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Retaj a***",
+              "review_date": "17 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الطعم سيئ"
+            },
+            {
+              "reviewer_name": "as a***",
+              "review_date": "17 January 2025",
+              "review_rating": "OK",
+              "review_comment": "لقيت شعره بالاكل !"
+            },
+            {
+              "reviewer_name": "Dalal .***",
+              "review_date": "17 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "اتعب وأقول لذيذ يجنن وحار ❤️🫶🏻"
+            },
+            {
+              "reviewer_name": "Mohammad A***",
+              "review_date": "16 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "تمام اوكي سوبر"
+            },
+            {
+              "reviewer_name": "دغش ا***",
+              "review_date": "15 January 2025",
+              "review_rating": "OK",
+              "review_comment": "الاكل مسكوب بالكيس"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "14 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ ممتازه"
+            },
+            {
+              "reviewer_name": "قناة الشيف الكويتي ل***",
+              "review_date": "12 January 2025",
+              "review_rating": "OK",
+              "review_comment": "the shrimp pieces were only four and a ton of stew, doesn’t worth value at all. last time to order"
+            },
+            {
+              "reviewer_name": "khaled n***",
+              "review_date": "09 January 2025",
+              "review_rating": "OK",
+              "review_comment": "التغليف اغلى وافضل من جودة الطعام وكميته وطعمه السئ"
+            },
+            {
+              "reviewer_name": "salem a***",
+              "review_date": "05 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيييذ بس السعررر حيل مرتفع بس والله لذيذ ونظيف 🥹🥹"
+            },
+            {
+              "reviewer_name": "اسماء ا***",
+              "review_date": "04 January 2025",
+              "review_rating": "Good",
+              "review_comment": "تأخر حييييل"
+            },
+            {
+              "reviewer_name": "reem m***",
+              "review_date": "04 January 2025",
+              "review_rating": "Good",
+              "review_comment": "The chicken wasn’t cooked well"
+            },
+            {
+              "reviewer_name": "almanar 8***",
+              "review_date": "02 January 2025",
+              "review_rating": "Good",
+              "review_comment": "الروبيان فقط ٣ حبات جد حيل قليل"
+            },
+            {
+              "reviewer_name": "abdullah a***",
+              "review_date": "01 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا"
+            },
+            {
+              "reviewer_name": "وضحه ا***",
+              "review_date": "01 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي حلو"
+            },
+            {
+              "reviewer_name": "Sarah H***",
+              "review_date": "31 December 2024",
+              "review_rating": "OK",
+              "review_comment": "كميه الربيان جدا قليله مقارنه بالسعر!!"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "28 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الذ برياني دجاج ذقته بالكويت لذيييييذ ويسوى السعر لذييذ لذييذ الاكل وصل بسرعه و دايم يوصل حااار"
+            },
+            {
+              "reviewer_name": "Ali Yaa ***",
+              "review_date": "28 December 2024",
+              "review_rating": "OK",
+              "review_comment": "سيء جدا التغليف والطعام تالف"
+            },
+            {
+              "reviewer_name": "حور المطيري ***",
+              "review_date": "28 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ"
+            },
+            {
+              "reviewer_name": "elzain a***",
+              "review_date": "26 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الاكل كان لذيذ وتغليف حلوو وسرعه الوصول حلوه مممتاز"
+            },
+            {
+              "reviewer_name": "Jassim K***",
+              "review_date": "24 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الكميات قليلة مقارنة عندما تكون بالمطعم يدوبك تكفي شخص واحد"
+            },
+            {
+              "reviewer_name": "Jassim K***",
+              "review_date": "24 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الكميات قليلة جدا و السعر مو معقول"
+            },
+            {
+              "reviewer_name": "dehani d***",
+              "review_date": "23 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتااز👍🏻"
+            },
+            {
+              "reviewer_name": "yousef s***",
+              "review_date": "21 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "thank u"
+            },
+            {
+              "reviewer_name": "app s***",
+              "review_date": "20 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "جميل جداااا وانصح به"
+            },
+            {
+              "reviewer_name": "esra a***",
+              "review_date": "19 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "جميل جداً"
+            },
+            {
+              "reviewer_name": "SARA M***",
+              "review_date": "16 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "."
+            },
+            {
+              "reviewer_name": "anfal a***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الأكل لذيذ ووصل حار وبالوقت"
+            },
+            {
+              "reviewer_name": "Ali Yaa ***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "كل الخيارات ممتاز"
+            },
+            {
+              "reviewer_name": "Ahmad Q***",
+              "review_date": "08 December 2024",
+              "review_rating": "OK",
+              "review_comment": "الغى الطلب"
+            },
+            {
+              "reviewer_name": "خالد ع***",
+              "review_date": "06 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "التغليف جدا جدا راقي ونظيف وطعم الاكل بترجكن وبرياني دياي لذيذ لذيذ لذيذ وحار"
+            },
+            {
+              "reviewer_name": "Hmood z***",
+              "review_date": "06 December 2024",
+              "review_rating": "OK",
+              "review_comment": "لم يصلني الطلب ابي ارجع فلوسي و راح احط تقيم في قوقل"
+            },
+            {
+              "reviewer_name": "فاطمه م***",
+              "review_date": "28 November 2024",
+              "review_rating": "Very good",
+              "review_comment": "كذا مره مايحطون ملاعق شلون ناكل والمرق شلون نغرفه لازم قفشه"
+            },
+            {
+              "reviewer_name": "فهد ع***",
+              "review_date": "26 November 2024",
+              "review_rating": "OK",
+              "review_comment": "برياني دجاج ماينوكل تحت المستوى كاني طالبة من مطعم جمعيه"
+            },
+            {
+              "reviewer_name": "Maha A***",
+              "review_date": "24 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "بيرفكت"
+            },
+            {
+              "reviewer_name": "Om Mzoon A***",
+              "review_date": "19 November 2024",
+              "review_rating": "OK",
+              "review_comment": "نو سيرفس"
+            },
+            {
+              "reviewer_name": "j m***",
+              "review_date": "16 November 2024",
+              "review_rating": "OK",
+              "review_comment": "عادي ومايسوى السعر"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "08 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "manal a***",
+              "review_date": "06 November 2024",
+              "review_rating": "Good",
+              "review_comment": "الباستا غير مستويه والصوص متغير مو نفس كل مره"
+            },
+            {
+              "reviewer_name": "Sarah H***",
+              "review_date": "05 November 2024",
+              "review_rating": "Good",
+              "review_comment": "الربيان قليل مقارنة بالسعر"
+            },
+            {
+              "reviewer_name": "Nouriya A***",
+              "review_date": "04 November 2024",
+              "review_rating": "Very good",
+              "review_comment": "الطلب خذا ساعه علي ما وصلني"
+            },
+            {
+              "reviewer_name": "نوره ا***",
+              "review_date": "02 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "يعني من اللذ البار جكن وايد حلووووو شكرااا"
+            },
+            {
+              "reviewer_name": "Omhashem M***",
+              "review_date": "01 November 2024",
+              "review_rating": "OK",
+              "review_comment": "الاكل شويهً بلنسبه للسعر"
+            },
+            {
+              "reviewer_name": "Faleh F***",
+              "review_date": "30 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "حلو"
+            },
+            {
+              "reviewer_name": "عائشة ا***",
+              "review_date": "30 October 2024",
+              "review_rating": "Good",
+              "review_comment": "تاخير الطلب و الاكل مو فرش"
+            }
+          ]
+        }
       }
     ]
   },
@@ -93762,7 +95076,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -93824,7 +95138,8 @@
       "Texas RoadHouse, Sidra Mahboula",
       "Aaya Sweets",
       "Tabel",
-      "Mama's Bakery"
+      "Mama's Bakery",
+      "Agnii"
     ],
     "completed_pages": [
       1,
