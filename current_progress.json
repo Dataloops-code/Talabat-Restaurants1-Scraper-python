@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:44:30.713533",
+  "last_updated": "2025-04-06T11:54:49.199883",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -40,7 +40,8 @@
       "Lunch & Dinner",
       "The Local beet",
       "The Cheesecake Factory, Mahboula",
-      "Diet Care, Al-Qurain Lulu"
+      "Diet Care, Al-Qurain Lulu",
+      "Petit Four And More"
     ],
     "completed_pages": [
       1
