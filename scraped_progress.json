@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:44:18.047144",
+  "last_updated": "2025-04-06T13:56:35.872779",
   "all_results": {
     "الظهر": [
       {
@@ -95069,6 +95069,4010 @@
             }
           ]
         }
+      },
+      {
+        "name": "The Coffee Bean & Tea Leaf",
+        "cuisine": "Coffee, Cafe, Desserts",
+        "url": "https://www.talabat.com/kuwait/restaurant/40910/the-coffee-bean-tea-leaf-arabia-mall?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 18 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Iced Matcha Tea Latte",
+              "description": "Iced latte with the flavor of matcha.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Matcha Tea Latte",
+                "price_details": {
+                  "Your Choice of Size Iced Matcha (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Add Caramel Sauce (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your choice of (Choose up to 1 items)": [
+                    "No foam",
+                    "Extra ice",
+                    "No sugar added",
+                    "Ligthen up"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Iced Coffee",
+              "description": "Chilled coffee on ice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Coffee",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.450)",
+                    "Large (1.600)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra Chocolate powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Hazelnut Powder (0.300)"
+                  ],
+                  "Add Milk: (Choose up to 1 items)": [
+                    "Fresh Milk (0.300)",
+                    "Skimmed Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats MIlk (0.300)",
+                    "Soya MIlk (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Iced Vanilla Latte",
+              "description": "A refreshing iced latte with a hint of vanilla.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Vanilla Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.150)"
+                  ],
+                  "Your Choice Of Extras: (Choose 1)": [
+                    "Almond Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Coconut milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Fresh Milk"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Iced Spanish Latte",
+              "description": "Made with milk, espresso coffee, sugar syrup, or condensed milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Spanish Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (2.000)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice Of Extras: (Choose up to 3 items)": [
+                    "Extra vanilla powder (0.300)",
+                    "Extra dark chocolate powder (0.300)",
+                    "Extra white chocolate powder (0.300)",
+                    "Extra chocolate powder (0.300)",
+                    "Extra espresso shot (0.300)",
+                    "Extra coated beans (0.300)",
+                    "Extreme it (0.300)",
+                    "Extra cherries (0.300)",
+                    "Add caramel sauce (0.300)",
+                    "Extra hazelnut powder (0.300)",
+                    "Add chocolate sauce (0.300)"
+                  ],
+                  "Your Choice of: (Choose up to 1 items)": [
+                    "Ligthen up",
+                    "No Sugar Added",
+                    "Extra Ice",
+                    "No Foam"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 4,
+              "name": "Iced Caramel Latte",
+              "description": "Refreshing blend of rich espresso, creamy milk, and a caramel syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Caramel Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice Of Milk (Choose 1)": [
+                    "Soya Milk (0.300)",
+                    "Lactose Free Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Skimmed Milk",
+                    "Fresh Milk"
+                  ],
+                  "Add On: (Choose up to 6 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your Choice of coffee (Choose up to 1 items)": [
+                    "Half Shot",
+                    "Full shot"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 5,
+              "name": "Iced White Chocolate",
+              "description": "Cold coffee beverage with white chocolate flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced White Chocolate",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.850)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)"
+                  ],
+                  "Your Choice of Coffee: (Choose up to 1 items)": [
+                    "Half Shot",
+                    "Full Shot"
+                  ],
+                  "Your Choice Of: (Choose up to 1 items)": [
+                    "Ligthen Up",
+                    "Extra Ice",
+                    "No Foam",
+                    "No Sugar Added"
+                  ]
+                }
+              }
+            }
+          ],
+          "Coffee Base Drinks": [
+            {
+              "index": 6,
+              "name": "Americano",
+              "description": "Aromatic blend of freshly brewed espresso.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Americano",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.200)",
+                    "Regular (16 oz) (1.400)",
+                    "Large 20 oz (1.600)"
+                  ],
+                  "Your Choice Of Add-Ons 2: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ],
+                  "Add Milk: (Choose up to 1 items)": [
+                    "Fresh Milk (0.300)",
+                    "Skimmed Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats MIlk (0.300)",
+                    "Soya MIlk (0.300)"
+                  ],
+                  "Your Choice Of Add-Ons 1: (Choose items from the list)": [
+                    "Extra Shot (0.300)",
+                    "Caramel Sauce (0.300)",
+                    "Chocolate Sauce (0.300)",
+                    "Extra Powder (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 7,
+              "name": "Cafe Latte",
+              "description": "Espresso, steamed milk, and a thin layer of foamed milk.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cafe Latte",
+                "price_details": {
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.400)",
+                    "Regular (16 oz) (1.600)",
+                    "Large 20 oz (1.850)"
+                  ],
+                  "Add On: (Choose up to 4 items)": [
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra Vanilla Powde (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)"
+                  ],
+                  "Your Choice Of Coffee (Choose up to 1 items)": [
+                    "Half shot",
+                    "Full shot"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 8,
+              "name": "Mocha Latte",
+              "description": "A coffee with chocolate flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mocha Latte",
+                "price_details": {
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.650)",
+                    "Regular (16 oz) (1.900)",
+                    "Large 20 oz (2.150)"
+                  ],
+                  "Add on's: (Choose items from the list)": [
+                    "Extra Shot (0.300)",
+                    "Caramel Sauce (0.300)",
+                    "Chocolate Sauce (0.300)",
+                    "Extra Powder (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 9,
+              "name": "Vanilla Latte",
+              "description": "Blend of rich espresso, creamy vanilla, and frothed milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vanilla Latte",
+                "price_details": {
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.650)",
+                    "Regular (16 oz) (1.900)",
+                    "Large 20 oz (2.150)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ],
+                  "Add on's: (Choose items from the list)": [
+                    "Extra Shot (0.300)",
+                    "Caramel Sauce (0.300)",
+                    "Chocolate Sauce (0.300)",
+                    "Extra Powder (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 10,
+              "name": "Hazelnut Latte",
+              "description": "Classic hot coffee with milk.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hazelnut Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.800)",
+                    "Regular (16 oz) (1.950)",
+                    "Large 20 oz (2.100)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 11,
+              "name": "White Chocolate dream",
+              "description": "Hot coffee drink made with white chocolate and espresso.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "White Chocolate dream",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.700)",
+                    "Regular (16 oz) (1.950)",
+                    "Large 20 oz (2.100)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 12,
+              "name": "Caramel Macchiato",
+              "description": "Made with rice blend of espresso, caramel sauce and steamed milk with a drizzle of caramel in every sip.  it's the perfect way to start your day or take a break during the day.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Caramel Macchiato",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.600)",
+                    "Regular (16 oz) (1.900)",
+                    "Large 20 oz (2.100)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 13,
+              "name": "Caramel Latte",
+              "description": "A  velvety and smooth blend of espresso and steamed milk, topped with a luscious swirl of caramel sauce, delivering a heavenly and indulgent treat for your taste buds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Caramel Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.800)",
+                    "Regular (16 oz) (1.950)",
+                    "Large 20 oz (2.100)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 14,
+              "name": "Espresso (Single)",
+              "description": "Freshly brewed espresso.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Espresso (Double)",
+              "description": "Double shot of Espresso beans and Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Macchiato (Single)",
+              "description": "Espresso, steamed milk, and foamed milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Macchiato (Double)",
+              "description": "Espresso, steamed milk, and foamed milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Cappuccino Single",
+              "description": "A regular-size cappuccino made with espresso, steamed milk, and foamed milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Cappuccino (Double)",
+              "description": "Coffee drink made with espresso and steamed milk.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Spanish Latte",
+              "description": "Sweetened condensed milk, espresso and Sugar",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Spanish Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.750)",
+                    "Regular (2.000)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Your Choice Of Extras: (Choose up to 3 items)": [
+                    "Extra Shots (0.300)",
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 21,
+              "name": "Flat White",
+              "description": "Small.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Hazelnut Americano",
+              "description": "Coffee, Hazelnut syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hazelnut Americano",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small 12 oz (1.700)",
+                    "Regular 16 oz (1.900)",
+                    "Large 20 oz (2.100)"
+                  ],
+                  "Add on's: (Choose 1)": [
+                    "Extra Shot (0.300)",
+                    "Extra Powder (0.300)"
+                  ],
+                  "Your Choice Of Milk (Choose 1)": [
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Fresh Millk"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 23,
+              "name": "Coconut Latte",
+              "description": "Extract coffee with coconut powder, steamed milk and a thick rich foam on top",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Coconut Latte",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Large (2.950)",
+                    "Small (2.250)",
+                    "Regular (2.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 24,
+              "name": "Sea Salted Caramel Latte",
+              "description": "Creamy caramel and savory sea salted blended with rich espresso.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Sea Salted Caramel Latte",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Small (1.850)",
+                    "Regular (2.000)",
+                    "Large (2.350)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Iced Drinks": [
+            {
+              "index": 25,
+              "name": "Iced Vanilla Americano",
+              "description": "Espresso over vanilla gelato, creating bold flavors and creamy indulgence",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Vanilla Americano",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.150)"
+                  ],
+                  "Your Choice Of Extras: (Choose 1)": [
+                    "Almond Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Coconut milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Fresh Milk"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 26,
+              "name": "Mango Cold Brew Tea",
+              "description": "Cold Mango brew tea Coffee",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mango Cold Brew Tea",
+                "price_details": {
+                  "choice of size - mango (Choose 1)": [
+                    "Medium (1.750)",
+                    "Large (2.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 27,
+              "name": "Iced Hazelnut Americano",
+              "description": "Espresso, milk, hazelnut syrup, ice cubes.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Hazelnut Americano",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 28,
+              "name": "Passion Fruit Cold Brew Tea",
+              "description": "Chilled tea infused with the taste of passion fruit Coffee.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Passion Fruit Cold Brew Tea",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Regular (2.000)",
+                    "Large (2.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 29,
+              "name": "Watermelon Lychee Cold Brew Tea",
+              "description": "A tranquil cup of Ceylon tea, drizzled with a generous portion of watermelon and topped with sweet lychee pieces.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Watermelon Lychee Cold Brew Tea",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Regular (2.000)",
+                    "Large (2.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 30,
+              "name": "Iced Coffee",
+              "description": "Chilled coffee on ice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Coffee",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.450)",
+                    "Large (1.600)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra Chocolate powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Hazelnut Powder (0.300)"
+                  ],
+                  "Add Milk: (Choose up to 1 items)": [
+                    "Fresh Milk (0.300)",
+                    "Skimmed Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats MIlk (0.300)",
+                    "Soya MIlk (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 31,
+              "name": "Iced Cappuccino",
+              "description": "Made with rich espresso, velvety frothed milk and a touch of sweet vanilla syrup, finished with a whipped cream",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Cappuccino",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.550)",
+                    "Large (1.850)"
+                  ],
+                  "Your Choice Of Milk (Choose 1)": [
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Fresh Millk"
+                  ],
+                  "Add On: (Choose up to 11 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)"
+                  ],
+                  "Your Choice Of Coffee: (Choose up to 1 items)": [
+                    "Decaf",
+                    "Half Shot",
+                    "Full Shot"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 32,
+              "name": "Iced Mocha Latte",
+              "description": "Chilled coffee beverage with chocolate and milk, served over ice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mocha Latte",
+                "price_details": {
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (12 oz) (1.650)",
+                    "Regular (16 oz) (1.900)",
+                    "Large 20 oz (2.150)"
+                  ],
+                  "Add on's: (Choose items from the list)": [
+                    "Extra Shot (0.300)",
+                    "Caramel Sauce (0.300)",
+                    "Chocolate Sauce (0.300)",
+                    "Extra Powder (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 33,
+              "name": "Iced Caramel Latte",
+              "description": "Refreshing blend of rich espresso, creamy milk, and a caramel syrup",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Caramel Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice Of Milk (Choose 1)": [
+                    "Soya Milk (0.300)",
+                    "Lactose Free Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Skimmed Milk",
+                    "Fresh Milk"
+                  ],
+                  "Add On: (Choose up to 6 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your Choice of coffee (Choose up to 1 items)": [
+                    "Half Shot",
+                    "Full shot"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 34,
+              "name": "Iced Caramel Macchiato",
+              "description": "Indulge in the rich and creamy flavor of our Iced Caramel Macchiato, a decadent blend of freshly brewed espresso, creamy milk, and sweet caramel syrup, served over ice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Caramel Macchiato",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.800)",
+                    "Large (2.150)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 35,
+              "name": "Iced Cafe Latte",
+              "description": "Iced cafe latte for a refreshing sip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Cafe Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.600)",
+                    "Large (1.850)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Dark Chocolate Powder (0.500)",
+                    "Extra White Chocolate Powder (0.250)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 36,
+              "name": "Iced White Chocolate",
+              "description": "Cold coffee beverage with white chocolate flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced White Chocolate",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.850)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)"
+                  ],
+                  "Your Choice of Coffee: (Choose up to 1 items)": [
+                    "Half Shot",
+                    "Full Shot"
+                  ],
+                  "Your Choice Of: (Choose up to 1 items)": [
+                    "Ligthen Up",
+                    "Extra Ice",
+                    "No Foam",
+                    "No Sugar Added"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 37,
+              "name": "Iced Hazelnut Latte",
+              "description": "Espresso, milk, hazelnut syrup, ice cubes.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Hazelnut Latte",
+                "price_details": {
+                  "AYour Choice Of Size: (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.100)"
+                  ],
+                  "Your Choice of Coffee (Choose 1)": [
+                    "Decaf",
+                    "Half Shot",
+                    "Full shot"
+                  ],
+                  "Your Choice Of Milk (Choose 1)": [
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Fresh Millk"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 38,
+              "name": "Iced Tea Latte",
+              "description": "Refreshing iced tea infused with Milk .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Tea Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.200)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Extra espresso shot (0.300)",
+                    "Extra chocolate powder (0.300)",
+                    "Extra vanilla powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extreme It (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Add Caramel Sauce (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra dark chocolate powder (0.300)"
+                  ],
+                  "Add Milk: (Choose up to 1 items)": [
+                    "Fresh Milk (0.300)",
+                    "Skimmed Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats MIlk (0.300)",
+                    "Soya MIlk (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 1 items)": [
+                    "Ligthen Up",
+                    "Extra Ice",
+                    "No Foam",
+                    "No Sugar Added"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 39,
+              "name": "Iced Tea",
+              "description": "Freshly brewed and sweetened to perfection for the ultimate drink for hot summer days",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Tea",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.550)",
+                    "Large (1.750)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 40,
+              "name": "Iced Vanilla Latte",
+              "description": "A refreshing iced latte with a hint of vanilla.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Vanilla Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.150)"
+                  ],
+                  "Your Choice Of Extras: (Choose 1)": [
+                    "Almond Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Coconut milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Fresh Milk"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 41,
+              "name": "Cold Brew",
+              "description": "Made with the finest quality coffee beans, expertly brewed to perfection, and served over ice will awaken your senses and delight your taste buds!",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cold Brew",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (1.750)",
+                    "Large (2.000)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Add Milk: (Choose up to 1 items)": [
+                    "Fresh Milk (0.300)",
+                    "Skimmed Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats MIlk (0.300)",
+                    "Soya MIlk (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 1 items)": [
+                    "No foam",
+                    "Extra Ice",
+                    "Ligthen up",
+                    "No sugar added"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 42,
+              "name": "Iced Matcha Tea Latte",
+              "description": "Iced latte with the flavor of matcha.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Matcha Tea Latte",
+                "price_details": {
+                  "Your Choice of Size Iced Matcha (Choose 1)": [
+                    "Regular (1.900)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Add Caramel Sauce (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your choice of (Choose up to 1 items)": [
+                    "No foam",
+                    "Extra ice",
+                    "No sugar added",
+                    "Ligthen up"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 43,
+              "name": "Iced Spanish Latte",
+              "description": "Made with milk, espresso coffee, sugar syrup, or condensed milk",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Spanish Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (2.000)",
+                    "Large (2.200)"
+                  ],
+                  "Your Choice Of Extras: (Choose up to 3 items)": [
+                    "Extra vanilla powder (0.300)",
+                    "Extra dark chocolate powder (0.300)",
+                    "Extra white chocolate powder (0.300)",
+                    "Extra chocolate powder (0.300)",
+                    "Extra espresso shot (0.300)",
+                    "Extra coated beans (0.300)",
+                    "Extreme it (0.300)",
+                    "Extra cherries (0.300)",
+                    "Add caramel sauce (0.300)",
+                    "Extra hazelnut powder (0.300)",
+                    "Add chocolate sauce (0.300)"
+                  ],
+                  "Your Choice of: (Choose up to 1 items)": [
+                    "Ligthen up",
+                    "No Sugar Added",
+                    "Extra Ice",
+                    "No Foam"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 44,
+              "name": "Iced Sea Salted Caramel Latte",
+              "description": "Creamy Caramel and savory sea salt blended with iced-to-perfection espresso.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Iced Sea Salted Caramel Latte",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Regular (1.850)",
+                    "Large (2.250)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Cookies & Biscotti": [
+            {
+              "index": 45,
+              "name": "Chocolate Chip Cookies",
+              "description": "Classic cookie with chocolate chips.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Rich Chocolate",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Kinder Bueno",
+              "description": "milk chocolate bar with a creamy milky filling",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Krem Bueno",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Mini Crinkle Cookies",
+              "description": "Cocoa powder, brown sugar, white sugar, vegetable oil, egg, vanilla, flour, baking powder, salt.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Mini Orange Milk Chocolate Cookies",
+              "description": "Butter, brown sugar, white sugar, egg, wheat flour, salt, baking soda, milk chocolate chunks, orange zest, orange juice, baking .",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Croissants & Muffins": [
+            {
+              "index": 51,
+              "name": "Blueberry Muffin",
+              "description": "A soft and moist baked good with bursts of sweet blueberries",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Chocolate Chip Muffin",
+              "description": "Freshly baked muffin with chocolate chip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Double Chocolate Muffin",
+              "description": "muffin with a double chocolate flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sandwiches": [
+            {
+              "index": 54,
+              "name": "Grilled Chicken Mozzarella Sandwich",
+              "description": "Roll hoagie cheese, cajun chicken, mozzarella cheese, parmesan cheese, black olive tapenade.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Holiday Turkey Sandwich",
+              "description": "Pretzel bread(gluten), roasted turkey, lettuce, sun-dried tomato, emmental cheese, yellow cheddar cheese, cranberry and lemon aioli.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Omelette Spain Mushroom Cheese",
+              "description": "Mushroom, mix peppers, onion, cheddar cheese, butter spread and croissant.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "4 Cheese",
+              "description": "4 Cheese cheddar, emmenthal, mozzarella , parmesan, sun dried tomato, mustard mayo and olive panini",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Grilled Halloumi Sandwich",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Chicken Pesto Sandwich",
+              "description": "Art-focaccia slab, pesto chicken, sundried tomato, parmesan cheese, pesto mayo, rocca.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Non Coffee": [
+            {
+              "index": 66,
+              "name": "Hot Chocolate",
+              "description": "Made with rich cocoa powder, it's the perfect treat when you just want to indulge in something sweet.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hot Chocolate",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.650)",
+                    "Regular (1.850)",
+                    "Large 20 oz (2.100)"
+                  ],
+                  "Your Choice Of Milk (Choose 1)": [
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Fresh Millk"
+                  ],
+                  "Add On: (Choose up to 3 items)": [
+                    "Extra Espresso Shot (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Caramel Sauce (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra White Chocolate Powder (0.300)"
+                  ],
+                  "Your Choice of Coffee: (Choose up to 1 items)": [
+                    "Half Shot",
+                    "Full Shot"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 67,
+              "name": "Hot Vanilla",
+              "description": "A hot vanilla drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hot Vanilla",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.500)",
+                    "Regular (1.700)",
+                    "Large 20 oz (1.900)"
+                  ],
+                  "Your Choice Of Milk (Choose 1)": [
+                    "Skimmed Milk",
+                    "Lactose Free Milk (0.300)",
+                    "Soya Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Almond Milk (0.300)",
+                    "Fresh Millk"
+                  ],
+                  "Add On: (Choose up to 4 items)": [
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Add Caramel Sauce (0.300)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Tea Base (Over Ice)": [
+            {
+              "index": 68,
+              "name": "Ceylon milk tea with brown sugar boba",
+              "description": "Fragrant ceylon milk tea is infused with caramelized brown sugar and paired with chewy brown sugar boba pearls.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ceylon milk tea with brown sugar boba",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Regular (2.250)",
+                    "Large (2.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 69,
+              "name": "Chai Latte with salted caramel cream cap",
+              "description": "Our chai latte is creamy, slightly spicy and sweet with a delicious salted caramel cream cap.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chai Latte with salted caramel cream cap",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Regular (2.000)",
+                    "Large (2.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 70,
+              "name": "Oolong Tea with strawberry and cream cap",
+              "description": "The Oolong tea is light and refreshing with a summer berry puree and freeze-dried strawberries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Oolong Tea with strawberry and cream cap",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Regular (2.500)",
+                    "Large (2.950)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 71,
+              "name": "Japanese matcha cream strawberry latte",
+              "description": "If you like Matcha, you'll love this drink which is layered with strawberry, milk and a japanese matcha foam.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Japanese matcha cream strawberry latte",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Regular (2.500)",
+                    "Large (2.950)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Iced Blended": [
+            {
+              "index": 72,
+              "name": "Pistachio Ice Blended",
+              "description": "Made with vanilla ice cream, crunchy pistachios, and a hint of sweet caramel sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pistachio Ice Blended",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Regular (2.900)",
+                    "Large (3.250)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 73,
+              "name": "Mocha Ice Blended",
+              "description": "Mocha is a combination of chocolate, milk and coffee",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mocha Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (16 oz) (1.950)",
+                    "Large (24 oz) (2.150)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 6 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Less Ice",
+                    "Thick",
+                    "Full cream milk",
+                    "No whipped cream",
+                    "Runny"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 74,
+              "name": "Vanilla Ice Blended",
+              "description": "Blended drink with vanilla ice cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Vanilla Ice Blended",
+                "price_details": {
+                  "Your Choice Of: (Choose 1)": [
+                    "Regular (16 oz) (1.950)",
+                    "Large (24 oz) (2.150)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)",
+                    "Change To Lacto Free (0.300)",
+                    "Change To Soya Milk (0.300)",
+                    "Change To Coconut Milk (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Runny",
+                    "Full Cream Milk",
+                    "Thick",
+                    "No Whipped Cream",
+                    "Less Ice"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 75,
+              "name": "Caramel Ice Blended",
+              "description": "A chilly beverage blended with ice, featuring caramel flavors.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Caramel Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Regular (16 oz) (2.000)",
+                    "Large (24 oz) (2.250)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 2 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your Choice of (Choose up to 1 items)": [
+                    "Less Ice",
+                    "Full Cream Milk",
+                    "No Whipped Cream",
+                    "Thick",
+                    "Runny"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 76,
+              "name": "White Chocolate Dream Ice Blended",
+              "description": "Cold coffee beverage with white chocolate flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "White Chocolate Dream Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Regular (2.000)",
+                    "Large (2.150)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 2 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Runny",
+                    "Full Cream Milk",
+                    "Thick",
+                    "No Whipped Cream",
+                    "Less Ice"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 77,
+              "name": "Hazelnut Ice Blended",
+              "description": "A chilled hazelnut iced latte.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hazelnut Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Regular (16 oz) (2.000)",
+                    "Large (24 oz) (2.250)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 7 items)": [
+                    "Extra hazelnut powder (0.300)",
+                    "Extra chocolate powcer (0.300)",
+                    "Extra vanilla powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra espresso shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Add chocolate sauce (0.300)",
+                    "Extra dark chocolate powder (0.300)",
+                    "Add caramel sauce (0.300)",
+                    "Extra white chocolate powder (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Thick",
+                    "No Whipped Cream",
+                    "Runny",
+                    "Less Ice",
+                    "Full Ceam Milk"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 78,
+              "name": "Double Chocolate Ice Blended",
+              "description": "iced double chocolate drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Double Chocolate Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (16 oz) (2.000)",
+                    "Large (24 oz) (2.250)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 2 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Less Ice",
+                    "Thick",
+                    "Full cream milk",
+                    "No whipped cream",
+                    "Runny"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 79,
+              "name": "Ultimate Mocha Ice Blended",
+              "description": "Mocha is a combination of chocolate, milk and coffee",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ultimate Mocha Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Regular (16 oz) (2.000)",
+                    "Large (24 oz) (2.300)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 2 items)": [
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)",
+                    "Extra White Chocolate Powder (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Less Ice",
+                    "Thick",
+                    "Full cream milk",
+                    "No whipped cream",
+                    "Runny"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 80,
+              "name": "Ultimate Vanilla Ice Blended",
+              "description": "Blended drink with vanilla ice cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ultimate Vanilla Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Regular (16 oz) (2.000)",
+                    "Large (24 oz) (2.300)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 2 items)": [
+                    "Add Caramel Sauce (0.300)",
+                    "Extra Chocolate Powder (0.300)",
+                    "Extra Vanilla Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Espresso Shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra Hazelnut Powder (0.300)",
+                    "Extra Dark Chocolate Powder (0.300)",
+                    "Extra White Chocolate Powder (0.300)",
+                    "Add Chocolate Sauce (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Runny",
+                    "Full Cream Milk",
+                    "Thick",
+                    "No Whipped Cream",
+                    "Less Ice"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 81,
+              "name": "Black Forest Mocha Ice Blended",
+              "description": "Cold blended drink with black forest flavor.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Black Forest Mocha Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size (Choose 1)": [
+                    "Regular (16 oz) (2.000)",
+                    "Large (24 oz) (2.300)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 5 items)": [
+                    "Add caramel Sauce (0.300)",
+                    "Extra chocolate powder (0.300)",
+                    "Extra vanilla powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra espresso shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra dark chocolate powder (0.300)",
+                    "Extra hazelnut powder (0.300)",
+                    "Extra white chocolate powder (0.300)",
+                    "Add chocolate sauce (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 5 items)": [
+                    "Less Ice",
+                    "Thick",
+                    "Full cream milk",
+                    "No whipped cream",
+                    "Runny"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 82,
+              "name": "Black Forest Vanilla Ice Blended",
+              "description": "Cold blended drink with black forest flavor  and vanilla.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Black Forest Vanilla Ice Blended",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Regular (16 oz) (2.000)",
+                    "Large (24 oz) (2.300)"
+                  ],
+                  "Your Choice OF Milk: (Choose 1)": [
+                    "Fresh Milk",
+                    "Skimmed Milk",
+                    "Almond Milk (0.300)",
+                    "Coconut Milk (0.300)",
+                    "Lacto Free Milk (0.300)",
+                    "Oats Milk (0.300)",
+                    "Soya Milk (0.300)"
+                  ],
+                  "Add On: (Choose up to 5 items)": [
+                    "Add caramel Sauce (0.300)",
+                    "Extra chocolate powder (0.300)",
+                    "Extra vanilla powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra espresso shot (0.300)",
+                    "Extreme It (0.300)",
+                    "Extra dark chocolate powder (0.300)",
+                    "Extra hazelnut powder (0.300)",
+                    "Extra white chocolate powder (0.300)",
+                    "Add chocolate sauce (0.300)"
+                  ],
+                  "Your Choice of (Choose up to 1 items)": [
+                    "Less Ice",
+                    "Full Cream Milk",
+                    "No Whipped Cream",
+                    "Thick",
+                    "Runny"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 83,
+              "name": "Coconut Ice Blended",
+              "description": "Our signature coffee mix with coconut powder and milk blended with ice. Topped with whipped cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Coconut Ice Blended",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Large (3.500)",
+                    "Regular (3.150)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Brew Base Drinks": [
+            {
+              "index": 84,
+              "name": "Cold Brew Burnt Caramel",
+              "description": "Rich, Smoky caramel mixed with bold flavors of a cold brew coffee.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Cold Brew Burnt Caramel",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Large (2.750)",
+                    "Regular (2.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 85,
+              "name": "Today's Brew",
+              "description": "cold brew coffee.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Today's Brew",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.100)",
+                    "Regular (1.250)",
+                    "Large 20 oz (1.450)"
+                  ],
+                  "Add-Ons: (Choose up to 6 items)": [
+                    "Soya Milk (0.300)",
+                    "Extra Shot (0.300)",
+                    "Caramel Sauce (0.300)",
+                    "Chocolate Sauce (0.300)",
+                    "Extra Powder (0.300)"
+                  ],
+                  "Your Choice Of: (Choose up to 1 items)": [
+                    "Light",
+                    "Medium",
+                    "Dark"
+                  ],
+                  "Your Choice Of Extras: (Choose items from the list)": [
+                    "Almond Milk (0.300)"
+                  ],
+                  "Add Milk: (Choose items from the list)": [
+                    "Skim Milk",
+                    "Coconut Milk (0.300)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Tea Lattes": [
+            {
+              "index": 86,
+              "name": "Chai Latte",
+              "description": "Tea-based beverage that is made by combining black tea with milk and a blend of spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chai Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.750)",
+                    "Regular (2.000)",
+                    "Large 20 oz (2.200)"
+                  ],
+                  "Add On: (Choose up to 11 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)",
+                    "Change To Lacto Free (0.300)",
+                    "Change To Soya Milk (0.300)",
+                    "Change To Coconut Milk (0.300)",
+                    "Change To Almond Milk (0.300)"
+                  ],
+                  "Your Choice Of Extras: (Choose items from the list)": [
+                    "Almond Milk (0.300)"
+                  ],
+                  "Add Milk: (Choose up to 1 items)": [
+                    "Skim Milk",
+                    "Coconut Milk (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 87,
+              "name": "English Breakfast Latte",
+              "description": "A coffee beverage made with espresso and steamed milk.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "English Breakfast Latte",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.750)",
+                    "Regular (2.000)",
+                    "Large 20 oz (2.200)"
+                  ],
+                  "Add On: (Choose up to 11 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)",
+                    "Change To Lacto Free (0.300)",
+                    "Change To Soya Milk (0.300)",
+                    "Change To Coconut Milk (0.300)",
+                    "Change To Almond Milk (0.300)"
+                  ],
+                  "Your Choice Of Extras: (Choose items from the list)": [
+                    "Almond Milk (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 88,
+              "name": "Black Tea",
+              "description": "Savor the rich aroma and taste of our premium tea, expertly blended to create a perfect tea drinking experience.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Black Tea",
+                "price_details": {
+                  "Your Choice Of Size: (Choose 1)": [
+                    "Small (1.000)",
+                    "Regular (1.450)"
+                  ],
+                  "Add On: (Choose up to 11 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)",
+                    "Change To Lacto Free (0.300)",
+                    "Change To Soya Milk (0.300)",
+                    "Change To Coconut Milk (0.300)",
+                    "Change To Almond Milk (0.300)"
+                  ],
+                  "Your Choice Of Extras: (Choose items from the list)": [
+                    "Almond Milk (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 89,
+              "name": "Matcha Tea Latte",
+              "description": "Matcha powder, milk, sugar, water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Matcha Tea Latte",
+                "price_details": {
+                  "Your choice of: (Choose 1)": [
+                    "Small (1.750)",
+                    "Regular (2.000)",
+                    "Large (2.200)"
+                  ],
+                  "Add On: (Choose up to 11 items)": [
+                    "Extra Caramel (0.300)",
+                    "Extra Chocolate (0.300)",
+                    "Extra Powder (0.300)",
+                    "Extra Cherries (0.300)",
+                    "Extra Coated Beans (0.300)",
+                    "Extra Shots (0.300)",
+                    "Extreme It (0.300)",
+                    "Change To Lacto Free (0.300)",
+                    "Change To Soya Milk (0.300)",
+                    "Change To Coconut Milk (0.300)",
+                    "Change To Almond Milk (0.300)"
+                  ],
+                  "Your Choice Of Extras: (Choose items from the list)": [
+                    "Almond Milk (0.300)",
+                    "Oats Milk (0.300)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 90,
+              "name": "Pineapple And Mango Perrier & Juice - 250ml",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "Strawberry And Kiwi Perrier And Juice 250ml",
+              "description": "refreshing  Strawberry And Kiwi Perrier",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 92,
+              "name": "Peach And Cherry Perrier & Juice - 250ml",
+              "description": "Refreshing peach and cherry perrier",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 93,
+              "name": "Evian Water",
+              "description": "Mineral Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Perrier Sparkling Water",
+              "description": "Carbonated water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Fresh Orange Juice",
+              "description": "Made with freshly squeezed oranges, it's a great source of Vitamin C and perfect for any time of the day.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Fresh Mango Juice",
+              "description": "Made from the freshest, ripest mangos, carefully selected for the perfect balance of sweetness and tanginess.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "San Pellegrino",
+              "description": "Italian mineral water brand.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Polara Lemon And Ginger",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Polara Pomegranate",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Breakfast": [
+            {
+              "index": 100,
+              "name": "Break O'day",
+              "description": "Panini bread with sausages, scrambled eggs, butter and jam.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Avocado Benedictine",
+              "description": "Mashed Avocado spread on a toasted Focaccia bread, topped with pouched egg and cheddar cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 102,
+              "name": "Breakfast Wrap",
+              "description": "Southwestern - style breakfast, made up of scrambled eggs, diced potatoes, beef bacon, sliced mushrooms, wrapped in a tortilla bread with sriracha dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Croque Madame",
+              "description": "Classic French Breakfast, made with layers of toast bread, smoked turkey and pouched egg.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Scrambled Egg & Avocado Croissant",
+              "description": "Classic croissant breakfast, filled with mashed avocados, feta cheese, scrambled eggs and spring onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Scrambled Eggs And Avocado On Toast",
+              "description": "Traditional breakfast, made of toasted bread, scrambled eggs and sliced avocado.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "Beef Bacon , Egg On Toast & Sausage (Non-Pork)",
+              "description": "A sandwich of English muffin bread, pouched eggs, strip of beef and cheddar cheese",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "Eggs Benedict",
+              "description": "American breakfast on toasted focaccia bread, butter, smoked turkey, cheddar cheese, poached egg, with a side of hollandaise sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "Mediterranean Toast",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "Multigrain With Labneh",
+              "description": "Middle Eastern Breakfast, made of Multi Grain Bread, scrambled eggs, chicken mortadella and Labneh.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Oatmeal With Fresh Fruits",
+              "description": "Healthy bowl of oatmeal with slices of strawberries, kiwi, peach, almonds and drizzled with honey",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 111,
+              "name": "Cheese Beef Bacon And Egg Muffin",
+              "description": "A sandwich of English muffin bread, pouched eggs, strips of beef and cheddar cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.050",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "English Breakfast",
+              "description": "Full breakfast with white loaf bread, beef sausage, beef bacon, baked beans & pouched egg.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "Mexican Breakfast",
+              "description": "Mexican style breakfast, scrambled eggs, beef sausage, cheddar cheese, avocado, and Sriracha sauce with a side of corn, tomatoes and parsley.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.550",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 114,
+              "name": "Chicken Caesar Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Greek Salad",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Cakes": [
+            {
+              "index": 116,
+              "name": "Strawberry Cheese Cake",
+              "description": "Creamy cheesecake topped with fresh strawberries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 117,
+              "name": "Blueberry Cheese Cake",
+              "description": "made with a creamy cheesecake filling, blueberries, and a graham cracker crust.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 118,
+              "name": "Carrot Cake",
+              "description": "Made with fresh picked carrots, moist layers of carrot cake, infused with aromatic spices, topped with a tangy cream cheese frosting",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 119,
+              "name": "Chocolate Fudge Cake",
+              "description": "Fudge Cake, boasting layers of tender chocolate cake enrobed in creamy fudge icing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 120,
+              "name": "German Cheese Cake",
+              "description": "Cream cheese, Sugar, Eggs, Vanilla extract and a cracker crust",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Java To Go": [
+            {
+              "index": 121,
+              "name": "Java To Go Coffee Of The Day",
+              "description": "Each java to go has a volume of 6 small size ( 12 oz) hot drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 122,
+              "name": "Java To Go Cafe Latte",
+              "description": "Each java to go has a volume of 6 small size ( 12 oz) hot drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 123,
+              "name": "Java To Go Hot Chocolate",
+              "description": "Each java to go has a volume of 6 small size ( 12 oz) hot drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 124,
+              "name": "Java To Go Chai Latte",
+              "description": "Each java to go has a volume of 6 small size ( 12 oz) hot drinks.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Java To.Go (Cold Drinks)": [
+            {
+              "index": 125,
+              "name": "Iced Latte (Java To Go)",
+              "description": "6 cups with lids and straws.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 126,
+              "name": "Iced Coffee (Java To Go)",
+              "description": "6 cups with lids and straws.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 127,
+              "name": "Iced Mocha Latte (Java To Go)",
+              "description": "6 Cups with lids and straws.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Iced Hazelnut Latte (Java To Go)",
+              "description": "6 Cups with lids and straws.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 129,
+              "name": "Iced Vanilla Latte (Java To Go)",
+              "description": "6 cups with lids and straws.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 130,
+              "name": "Cold Brew (Java To Go)",
+              "description": "6 Cups with lids and straws.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Tumblers": [
+            {
+              "index": 131,
+              "name": "Tokidoki Flip Insulated Bottle - White.",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 132,
+              "name": "Tokidoki Water Bottle With Ring Handle - Black.",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 133,
+              "name": "Therm Steel Conical Bottle Steel 450ml",
+              "description": "Therm Steel Conical Bottle Black 450ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 134,
+              "name": "Therm Steel Conical Bottle Black 450ml",
+              "description": "Therm Steel Bottle Gold 700ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 135,
+              "name": "Therm Steel Bottle Gold 700ml",
+              "description": "Therm Steel Bottle Black 700ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 136,
+              "name": "Thermo Steel Bottle Black",
+              "description": "700 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 137,
+              "name": "Therm Steel Bottle Gold 500ml",
+              "description": "Therm Steel Mug Steel 12oz",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 138,
+              "name": "Therm Steel Bottle Black 500ml",
+              "description": "Therm Steel Tumb Black 600ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 139,
+              "name": "Collasible Silicone Sports Bottle - Black",
+              "description": "Collasible Silicone Sports Bottle - Purple",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 140,
+              "name": "Vacuum Insulated Water Bottle With Flip Up Straw Dark Purple",
+              "description": "Dark purple 16oz",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 141,
+              "name": "Square Top Bottle Black",
+              "description": "Square Top Bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 142,
+              "name": "Square Top Bottle White",
+              "description": "Square top bottle.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 143,
+              "name": "Flip Top Bottle Tranquil Green - 16Oz",
+              "description": "Flip top bottle tranquil green",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 144,
+              "name": "Flip Top Bottle Tranquil Purple 16Oz",
+              "description": "Flip Top Bottle Tranquil Purple.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Retail Coffee": [
+            {
+              "index": 145,
+              "name": "Brazil Coffee 7oz",
+              "description": "Brazil Coffee blended - coffee bean",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 146,
+              "name": "Costa Rica Coffee 7oz",
+              "description": "Costa Rica Coffee blended",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 147,
+              "name": "Viennese Coffee 7oz",
+              "description": "Viennese Coffee blended - coffee bean",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 148,
+              "name": "Papua New Guinea Coffee 7oz",
+              "description": "Papua New Guinea Coffee blended - coffee bean",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 149,
+              "name": "Sumatra Coffee 7oz",
+              "description": "Sumatra Coffee blended - coffee bean",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 150,
+              "name": "Kenya Coffee 7oz",
+              "description": "Kenya Coffee blended - coffee bean",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 151,
+              "name": "House Blend Coffee 7oz",
+              "description": "House Blend Coffee blended - coffee bean",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Retail Tea Bags": [
+            {
+              "index": 152,
+              "name": "Chai",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 153,
+              "name": "English Breakfast (2.5 Oz)",
+              "description": "Retail tea",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 154,
+              "name": "Genmaicha Green",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 155,
+              "name": "Lemon Chamomile",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Powders": [
+            {
+              "index": 156,
+              "name": "Hazelnut Powder 22 Oz",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 157,
+              "name": "French Vanilla Powder 22 Oz",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Egaila, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/the-coffee-bean",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "189255",
+          "Reviews_count": "104337",
+          "General_review": [
+            "The Coffee Bean & Tea Leaf is a restaurant located in Kuwait, serving a selection of Coffee, Cafe, Desserts that delivers across Abdullah Al-Mubarak - West Jeleeb, Abu Ftaira, Abu Halifa, Abu Hasaniya and Adailiya.",
+            "Their best selling dishes are Iced Coffee, Iced Vanilla Latte, Vanilla Latte and Americano, although they have a variety of dishes and meals to choose from like Coffee, Cafe, Desserts.",
+            "They have been reviewed 189255 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Zahraa B***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب غلط"
+            },
+            {
+              "reviewer_name": "Fofa B***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "كان هناك شعر في القهوه"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الماتشا تجنننن والقهوه ياريت حطين سكر زياده بس يجننون استمرو"
+            },
+            {
+              "reviewer_name": "شيخه ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "لم يتم وضع عود للقهوة الباردة ولم يتم اخذ الملاحظة بعين الاعتبار"
+            },
+            {
+              "reviewer_name": "Tasneem A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "أنا اطلب كل يوم نفس الطلب بس اليوم السندويش أبدا مو حلوه بايته او صار لها اكثر من يوم او مو مستويه"
+            },
+            {
+              "reviewer_name": "dodo a***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "مممتاززز"
+            },
+            {
+              "reviewer_name": "Nawaf A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "جداً حلو"
+            },
+            {
+              "reviewer_name": "raghad a***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "🔥"
+            },
+            {
+              "reviewer_name": "kabra f***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريعه"
+            },
+            {
+              "reviewer_name": "A A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "قهوه سبانش الطعم سيئ جدا"
+            },
+            {
+              "reviewer_name": "Ghada A***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب غلط وصلني و فيه حبيبات ملح اتمنى تعوضوني التوصيل ممتاز"
+            },
+            {
+              "reviewer_name": "Abdull ah ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "حيل حلو"
+            },
+            {
+              "reviewer_name": "Bader N***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "NICE, but can I have another free delivery? 🤣"
+            },
+            {
+              "reviewer_name": "N Alajmi ***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Nour N***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the coffee wasn’t closed right so it dripped and got everywhere in the package"
+            },
+            {
+              "reviewer_name": "nora K***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكراً"
+            },
+            {
+              "reviewer_name": "ً ً***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذه حيللللل"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذه ويستحق فوق التقيم على التعب اريد اطلبه كل مره بس ليشَ لدي المال الكاف و أنا احب كوفي بين 💋💋ا"
+            },
+            {
+              "reviewer_name": "شيخه ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يجننن"
+            },
+            {
+              "reviewer_name": "Abdulaziz A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت لانيه وسط .. والكوب نصفه فارغ يعني اقل من نصف الكنيه غير موجوده !!! وهذا ليس اول مره"
+            },
+            {
+              "reviewer_name": "Raghad ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "التغليف جميللللل والكميه رائعععععععههههههههه جميل وسريع"
+            },
+            {
+              "reviewer_name": "مجبل ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "جاني الكوكيز بارد هذا و أنا طالبه حار! ابي تعويض زينه"
+            },
+            {
+              "reviewer_name": "Raghad K***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "القهوا ما تنشرب"
+            },
+            {
+              "reviewer_name": "Om H***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "حلو وسريع 💙💙💙"
+            },
+            {
+              "reviewer_name": "ام سلمان ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجيب"
+            },
+            {
+              "reviewer_name": "Nourah A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "تم العثور على ذبابة بالقهوه"
+            },
+            {
+              "reviewer_name": "Khalihd J***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "لذيذه استمرو لذيذه وناطعه وأحلى قهوه شربته يا احلى قهوه بل عالم التقيم فوق التقيم حده لذيذههه لذيذه حيل واستمرووو"
+            },
+            {
+              "reviewer_name": "Nabaa A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "watery, I asked (no water)"
+            },
+            {
+              "reviewer_name": "فرح ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "وصلني الماتشا فيها شعر 🤢"
+            },
+            {
+              "reviewer_name": "Eman A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سـريـعـة الـتـوصـيـل و مـمـتازا و راحـ اطلب ماجد"
+            },
+            {
+              "reviewer_name": "fahad n***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتازه"
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "كل القهوة مكبوبه في الكيس التقديم سيء كل القهوة مكبوبه داخل الكيس"
+            },
+            {
+              "reviewer_name": "Jawayriyah S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "coffe bean is the best"
+            },
+            {
+              "reviewer_name": "Noura A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "القهوة ليس عليها رغوة"
+            },
+            {
+              "reviewer_name": "Dina H***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "سيء المذاق وبارد والمرواسان مفعس تاخير ولا يفهم الاتجاهات"
+            },
+            {
+              "reviewer_name": "Shaikah A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "القهوه مكبوبه"
+            },
+            {
+              "reviewer_name": "جزوه ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز رائع"
+            },
+            {
+              "reviewer_name": "Dana A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "وصلت حاره ومضبوطه بس الطلب تأخر"
+            },
+            {
+              "reviewer_name": "Hsjdhdh ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ وسكر مضبوط وأعجبت فيه وقلت للآخرين سريع جداً وجميل و رائع صراحه تسلم الأيادي يارب العالمين يارب"
+            },
+            {
+              "reviewer_name": "Eng A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "مو نفس الي حاطته بالملاحظه خربط بين الطلبات"
+            },
+            {
+              "reviewer_name": "Reem A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الطعم مو حلو وخايس بطيء جدا جدداااا"
+            },
+            {
+              "reviewer_name": "haneen a***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "amazing"
+            },
+            {
+              "reviewer_name": "ابو فهد ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذذذذذليذذ"
+            },
+            {
+              "reviewer_name": "فرح ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "القهوه مااااء مااااء يعني انا طالبه ماي ولا قهوه حسبي الله"
+            },
+            {
+              "reviewer_name": "Lareen Q***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "انصح بأن يطلبون سبانش لآتي وقت التوصيل متأخر ولاكن في الوقت المناسب"
+            },
+            {
+              "reviewer_name": "fg f***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "مشالله على نضافت المطعم وسرعت الطلب مشالله🤩"
+            },
+            {
+              "reviewer_name": "Jawayriyah S***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "There is nothing better than your coffee"
+            },
+            {
+              "reviewer_name": "Ghadeer A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت اكسترا ثلج ووصل قليل الثلج"
+            },
+            {
+              "reviewer_name": "xrt k***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شيء حلووو بس الحراره لا بارد الكوكيز"
+            },
+            {
+              "reviewer_name": "sot lak ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا على الطلب"
+            },
+            {
+              "reviewer_name": "Abdulrahman Y***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "محترم"
+            },
+            {
+              "reviewer_name": "Latefah A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Good",
+              "review_comment": "القهوه فل حليب"
+            },
+            {
+              "reviewer_name": "Pss ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "Zahra A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "it has no sweet at all ! this is my usual order but everytime it come different!"
+            },
+            {
+              "reviewer_name": "Huda J***",
+              "review_date": "01 April 2025",
+              "review_rating": "Good",
+              "review_comment": "one of the drinks was spilled all over the bag"
+            },
+            {
+              "reviewer_name": "amena a***",
+              "review_date": "01 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "الثلج كان وايد"
+            },
+            {
+              "reviewer_name": "سالم ع***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "مش حلو"
+            },
+            {
+              "reviewer_name": "فاطمه ن***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم الماتشا سيء جدا"
+            },
+            {
+              "reviewer_name": "Basma H***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الثلج في القهوة ذاب ولم تكن باردة"
+            },
+            {
+              "reviewer_name": "Fatima S***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "i asked for hot corissants not cold in plastic bags"
+            },
+            {
+              "reviewer_name": "طيف ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز جداً جداً"
+            },
+            {
+              "reviewer_name": "Abrar A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلب خاطئ"
+            },
+            {
+              "reviewer_name": "هاجر ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "اعاني من حساسيه الحليب والحليب المناسب لي سكين ميلك علما بان الحليب الذي تم توصيله لي حليب عادي !!!!"
+            },
+            {
+              "reviewer_name": "نوير الحشر ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الطلب حلو بس لو مقللين الثلج بيكون احسن"
+            },
+            {
+              "reviewer_name": "الاء ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت موكا جاني كاكاو"
+            },
+            {
+              "reviewer_name": "shouq A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "not the same order"
+            },
+            {
+              "reviewer_name": "omar A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريع جداً"
+            },
+            {
+              "reviewer_name": "Khaled Al ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ جداً شكرا♡"
+            },
+            {
+              "reviewer_name": "reem a***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت القهوه تكون بليندد ( مخلوطه ) ووصلت غير مخلوطه"
+            },
+            {
+              "reviewer_name": "arwa O***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيد"
+            },
+            {
+              "reviewer_name": "Luly L***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "التجربه رائعه وممتازه و أتمنى ان تطورها اكثر من حيث السرعه في توصيل الطلبيه للمحافظه عليها وشكرا لكم"
+            },
+            {
+              "reviewer_name": "Kaka K***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "i only enjoyed their coffee but probably would be better if they didn't have me the wrong order is ok"
+            },
+            {
+              "reviewer_name": "سعود ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "سريع"
+            },
+            {
+              "reviewer_name": "Malak Alenezi ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جميل جداً احبكم طلبات"
+            },
+            {
+              "reviewer_name": "Nouf Alanzi ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي من كوفي بين حلووو! حلوو"
+            },
+            {
+              "reviewer_name": "Abdulwahab A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبي خاطئ"
+            },
+            {
+              "reviewer_name": "Alaa N***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "only half of the coffee is left and cold"
+            },
+            {
+              "reviewer_name": "منى ع***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "good"
+            },
+            {
+              "reviewer_name": "Hamad A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "I said without ice, they gave me with ice and I said to heat up the cookie and they hadn’t"
+            },
+            {
+              "reviewer_name": "x w***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "badd"
+            },
+            {
+              "reviewer_name": "Falwa A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "غلط في الطلب …………………"
+            },
+            {
+              "reviewer_name": "aljazi alajmi ***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذذذيذ الذ ماتشا ذقتها بس لو يخففون الثلج بتطلع واوووووو🤩🤩🤩🤩 واو عجييبه ماتوقعت بهالسرعه"
+            },
+            {
+              "reviewer_name": "ام ف***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الثلج قليل جداً الثلج قليل جدا"
+            },
+            {
+              "reviewer_name": "Dalal A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الثلج قليل جداً ف مخيبه للامال"
+            },
+            {
+              "reviewer_name": "امل .***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ بس خلو سعره اقل شوي السرعه ممتازه الصراحه وفوق ذا الطعم خيال"
+            },
+            {
+              "reviewer_name": "أم خ***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "القهوة نص الكوب بالوقت"
+            },
+            {
+              "reviewer_name": "فاطمه ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "it was good"
+            },
+            {
+              "reviewer_name": "شروق س***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الطلب نناقص جدا سيئه"
+            },
+            {
+              "reviewer_name": "ahmad a***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ جدا"
+            },
+            {
+              "reviewer_name": "عادل فالح ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الحجم خاااطى طلبت الكبير جا الصغير!!"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Good",
+              "review_comment": "جايبين الماتشا نص الكميه وانا طالبه اكبير سايز جابولي ميديم"
+            },
+            {
+              "reviewer_name": "حمد ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "احبكم"
+            },
+            {
+              "reviewer_name": "Shaikha A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the hot americano recieved damaged , i asked to refund the order i paid twice,refund plz the cup was soft the coffee with hot drink broke the cup"
+            },
+            {
+              "reviewer_name": "Asdf A***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذذذذيذذذذ"
+            },
+            {
+              "reviewer_name": "Reem O***",
+              "review_date": "31 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "جتني القهوة قليله مشروب منها"
+            },
+            {
+              "reviewer_name": "sarah ***",
+              "review_date": "31 March 2025",
+              "review_rating": "Good",
+              "review_comment": "القهوه قليله جداً جداً جداً جيده"
+            }
+          ]
+        }
       }
     ]
   },
@@ -95076,7 +99080,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -95139,7 +99143,8 @@
       "Aaya Sweets",
       "Tabel",
       "Mama's Bakery",
-      "Agnii"
+      "Agnii",
+      "The Coffee Bean & Tea Leaf"
     ],
     "completed_pages": [
       1,

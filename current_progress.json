@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:44:18.045587",
+  "last_updated": "2025-04-06T13:56:35.871349",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -51,7 +51,8 @@
       "Aaya Sweets",
       "Tabel",
       "Mama's Bakery",
-      "Agnii"
+      "Agnii",
+      "The Coffee Bean & Tea Leaf"
     ],
     "completed_pages": [
       1,
