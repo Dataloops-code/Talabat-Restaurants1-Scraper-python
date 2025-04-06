@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T17:51:04.042370",
+  "last_updated": "2025-04-06T17:53:56.747526",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 8,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -105,7 +105,8 @@
       "Baskin Robbins",
       "Elate",
       "Mango Talaat",
-      "Raising Cane`s, Sabah Al-Salem"
+      "Raising Cane`s, Sabah Al-Salem",
+      "Shawarma Shakir"
     ],
     "completed_pages": [
       1,
