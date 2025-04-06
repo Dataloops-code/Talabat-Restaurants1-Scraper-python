@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:08:53.930220",
+  "last_updated": "2025-04-06T13:11:13.579714",
   "all_results": {
     "الظهر": [
       {
@@ -81131,6 +81131,1029 @@
             }
           ]
         }
+      },
+      {
+        "name": "PF Chang's,Mahboula",
+        "cuisine": "Chinese, Asian, Noodles",
+        "url": "https://www.talabat.com/kuwait/restaurant/655071/pf-changsmahboula?aid=59",
+        "rating": "Amazing",
+        "page": 2,
+        "delivery_time": "Within 34 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Mongolian Beef",
+              "description": "This traditional recipe from the Mongolian region of China is prepared with thin slices of caramelized beef in a very balanced sauce and tossed with green onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "The Original Dynamite Shrimp",
+              "description": "Often imitated, never duplicated. Enough said.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "The Original Dynamite Shrimp",
+                "price_details": {
+                  "The Original Dynamite Shrimp - Delivery (Choose 1)": [
+                    "'The Original Dynamite Shrimp Regular' (4.600)",
+                    "'The Original Dynamite Shrimp Grande ' (6.100)"
+                  ],
+                  "Extra Rice (Choose up to 10 items)": [
+                    "Extra White Rice CUP (0.900)",
+                    "Extra Brown Rice CUP (0.900)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "Lo Mein",
+              "description": "Classic Chinese noodles and savory soy sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Lo Mein",
+                "price_details": {
+                  "Lo Mein - Delivery (Choose 1)": [
+                    "'Lo Mein Veg' (4.800)",
+                    "'Lo Mein Chicken' (5.100)",
+                    "'Lo Mein Beef' (5.300)",
+                    "'Lo Mein Shrimp' (5.300)",
+                    "'Lo Mein Combo' (5.500)"
+                  ],
+                  "Rice Add On (Choose up to 7 items)": [
+                    "Extra Shrimp (2.600)",
+                    "Extra Beef (2.400)",
+                    "Extra Chicken (2.200)",
+                    "Add Asparagus (1.400)",
+                    "Add Broccoli (1.400)",
+                    "Extra Egg (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Sesame Chicken",
+              "description": "Sliced chicken breast, brocooli, red bell peppers, yellow onions, and our signature Sesame Chicken Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Dynamite Shrimp Roll (8 pcs)",
+              "description": "The world famous Dynamite\nShrimp on our signature california roll.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Trio Sauce",
+              "description": "Chang’s seasoning trio of sauces – Special home made recipe",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sauces": [
+            {
+              "index": 6,
+              "name": "Trio Sauce",
+              "description": "Chang’s seasoning trio of sauces – Special home made recipe",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.200",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Starters": [
+            {
+              "index": 7,
+              "name": "Chang's Chicken Lettuce Wraps",
+              "description": "A secret Chiang family recipe and our signature dish worldwide.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.300",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Spring Rolls",
+              "description": "Crispy Vietnamese-style vegetable rolls.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Spring Rolls",
+                "price_details": {
+                  "Spring Rolls - Delivery (Choose 1)": [
+                    "Spring Rolls 2' (1.700)",
+                    "Spring Rolls 4' (2.600)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 9,
+              "name": "Buttered Miso Dumpling",
+              "description": "Hand folded shrimp dumplings with permesan cheese, served in a miso butter reduction sauce and ganished with chives",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.990",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Shrimp Dumplings",
+              "description": "Served pan-fried or steamed, drizzled with a light chili sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Edamame",
+              "description": "An appetizer made for sharing, Steamed to order, tossed with salt.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "The Original Dynamite Shrimp",
+              "description": "Often imitated, never duplicated. Enough said.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "The Original Dynamite Shrimp",
+                "price_details": {
+                  "The Original Dynamite Shrimp - Delivery (Choose 1)": [
+                    "'The Original Dynamite Shrimp Regular' (4.600)",
+                    "'The Original Dynamite Shrimp Grande ' (6.100)"
+                  ],
+                  "Extra Rice (Choose up to 10 items)": [
+                    "Extra White Rice CUP (0.900)",
+                    "Extra Brown Rice CUP (0.900)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Soups": [
+            {
+              "index": 13,
+              "name": "Changs Chicken Noodle Soup",
+              "description": "Chicken,Crimini Mushroom,tomatoes, flat rice noodles, and cilantro in a spicy chicken sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Wonton Soup",
+              "description": "Chicken wontons, mushroom, spinach, chicken cubes, water chestnut and shrimp in our homemade chicken broth",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Hot & Sour Soup",
+              "description": "Chicken, tofu, bamboo shoots, and mushrooms balanced with hot white pepper and vinegar.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Hot & Sour Soup",
+                "price_details": {
+                  "Hot and Sour Soup - Delivery (Choose 1)": [
+                    "'Hot & Sour Soup Bowl' (3.300)",
+                    "'Hot & Sour Soup Cup' (1.800)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Salads": [
+            {
+              "index": 16,
+              "name": "Mandarin Crunch Salad",
+              "description": "Julienned cucumbers, napa cabbage, orange segments, almonds, crispy rice sticks and wonton strips in a mandarin vinaigrette.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mandarin Crunch Salad",
+                "price_details": {
+                  "Mandarin Crunch Salad - Delivery (Choose 1)": [
+                    "'Mandarin Crunch Salad Plain' (4.400)",
+                    "'Mandarin Crunch Salad Chicken' (5.100)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 17,
+              "name": "Asian Caesar Salad",
+              "description": "Crunchy romaine lettuce, parmesan cheese, toasted sesame seeds, wonton croutons, tofu caesar dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Asian Caesar Salad",
+                "price_details": {
+                  "Asian Caesar Salad - Delivery (Choose 1)": [
+                    "'Asian Caesar Salad Plain' (4.400)",
+                    "'Asian Caesar Salad Chicken' (5.100)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Beef": [
+            {
+              "index": 18,
+              "name": "Wok-Charred Beef",
+              "description": "\"\nMarinated beef, tender charred with a mix of Crimini Mushroom and button mushrooms, chilies, garlic, and bell peppers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.700",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Mongolian Beef",
+              "description": "This traditional recipe from the Mongolian region of China is prepared with thin slices of caramelized beef in a very balanced sauce and tossed with green onions.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Beef With Broccoli",
+              "description": "Beef slices stir-fried with garlic, ginger and green onions, tossed with steamed broccoli.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Pepper Steak",
+              "description": "Pepper-garlic sauce, flank steak, onion, bell pepper",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Shaking Beef",
+              "description": "Rich and  flavorful stir-fried medley of tender beef, broccolini and potatoes tossed together over a cool salad with Sesame Vinaigrette",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Fired Braised Ribs",
+              "description": "Tender and juicy Short Ribs cooked until perfection in their own sauce; lightly glazed and caramelized served over a bed of aromatic fried rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Poultry": [
+            {
+              "index": 24,
+              "name": "Kung Pao Chicken",
+              "description": "A classic dish from the Sichuan and Hunan regions. Peanuts, green onion, red chili peppers tossed in our signature Kung Pao Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Changs Spicy Chicken",
+              "description": "Sliced chicken cooked in a spicy sweet and tangy sauce that revives your taste buds.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Sesame Chicken",
+              "description": "Sliced chicken breast, brocooli, red bell peppers, yellow onions, and our signature Sesame Chicken Sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Ginger Chicken with Broccoli",
+              "description": "Ginger-garlic aromatics, green onion, steamed broccoli",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Dali Chicken",
+              "description": "Tender chicken combined with crispy potato slices and green onion, tossed with in our signature Carmelo chili sauce and finished with sesame seeds. Perfect for those who can handle the heat of ou spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.990",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Seafood": [
+            {
+              "index": 29,
+              "name": "Kung Pao Shrimp",
+              "description": "A classic Chinese dish from the Sichuan and Hunan regions with our own twist. Spicy Sichuan chili sauce, peanuts, green onion, red chili peppers",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "6.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Red Chili Buttery Shrimp",
+              "description": "Tossed with onions, chili pods, garlic and black beans together with egg noodles.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Salt & Pepper Prawns",
+              "description": "Stir-fried prawns, wok tossed with our blend of salt and pepper and chili peppers. Served with a sriracha mustard sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Ring Of Fire Shrimp",
+              "description": "Red jalapenos, chili paste, and dried chilis combined with our homemade Kung Pao sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Asian Grilled Salmon",
+              "description": "Savory grilled salmon served with asparagus.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Miso Salmon",
+              "description": "Grilled salmon, Asian Mushroom, spinach,cabbageGarlic-Ginger aromatics and miso glace",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.190",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Vegetarian Dishes": [
+            {
+              "index": 35,
+              "name": "Buddha's Feast",
+              "description": "A  stir-fried vegetable medley with tofu",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.510",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Coconut Curry Vegetables",
+              "description": "Stir-fried vegetables, crispy silken tofu and peanuts tossed in a vegetarian coconut curry sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Chili Garlic Green Beans",
+              "description": "Stir-fried with Sichuan preserves, fiery chili sauce and garlic.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Kung Pao Brussel Sprouts",
+              "description": "Crispy roasted Brussel Sprouts tossed in our sweet and savory signature Black Caramelo Sauce served  with crunchy peanuts and spices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.050",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Noodles and Rice": [
+            {
+              "index": 39,
+              "name": "Chang's Fried Rice",
+              "description": "Wok-fried rice, blended with egg, green onion and carrots . Tossed in our signature dark sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Chang's Fried Rice",
+                "price_details": {
+                  "Fried Rice - Delivery (Choose 1)": [
+                    "'Fried Rice Veg' (3.100)",
+                    "'Fried Rice Chicken' (3.400)",
+                    "'Fried Rice Beef' (3.500)",
+                    "'Fried Rice Shrimp' (3.800)",
+                    "'Fried Rice Combo' (4.300)"
+                  ],
+                  "Rice Add On (Choose up to 7 items)": [
+                    "Extra Shrimp (2.600)",
+                    "Extra Beef (2.400)",
+                    "Extra Chicken (2.200)",
+                    "Add Asparagus (1.400)",
+                    "Add Broccoli (1.400)",
+                    "Extra Egg (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 40,
+              "name": "Pad Thai",
+              "description": "Rice noodles, Thai spices, crushed peanuts, cilantro and chili flakes, with pad thai sauce, fried egg and carrots",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pad Thai",
+                "price_details": {
+                  "Pad Thai - Delivery (Choose 1)": [
+                    "'Pad Thai Chicken' (5.300)",
+                    "'Pad Thai Shrimp' (5.500)",
+                    "'Pad Thai Combo' (5.600)"
+                  ],
+                  "Rice Add On (Choose up to 7 items)": [
+                    "Extra Shrimp (2.600)",
+                    "Extra Beef (2.400)",
+                    "Extra Chicken (2.200)",
+                    "Add Asparagus (1.400)",
+                    "Add Broccoli (1.400)",
+                    "Extra Egg (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 41,
+              "name": "Lo Mein",
+              "description": "Classic Chinese noodles and savory soy sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Lo Mein",
+                "price_details": {
+                  "Lo Mein - Delivery (Choose 1)": [
+                    "'Lo Mein Veg' (4.800)",
+                    "'Lo Mein Chicken' (5.100)",
+                    "'Lo Mein Beef' (5.300)",
+                    "'Lo Mein Shrimp' (5.300)",
+                    "'Lo Mein Combo' (5.500)"
+                  ],
+                  "Rice Add On (Choose up to 7 items)": [
+                    "Extra Shrimp (2.600)",
+                    "Extra Beef (2.400)",
+                    "Extra Chicken (2.200)",
+                    "Add Asparagus (1.400)",
+                    "Add Broccoli (1.400)",
+                    "Extra Egg (0.300)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 42,
+              "name": "Singapore Street Noodles",
+              "description": "Thin rice noodles combined with shrimp, chicken, tomatoes, cilantro and garlic. Tossed with turmeric curry blend sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Ribs Fried Rice",
+              "description": "Slow braised beef short ribs cooked to perfection, tossed in our Signature sauce along with kimchi, mushrooms, edamames, egg and wasabi aioli",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.900",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sushi": [
+            {
+              "index": 44,
+              "name": "California Roll (8 pcs)",
+              "description": "Sushi rice, toasted sesame seeds, kanikama mix, cucumber and avocado.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Dynamite Shrimp Roll (8 pcs)",
+              "description": "The world famous Dynamite\nShrimp on our signature california roll.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "4.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Shrimp Tempura Roll (8 pcs)",
+              "description": "Tempura, crab mix, cucumber, and avocado: served over spicy Japanese mayo.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.100",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Kung Pao Roll",
+              "description": "A delicious fusion of our classic California sushi rolled with sliced togarashi mixed tuna, Drizzled with spicy Sriracha sauce and our signature Kung pao crunch topping",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.570",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Spiciy Tuna Roll",
+              "description": "Our Signature Spicy Tuna served with toasted sesame seeds and garnished with chives.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Desserts": [
+            {
+              "index": 49,
+              "name": "New York Cheesecake",
+              "description": "New York style cheesecake garnished with raspberry coulis and strawberries.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Great Wall Of Chocolate",
+              "description": "This cake definitely stands up to its name! Six layers of chocolate cake and frosting, encrusted with chocolate chips (serves 2 people).",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.300",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Drinks": [
+            {
+              "index": 51,
+              "name": "Pepsi - Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Diet Pepsi - Can",
+              "description": "..",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "7Up - Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 54,
+              "name": "Diet 7Up - Can",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Mirinda",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Still Water Small",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Biere Des Amis 0.0%",
+              "description": "0.0% Craft Belgium Blonde, full of flavor and character yet a soft non alcoholic drink.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.100",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sides & Extras": [
+            {
+              "index": 58,
+              "name": "Add Asparagus",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 59,
+              "name": "Add Broccoli",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Extra White Rice Cp",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "Extra Brown Rice Cuo",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.900",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Extra Tofu",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.800",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Extra Beef",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.400",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 64,
+              "name": "Extra Shrimp",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.600",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Extra Chicken",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.200",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Extra Egg",
+              "description": ".",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.300",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Mahboula, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/pfchangs-mahboula",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Amazing"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "5992",
+          "Reviews_count": "3599",
+          "General_review": [
+            "PF Chang's is a restaurant located in Kuwait, serving a selection of Chinese, Asian, Noodles that delivers across Abdullah Al-Salem, Abu Ftaira, Abu Hasaniya, Adailiya and Adan.",
+            "Their best selling dishes are Mongolian Beef, The Original Dynamite Shrimp, Lo Mein and Chang's Fried Rice, although they have a variety of dishes and meals to choose from like Chinese, Asian, Noodles.",
+            "They have been reviewed 5992 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Heba A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "السعر مابلغ فيه جدا جدا ، الطبق كميته قليله جداً ، التقيم سيىء"
+            },
+            {
+              "reviewer_name": "Malak a***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "i would want to request a refund due to the poor taste of the noodles"
+            },
+            {
+              "reviewer_name": "Nora A***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the sauce was already mixed and the food was so cold and looks like as if it’s a leftover food 👎🏻 late as usual"
+            },
+            {
+              "reviewer_name": "Michelle P***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Consistently good!!"
+            },
+            {
+              "reviewer_name": "Christy R***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "food was not good very disappointing"
+            },
+            {
+              "reviewer_name": "Ernest C***",
+              "review_date": "23 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "great great"
+            },
+            {
+              "reviewer_name": "Lisa H***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "Just got my VIP Duck and I’m VERY DISAPPOINTED because they didn’t take out the feathers! Gross!"
+            },
+            {
+              "reviewer_name": "Berry L***",
+              "review_date": "20 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the chicken tastes like it was made yesterday"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "19 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "dynamite shrimp rolls shrimp small"
+            },
+            {
+              "reviewer_name": "Joko S***",
+              "review_date": "15 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very good very good"
+            },
+            {
+              "reviewer_name": "Nicole M***",
+              "review_date": "15 March 2025",
+              "review_rating": "Good",
+              "review_comment": "tasted like the plastic packaging. not good."
+            },
+            {
+              "reviewer_name": "Razan S***",
+              "review_date": "15 March 2025",
+              "review_rating": "OK",
+              "review_comment": "food poisoning"
+            }
+          ]
+        }
       }
     ]
   },
@@ -81138,7 +82161,7 @@
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -81193,7 +82216,8 @@
       "The Cheesecake Factory, Mahboula",
       "Health Stop",
       "Al Anode",
-      "Jeder Soad"
+      "Jeder Soad",
+      "PF Chang's,Mahboula"
     ],
     "completed_pages": [
       1,
