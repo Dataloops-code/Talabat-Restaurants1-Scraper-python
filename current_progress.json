@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:26:41.013523",
+  "last_updated": "2025-04-06T11:33:11.610192",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 2,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -36,7 +36,8 @@
       "Sable",
       "Mr Baker",
       "Chateau De Gateaux",
-      "Asha's, Mahboula"
+      "Asha's, Mahboula",
+      "Lunch & Dinner"
     ],
     "completed_pages": [
       1
