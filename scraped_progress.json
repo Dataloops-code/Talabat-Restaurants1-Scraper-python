@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T13:21:42.711789",
+  "last_updated": "2025-04-06T13:24:45.669687",
   "all_results": {
     "الظهر": [
       {
@@ -87947,6 +87947,576 @@
             }
           ]
         }
+      },
+      {
+        "name": "Aaya Sweets",
+        "cuisine": "Desserts, Chocolate , Pastries & Sweets",
+        "url": "https://www.talabat.com/kuwait/restaurant/639740/aaya-sweets-egaila?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 20 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Ulker",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ulker",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Small 24 PCs (5.000)",
+                    "Medium 40 Pcs (8.000)",
+                    "Large 63 Pcs (12.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 1,
+              "name": "Mix Sizes Ulker And Cornflex",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Sizes Ulker And Cornflex",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "small 24 pcs (5.500)",
+                    "Medium 58 Pcs (11.000)",
+                    "Big 84 Pcs (13.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 2,
+              "name": "CORNFLEX",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "CORNFLEX",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "LARGE CORNFLEX 50 PCS (8.000)",
+                    "Medium Cornflex 36 Pcs (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 3,
+              "name": "Cookies  Kinder Box",
+              "description": "12 pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Mix Ulker And Cornflex And Coconut Finger Cake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Ulker And Cornflex And Coconut Finger Cake",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Medium 46 Pieces (11.000)",
+                    "Large 70 Piece (13.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 5,
+              "name": "Chocolate Bulls",
+              "description": "Chocolate bulls covered with white sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Main items": [
+            {
+              "index": 6,
+              "name": "Mix 3 Seasons",
+              "description": "45 Pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "7.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Ulker",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Sizes Ulker And Cornflex",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "small 24 pcs (5.500)",
+                    "Medium 58 Pcs (11.000)",
+                    "Big 84 Pcs (13.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 8,
+              "name": "CORNFLEX",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "CORNFLEX",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "LARGE CORNFLEX 50 PCS (8.000)",
+                    "Medium Cornflex 36 Pcs (6.000)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 9,
+              "name": "Finger Cake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Finger Cake",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "Small Finger Cake15 Pcs (4.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 10,
+              "name": "Chocolate Bulls",
+              "description": "Chocolate bulls covered with white sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "5.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Medium  Mix Petifor",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Medium  Mix Petifor",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "39pcss (5.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "2 Items mix": [
+            {
+              "index": 12,
+              "name": "Med Ulker + 3 Seasons",
+              "description": "58 pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Mix Sizes Ulker And Cornflex",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Mix Sizes Ulker And Cornflex",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "small 24 pcs (5.500)",
+                    "Medium 58 Pcs (11.000)",
+                    "Big 84 Pcs (13.500)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 14,
+              "name": "Mix Sizes Ulker & Fankoush",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Ulker",
+                "price_details": {
+                  "Your Choice Of (Choose 1)": [
+                    "Small 24 PCs (5.000)",
+                    "Medium 40 Pcs (8.000)",
+                    "Large 63 Pcs (12.500)"
+                  ]
+                }
+              }
+            }
+          ],
+          "3 Items mix": [
+            {
+              "index": 15,
+              "name": "Mix Ulker And Cornflex And Coconut Finger Cake",
+              "description": "",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "CORNFLEX",
+                "price_details": {
+                  "Your Choice of (Choose 1)": [
+                    "LARGE CORNFLEX 50 PCS (8.000)",
+                    "Medium Cornflex 36 Pcs (6.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Cookies": [
+            {
+              "index": 16,
+              "name": "Cookies Kinder Cup",
+              "description": "5 Pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Cookies  Kinder Box",
+              "description": "12 pcs",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Kuwait City, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/aaya-sweets",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "17870",
+          "Reviews_count": "12231",
+          "General_review": [
+            "Aaya Sweets is a restaurant located in Kuwait, serving a selection of Desserts, Chocolate , Pastries & Sweets that delivers across Abu Halifa, Al-Julaia'a, Ardhiya, Fintas and Jahra - Jahra Area.",
+            "Their best selling dishes are Ulker, Mini Ulker, Mix Sizes Ulker And Cornflex and Cookies Kinder Box, although they have a variety of dishes and meals to choose from like Desserts, Chocolate , Pastries & Sweets.",
+            "They have been reviewed 17870 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "ام ناصر ا***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "وصل مفتوح البكس"
+            },
+            {
+              "reviewer_name": "بندر ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "التغليف سيء 💔"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكرسبي صغير و طعمه مو نفس كل مره و معفوس"
+            },
+            {
+              "reviewer_name": "Maryam S***",
+              "review_date": "29 March 2025",
+              "review_rating": "Good",
+              "review_comment": "تم ازاله تاريخ الصنع والانتهاء عن العلبه"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the order is damaged"
+            },
+            {
+              "reviewer_name": "Abrar Q***",
+              "review_date": "28 March 2025",
+              "review_rating": "Good",
+              "review_comment": "مو نفس الطعم كل مره 🥲"
+            },
+            {
+              "reviewer_name": "Noha A***",
+              "review_date": "28 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم الورق عنب مليان دبس رمان والطعم جدا سيء عكس توقعاتي"
+            },
+            {
+              "reviewer_name": "zaynab M***",
+              "review_date": "23 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز الطلب ممتاز جدا وجميع الاغراض ممتازه ووقت التوصيل ممتاز"
+            },
+            {
+              "reviewer_name": "تهاني ا***",
+              "review_date": "23 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكراً ممتازه وسريعه"
+            },
+            {
+              "reviewer_name": "Faisal A***",
+              "review_date": "22 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "و الله العظيم لذيذ وشكرا شكرا شكرا للي سواه ويسلم إيد اللي سواه حيل حلوة"
+            },
+            {
+              "reviewer_name": "Farah A***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب غلط"
+            },
+            {
+              "reviewer_name": "Samra N***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "مو حلو و القهوه طعمها غريب 😐👎🏽"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "21 March 2025",
+              "review_rating": "OK",
+              "review_comment": "القهوة محروقة طعمها مو تمام"
+            },
+            {
+              "reviewer_name": "Salem A***",
+              "review_date": "19 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "ممتاز ماشاءالله"
+            },
+            {
+              "reviewer_name": "Siam M***",
+              "review_date": "18 March 2025",
+              "review_rating": "OK",
+              "review_comment": "Before the aya sweets funkoosh was awesome but this time when i ordered was hard and doesn’t taste g"
+            },
+            {
+              "reviewer_name": "Suad H***",
+              "review_date": "18 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "👌👌👌"
+            },
+            {
+              "reviewer_name": "Aljaz ***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "القهوة سيأة جدا"
+            },
+            {
+              "reviewer_name": "Esraa A***",
+              "review_date": "17 March 2025",
+              "review_rating": "OK",
+              "review_comment": "صغير مو نفس الصوره"
+            },
+            {
+              "reviewer_name": "محمد ا***",
+              "review_date": "14 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يفضل زيادة الكميه في الطبق الصغير من الاولكر"
+            },
+            {
+              "reviewer_name": "شوشو ش***",
+              "review_date": "11 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذجدًا وطريقة الوصيل"
+            },
+            {
+              "reviewer_name": "Suad H***",
+              "review_date": "11 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيد 👍👍👍👍👍👍"
+            },
+            {
+              "reviewer_name": "hukmat A***",
+              "review_date": "09 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيده جداً"
+            },
+            {
+              "reviewer_name": "أنواار -- A***",
+              "review_date": "06 March 2025",
+              "review_rating": "OK",
+              "review_comment": "قهوه تلوع الجبد شدعوه مسوينها بدون نفسسسسس"
+            },
+            {
+              "reviewer_name": "Teacher A***",
+              "review_date": "03 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ جدا"
+            },
+            {
+              "reviewer_name": "Beshoo Als ***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الكوكز يااااابس فشلتوني جدام الناس اخر امره اطلب منكم"
+            },
+            {
+              "reviewer_name": "Noor A***",
+              "review_date": "03 March 2025",
+              "review_rating": "OK",
+              "review_comment": "chocolates in the box were not wrapped properly and very messily arranged"
+            },
+            {
+              "reviewer_name": "Yousef A***",
+              "review_date": "02 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "قوووي كالعاده"
+            },
+            {
+              "reviewer_name": "امل ا***",
+              "review_date": "01 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "شكرا شكرا"
+            },
+            {
+              "reviewer_name": "Abdullah A***",
+              "review_date": "01 March 2025",
+              "review_rating": "OK",
+              "review_comment": "مطعم سيء تأخر ساعتين و اللحم ما ينوكل يابس و المطعم ما يرد"
+            },
+            {
+              "reviewer_name": "ع ا***",
+              "review_date": "27 February 2025",
+              "review_rating": "OK",
+              "review_comment": "ممتاز"
+            },
+            {
+              "reviewer_name": "Sarrah S***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "للاسف طلبت البوكس على اساس فيه اعلام بالصورة وصلني بدون اعلام وماحبيت هالشي"
+            },
+            {
+              "reviewer_name": "ma a***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيد جداً"
+            },
+            {
+              "reviewer_name": "Ahad N***",
+              "review_date": "25 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الكميه قليله والسعر مبالغ ياخذ الباقي"
+            },
+            {
+              "reviewer_name": "Samirah A***",
+              "review_date": "23 February 2025",
+              "review_rating": "Good",
+              "review_comment": "الفنكوش كان زفر"
+            },
+            {
+              "reviewer_name": "سمية ا***",
+              "review_date": "19 February 2025",
+              "review_rating": "Very good",
+              "review_comment": "الطلب غير المتفق عليه طلبنا طباعة علم الكويت والاولكر وصل عادي"
+            },
+            {
+              "reviewer_name": "Den A***",
+              "review_date": "18 February 2025",
+              "review_rating": "OK",
+              "review_comment": "size of chocolates very small"
+            }
+          ]
+        }
       }
     ]
   },
@@ -87954,7 +88524,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -88013,7 +88583,8 @@
       "PF Chang's,Mahboula",
       "The Local beet",
       "Karam Sweet",
-      "Texas RoadHouse, Sidra Mahboula"
+      "Texas RoadHouse, Sidra Mahboula",
+      "Aaya Sweets"
     ],
     "completed_pages": [
       1,
