@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T12:24:49.951127",
+  "last_updated": "2025-04-06T12:27:32.676448",
   "all_results": {
     "الظهر": [
       {
@@ -58511,6 +58511,1913 @@
             }
           ]
         }
+      },
+      {
+        "name": "Ananas",
+        "cuisine": "Healthy, Ice Cream, Coffee",
+        "url": "https://www.talabat.com/kuwait/restaurant/696328/ananas-west-abu-fatera-tgo?aid=59",
+        "rating": "Very good",
+        "page": 3,
+        "delivery_time": "Within 40 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "tracking_status": "Live Tracking",
+        "contactless": "Contactless drop-off",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Matcha Latte",
+              "description": "Matcha, fresh milk. 175 kcal, Carbs 22g, Protein 4g, Fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Kinder Bites",
+              "description": "115Kcal, Carbs 17g, Protein 1g, Fat 6g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Spanish Latte",
+              "description": "Condensed milk, double espresso, fresh milk, 190kcal, carbs 26g, protein 4g and fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Americano",
+              "description": "Double Espresso and water. 0 Kcal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Pecan Crunch Ice Cream",
+              "description": "Vanilla, roasted pecan, biscuit sauce with delivery dry ice box. 430 kcal, carbs 52 g, protein 6 g, and fat 22 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Cubano",
+              "description": "Toffee nut latte, espresso, fresh milk, 175 kcal, carbs 24 g, protein 4 g and fat 8 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Winner Dish Of the Month": [
+            {
+              "index": 6,
+              "name": "Cranberry Tabbouleh Salad",
+              "description": "220kcal, carbs 18g, protein 5g, fats 14g, parsley, quinoa, tomato, pine nuts, spring onion, bell pepper and pomegranate seed with lemon mustard dressing",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "New Items": [
+            {
+              "index": 7,
+              "name": "Cardamom Kulfi Ice Cream",
+              "description": "Cardamom pistachio soft serve, rahash, pistachio, cotton candy and saffron sauce with delivery dry ice box.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Hazelnut Ice Cream",
+              "description": "Hazelnut, vanilla, hazelnut sauce and wafer. With delivery dry ice box. 430 kcal, carbs 52g, protein 6g and fats 22g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Kulfi Classic Ice Cream",
+              "description": "Cardamom pistachio soft serve with delivery dry ice box.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Classic Chocolate Ice Cream",
+              "description": "Chocolate soft serve with delivery dry ice box. 250 Kcal, carbs 38g, protein 5g and fat 9g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Classic Chocolate Vanilla Ice Cream",
+              "description": "Vanilla and chocolate with delivery dry ice box. 250 Kcal, carbs 38g, protein 5g, fats 9g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pots Savory": [
+            {
+              "index": 12,
+              "name": "Chips And Avocado Hummus",
+              "description": "210kcal, carbs 22g, protein 8g, fat 10g. Baked sumac chips, avocado hummus dip, topped with fresh jalapeno.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Grilled Corn",
+              "description": "235kcal, carbs 30g, protein 6g, fat 10g, grilled corn, sour cream, lime and Parmesan cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Caesar Protein Pot",
+              "description": "185kcal, carbs 4g, protein 20g, fat 10g, grilled chicken, lentils, lettuce, parmesan cheese, and low fat caesar dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Harvest Protien Pot",
+              "description": "199 kcal, carbs 4g, protein 20g, fat 10g, grilled chicken, pumpkin, chickpeas, bulgur, black sesame, lettuce, walnuts, and balsamic sesame dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Pots Sweet": [
+            {
+              "index": 16,
+              "name": "Sago Pot",
+              "description": "225kcal, carbs 22g, protein 5g, fat 13g. Cheesecake, sago, chocolate biscuit and biscuit sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Chocolate Chia Pot",
+              "description": "215 Kcal, carbs 22g, protein 5g, fats 12g, cocoa chia pudding and biscuit, pound cake.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Banana Oatmeal Pot",
+              "description": "255 kcals, carbs 25 g, protein 10 g, Fat 13g. banana, banana biscuit, chocolate biscuit, oatmeal, chia pudding, and pecan.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Salads and Soups": [
+            {
+              "index": 19,
+              "name": "Mango Salad",
+              "description": "199kcal, carbs 18g, protein 2g, fat 13g, mango, edamame, cabbage, carrot, sesame sweet and sour dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Sesame Salad",
+              "description": "199 Kcal, Carbs 12g, Protein 4g, Fat 15g. Quinoa, kale, sesame, apple, carrot, cucumber and sesame dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Cranberry Tabbouleh Salad",
+              "description": "220kcal, carbs 18g, protein 5g, fat 14g, parsley, quinoa, tomato, pinenuts, spring onion, bell pepper and pomegranate seed with lemon mustard dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Corn Salad",
+              "description": "265 kcal, carbs 22g, protein 4g, Fat 18g. Grilled corn, jalapeno, baby gem, parsley, parmesan cheese, croutons, Caesar dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Chicken Caesar Salad",
+              "description": "285 kcal, carbs 6g, protein 25g, fat 18g, lettuce, kale, chicken, parmesan cheese,  and Caesar sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 24,
+              "name": "Chicken Harvest Salad",
+              "description": "299 calories, carbs 9g, protein 30g, fat 16g, grilled chicken, roasted pumpkin, bulgur, black sesame, mix green leaves, walnuts and sesame balsamic dressing.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.450",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Sandwiches and Wraps": [
+            {
+              "index": 25,
+              "name": "Chicken Guacamole Sandwich",
+              "description": "355 kcal, carbs 38g, protein 22g, fat 13g. Chicken, guacamole and cheese.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Beef Tenderloin Wrap",
+              "description": "375 Kcal, carbs 32 g, protein 30 g, fat 14 g, tenderloin beef, potato, pickles, tortilla, and tahina.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Chicken Wrap",
+              "description": "350 kcal, carbs 32g, protein 35g, fat 9gk, chicken, pickles, potato, tortilla and tahina.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Bun and Tacos": [
+            {
+              "index": 28,
+              "name": "Buffalo Chicken Bun",
+              "description": "375kcal, carbs 30g, protein 30g, fat 15g, oats brown bun, pulled chicken, white cheese, celery and buffalo sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Spicy Tuna Melt Bun",
+              "description": "385kcal, Carbs 30g, Protein 30g, Fat 16g. Sesame brown bun, tuna, cheese, tomato, guacamole, mayonnaise mustard and jalapeno.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 30,
+              "name": "Simit Bun",
+              "description": "320 kcal, carbs 32g, protein 12g, fats 16g. Sesame simit bun, halloumi, labneh, guacamole, tomato.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Ribs Tacos",
+              "description": "355 kcal, carbs 30g, protein 25g, fat 15g. Pita taco, lamb, creamy mustard, and pickles.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Shrimp Tacos",
+              "description": "270 kcal, carbs 30g, protein 15g, Fat 10g, pita tacos, grilled shrimp and tartar sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Chicken Guacamole Tacos",
+              "description": "Kcal 310, Carbs 30g, Protein 20g, Fat 12g. Pita taco, grilled chicken, guacamole, corn, and sriracha sour cream.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Plates": [
+            {
+              "index": 34,
+              "name": "Beef And Rice",
+              "description": "530 Kcal, carbs 63g, protein 40g, fat 13g. tenderloin beef, brown rice and mint sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Chicken And Mash",
+              "description": "410kcal, carbs 40g, protein 30g, fat 14g, grilled chicken, mash potato, mixed vegetables, and mushroom gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Chicken And Rice",
+              "description": "545 kcal, carbs 50g, protein 50g, fat 16g, machboos saffron basmati rice, grilled chicken, tomato gravy and pickled mango",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Yellow Curry Shrimp",
+              "description": "545 Kcal, carbs 65g, protein 35g, fatس 16g. shrimp, potato, peanuts, brown rice and turmeric.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Green Curry Chicken",
+              "description": "660 calories, 65g carbs, 50g protein, 22g fat. Chicken, broccoli, carrots, mushrooms, green curry and mushroom rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Chicken Katsu Curry",
+              "description": "530Kcal, Carbs 52g, Protein 40 g, Fat 20 g. Crispy chicken breast, katsu curry, potato, jasmine rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 40,
+              "name": "Butter Chicken",
+              "description": "590 calories, 60g carbs, 45g protein, 19g fat. Grilled chicken breast, tomato-based curry, cream and white rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Ribs And Okra",
+              "description": "520 Kcal, 57g carbs, 30g protein, 19g fat. Short ribs, okra, potato, white rice.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "3.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 42,
+              "name": "Paprika Chicken",
+              "description": "510 kcal, carbs 50g, protein 55g, fat 10g, lemon chicken, cilantro rice and yogurt sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Mushroom Chicken",
+              "description": "kcal 620, carbs 60g, protein 50g, fat 20g. Grilled chicken, risotto rice, pink zucchini and mushroom sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Chicken Burrito",
+              "description": "660 Kcal, carbs 65g, protein 55g, fat 20g. Grilled chicken, black beans, Mexican cheese mix, corn, rice and guacamole.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Chicken Fried Rice",
+              "description": "435 kcal, carbs 45g, protein 30g, fat 15g.  paprika chicken, jasmine rice, corn, spring onion, teriyaki sauce, olive oil.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 46,
+              "name": "Alfredo Chicken Pasta",
+              "description": "555 calories, 50g carbs, 35g protein, 24g fat. Penne pasta, chicken, mushrooms and alfredo sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 47,
+              "name": "Pink Pasta Chicken",
+              "description": "499 kcal, carbs 50g, protein 35g, fat 18g. fusilli pasta, pink sauce, chicken and mixed vegetables.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 48,
+              "name": "Lo Mein Chicken Noodles",
+              "description": "480 kcal, carbs 40g, protein 35g, fat 20g, wheat noodles, chicken, mushroom, mixed vegetables, and soya blend.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 49,
+              "name": "Penne Arrabbiata Pasta",
+              "description": "445 calories, 65g carbs, 15g protein, 14g fat. Penne arrabbiata pasta, tomatoes, black olives and spicy tomato sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 50,
+              "name": "Chicken Lasagna",
+              "description": "465Kcal, Carbs 40g, Protein 35, Fat 18g. Thin layers of pasta, minced chicken breast, mozzarella cheese, and pink tomato gravy.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 51,
+              "name": "Beef And Mash Small Dish",
+              "description": "330 kcal, carbs 26g, protein 20g, fat 16g, beef tenderloin, mashed potato and yogurt sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.950",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 52,
+              "name": "Grilled Chicken",
+              "description": "245 kcal, carbs 0g, protein 45g, fat 7g. Grilled chicken, and low-fat cilantro ranch dip.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 53,
+              "name": "Roasted Potato",
+              "description": "230 kcal, carbs 25g, protein 12g, fats 9g. roasted potato, low-fat honey mustard sauce.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Juice": [
+            {
+              "index": 54,
+              "name": "Orange Juice",
+              "description": "Fresh orange, 135kcal, carbs 34g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 55,
+              "name": "Pomegranate Juice",
+              "description": "Fresh Pomegranate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 56,
+              "name": "Pom OJ Juice",
+              "description": "Fresh pomegranate and orange.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 57,
+              "name": "Pacific Green Juice",
+              "description": "Pineapple, apple, kale, mint, 150 Kcal, carbs 38g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 58,
+              "name": "Fiji Juice",
+              "description": "Mango, passion fruit, and pineapple. 150kcal, carbs 38g, protein 0g, fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Detox": [
+            {
+              "index": 59,
+              "name": "Morning Dew Detox",
+              "description": "Carrot, orange, ginger, 125 Kcal, carbs 32g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 60,
+              "name": "Ruby Red Detox",
+              "description": "Beetroot, pomegranate, ginger, apple, 136 kcal, carbs 34g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 61,
+              "name": "PAC Detox",
+              "description": "Passion fruit, apple, ananas, celery, 135kcal, carbs 34g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 62,
+              "name": "Ginger Shot",
+              "description": "Ginger, lemon, apple, 40 kcal, carbs 10g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 63,
+              "name": "Ginger Turmeric Shot",
+              "description": "Ginger, turmeric, and lemon; 40 kcal, carbs 10g, protein 0g, and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Lushies": [
+            {
+              "index": 64,
+              "name": "Equa Lush",
+              "description": "Mango and passion fruit, 195 Kcal, carbs 46g, protein 0g and fat 1g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 65,
+              "name": "Pinacoco Lush",
+              "description": "Pineapple, coconut, 199 Kcal, carbs 43g, protein 0g and fat 3g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 66,
+              "name": "Lemon Grass Lush",
+              "description": "Lemongrass, honey, 155Kcal, carbs 38g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 67,
+              "name": "Pom Pom Lush",
+              "description": "Pomegranate, 165kcal, carbs 39g, protein 0g and fat 1g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 68,
+              "name": "Caribbean Lush",
+              "description": "Pinacoco and mango, 190 kcal, carbs 44g, protein 0g and fat 2g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 69,
+              "name": "Tropical Lush",
+              "description": "Mango, lemongrass, pomegranate, 170kcal, carbs 40g, protein 0g and fat 1g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 70,
+              "name": "Make Your Own Lush",
+              "description": "Choose from 2 to 4 flavors.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Coffee": [
+            {
+              "index": 71,
+              "name": "Cold Brew",
+              "description": "24 Hours Brew. 0 kcal",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 72,
+              "name": "Americano",
+              "description": "Double Espresso and water. 0 Kcal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 73,
+              "name": "Iced Espresso",
+              "description": "Your choice of classic espresso or flavored. Small, Double espresso, Flavored 50Kcal. medium, Triple espresso, Flavored 75Kcal.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.150",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 74,
+              "name": "Latte",
+              "description": "Fresh milk, double espresso, 85 kcal, carbs 8g, protein 5g and fat 5g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 75,
+              "name": "Cappuccino",
+              "description": "Foam, milk and double espresso, 75kcal, carbs 7g, protein 4g and fat 4g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 76,
+              "name": "Flat White",
+              "description": "Fresh milk, double espresso, 75 kcal, carbs 7g, protein 4g and fat 4g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 77,
+              "name": "Spanish Latte",
+              "description": "Condensed milk, double espresso, fresh milk, 190kcal, carbs 26g, protein 4g and fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 78,
+              "name": "Cubano",
+              "description": "Toffee nut latte, espresso, fresh milk, 175 kcal, carbs 24 g, protein 4 g and fat 8 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 79,
+              "name": "Coco",
+              "description": "Coconut latte, double espresso, fresh milk, 165 kcal, carbs 22 g, protein 1 g and fat 8 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 80,
+              "name": "Caramelo",
+              "description": "Caramel Latte, double espresso and Fresh Milk. 190Kcal, Carbs 26g, Protein 4g, Fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 81,
+              "name": "White Mocha Latte",
+              "description": "White chocolate latte, double espresso, fresh milk, 200 kcal, carbs 28g, protein 4g and fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 82,
+              "name": "Vanilla Shaken",
+              "description": "Vanilla, double espresso, milk, 180 calories, carbs 26g, protein 4g and fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 83,
+              "name": "Pumpkin Spice Latte",
+              "description": "Pumpkin spice cookie flavor, milk, and espresso. 175 Kcal, carbs 24g, protein 4g ,fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 84,
+              "name": "Hot Chocolate",
+              "description": "Chocolate, milk. 190 kcal, carbs 28g, protein 3g, fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.350",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 85,
+              "name": "Whole Bean Coffee",
+              "description": "Choice of 250g or 1kg.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Whole Bean Coffee",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "1kg (10.000)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Tea And Specialty": [
+            {
+              "index": 86,
+              "name": "Peach Iced Tea",
+              "description": "Black tea, peach, lemon, 95 kcal, carbs 24g, protein 0g and fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 87,
+              "name": "Berries Iced Tea",
+              "description": "Black tea, mixed berries, lemon, 95 kcal, carbs 24g, protein 0g , fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 88,
+              "name": "Green Lemonade Juice",
+              "description": "Lemon and mint. 115Kcal, Carbs 29g, Protein 0g, Fat 0g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 89,
+              "name": "Blue Tea Lemonade",
+              "description": "Lemonade and blue tea. 115 kcal, carbs 29g, protein 0g, fats 0g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.450",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 90,
+              "name": "Matcha Latte",
+              "description": "Matcha, fresh milk. 175 kcal, Carbs 22g, Protein 4g, Fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.650",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 91,
+              "name": "Peanut Butter Protein Shake",
+              "description": "Milk, whey protein, peanut butter.\nSmall 235kcal, carbs 12g, protein 20g, fat 12g.\nRegular 355 kcal, carbs 18g, protein 30g, fat 18g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Peanut Butter Protein Shake",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Small (1.350)",
+                    "Regular (1.850)"
+                  ]
+                }
+              }
+            },
+            {
+              "index": 92,
+              "name": "Pecan Protein Shake",
+              "description": "Milk, whey protein, pecan and honey. small 235 kcal, carbs 12 gm, protein 20 gm and fats 12 gm, regular 355 kcal, carbs 18 gm, protein 30 gm and fats 18 gm.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": null,
+                "price_on_selection": true
+              },
+              "extra_details": {
+                "title": "Pecan Protein Shake",
+                "price_details": {
+                  "Your choice (Choose 1)": [
+                    "Small (1.350)",
+                    "Regular (1.850)"
+                  ]
+                }
+              }
+            }
+          ],
+          "Pastries": [
+            {
+              "index": 93,
+              "name": "Milk Chocolate Cookies",
+              "description": "140kcal, carbs 20g, protein 1g, fat 8g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 94,
+              "name": "Dark Chocolate Cookies",
+              "description": "135Kcal, Carbs 18g, Protein 1g, Fat 7g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 95,
+              "name": "Peanut Butter Cookies",
+              "description": "Peanut butter, chocolate and peanuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 96,
+              "name": "Kinder Bites",
+              "description": "115Kcal, Carbs 17g, Protein 1g, Fat 6g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 97,
+              "name": "Banana Chocolate Muffin",
+              "description": "Baked muffin, banana, pecan and chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 98,
+              "name": "Blueberry Muffin",
+              "description": "Baked muffin and blueberry.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 99,
+              "name": "Dates Muffin",
+              "description": "Baked muffin and dates.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 100,
+              "name": "Pecan Protein Balls",
+              "description": "220kcal, carbs 12g, protein 16g and fat 12. 3 protein balls, whey protein powder, pecan, biscuit and chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 101,
+              "name": "Peanut Butter Protein Balls",
+              "description": "220 kcal, carbs 12g, protein 16g, 12 fat 12. 3 protein balls, whey protein powder, peanut butter, biscuit, chocolate.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "1.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Classic Ice Cream": [
+            {
+              "index": 102,
+              "name": "Skinny Vanilla Ice Cream",
+              "description": "Vanilla and milk with delivery dry ice box. 250 kcal, carbs 38g, protein 5g, fat 9g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 103,
+              "name": "Classic Chocolate Ice Cream",
+              "description": "Chocolate soft serve with delivery dry ice box 250 kcal, Carbohydrates 38g, protein 5g, fat 9g",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 104,
+              "name": "Classic Chocolate Vanilla Ice Cream",
+              "description": "Vanilla and chocolate with delivery dry ice box. 250 kcal, carbs 38g, protein 5g and fats 9g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 105,
+              "name": "Equa Lush Ice Cream",
+              "description": "Mango, passion fruit with delivery dry ice box. 199Kcal, Carbs 45g, Protein 1g, Fat 2g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 106,
+              "name": "Mango Vanilla Mix Swirl Ice Cream",
+              "description": "Mango, passion fruit, and vanilla, with delivery dry ice box. 220 kcal, carbs 41 g, protein 3 g, fat 5 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 107,
+              "name": "Mixed Berries Ice Cream",
+              "description": "Mixed Berries with delivery dry ice box. 185 Kcal, carbs 43g, protein 1g and fat 1g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 108,
+              "name": "Mixed Berries Vanilla Swirl Ice Cream",
+              "description": "Mixed Berries and Vanilla with delivery dry ice box. 220Kcal, Carbs 41g, Protein 3g, Fat 5g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 109,
+              "name": "Greek Yogurt Classic",
+              "description": "Greek Yogurt, whey protein, stevia with delivery dry ice box. 250 kcal, carbs 20 g, protein 20 g, fat 10 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 110,
+              "name": "Kulfi Classic Ice Cream",
+              "description": "Cardamom pistachio soft serve with delivery dry ice box.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Signature Ice Cream": [
+            {
+              "index": 111,
+              "name": "Mango Cheesecake Ice Cream",
+              "description": "Mango, passion fruit, vanilla, fresh mango, biscuit, and mango sauce with delivery dry ice box. 365 kcal, carbs 56g, protein 4g, fat 14g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 112,
+              "name": "Mixed Berries Cheesecake Ice Cream",
+              "description": "Berries, Vanilla, fresh berries, biscuit, and berries sauce with delivery dry ice box. 385Kcal, Carbs 54g, Protein 6g, Fat 16g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 113,
+              "name": "Vanilla Almond Ice Cream",
+              "description": "Vanilla, almond, caramel with delivery dry ice box. 399Kcal, Carbs 54g, Protein 7g, Fat 18g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 114,
+              "name": "Pecan Crunch Ice Cream",
+              "description": "Vanilla, roasted pecan, biscuit sauce with delivery dry ice box. 430 kcal, carbs 52 g, protein 6 g, and fat 22 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 115,
+              "name": "Vanilla And Cookies Ice Cream",
+              "description": "Vanilla, chocolate biscuit, and toffee with delivery dry ice box. 420kcal, carbs 50g, protein 6g, fat 22g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 116,
+              "name": "Hazelnut Ice Cream",
+              "description": "Hazelnut, vanilla, hazelnut sauce, and wafer. With delivery dry ice box. 430 calories, 52g carbs, 6g protein, 22g fat.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 117,
+              "name": "Cardamom Kulfi",
+              "description": "Cardamom pistachio soft serve, rahash, pistachio, cotton candy and saffron sauce with delivery dry ice box.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 118,
+              "name": "Mango Greek Yogurt Signature",
+              "description": "Greek yogurt, whey protein, stevia, fresh mango, mango sauce, and biscuit. Delivery dry ice box. 330 kcal, carbs 35g, protein 20g, fat 12g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 119,
+              "name": "Berries Greek Yogurt Signature",
+              "description": "Greek Yogurt, whey protein, stevia, fresh mixed berries, berries sauce, and biscuit. Delivery dry ice box. 330 kcal, carbs 35g, protein 20g, fat 12g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 120,
+              "name": "Pistachio Greek Yogurt Signature",
+              "description": "Greek yogurt, whey protein, stevia, crushed pistachio, and pistachio sauce. delivery dry ice box. 485 kcal, carbs 48 g, protein 24 g, fat 22 g.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "2.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Coral Collection": [
+            {
+              "index": 121,
+              "name": "7 Regular Ice Cream",
+              "description": "4 flavor choices.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "10.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 122,
+              "name": "12 Small Ice Cream",
+              "description": "Your choice of 4 flavors.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "12.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 123,
+              "name": "8 Lushies",
+              "description": "4 choice 2 pieces for each choice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 124,
+              "name": "8 Juices",
+              "description": "4 Flavor Choice of Juice",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 125,
+              "name": "8 Iced Coffee",
+              "description": "4 Flavor choices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 126,
+              "name": "8 Iced Espresso",
+              "description": "4 flavor choices",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Water": [
+            {
+              "index": 127,
+              "name": "Mineral Water 500ml",
+              "description": "Water",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 128,
+              "name": "Sparkling Water",
+              "description": "250 ml",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "0.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in West Abu Fetera Small Indust, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/ananas",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "No",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "4.5",
+          "Ratings_count": "97068",
+          "Reviews_count": "45367",
+          "General_review": [
+            "Ananas is a restaurant located in Kuwait, serving a selection of Healthy, Ice Cream, Coffee that delivers across Abu Ftaira, Abu Halifa, Abu Hasaniya, Adailiya and Al Masayel.",
+            "Their best selling dishes are Kinder Bites, Spanish Latte, Americano and Vanilla Shaken, although they have a variety of dishes and meals to choose from like Healthy, Ice Cream, Coffee.",
+            "They have been reviewed 97068 times by talabat users, with a rating of 4.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Very good",
+            "Value for money": "Very good",
+            "Delivery time": "Very good",
+            "Quality of food": "Very good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Thiab F***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the coffee was not good it taste like the last thing coming from the coffee machine with water"
+            },
+            {
+              "reviewer_name": "Ziyad A***",
+              "review_date": "03 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "excellent"
+            },
+            {
+              "reviewer_name": "mohamed a***",
+              "review_date": "03 April 2025",
+              "review_rating": "OK",
+              "review_comment": "my order came wrong it was great"
+            },
+            {
+              "reviewer_name": "Zainab Qabazard ***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the box not coming full of sald… some time came full… today too Less"
+            },
+            {
+              "reviewer_name": "Noura A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "iced cubano all the way 🌟 very good"
+            },
+            {
+              "reviewer_name": "Sara A***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت ايس كوفي (لاتيه) وصلتني طعمها جدا سيء الاسبريسو محترقه وطعمها ماي ابدا مو مستوى اناناس شسالفه اوكي"
+            },
+            {
+              "reviewer_name": "ABDULAZIZ A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "طعام لذيذ جداً"
+            },
+            {
+              "reviewer_name": "j r***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الكوكيز لذيذه بس لما تركزون فيها تستوعبون طعم الدهن واضح والقهوه مش واو عاديه"
+            },
+            {
+              "reviewer_name": "muneera K***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "delicious food and amazing drinks ! fast and steady!"
+            },
+            {
+              "reviewer_name": "Layla A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Very good",
+              "review_comment": "the juice and beetroot salad were great, but the foil seal on the coffee wasn't sealed & it leaked"
+            },
+            {
+              "reviewer_name": "Ziyad A***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "it was excellent the best matcha it was soo fast"
+            },
+            {
+              "reviewer_name": "صالح ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "Good",
+              "review_comment": "الاكل خفيف ونظيف بس اخذ ساعه على مايوصل الجهراء ياليت تفتحون فرع عندنا"
+            },
+            {
+              "reviewer_name": "هديل خشان ***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جدا رائع"
+            },
+            {
+              "reviewer_name": "وهج ا***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت البينك باستا وصلني الفريدو باستا"
+            },
+            {
+              "reviewer_name": "shahad a***",
+              "review_date": "02 April 2025",
+              "review_rating": "OK",
+              "review_comment": "طلبت باستا الحمرا والله يزيد النعمه كلمة تلوع الجبد شوي عليها استغفرالله استغفرالله"
+            },
+            {
+              "reviewer_name": "***",
+              "review_date": "02 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذييييذ الساندوتش"
+            },
+            {
+              "reviewer_name": "بندر ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الماتشا طعمها سييء جدا فيها بورده مو مخلوطه عدل شنو هذا وطعمها ثقيل حيل وخايسه الله يتسر عليكم زينه"
+            },
+            {
+              "reviewer_name": "Altaff A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي حلو 💗💗💗💗💗💗💗💗 تجرّبه حلوه"
+            },
+            {
+              "reviewer_name": "هديل ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "كل مره القهوه مضبوطه هالمره لا ، حاليه وحليب واجد"
+            },
+            {
+              "reviewer_name": "roaa a***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the ice shaken is watery and theres no coffee in it late"
+            },
+            {
+              "reviewer_name": "احمد ا***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاااااز"
+            },
+            {
+              "reviewer_name": "هديل خشان ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جدا جدا جدا رائع 👏"
+            },
+            {
+              "reviewer_name": "Farah T***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "the cup was not ok the coffee kept leaking"
+            },
+            {
+              "reviewer_name": "q8 .***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "الطعم ولا غلطه حلوووووو انصح الجميع فيهههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه"
+            },
+            {
+              "reviewer_name": "Eman A***",
+              "review_date": "01 April 2025",
+              "review_rating": "OK",
+              "review_comment": "الدجاج زفر"
+            },
+            {
+              "reviewer_name": "Jalal A***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز"
+            },
+            {
+              "reviewer_name": "lauan alazmi ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممكن"
+            },
+            {
+              "reviewer_name": "Nsj Hdh ***",
+              "review_date": "01 April 2025",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ جدا وشكرا على إتمام ملاحضتي"
+            },
+            {
+              "reviewer_name": "Aziz M***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the ice cream was melted in the Ice Box!!!"
+            },
+            {
+              "reviewer_name": "امنه ا***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المذاق جميل جدا والكميه جيده والتغليف ممتاز جدا التوصيل متاخر من ساعه الى ساعتين لاكن الطلب جميل شكرا"
+            },
+            {
+              "reviewer_name": "azya2e a***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "وصل بسرعه"
+            },
+            {
+              "reviewer_name": "bedoor a***",
+              "review_date": "31 March 2025",
+              "review_rating": "Good",
+              "review_comment": "مو مضبوطه القهوه"
+            },
+            {
+              "reviewer_name": "Faiza a***",
+              "review_date": "31 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "جيدة جداً"
+            },
+            {
+              "reviewer_name": "ALIA A***",
+              "review_date": "31 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الطلب ناقص"
+            },
+            {
+              "reviewer_name": "Fatma A***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "احبكم احبكم كل شي بيرفكت وتقرون اللي نكتبه وتركزون عالطلب 🎀"
+            },
+            {
+              "reviewer_name": "Mariam K***",
+              "review_date": "30 March 2025",
+              "review_rating": "OK",
+              "review_comment": "o ordered 1 kg you only brought 250g and nobody answered me when i requested a refund very bad and late"
+            },
+            {
+              "reviewer_name": "Dana A***",
+              "review_date": "30 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "لو سمحتوا شوفوا حل مع الثلج الجاف ماله داعى حق كل برد ثلج بطلته ولا يطير بعيني، كل شي لذيذ وحلو"
+            },
+            {
+              "reviewer_name": "E D***",
+              "review_date": "30 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "cookies were cold when asked for hot"
+            },
+            {
+              "reviewer_name": "Melva A***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "service is very fast and your employees are very curious"
+            },
+            {
+              "reviewer_name": "دارين ا***",
+              "review_date": "30 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "تجربه ممتعه"
+            },
+            {
+              "reviewer_name": "abyar a***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طالبه كندر بايتس و يوصلني دارك كوكيز!"
+            },
+            {
+              "reviewer_name": "Nour A***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "الفانيلا لاتيه مره مره شدعوه"
+            },
+            {
+              "reviewer_name": "حمد ا***",
+              "review_date": "29 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "love loove the kulfi icecream🫶🏻🫶🏻"
+            },
+            {
+              "reviewer_name": "مريم ا***",
+              "review_date": "29 March 2025",
+              "review_rating": "Good",
+              "review_comment": "العصيررررر كلله منكب 🫠🫠🫠"
+            },
+            {
+              "reviewer_name": "Sarah A***",
+              "review_date": "29 March 2025",
+              "review_rating": "OK",
+              "review_comment": "no forks, knives, spoons, or tissue. how will I eat the salad ? the stinginess is so annoying"
+            },
+            {
+              "reviewer_name": "Mariam A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "كل شي كان عجيب"
+            },
+            {
+              "reviewer_name": "Ali A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "ممتاز ممتاز ممتااااااااااااااز تاكو اللحم اللي ذايب ذوبان حده عجيب قمت الاخلاق والابتسامة استاذ أحمد"
+            },
+            {
+              "reviewer_name": "Amirah A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "يهبللل"
+            },
+            {
+              "reviewer_name": "Marzouq A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Great food"
+            },
+            {
+              "reviewer_name": "Sulaiman A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "عجيييب friendly"
+            },
+            {
+              "reviewer_name": "Asmaa A***",
+              "review_date": "28 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "the new chicken wrap recipe is amazing 🤩"
+            },
+            {
+              "reviewer_name": "Fatemah N***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "On time👍🏼"
+            },
+            {
+              "reviewer_name": "Dalal .***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "the syrup is not vanilla its cubano, i order everyday and i know the difference and there nostraw delivery is fine"
+            },
+            {
+              "reviewer_name": "مناير م***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "والله مذهل واو عجيب وااااو"
+            },
+            {
+              "reviewer_name": "Aisha A***",
+              "review_date": "27 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "مقللين كمية الخس بسلطة الشمندر وصلني حيل شويه !"
+            },
+            {
+              "reviewer_name": "Hanaa K***",
+              "review_date": "27 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم حالي جدًا اللون المشروب يثير العجب وكثير من السكر وهذه المره الخامسة مع مزيد من النكهة جاهزة وحار"
+            },
+            {
+              "reviewer_name": "Mohammad A***",
+              "review_date": "26 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "healthy"
+            },
+            {
+              "reviewer_name": "faisal a***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "السلطه الشمندر الخس رديء والكميه قليله جدا"
+            },
+            {
+              "reviewer_name": "sara A***",
+              "review_date": "26 March 2025",
+              "review_rating": "OK",
+              "review_comment": "not freash and ni cranberry and little souce only !!!!!!!"
+            },
+            {
+              "reviewer_name": "جابر ا***",
+              "review_date": "26 March 2025",
+              "review_rating": "Very good",
+              "review_comment": "٤ نجمات لان الطلب وصل خطأ"
+            },
+            {
+              "reviewer_name": "sara h***",
+              "review_date": "25 March 2025",
+              "review_rating": "OK",
+              "review_comment": "طعم الماتشا غريييب اول مره جذي"
+            },
+            {
+              "reviewer_name": "sh a***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "everything is good The only thing that I have to say is the best thing about this is he is the best and the most good"
+            },
+            {
+              "reviewer_name": "shahad a***",
+              "review_date": "25 March 2025",
+              "review_rating": "Good",
+              "review_comment": "القهوه بارده"
+            }
+          ]
+        }
       }
     ]
   },
@@ -58518,7 +60425,7 @@
     "area_name": "الظهر",
     "current_page": 3,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -58562,7 +60469,8 @@
       "Karam Sweet",
       "Malas Bo Khamas",
       "Jollibee",
-      "Rochas sweets"
+      "Rochas sweets",
+      "Ananas"
     ],
     "completed_pages": [
       1,
