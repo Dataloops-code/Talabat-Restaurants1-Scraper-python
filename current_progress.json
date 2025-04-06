@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T15:17:37.674679",
+  "last_updated": "2025-04-06T15:22:22.991388",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 5,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -75,7 +75,8 @@
       "Elite Sweet",
       "Bread Talk",
       "OOOH Chocolate",
-      "AlDikan"
+      "AlDikan",
+      "Tanateesh Sweet"
     ],
     "completed_pages": [
       1,
