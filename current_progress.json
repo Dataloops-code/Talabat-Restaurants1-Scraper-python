@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T14:59:46.545358",
+  "last_updated": "2025-04-06T15:01:39.043406",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 4,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -67,7 +67,8 @@
       "Sealed",
       "Azaim",
       "Thinnies",
-      "Breez Juice Bar"
+      "Breez Juice Bar",
+      "Good Stuff"
     ],
     "completed_pages": [
       1,
