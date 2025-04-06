@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:15:25.130558",
+  "last_updated": "2025-04-06T10:17:07.601179",
   "all_results": {
     "الظهر": [
       {
@@ -1277,6 +1277,802 @@
             }
           ]
         }
+      },
+      {
+        "name": "Tromso",
+        "cuisine": "Desserts, Coffee",
+        "url": "https://www.talabat.com/kuwait/restaurant/45323/tromso-ardhiyaa?aid=59",
+        "rating": "Very good",
+        "page": 1,
+        "delivery_time": "Within 30 mins",
+        "delivery_fee": "Free",
+        "min_order": "0.000",
+        "menu_items": {
+          "Picks for you 🔥": [
+            {
+              "index": 0,
+              "name": "Truffle Ice Cream",
+              "description": "Ice cream sandwich with fresh cream and biscuits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "10.000",
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 1,
+              "name": "Saffron Cake",
+              "description": "Saffron milk cake purely made from organic saffron including saffron sauce with sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.000",
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 2,
+              "name": "Truffle Chocolate Ice Cream",
+              "description": "8 inch box of kinder truffle fruit ice cream with ice cream sandwich",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "12.000",
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 3,
+              "name": "Khashkhash Cold",
+              "description": "Cold dessert filled with caramel cream and biscuits from the inside, consisting of 3 layers and samia decoration.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 4,
+              "name": "Chicken Musakhan",
+              "description": "40 pieces of crispy chicken musakhan with sumac and sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 5,
+              "name": "Mango Truffle",
+              "description": "Layers of vanilla cake with mango sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Offers": [
+            {
+              "index": 6,
+              "name": "Tromso Sweety Tower",
+              "description": "Tromso tower, cheese luqaimat with cheese samosa, damluj stuffed with walnuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "15.000",
+                "new_price": "11.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 7,
+              "name": "Tromso Salty Tower",
+              "description": "Tromso tower sweet grape leaves with chicken musakhan, mini fatayer and sauces,And lettuce best for gatherings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "14.000",
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 8,
+              "name": "Liqimat Cheese",
+              "description": "Box of 36 pieces of cheese bites with saffron and pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 9,
+              "name": "Cheese Samosa",
+              "description": "50 crispy samosas stuffed with Kiri cheese, honey and pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 10,
+              "name": "Damluj Kuwaiti",
+              "description": "40 pieces of stuffed damlooj fingers with walnuts, cardamom, powdered sugar and pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 11,
+              "name": "Chicken Musakhan",
+              "description": "40 pieces of crispy chicken musakhan with sumac and sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 12,
+              "name": "Khashkhash Cold",
+              "description": "Cold dessert filled with caramel cream and biscuits from the inside, consisting of 3 layers and samia decoration.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 13,
+              "name": "Tiger Latte",
+              "description": "Layers of biscuits with coffee sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 14,
+              "name": "Mango Truffle",
+              "description": "Layers of vanilla cake with mango sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 15,
+              "name": "Truffle Ice Cream",
+              "description": "Ice cream sandwich with fresh cream and biscuits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "10.000",
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 16,
+              "name": "Saffron Cake",
+              "description": "Saffron milk cake purely made from organic saffron including saffron sauce with sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.000",
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 17,
+              "name": "Truffle Chocolate Ice Cream",
+              "description": "8 inch box of kinder truffle fruit ice cream with ice cream sandwich",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "12.000",
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 18,
+              "name": "Brownie Bites",
+              "description": "Belgium chocolate stuffed with brownies 74 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.000",
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 19,
+              "name": "Ulker Sweet",
+              "description": "40 pieces of Ulker chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 20,
+              "name": "Arabic Coffee Thermos",
+              "description": "Arabic Coffee 1 Liter With Matara",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "9.000",
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 21,
+              "name": "Mattara Tea",
+              "description": "1 Liter tea",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "9.000",
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 22,
+              "name": "Mattara Karak Tea",
+              "description": "1 Litre Karak Tea with Cups",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "10.000",
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 23,
+              "name": "Mattara Zafron Milk",
+              "description": "1 litre milk zafron with cups",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "10.000",
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Dessert Time": [
+            {
+              "index": 24,
+              "name": "Tromso Sweety Tower",
+              "description": "Tromso tower, cheese luqaimat with cheese samosa, damluj stuffed with walnuts",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "15.000",
+                "new_price": "11.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 25,
+              "name": "Tromso Salty Tower",
+              "description": "Tromso tower sweet grape leaves with chicken musakhan, mini fatayer and sauces,And lettuce best for gatherings.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "14.000",
+                "new_price": "10.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 26,
+              "name": "Liqimat Cheese",
+              "description": "Box of 36 pieces of cheese bites with saffron and pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 27,
+              "name": "Cheese Samosa",
+              "description": "50 crispy samosas stuffed with Kiri cheese, honey and pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 28,
+              "name": "Damluj Kuwaiti",
+              "description": "40 pieces of stuffed damlooj fingers with walnuts, cardamom, powdered sugar and pistachios",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 29,
+              "name": "Chicken Musakhan",
+              "description": "40 pieces of crispy chicken musakhan with sumac and sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Trifle": [
+            {
+              "index": 30,
+              "name": "Khashkhash Cold",
+              "description": "Cold dessert filled with caramel cream and biscuits from the inside, consisting of 3 layers and samia decoration.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 31,
+              "name": "Berry Ice Cream",
+              "description": "Berry ice cream with chocolate powder",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 32,
+              "name": "Tiramisu",
+              "description": "Experience velvety mascarpone and espresso-soaked layers. Every bite offers a delightful fusion of classic italian flavors and decadent sweetness enough for 4 people",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 33,
+              "name": "Torte Chocolate",
+              "description": "Enjoy our signature hive torte, made with the perfect balance of rich chocolate and creamy vanilla. A combination of T flavors that will surely leave you impressed.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 34,
+              "name": "Honey Biscuit",
+              "description": "Honey biscuit trifle",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": null,
+                "new_price": "8.000",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 35,
+              "name": "Tiger Latte",
+              "description": "Layers of biscuits with coffee sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 36,
+              "name": "Mango Truffle",
+              "description": "Layers of vanilla cake with mango sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 37,
+              "name": "Truffle Ice Cream",
+              "description": "Ice cream sandwich with fresh cream and biscuits.",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "10.000",
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 38,
+              "name": "Saffron Cake",
+              "description": "Saffron milk cake purely made from organic saffron including saffron sauce with sauce",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.000",
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 39,
+              "name": "Truffle Chocolate Ice Cream",
+              "description": "8 inch box of kinder truffle fruit ice cream with ice cream sandwich",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "12.000",
+                "new_price": "9.000",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Chocolates": [
+            {
+              "index": 40,
+              "name": "Brownie Bites",
+              "description": "Belgium chocolate stuffed with brownies 74 pieces",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "11.000",
+                "new_price": "8.250",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 41,
+              "name": "Ulker Sweet",
+              "description": "40 pieces of Ulker chocolate",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "7.000",
+                "new_price": "5.250",
+                "price_on_selection": false
+              }
+            }
+          ],
+          "Coffee Gathering": [
+            {
+              "index": 42,
+              "name": "Arabic Coffee Thermos",
+              "description": "Arabic Coffee 1 Liter With Matara",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "9.000",
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 43,
+              "name": "Mattara Tea",
+              "description": "1 Liter tea",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "9.000",
+                "new_price": "6.750",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 44,
+              "name": "Mattara Karak Tea",
+              "description": "1 Litre Karak Tea with Cups",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "10.000",
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            },
+            {
+              "index": 45,
+              "name": "Mattara Zafron Milk",
+              "description": "1 litre milk zafron with cups",
+              "image_url": "/assets/images/img-placeholder.svg",
+              "prices": {
+                "old_price": "10.000",
+                "new_price": "7.500",
+                "price_on_selection": false
+              }
+            }
+          ]
+        },
+        "info": {
+          "Address": "in Ardhiya, Kuwait",
+          "Reviews URL": "https://www.talabat.com/kuwait/tromso",
+          "Minimum Order Amount": "KD 0.000",
+          "Delivery Time": "0 mins",
+          "Pre-Order": "Yes",
+          "Payment": [
+            "Visa payment available",
+            "Mastercard payment available",
+            "KNET payment available",
+            "Cash payment available"
+          ],
+          "Rating": "Very good"
+        },
+        "reviews": {
+          "Rating_value": "3.5",
+          "Ratings_count": "1508",
+          "Reviews_count": "1052",
+          "General_review": [
+            "Tromso is a restaurant located in Kuwait, serving a selection of Desserts, Coffee that delivers across Abdullah Al-Mubarak - West Jeleeb, Abu Ftaira, Abu Halifa, Abu Hasaniya and Adailiya.",
+            "Their best selling dishes are Liqimat Cheese, Tromso Sweety Tower, Truffle Chocolate Ice Cream and Tromso Salty Tower, although they have a variety of dishes and meals to choose from like Desserts, Coffee.",
+            "They have been reviewed 1508 times by talabat users, with a rating of 3.5."
+          ],
+          "Specific_reviews": {
+            "Order Packaging": "Good",
+            "Value for money": "Good",
+            "Delivery time": "Very good",
+            "Quality of food": "Good"
+          },
+          "Customer_reviews": [
+            {
+              "reviewer_name": "Dima M***",
+              "review_date": "25 March 2025",
+              "review_rating": "Amazing",
+              "review_comment": "المسخن حاااار وكرسبي ومافيه زفره الصراحه عجبني ومعاه ٤ انواع صلصات"
+            },
+            {
+              "reviewer_name": "Ahmad A***",
+              "review_date": "06 March 2025",
+              "review_rating": "Good",
+              "review_comment": "المسخن طعمه سيء جداً و الصلصات ايضاً سيئة"
+            },
+            {
+              "reviewer_name": "Nahadha Rafeek ***",
+              "review_date": "13 February 2025",
+              "review_rating": "Amazing",
+              "review_comment": "tresleches was yummy💛"
+            },
+            {
+              "reviewer_name": "Maha A***",
+              "review_date": "31 January 2025",
+              "review_rating": "Very good",
+              "review_comment": "عادي"
+            },
+            {
+              "reviewer_name": "طلال ا***",
+              "review_date": "21 January 2025",
+              "review_rating": "OK",
+              "review_comment": "كيكة ماتنوكل قطيتها بالزبالة حشاكم ماتنوكل قطيتها بالزبالة"
+            },
+            {
+              "reviewer_name": "amira a***",
+              "review_date": "10 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "very yum"
+            },
+            {
+              "reviewer_name": "نوره ن***",
+              "review_date": "07 January 2025",
+              "review_rating": "OK",
+              "review_comment": "نظافه صفر"
+            },
+            {
+              "reviewer_name": "نوره ن***",
+              "review_date": "07 January 2025",
+              "review_rating": "OK",
+              "review_comment": "النظافه صفر بصمات اليد مطبوعه على الككاو !"
+            },
+            {
+              "reviewer_name": "Mamta Y***",
+              "review_date": "06 January 2025",
+              "review_rating": "Amazing",
+              "review_comment": "Lovely cake 👌🏻👍🏻 Thank you 💐🙏🏻 Delivery very good 💯 thanks 🙏🏻"
+            },
+            {
+              "reviewer_name": "hg h***",
+              "review_date": "31 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "احبوا"
+            },
+            {
+              "reviewer_name": "hyam S***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very delicious, quality was amazing, it's really fresh and hot"
+            },
+            {
+              "reviewer_name": "Amira K***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "nice and very fast"
+            },
+            {
+              "reviewer_name": "First Name L***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "fast delivery and good quality 👌"
+            },
+            {
+              "reviewer_name": "انوار M***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ألذ مسخن دجاج جربته حيل لذيذ ممتاز وسريع"
+            },
+            {
+              "reviewer_name": "العنود ا***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "طلبت كيكه الزعفران لذيذه وخفيفة رائع"
+            },
+            {
+              "reviewer_name": "mohamed m***",
+              "review_date": "12 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very tasty icecream amazing"
+            },
+            {
+              "reviewer_name": "عاليه ا***",
+              "review_date": "11 December 2024",
+              "review_rating": "Amazing",
+              "review_comment": "وصلنى لذيذ وفرش والتغليف رائع ممتاز"
+            },
+            {
+              "reviewer_name": "Shahad M***",
+              "review_date": "10 December 2024",
+              "review_rating": "OK",
+              "review_comment": "طلبت براوني بايتس الطعم غريييييب ماينوكل في شي غلط بشهادة الكل ومحد كلاه!!!!!!"
+            },
+            {
+              "reviewer_name": "MOHAMMAD A***",
+              "review_date": "07 December 2024",
+              "review_rating": "OK",
+              "review_comment": "تم الاتصال فيني ورفضوا طلبي لا يقبلون بقسيمه الخصم لم يصلني الطلب"
+            },
+            {
+              "reviewer_name": "Mohammed F***",
+              "review_date": "02 December 2024",
+              "review_rating": "Good",
+              "review_comment": "ordered big saffron milk cake and they gave only 400ml milk which is insufficient to taste this cake"
+            },
+            {
+              "reviewer_name": "عائشه ا***",
+              "review_date": "01 December 2024",
+              "review_rating": "OK",
+              "review_comment": "ماوصل اطلب ماوصل"
+            },
+            {
+              "reviewer_name": "انوار M***",
+              "review_date": "20 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "لذيذ حيل الطعم يهبل 👌👌 ممتاز"
+            },
+            {
+              "reviewer_name": "عاليه ا***",
+              "review_date": "19 November 2024",
+              "review_rating": "Amazing",
+              "review_comment": "الطلب ولا غلطه وصلنى حار وفرش 😍"
+            },
+            {
+              "reviewer_name": "أم خ***",
+              "review_date": "08 November 2024",
+              "review_rating": "Good",
+              "review_comment": "فطاير التقديم سيئة ناشفة حييل"
+            },
+            {
+              "reviewer_name": "alaa h***",
+              "review_date": "07 November 2024",
+              "review_rating": "Very good",
+              "review_comment": "كيكة الزعفران طعمها ما فيه زعفران بس اجت فرش"
+            },
+            {
+              "reviewer_name": "Hanan B***",
+              "review_date": "06 November 2024",
+              "review_rating": "OK",
+              "review_comment": "ارجو التوصل معى من طلبات ارجو التواصل معى من طلبات"
+            },
+            {
+              "reviewer_name": "شهد الدوسري ***",
+              "review_date": "20 October 2024",
+              "review_rating": "Good",
+              "review_comment": "ممتاز جميل جدا"
+            },
+            {
+              "reviewer_name": "ادريس k***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "انصحكم تجربوه 👌😍 👏"
+            },
+            {
+              "reviewer_name": "asmaa a***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "fast Delivery and tasty cake"
+            },
+            {
+              "reviewer_name": "somia l***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "Fast delivery and arrive fresh and hot"
+            },
+            {
+              "reviewer_name": "Mohammad Ali ***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very nice 😍❤️ 👍"
+            },
+            {
+              "reviewer_name": "حمود ن***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "very good 👍 very good 👍"
+            },
+            {
+              "reviewer_name": "shaikha w***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "طعم وتغليف ووقت توصيل كله ١٠/١٠ 👍 شكرا"
+            },
+            {
+              "reviewer_name": "عبدالله ا***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "ماشاءالله تبارك الرحمن 😍 محترم 🤩"
+            },
+            {
+              "reviewer_name": "العنود n***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "يهبل ولاغلطه 👌😋 روعة"
+            },
+            {
+              "reviewer_name": "hyam S***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "fast delivery and delicious good"
+            },
+            {
+              "reviewer_name": "انوار M***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "رائع وسريع طلبت تايجر وصلنى بارد وطعم لذيذ😍😍"
+            },
+            {
+              "reviewer_name": "العنود ا***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "خوش سويت عندهم"
+            },
+            {
+              "reviewer_name": "Rema ا***",
+              "review_date": "01 October 2024",
+              "review_rating": "Amazing",
+              "review_comment": "السويت وصلنى حار مبين انو فرش يعطيكم العافية"
+            }
+          ]
+        }
       }
     ]
   },
@@ -1284,11 +2080,13 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
-      "Master Chef"
+      "Master Chef",
+      "Tromso",
+      "Tromso"
     ],
     "completed_pages": []
   }
