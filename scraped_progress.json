@@ -1,7 +1,7 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T11:00:44.970545",
+  "last_updated": "2025-04-06T11:00:47.542539",
   "all_results": {
     "الظهر": [
       {
@@ -20512,7 +20512,7 @@
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 0,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -20538,6 +20538,8 @@
       "Blue Egg",
       "Sable"
     ],
-    "completed_pages": []
+    "completed_pages": [
+      1
+    ]
   }
 }
