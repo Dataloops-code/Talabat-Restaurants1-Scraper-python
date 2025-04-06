@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-06T10:59:06.555703",
+  "last_updated": "2025-04-06T11:00:44.968193",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 1,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -29,7 +29,8 @@
       "Burger King",
       "DIET CARE Abu Halifa",
       "Caesars Confectionery",
-      "Blue Egg"
+      "Blue Egg",
+      "Sable"
     ],
     "completed_pages": []
   }
