@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:11:17.137235",
+  "last_updated": "2025-04-07T21:14:47.387314",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -248,7 +248,8 @@
       "catering factory",
       "Mango Plus Juices",
       "Mutabbaq & Rgag",
-      "Dyaytna"
+      "Dyaytna",
+      "Monza"
     ],
     "completed_pages": [
       1,
