@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:55:47.968204",
+  "last_updated": "2025-04-07T13:58:08.217205",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -233,7 +233,8 @@
       "Pattie Pattie Sliders",
       "Sray Albait",
       "Shrimpy",
-      "Farooj Abo Alabed"
+      "Farooj Abo Alabed",
+      "Bacha House"
     ],
     "completed_pages": [
       1,
