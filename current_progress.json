@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:46:11.323568",
+  "last_updated": "2025-04-07T18:48:56.373869",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -215,7 +215,8 @@
       "The Good Good People",
       "BEAR",
       "Slimmies",
-      "Shawarma Al Shater"
+      "Shawarma Al Shater",
+      "Midan AlSham"
     ],
     "completed_pages": [
       1,
