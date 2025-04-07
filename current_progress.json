@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T14:09:04.931676",
+  "last_updated": "2025-04-07T14:10:44.905323",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -237,7 +237,8 @@
       "Bacha House",
       "Quider Sweets",
       "Dar Ashawaya",
-      "Call Me Chicken"
+      "Call Me Chicken",
+      "Milk Bun"
     ],
     "completed_pages": [
       1,
