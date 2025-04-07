@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:04:55.910762",
+  "last_updated": "2025-04-07T13:07:17.576860",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -215,7 +215,8 @@
       "Light Options",
       "Beit Dickson",
       "Shake Shack - The Gate Mall, Egalia",
-      "The Golden Waha"
+      "The Golden Waha",
+      "Koobs"
     ],
     "completed_pages": [
       1,
