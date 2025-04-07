@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:40:27.660125",
+  "last_updated": "2025-04-07T09:41:44.398888",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 14,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -173,7 +173,8 @@
       "Mughlai Biryani",
       "Zaatar W Zeit",
       "Jeder Nathri",
-      "Cro"
+      "Cro",
+      "Teddy Bakery"
     ],
     "completed_pages": [
       1,
