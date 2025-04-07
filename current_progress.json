@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T19:21:32.540557",
+  "last_updated": "2025-04-07T19:25:48.697722",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -225,7 +225,8 @@
       "Snack It",
       "Fire Up",
       "Chippy",
-      "BALANCE Kitchen"
+      "BALANCE Kitchen",
+      "Queens Bakery"
     ],
     "completed_pages": [
       1,
