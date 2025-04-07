@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T22:57:23.945967",
+  "last_updated": "2025-04-07T23:02:28.116583",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -276,7 +276,8 @@
       "Happy Burger",
       "Fatayer Zatar Alsham",
       "Super Sonic",
-      "Extra Slider"
+      "Extra Slider",
+      "Tashakurat Al Turkii"
     ],
     "completed_pages": [
       1,
