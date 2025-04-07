@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T19:34:05.971190",
+  "last_updated": "2025-04-07T19:35:25.803563",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -229,7 +229,8 @@
       "Queens Bakery",
       "Signature",
       "Shake Shack - The Gate Mall, Egalia",
-      "Antep Sweets"
+      "Antep Sweets",
+      "Kabab Abo Fadel Al Iraqi"
     ],
     "completed_pages": [
       1,
