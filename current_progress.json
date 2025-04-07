@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:13:27.897460",
+  "last_updated": "2025-04-07T13:15:28.827735",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -219,7 +219,8 @@
       "Koobs",
       "Mini Cookies",
       "Raising Cane's",
-      "Kabab Abo Fadel Al Iraqi"
+      "Kabab Abo Fadel Al Iraqi",
+      "Starbucks Sama Mall - Egaila"
     ],
     "completed_pages": [
       1,
