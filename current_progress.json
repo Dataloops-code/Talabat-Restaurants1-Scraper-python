@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T20:00:26.447685",
+  "last_updated": "2025-04-07T20:04:43.469008",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -231,7 +231,8 @@
       "Shake Shack - The Gate Mall, Egalia",
       "Antep Sweets",
       "Kabab Abo Fadel Al Iraqi",
-      "Fresh Monesh"
+      "Fresh Monesh",
+      "Heisenberg Restaurant"
     ],
     "completed_pages": [
       1,
