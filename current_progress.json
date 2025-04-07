@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T14:03:59.296398",
+  "last_updated": "2025-04-07T14:09:04.931676",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -236,7 +236,8 @@
       "Farooj Abo Alabed",
       "Bacha House",
       "Quider Sweets",
-      "Dar Ashawaya"
+      "Dar Ashawaya",
+      "Call Me Chicken"
     ],
     "completed_pages": [
       1,
