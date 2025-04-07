@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T10:52:42.096464",
+  "last_updated": "2025-04-07T10:57:28.014707",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -187,7 +187,8 @@
       "Pizza Express, Al Ahmadi",
       "Elotes",
       "Juice Rotana Refreshment",
-      "Crazy Chicken"
+      "Crazy Chicken",
+      "Bent Al Deek"
     ],
     "completed_pages": [
       1,
