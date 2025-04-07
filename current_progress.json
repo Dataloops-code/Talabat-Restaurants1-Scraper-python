@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:29:45.996600",
+  "last_updated": "2025-04-07T09:36:58.838006",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 14,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -171,7 +171,8 @@
       "TACO EATACO",
       "Arzaag",
       "Mughlai Biryani",
-      "Zaatar W Zeit"
+      "Zaatar W Zeit",
+      "Jeder Nathri"
     ],
     "completed_pages": [
       1,
