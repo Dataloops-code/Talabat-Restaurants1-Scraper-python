@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:39:43.074195",
+  "last_updated": "2025-04-07T21:46:28.944544",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -256,7 +256,8 @@
       "Ali Baba Shawaya",
       "Approved",
       "Catch Of The Day",
-      "Tokyo House"
+      "Tokyo House",
+      "Al Khbaz Al Turkii"
     ],
     "completed_pages": [
       1,
