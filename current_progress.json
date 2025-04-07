@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T19:30:38.559784",
+  "last_updated": "2025-04-07T19:33:59.202134",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -228,7 +228,8 @@
       "BALANCE Kitchen",
       "Queens Bakery",
       "Signature",
-      "Shake Shack - The Gate Mall, Egalia"
+      "Shake Shack - The Gate Mall, Egalia",
+      "Antep Sweets"
     ],
     "completed_pages": [
       1,
