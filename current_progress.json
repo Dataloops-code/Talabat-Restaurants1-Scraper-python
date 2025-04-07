@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:57:19.382691",
+  "last_updated": "2025-04-07T22:05:37.487671",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 23,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -261,7 +261,8 @@
       "Big Elephant",
       "Chicken Banvit",
       "AlZaeem AlThahabi ( Fatayer )",
-      "Misto Restaurant"
+      "Misto Restaurant",
+      "Fatayer Al Raha"
     ],
     "completed_pages": [
       1,
