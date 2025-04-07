@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T14:43:28.527171",
+  "last_updated": "2025-04-07T14:49:21.607331",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -246,7 +246,8 @@
       "Shawarmar classic",
       "Chapatti Rashid",
       "Dono",
-      "Al Wafi"
+      "Al Wafi",
+      "Muscle Fuel"
     ],
     "completed_pages": [
       1,
