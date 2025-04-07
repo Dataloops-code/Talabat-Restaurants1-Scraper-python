@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:23:49.752093",
+  "last_updated": "2025-04-07T18:26:57.290465",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -309,7 +309,8 @@
       "Leila Min Lebnan",
       "Approved",
       "Trend Burger",
-      "Pixel Burger"
+      "Pixel Burger",
+      "Catch Of The Day"
     ],
     "completed_pages": [
       1,
