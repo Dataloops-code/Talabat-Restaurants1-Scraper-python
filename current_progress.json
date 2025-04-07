@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T11:14:09.425195",
+  "last_updated": "2025-04-07T11:26:44.870210",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -194,7 +194,8 @@
       "THE KITCHEN",
       "Chili Pepper",
       "Steak Master Restaurant",
-      "Pinkberry, Mahboula"
+      "Pinkberry, Mahboula",
+      "Fatayer Al-Baas"
     ],
     "completed_pages": [
       1,
