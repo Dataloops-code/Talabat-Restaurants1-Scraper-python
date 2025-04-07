@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T23:02:28.116583",
+  "last_updated": "2025-04-07T23:27:42.759247",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -277,7 +277,8 @@
       "Fatayer Zatar Alsham",
       "Super Sonic",
       "Extra Slider",
-      "Tashakurat Al Turkii"
+      "Tashakurat Al Turkii",
+      "Top juice"
     ],
     "completed_pages": [
       1,
