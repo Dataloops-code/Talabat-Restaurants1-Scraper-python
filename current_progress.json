@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:59:58.576763",
+  "last_updated": "2025-04-07T17:07:58.674010",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 26,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -286,7 +286,8 @@
       "elEstez",
       "JPH",
       "Chili's",
-      "Ellena"
+      "Ellena",
+      "Kofe"
     ],
     "completed_pages": [
       1,
