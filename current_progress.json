@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:54:39.312751",
+  "last_updated": "2025-04-07T09:56:03.466239",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 15,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -178,7 +178,8 @@
       "Katkoot Restaurant",
       "Fanar Al Fareej",
       "The Gathering Bistro",
-      "Ever"
+      "Ever",
+      "The Noodle Club"
     ],
     "completed_pages": [
       1,
