@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T02:13:11.180086",
+  "last_updated": "2025-04-07T02:42:56.729219",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -138,7 +138,8 @@
       "Mynon Hashy",
       "Karak Tea",
       "Al Beek Palace",
-      "Canteen"
+      "Canteen",
+      "Loz wa Moz Juice"
     ],
     "completed_pages": [
       1,
