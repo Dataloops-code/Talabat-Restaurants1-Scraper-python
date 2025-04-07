@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T22:36:03.731885",
+  "last_updated": "2025-04-07T22:37:30.635151",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -270,7 +270,8 @@
       "Burger Location",
       "Sushi Club",
       "Tuta Sushi",
-      "Charlie`s"
+      "Charlie`s",
+      "Sheikh AlFatayer"
     ],
     "completed_pages": [
       1,
