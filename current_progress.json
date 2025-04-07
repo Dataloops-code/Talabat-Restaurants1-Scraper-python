@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T14:13:06.282446",
+  "last_updated": "2025-04-07T14:15:56.451130",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -239,7 +239,8 @@
       "Dar Ashawaya",
       "Call Me Chicken",
       "Milk Bun",
-      "Kabab Khanah"
+      "Kabab Khanah",
+      "Pie And Co (fatayer)"
     ],
     "completed_pages": [
       1,
