@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T20:19:29.738071",
+  "last_updated": "2025-04-07T20:22:18.963523",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -237,7 +237,8 @@
       "Hash",
       "Ratio Cafe",
       "Ostath Shawarma",
-      "Morano Pastries"
+      "Morano Pastries",
+      "Mustard Burger"
     ],
     "completed_pages": [
       1,
