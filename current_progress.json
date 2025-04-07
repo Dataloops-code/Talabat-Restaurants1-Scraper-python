@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:39:40.248602",
+  "last_updated": "2025-04-07T13:43:15.294450",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -229,7 +229,8 @@
       "T 1",
       "Chacka Chacka",
       "Aljoun",
-      "Tanateesh Sweet"
+      "Tanateesh Sweet",
+      "Pattie Pattie Sliders"
     ],
     "completed_pages": [
       1,
