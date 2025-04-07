@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T15:22:31.088203",
+  "last_updated": "2025-04-07T15:27:10.104541",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -254,7 +254,8 @@
       "Alfawwar",
       "Herfy",
       "Mhammash Restaurant",
-      "Aseer Time (Fresh Juices)"
+      "Aseer Time (Fresh Juices)",
+      "Al Aryaf Dessert"
     ],
     "completed_pages": [
       1,
