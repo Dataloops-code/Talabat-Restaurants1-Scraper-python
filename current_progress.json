@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T10:09:11.190820",
+  "last_updated": "2025-04-07T10:10:30.370268",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -184,7 +184,8 @@
       "6 o clock",
       "Joy Confections",
       "khaisha",
-      "Pizza Express, Al Ahmadi"
+      "Pizza Express, Al Ahmadi",
+      "Elotes"
     ],
     "completed_pages": [
       1,
