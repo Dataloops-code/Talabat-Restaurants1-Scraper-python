@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T17:09:56.646182",
+  "last_updated": "2025-04-07T17:17:55.277901",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 26,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -288,7 +288,8 @@
       "Chili's",
       "Ellena",
       "Kofe",
-      "Chapati Time"
+      "Chapati Time",
+      "Wahat AlQurain"
     ],
     "completed_pages": [
       1,
