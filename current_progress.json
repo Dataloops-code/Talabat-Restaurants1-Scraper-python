@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T10:07:32.812324",
+  "last_updated": "2025-04-07T10:09:06.487983",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -183,7 +183,8 @@
       "Walayyem",
       "6 o clock",
       "Joy Confections",
-      "khaisha"
+      "khaisha",
+      "Pizza Express, Al Ahmadi"
     ],
     "completed_pages": [
       1,
