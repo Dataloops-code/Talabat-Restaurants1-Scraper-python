@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T14:15:56.451130",
+  "last_updated": "2025-04-07T14:18:16.407937",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -240,7 +240,8 @@
       "Call Me Chicken",
       "Milk Bun",
       "Kabab Khanah",
-      "Pie And Co (fatayer)"
+      "Pie And Co (fatayer)",
+      "Farooj Republic"
     ],
     "completed_pages": [
       1,
