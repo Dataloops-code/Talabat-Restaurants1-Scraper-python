@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:53:05.742751",
+  "last_updated": "2025-04-07T16:59:40.584831",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 25,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -285,7 +285,8 @@
       "Ratio Cafe",
       "elEstez",
       "JPH",
-      "Chili's"
+      "Chili's",
+      "Ellena"
     ],
     "completed_pages": [
       1,
