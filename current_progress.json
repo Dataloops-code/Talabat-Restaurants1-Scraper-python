@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T15:50:04.534672",
+  "last_updated": "2025-04-07T15:55:05.088551",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 23,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -264,7 +264,8 @@
       "Ebn 3my",
       "Maya",
       "Mahashi Station",
-      "Molton Cookies"
+      "Molton Cookies",
+      "Al Raai Restaurant"
     ],
     "completed_pages": [
       1,
