@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:27:57.681318",
+  "last_updated": "2025-04-07T18:31:07.612873",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 18,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -207,7 +207,8 @@
       "Royal Toast",
       "Fatayer Station",
       "Bukhari and Mansaf",
-      "Villa Fayrouz Express"
+      "Villa Fayrouz Express",
+      "Urban"
     ],
     "completed_pages": [
       1,
