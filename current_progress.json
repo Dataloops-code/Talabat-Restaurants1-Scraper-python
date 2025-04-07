@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T17:46:46.114019",
+  "last_updated": "2025-04-07T17:48:44.799443",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 27,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -297,7 +297,8 @@
       "Mamas Chicken",
       "10 Burger",
       "Papa Kanafa",
-      "Miami burger"
+      "Miami burger",
+      "Japanese Garden"
     ],
     "completed_pages": [
       1,
