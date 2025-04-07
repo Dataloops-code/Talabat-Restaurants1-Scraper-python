@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:33:32.509612",
+  "last_updated": "2025-04-07T13:35:15.374089",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -227,7 +227,8 @@
       "Lily",
       "Tatbilat Bahreniya",
       "T 1",
-      "Chacka Chacka"
+      "Chacka Chacka",
+      "Aljoun"
     ],
     "completed_pages": [
       1,
