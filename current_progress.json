@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T22:53:38.156919",
+  "last_updated": "2025-04-07T22:55:08.215376",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -274,7 +274,8 @@
       "Sheikh AlFatayer",
       "Fruit Cut",
       "Happy Burger",
-      "Fatayer Zatar Alsham"
+      "Fatayer Zatar Alsham",
+      "Super Sonic"
     ],
     "completed_pages": [
       1,
