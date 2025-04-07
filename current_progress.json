@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:24:54.525319",
+  "last_updated": "2025-04-07T09:26:35.523546",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 14,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -169,7 +169,8 @@
       "Tabel",
       "Samboosa Box",
       "TACO EATACO",
-      "Arzaag"
+      "Arzaag",
+      "Mughlai Biryani"
     ],
     "completed_pages": [
       1,
