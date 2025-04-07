@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:19:47.838150",
+  "last_updated": "2025-04-07T18:21:16.759988",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -306,7 +306,8 @@
       "Police Steak",
       "Malvih Sweet",
       "COLPOP",
-      "Leila Min Lebnan"
+      "Leila Min Lebnan",
+      "Approved"
     ],
     "completed_pages": [
       1,
