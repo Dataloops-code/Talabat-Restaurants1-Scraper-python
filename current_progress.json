@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:18:18.984599",
+  "last_updated": "2025-04-07T13:19:51.283943",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -221,7 +221,8 @@
       "Raising Cane's",
       "Kabab Abo Fadel Al Iraqi",
       "Starbucks Sama Mall - Egaila",
-      "Brown Diamond"
+      "Brown Diamond",
+      "Royal Cake"
     ],
     "completed_pages": [
       1,
