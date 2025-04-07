@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:01:41.713550",
+  "last_updated": "2025-04-07T16:05:56.155846",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -266,7 +266,8 @@
       "Mahashi Station",
       "Molton Cookies",
       "Al Raai Restaurant",
-      "JUICED (Fresh Juices)"
+      "JUICED (Fresh Juices)",
+      "Benihana"
     ],
     "completed_pages": [
       1,
