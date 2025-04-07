@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T20:06:29.507204",
+  "last_updated": "2025-04-07T20:08:59.970396",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -233,7 +233,8 @@
       "Kabab Abo Fadel Al Iraqi",
       "Fresh Monesh",
       "Heisenberg Restaurant",
-      "Japanese House"
+      "Japanese House",
+      "Hash"
     ],
     "completed_pages": [
       1,
