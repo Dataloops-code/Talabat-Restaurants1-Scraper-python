@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T17:22:01.670115",
+  "last_updated": "2025-04-07T17:24:59.991010",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 26,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -290,7 +290,8 @@
       "Kofe",
       "Chapati Time",
       "Wahat AlQurain",
-      "Canary"
+      "Canary",
+      "Aish Nakha for Kuwaiti Food"
     ],
     "completed_pages": [
       1,
