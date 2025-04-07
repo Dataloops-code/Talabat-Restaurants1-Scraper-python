@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:38:54.740118",
+  "last_updated": "2025-04-07T18:40:03.345575",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 18,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -210,7 +210,8 @@
       "Villa Fayrouz Express",
       "Urban",
       "Benihana",
-      "Hunny's"
+      "Hunny's",
+      "Cupncut"
     ],
     "completed_pages": [
       1,
