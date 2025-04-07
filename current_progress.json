@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:45:29.880568",
+  "last_updated": "2025-04-07T13:50:58.580580",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 20,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -231,7 +231,8 @@
       "Aljoun",
       "Tanateesh Sweet",
       "Pattie Pattie Sliders",
-      "Sray Albait"
+      "Sray Albait",
+      "Shrimpy"
     ],
     "completed_pages": [
       1,
