@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:41:19.943765",
+  "last_updated": "2025-04-07T18:43:23.113720",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 18,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -212,7 +212,8 @@
       "Benihana",
       "Hunny's",
       "Cupncut",
-      "The Good Good People"
+      "The Good Good People",
+      "BEAR"
     ],
     "completed_pages": [
       1,
