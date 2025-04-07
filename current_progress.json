@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:10:08.339489",
+  "last_updated": "2025-04-07T18:12:50.358019",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 27,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -304,7 +304,8 @@
       "Heisenberg Restaurant",
       "Marble Slab Creamery",
       "Police Steak",
-      "Malvih Sweet"
+      "Malvih Sweet",
+      "COLPOP"
     ],
     "completed_pages": [
       1,
