@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:15:37.193241",
+  "last_updated": "2025-04-07T16:20:19.872562",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -270,7 +270,8 @@
       "Benihana",
       "NGTA",
       "Yaki",
-      "Al Anbat Sweets"
+      "Al Anbat Sweets",
+      "Bait Amsha"
     ],
     "completed_pages": [
       1,
