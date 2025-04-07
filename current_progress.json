@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T15:40:37.469067",
+  "last_updated": "2025-04-07T15:43:21.297667",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 23,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -260,7 +260,8 @@
       "Slimmies",
       "Millesaveurs",
       "Toffee Al Meshaal",
-      "Baskin Robbins"
+      "Baskin Robbins",
+      "Ebn 3my"
     ],
     "completed_pages": [
       1,
