@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T05:58:48.367455",
+  "last_updated": "2025-04-07T06:08:22.674234",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 12,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -162,7 +162,8 @@
       "Cro",
       "Koala Kaifan Restaurant",
       "Wake Up",
-      "Malek Al Fataier Al Shami"
+      "Malek Al Fataier Al Shami",
+      "Kofe"
     ],
     "completed_pages": [
       1,
