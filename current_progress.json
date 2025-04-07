@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T11:31:47.280893",
+  "last_updated": "2025-04-07T11:34:17.413377",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 17,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -197,7 +197,8 @@
       "Pinkberry, Mahboula",
       "Fatayer Al-Baas",
       "Shrimp House",
-      "Favori"
+      "Favori",
+      "Maqlooba Kmeekh"
     ],
     "completed_pages": [
       1,
