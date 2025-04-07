@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T12:05:33.436679",
+  "last_updated": "2025-04-07T12:10:37.724160",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 17,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -202,7 +202,8 @@
       "Dragon Fruit",
       "Sweet Shop",
       "Bon Sweet",
-      "Mashawish restaurant"
+      "Mashawish restaurant",
+      "Caf Cafe"
     ],
     "completed_pages": [
       1,
