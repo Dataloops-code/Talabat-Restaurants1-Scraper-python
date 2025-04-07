@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T12:48:22.931205",
+  "last_updated": "2025-04-07T12:49:23.432044",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 18,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -209,7 +209,8 @@
       "Bukhari and Mansaf",
       "Villa Fayrouz Express",
       "Reyhoon",
-      "Mahashi Saboha"
+      "Mahashi Saboha",
+      "OOOH Chocolate"
     ],
     "completed_pages": [
       1,
