@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:07:01.420973",
+  "last_updated": "2025-04-07T16:10:04.645311",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -268,7 +268,8 @@
       "Al Raai Restaurant",
       "JUICED (Fresh Juices)",
       "Benihana",
-      "NGTA"
+      "NGTA",
+      "Yaki"
     ],
     "completed_pages": [
       1,
