@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T19:01:32.293515",
+  "last_updated": "2025-04-07T19:03:14.486772",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -220,7 +220,8 @@
       "Satay",
       "The Wok",
       "My Burger",
-      "Alfawwar"
+      "Alfawwar",
+      "Shawarma & Grill"
     ],
     "completed_pages": [
       1,
