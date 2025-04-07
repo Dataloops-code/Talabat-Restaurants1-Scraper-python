@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T10:58:21.244833",
+  "last_updated": "2025-04-07T10:59:23.937586",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -189,7 +189,8 @@
       "Juice Rotana Refreshment",
       "Crazy Chicken",
       "Bent Al Deek",
-      "Bukhary Time"
+      "Bukhary Time",
+      "Dozen"
     ],
     "completed_pages": [
       1,
