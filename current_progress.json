@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:49:30.837158",
+  "last_updated": "2025-04-07T21:56:13.518164",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 23,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -259,7 +259,8 @@
       "Tokyo House",
       "Al Khbaz Al Turkii",
       "Big Elephant",
-      "Chicken Banvit"
+      "Chicken Banvit",
+      "AlZaeem AlThahabi ( Fatayer )"
     ],
     "completed_pages": [
       1,
