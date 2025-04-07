@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T04:35:07.776134",
+  "last_updated": "2025-04-07T04:42:27.356590",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -149,7 +149,8 @@
       "Misto Restaurant",
       "Dolcini",
       "Caf Cafe",
-      "Karak Corner"
+      "Karak Corner",
+      "TACO EATACO"
     ],
     "completed_pages": [
       1,
