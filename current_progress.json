@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:36:11.298355",
+  "last_updated": "2025-04-07T21:39:43.074195",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -255,7 +255,8 @@
       "3aks Al Ser Juices",
       "Ali Baba Shawaya",
       "Approved",
-      "Catch Of The Day"
+      "Catch Of The Day",
+      "Tokyo House"
     ],
     "completed_pages": [
       1,
