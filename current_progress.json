@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T02:05:24.119581",
+  "last_updated": "2025-04-07T02:06:50.979067",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 10,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -135,7 +135,8 @@
       "ONE BUTTER CHICKEN",
       "Mokaya",
       "Subway",
-      "Mynon Hashy"
+      "Mynon Hashy",
+      "Karak Tea"
     ],
     "completed_pages": [
       1,
