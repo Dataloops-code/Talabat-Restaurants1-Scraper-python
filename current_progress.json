@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T14:24:04.249098",
+  "last_updated": "2025-04-07T14:33:59.908414",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -243,7 +243,8 @@
       "Pie And Co (fatayer)",
       "Farooj Republic",
       "TGI FRIDAYS",
-      "Shawarmar classic"
+      "Shawarmar classic",
+      "Chapatti Rashid"
     ],
     "completed_pages": [
       1,
