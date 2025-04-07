@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:22:53.003753",
+  "last_updated": "2025-04-07T09:24:54.525319",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 14,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -168,7 +168,8 @@
       "WK",
       "Tabel",
       "Samboosa Box",
-      "TACO EATACO"
+      "TACO EATACO",
+      "Arzaag"
     ],
     "completed_pages": [
       1,
