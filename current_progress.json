@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T06:18:39.582347",
+  "last_updated": "2025-04-07T06:20:18.170602",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 13,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -166,7 +166,8 @@
       "Kofe",
       "Al kadi",
       "Daar Alsaad",
-      "Multi Burger"
+      "Multi Burger",
+      "Steak & Fahita Stations"
     ],
     "completed_pages": [
       1,
