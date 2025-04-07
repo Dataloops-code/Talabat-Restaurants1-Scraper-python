@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T22:05:44.368906",
+  "last_updated": "2025-04-07T22:07:24.161463",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 23,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -262,7 +262,8 @@
       "Chicken Banvit",
       "AlZaeem AlThahabi ( Fatayer )",
       "Misto Restaurant",
-      "Fatayer Al Raha"
+      "Fatayer Al Raha",
+      "Police Steak"
     ],
     "completed_pages": [
       1,
