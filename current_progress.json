@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T22:23:52.139560",
+  "last_updated": "2025-04-07T22:25:43.878409",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 23,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -265,7 +265,8 @@
       "Fatayer Al Raha",
       "Police Steak",
       "Gold Lounge",
-      "Bora Bora Al Laziz"
+      "Bora Bora Al Laziz",
+      "Lobster Shack"
     ],
     "completed_pages": [
       1,
