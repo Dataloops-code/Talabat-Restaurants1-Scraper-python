@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T20:10:19.412964",
+  "last_updated": "2025-04-07T20:12:29.417605",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -235,7 +235,8 @@
       "Heisenberg Restaurant",
       "Japanese House",
       "Hash",
-      "Ratio Cafe"
+      "Ratio Cafe",
+      "Ostath Shawarma"
     ],
     "completed_pages": [
       1,
