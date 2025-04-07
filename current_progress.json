@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:00:09.326901",
+  "last_updated": "2025-04-07T09:02:43.929548",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 13,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -162,7 +162,8 @@
       "BOBA SHOP",
       "BREAKFAST FIX",
       "Chicster",
-      "Pizza Express, Mahboula"
+      "Pizza Express, Mahboula",
+      "UR Cookies"
     ],
     "completed_pages": [
       1,
