@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:34:03.705950",
+  "last_updated": "2025-04-07T16:36:54.989959",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 25,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -277,7 +277,8 @@
       "Dragon City",
       "KAI Asian Diner",
       "Al Kadi Sweet",
-      "Lofat"
+      "Lofat",
+      "Carlos"
     ],
     "completed_pages": [
       1,
