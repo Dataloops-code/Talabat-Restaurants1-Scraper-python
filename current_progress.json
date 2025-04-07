@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T11:11:44.695786",
+  "last_updated": "2025-04-07T11:13:07.807597",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -192,7 +192,8 @@
       "Bukhary Time",
       "Dozen",
       "THE KITCHEN",
-      "Chili Pepper"
+      "Chili Pepper",
+      "Steak Master Restaurant"
     ],
     "completed_pages": [
       1,
