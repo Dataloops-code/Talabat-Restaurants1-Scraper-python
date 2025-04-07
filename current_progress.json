@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T07:01:05.752454",
+  "last_updated": "2025-04-07T07:17:46.254391",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -143,7 +143,8 @@
       "Dogmatic - A philosophy of Hot Dogs",
       "RND Coffee bar",
       "Shuwaikh Cafeteria & Pastries",
-      "Clever Chef"
+      "Clever Chef",
+      "Aseer Station"
     ],
     "completed_pages": [
       1,
