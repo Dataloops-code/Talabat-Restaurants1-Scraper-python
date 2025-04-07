@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T02:42:56.729219",
+  "last_updated": "2025-04-07T02:45:06.955251",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -139,7 +139,8 @@
       "Karak Tea",
       "Al Beek Palace",
       "Canteen",
-      "Loz wa Moz Juice"
+      "Loz wa Moz Juice",
+      "Clever Chef"
     ],
     "completed_pages": [
       1,
