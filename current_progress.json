@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:36:54.989959",
+  "last_updated": "2025-04-07T16:37:52.535809",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 25,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -278,7 +278,8 @@
       "KAI Asian Diner",
       "Al Kadi Sweet",
       "Lofat",
-      "Carlos"
+      "Carlos",
+      "Ostath Shawarma"
     ],
     "completed_pages": [
       1,
