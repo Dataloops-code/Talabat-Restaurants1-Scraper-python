@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T14:37:58.421529",
+  "last_updated": "2025-04-07T14:43:28.527171",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -245,7 +245,8 @@
       "TGI FRIDAYS",
       "Shawarmar classic",
       "Chapatti Rashid",
-      "Dono"
+      "Dono",
+      "Al Wafi"
     ],
     "completed_pages": [
       1,
