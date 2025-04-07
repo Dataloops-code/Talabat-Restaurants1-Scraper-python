@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T20:23:31.249378",
+  "last_updated": "2025-04-07T20:25:38.417860",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 21,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -239,7 +239,8 @@
       "Ostath Shawarma",
       "Morano Pastries",
       "Mustard Burger",
-      "Hardee's"
+      "Hardee's",
+      "Blaban El Asly"
     ],
     "completed_pages": [
       1,
