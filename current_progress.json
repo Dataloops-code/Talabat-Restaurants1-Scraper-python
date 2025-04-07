@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:29:40.183082",
+  "last_updated": "2025-04-07T13:30:55.167279",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -224,7 +224,8 @@
       "Brown Diamond",
       "Royal Cake",
       "Fatayer Bo Ramez",
-      "Lily"
+      "Lily",
+      "Tatbilat Bahreniya"
     ],
     "completed_pages": [
       1,
