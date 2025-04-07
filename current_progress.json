@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T06:54:19.859139",
+  "last_updated": "2025-04-07T06:55:38.918289",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 10,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -139,7 +139,8 @@
       "Say Suco",
       "The Roof",
       "Eighty Six, Abu Hassaniya",
-      "Koala Kaifan Restaurant"
+      "Koala Kaifan Restaurant",
+      "Dogmatic - A philosophy of Hot Dogs"
     ],
     "completed_pages": [
       1,
