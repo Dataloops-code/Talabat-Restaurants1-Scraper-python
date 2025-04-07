@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T06:58:58.136612",
+  "last_updated": "2025-04-07T07:01:01.371086",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -142,7 +142,8 @@
       "Koala Kaifan Restaurant",
       "Dogmatic - A philosophy of Hot Dogs",
       "RND Coffee bar",
-      "Shuwaikh Cafeteria & Pastries"
+      "Shuwaikh Cafeteria & Pastries",
+      "Clever Chef"
     ],
     "completed_pages": [
       1,
