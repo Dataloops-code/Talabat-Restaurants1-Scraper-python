@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:57:58.171226",
+  "last_updated": "2025-04-07T18:59:20.407018",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -218,7 +218,8 @@
       "Shawarma Al Shater",
       "Midan AlSham",
       "Satay",
-      "The Wok"
+      "The Wok",
+      "My Burger"
     ],
     "completed_pages": [
       1,
