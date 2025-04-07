@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:19:20.718497",
+  "last_updated": "2025-04-07T21:30:24.362261",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -251,7 +251,8 @@
       "Dyaytna",
       "Monza",
       "Wok N Sushi",
-      "Trend Burger"
+      "Trend Burger",
+      "3aks Al Ser Juices"
     ],
     "completed_pages": [
       1,
