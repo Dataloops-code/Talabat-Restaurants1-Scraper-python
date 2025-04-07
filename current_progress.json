@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T17:35:45.103709",
+  "last_updated": "2025-04-07T17:45:19.457853",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 26,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -295,7 +295,8 @@
       "A&A Burger",
       "PASTA FOUNDRY",
       "Mamas Chicken",
-      "10 Burger"
+      "10 Burger",
+      "Papa Kanafa"
     ],
     "completed_pages": [
       1,
