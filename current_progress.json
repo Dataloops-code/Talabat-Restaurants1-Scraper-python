@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:17:09.633766",
+  "last_updated": "2025-04-07T21:19:20.718497",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 22,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -250,7 +250,8 @@
       "Mutabbaq & Rgag",
       "Dyaytna",
       "Monza",
-      "Wok N Sushi"
+      "Wok N Sushi",
+      "Trend Burger"
     ],
     "completed_pages": [
       1,
