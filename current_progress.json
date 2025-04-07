@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T13:10:26.522724",
+  "last_updated": "2025-04-07T13:13:22.079462",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -218,7 +218,8 @@
       "The Golden Waha",
       "Koobs",
       "Mini Cookies",
-      "Raising Cane's"
+      "Raising Cane's",
+      "Kabab Abo Fadel Al Iraqi"
     ],
     "completed_pages": [
       1,
