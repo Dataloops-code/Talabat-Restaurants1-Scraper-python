@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T06:47:36.350986",
+  "last_updated": "2025-04-07T06:49:11.044876",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 10,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -135,7 +135,8 @@
       "Khamera House",
       "Fatayer Arabella Pastries",
       "Alternative",
-      "Wheat"
+      "Wheat",
+      "Say Suco"
     ],
     "completed_pages": [
       1,
