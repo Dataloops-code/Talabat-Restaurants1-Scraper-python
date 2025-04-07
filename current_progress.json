@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:10:04.645311",
+  "last_updated": "2025-04-07T16:15:31.257587",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -269,7 +269,8 @@
       "JUICED (Fresh Juices)",
       "Benihana",
       "NGTA",
-      "Yaki"
+      "Yaki",
+      "Al Anbat Sweets"
     ],
     "completed_pages": [
       1,
