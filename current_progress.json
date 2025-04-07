@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:28:49.236678",
+  "last_updated": "2025-04-07T16:31:11.604190",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -274,7 +274,8 @@
       "Bait Amsha",
       "Abu Saleem Restaurant",
       "Pret A Manger",
-      "Dragon City"
+      "Dragon City",
+      "KAI Asian Diner"
     ],
     "completed_pages": [
       1,
