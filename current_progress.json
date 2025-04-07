@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T07:17:46.254391",
+  "last_updated": "2025-04-07T07:19:41.746106",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -144,7 +144,8 @@
       "RND Coffee bar",
       "Shuwaikh Cafeteria & Pastries",
       "Clever Chef",
-      "Aseer Station"
+      "Aseer Station",
+      "Fareej Rashid"
     ],
     "completed_pages": [
       1,
