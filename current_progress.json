@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:43:29.152057",
+  "last_updated": "2025-04-07T18:44:48.189986",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 18,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -213,7 +213,8 @@
       "Hunny's",
       "Cupncut",
       "The Good Good People",
-      "BEAR"
+      "BEAR",
+      "Slimmies"
     ],
     "completed_pages": [
       1,
