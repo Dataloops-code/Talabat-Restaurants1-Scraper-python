@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T03:44:01.501276",
+  "last_updated": "2025-04-07T03:47:20.417798",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -143,7 +143,8 @@
       "Clever Chef",
       "Ahlaa Rotana",
       "Morano Pastries",
-      "Aldomyati Althahabi"
+      "Aldomyati Althahabi",
+      "AL Mamlakah"
     ],
     "completed_pages": [
       1,
