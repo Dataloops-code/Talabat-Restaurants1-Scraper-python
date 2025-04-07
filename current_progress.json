@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T06:09:53.302959",
+  "last_updated": "2025-04-07T06:17:18.188033",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 13,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -164,7 +164,8 @@
       "Wake Up",
       "Malek Al Fataier Al Shami",
       "Kofe",
-      "Al kadi"
+      "Al kadi",
+      "Daar Alsaad"
     ],
     "completed_pages": [
       1,
