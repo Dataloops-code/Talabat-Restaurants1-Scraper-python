@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T04:20:53.246218",
+  "last_updated": "2025-04-07T04:22:04.339728",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -145,7 +145,8 @@
       "Morano Pastries",
       "Aldomyati Althahabi",
       "AL Mamlakah",
-      "Aloo Rotana Juice"
+      "Aloo Rotana Juice",
+      "Misto Restaurant"
     ],
     "completed_pages": [
       1,
