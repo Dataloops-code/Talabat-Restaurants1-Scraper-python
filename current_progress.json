@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:44:44.928113",
+  "last_updated": "2025-04-07T09:47:52.561499",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 14,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -175,7 +175,8 @@
       "Jeder Nathri",
       "Cro",
       "Teddy Bakery",
-      "Katkoot Restaurant"
+      "Katkoot Restaurant",
+      "Fanar Al Fareej"
     ],
     "completed_pages": [
       1,
