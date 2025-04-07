@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T03:40:34.853925",
+  "last_updated": "2025-04-07T03:44:01.501276",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -142,7 +142,8 @@
       "Loz wa Moz Juice",
       "Clever Chef",
       "Ahlaa Rotana",
-      "Morano Pastries"
+      "Morano Pastries",
+      "Aldomyati Althahabi"
     ],
     "completed_pages": [
       1,
