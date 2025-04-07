@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T06:50:11.163960",
+  "last_updated": "2025-04-07T06:51:22.109334",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 10,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -137,7 +137,8 @@
       "Alternative",
       "Wheat",
       "Say Suco",
-      "The Roof"
+      "The Roof",
+      "Eighty Six, Abu Hassaniya"
     ],
     "completed_pages": [
       1,
