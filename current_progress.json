@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:57:19.132648",
+  "last_updated": "2025-04-07T09:59:40.865869",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 15,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -180,7 +180,8 @@
       "The Gathering Bistro",
       "Ever",
       "The Noodle Club",
-      "Walayyem"
+      "Walayyem",
+      "6 o clock"
     ],
     "completed_pages": [
       1,
