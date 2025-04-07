@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T08:19:20.453112",
+  "last_updated": "2025-04-07T08:25:02.469951",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 12,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -153,7 +153,8 @@
       "Barid Yesarsih",
       "Monkey cookies",
       "Wendy's, Fahaheel",
-      "Ananaw Bu Rashid"
+      "Ananaw Bu Rashid",
+      "Lulu Sweets"
     ],
     "completed_pages": [
       1,
