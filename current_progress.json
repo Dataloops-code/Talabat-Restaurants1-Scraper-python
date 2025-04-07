@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T12:10:37.724160",
+  "last_updated": "2025-04-07T12:14:04.153203",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 17,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -203,7 +203,8 @@
       "Sweet Shop",
       "Bon Sweet",
       "Mashawish restaurant",
-      "Caf Cafe"
+      "Caf Cafe",
+      "Royal Toast"
     ],
     "completed_pages": [
       1,
