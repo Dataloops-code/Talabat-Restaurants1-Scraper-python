@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T02:11:38.106806",
+  "last_updated": "2025-04-07T02:13:11.180086",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -137,7 +137,8 @@
       "Subway",
       "Mynon Hashy",
       "Karak Tea",
-      "Al Beek Palace"
+      "Al Beek Palace",
+      "Canteen"
     ],
     "completed_pages": [
       1,
