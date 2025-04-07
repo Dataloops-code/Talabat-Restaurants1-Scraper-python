@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T21:47:45.144240",
+  "last_updated": "2025-04-07T21:49:30.837158",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 23,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -258,7 +258,8 @@
       "Catch Of The Day",
       "Tokyo House",
       "Al Khbaz Al Turkii",
-      "Big Elephant"
+      "Big Elephant",
+      "Chicken Banvit"
     ],
     "completed_pages": [
       1,
