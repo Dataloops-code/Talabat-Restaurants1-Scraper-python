@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T18:48:56.373869",
+  "last_updated": "2025-04-07T18:55:58.987431",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 19,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -216,7 +216,8 @@
       "BEAR",
       "Slimmies",
       "Shawarma Al Shater",
-      "Midan AlSham"
+      "Midan AlSham",
+      "Satay"
     ],
     "completed_pages": [
       1,
