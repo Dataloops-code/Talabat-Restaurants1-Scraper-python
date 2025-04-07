@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T22:33:10.631218",
+  "last_updated": "2025-04-07T22:36:03.731885",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -269,7 +269,8 @@
       "Lobster Shack",
       "Burger Location",
       "Sushi Club",
-      "Tuta Sushi"
+      "Tuta Sushi",
+      "Charlie`s"
     ],
     "completed_pages": [
       1,
