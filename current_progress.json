@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T04:22:04.339728",
+  "last_updated": "2025-04-07T04:24:30.470243",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -146,7 +146,8 @@
       "Aldomyati Althahabi",
       "AL Mamlakah",
       "Aloo Rotana Juice",
-      "Misto Restaurant"
+      "Misto Restaurant",
+      "Dolcini"
     ],
     "completed_pages": [
       1,
