@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T22:40:59.527277",
+  "last_updated": "2025-04-07T22:44:00.031424",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 24,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -272,7 +272,8 @@
       "Tuta Sushi",
       "Charlie`s",
       "Sheikh AlFatayer",
-      "Fruit Cut"
+      "Fruit Cut",
+      "Happy Burger"
     ],
     "completed_pages": [
       1,
