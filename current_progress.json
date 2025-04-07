@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T10:49:40.941440",
+  "last_updated": "2025-04-07T10:52:42.096464",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -186,7 +186,8 @@
       "khaisha",
       "Pizza Express, Al Ahmadi",
       "Elotes",
-      "Juice Rotana Refreshment"
+      "Juice Rotana Refreshment",
+      "Crazy Chicken"
     ],
     "completed_pages": [
       1,
