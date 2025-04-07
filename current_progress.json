@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:05:34.956363",
+  "last_updated": "2025-04-07T09:06:52.092509",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 13,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -164,7 +164,8 @@
       "Chicster",
       "Pizza Express, Mahboula",
       "UR Cookies",
-      "Bahar"
+      "Bahar",
+      "WK"
     ],
     "completed_pages": [
       1,
