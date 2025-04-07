@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T16:45:27.648609",
+  "last_updated": "2025-04-07T16:46:29.968384",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 25,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -282,7 +282,8 @@
       "Ostath Shawarma",
       "Just Burger",
       "Hash",
-      "Ratio Cafe"
+      "Ratio Cafe",
+      "elEstez"
     ],
     "completed_pages": [
       1,
