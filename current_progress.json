@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T05:53:34.177137",
+  "last_updated": "2025-04-07T05:55:24.073000",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 12,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -160,7 +160,8 @@
       "Latifa Cafe",
       "Istanbuliyah",
       "Cro",
-      "Koala Kaifan Restaurant"
+      "Koala Kaifan Restaurant",
+      "Wake Up"
     ],
     "completed_pages": [
       1,
