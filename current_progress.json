@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T09:41:49.185253",
+  "last_updated": "2025-04-07T09:44:44.928113",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 14,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -174,7 +174,8 @@
       "Zaatar W Zeit",
       "Jeder Nathri",
       "Cro",
-      "Teddy Bakery"
+      "Teddy Bakery",
+      "Katkoot Restaurant"
     ],
     "completed_pages": [
       1,
