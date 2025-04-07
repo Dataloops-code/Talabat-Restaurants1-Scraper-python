@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T07:24:33.328991",
+  "last_updated": "2025-04-07T07:26:12.165891",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 11,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -147,7 +147,8 @@
       "Aseer Station",
       "Fareej Rashid",
       "Shake Shack, Al-Ahmadi",
-      "Steek"
+      "Steek",
+      "Ryouq Al Baraha"
     ],
     "completed_pages": [
       1,
