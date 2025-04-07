@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T11:07:37.893400",
+  "last_updated": "2025-04-07T11:11:44.695786",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 16,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -191,7 +191,8 @@
       "Bent Al Deek",
       "Bukhary Time",
       "Dozen",
-      "THE KITCHEN"
+      "THE KITCHEN",
+      "Chili Pepper"
     ],
     "completed_pages": [
       1,
