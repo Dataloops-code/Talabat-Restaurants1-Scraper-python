@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T12:57:08.725756",
+  "last_updated": "2025-04-07T12:59:15.395275",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 18,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -212,7 +212,8 @@
       "Mahashi Saboha",
       "OOOH Chocolate",
       "Fluff & Puff",
-      "Light Options"
+      "Light Options",
+      "Beit Dickson"
     ],
     "completed_pages": [
       1,
