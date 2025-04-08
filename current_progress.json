@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:13:38.644555",
+  "last_updated": "2025-04-08T03:14:40.629806",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -328,7 +328,8 @@
       "Seattle's Best Coffee",
       "HT Cafe",
       "SUNRISE PIZZA BOULEVARD",
-      "Sweet Althabiah"
+      "Sweet Althabiah",
+      "Hometown Burger"
     ],
     "completed_pages": [
       1,
