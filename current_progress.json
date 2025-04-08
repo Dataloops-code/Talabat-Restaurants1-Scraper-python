@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T05:00:49.923333",
+  "last_updated": "2025-04-08T05:02:27.215937",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -373,7 +373,8 @@
       "McCafe, ASWAQ AL QURAIN,West Abu Fetera Small Indust",
       "CHUBBY CREPES",
       "Khadeer cafe",
-      "Zaman Albukhari"
+      "Zaman Albukhari",
+      "Haroon"
     ],
     "completed_pages": [
       1,
