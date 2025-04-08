@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T06:13:14.671674",
+  "last_updated": "2025-04-08T06:22:51.545802",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 35,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -386,7 +386,8 @@
       "Toot Beirut Juice",
       "Nour Alyaman",
       "PROJECT HEALTHY BOWLS",
-      "MISSION NOODLES"
+      "MISSION NOODLES",
+      "SOUPA SALAD"
     ],
     "completed_pages": [
       1,
