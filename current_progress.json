@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T16:03:42.047220",
+  "last_updated": "2025-04-08T16:05:03.547664",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 41,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -448,7 +448,8 @@
       "Latifa Cafe",
       "Pier Habib",
       "Kabab BuShreek",
-      "Sheeatha"
+      "Sheeatha",
+      "Zufa"
     ],
     "completed_pages": [
       1,
