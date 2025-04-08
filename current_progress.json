@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:29:31.500058",
+  "last_updated": "2025-04-08T03:29:36.961101",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -346,7 +346,8 @@
       "Liberty Flowers",
       "5 roses",
       "Rose Boutique",
-      "Star Flowers"
+      "Star Flowers",
+      "7th Flowers"
     ],
     "completed_pages": [
       1,
