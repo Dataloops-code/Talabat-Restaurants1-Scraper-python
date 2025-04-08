@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T05:59:55.318301",
+  "last_updated": "2025-04-08T06:06:10.089066",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 35,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -384,7 +384,8 @@
       "SHAWARMA WORKSHOP",
       "PROJECT TIKKA MASALA",
       "Toot Beirut Juice",
-      "Nour Alyaman"
+      "Nour Alyaman",
+      "PROJECT HEALTHY BOWLS"
     ],
     "completed_pages": [
       1,
