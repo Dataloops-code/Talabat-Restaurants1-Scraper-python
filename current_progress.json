@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T04:00:23.395364",
+  "last_updated": "2025-04-08T04:01:54.813180",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 32,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -356,7 +356,8 @@
       "tip sweet",
       "Al Marsa",
       "Asfour Canary",
-      "TAWOOK WORKSHOP"
+      "TAWOOK WORKSHOP",
+      "Nawara Original"
     ],
     "completed_pages": [
       1,
