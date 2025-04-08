@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T08:40:10.755177",
+  "last_updated": "2025-04-08T08:48:47.373502",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -336,7 +336,8 @@
       "PASTA VITO",
       "Cake Master",
       "ACAI RUSH",
-      "Shahrayar International"
+      "Shahrayar International",
+      "THUNDER WINGS"
     ],
     "completed_pages": [
       1,
