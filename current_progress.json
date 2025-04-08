@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T07:31:58.490857",
+  "last_updated": "2025-04-08T07:45:47.199913",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -323,7 +323,8 @@
       "Hasan's Bakery",
       "Floating Torta",
       "OLE OLE BURRITO",
-      "Soucolat"
+      "Soucolat",
+      "Bora Bora Al Laziz"
     ],
     "completed_pages": [
       1,
