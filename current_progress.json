@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T07:59:12.313828",
+  "last_updated": "2025-04-08T08:00:37.307119",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -325,7 +325,8 @@
       "OLE OLE BURRITO",
       "Soucolat",
       "Bora Bora Al Laziz",
-      "Juice Bio"
+      "Juice Bio",
+      "Socrates Bakery"
     ],
     "completed_pages": [
       1,
