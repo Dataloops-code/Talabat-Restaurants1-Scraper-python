@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T17:58:58.629993",
+  "last_updated": "2025-04-08T18:02:32.911598",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 45,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -471,7 +471,8 @@
       "Arkan",
       "Army Juice",
       "Cocoa bowl",
-      "Ibn El Jabal"
+      "Ibn El Jabal",
+      "Ookie Cookie"
     ],
     "completed_pages": [
       1,
