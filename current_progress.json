@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:44:12.365057",
+  "last_updated": "2025-04-08T10:45:33.512185",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -373,7 +373,8 @@
       "Rustic Thai Kitchen",
       "Mchbosna",
       "Koursh",
-      "Kabab Factory"
+      "Kabab Factory",
+      "Cacao"
     ],
     "completed_pages": [
       1,
