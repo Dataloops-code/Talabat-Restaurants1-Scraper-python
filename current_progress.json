@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T00:15:11.102120",
+  "last_updated": "2025-04-08T00:16:42.440529",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 25,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -287,7 +287,8 @@
       "ِAl Shami",
       "Black and White Burger",
       "BURRITO BOYS",
-      "Yardek Speciality Coffee"
+      "Yardek Speciality Coffee",
+      "Kebda W Mokh Al Mazag"
     ],
     "completed_pages": [
       1,
