@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T11:40:03.416491",
+  "last_updated": "2025-04-08T11:41:25.509254",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 35,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -387,7 +387,8 @@
       "Maki Special One",
       "Mandi Sah",
       "Mokaya",
-      "Farah Bites"
+      "Farah Bites",
+      "Lets Patty"
     ],
     "completed_pages": [
       1,
