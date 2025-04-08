@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T16:14:26.287573",
+  "last_updated": "2025-04-08T16:22:57.048182",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 42,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -453,7 +453,8 @@
       "Donutello Donuts",
       "Malek Al Fataier Al Shami",
       "Wahed Zaatar",
-      "Shawarma Al Sham"
+      "Shawarma Al Sham",
+      "SOMETHING MEXICAN"
     ],
     "completed_pages": [
       1,
