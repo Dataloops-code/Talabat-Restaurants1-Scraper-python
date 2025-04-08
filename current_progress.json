@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T00:05:34.370525",
+  "last_updated": "2025-04-08T00:08:18.114598",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 25,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -283,7 +283,8 @@
       "Joia Sushi",
       "Fruit Box",
       "Pinki Burger",
-      "The Top"
+      "The Top",
+      "ِAl Shami"
     ],
     "completed_pages": [
       1,
