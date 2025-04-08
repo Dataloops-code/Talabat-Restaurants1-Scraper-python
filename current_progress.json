@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T02:34:08.409024",
+  "last_updated": "2025-04-08T02:35:28.253080",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -322,7 +322,8 @@
       "Celebrity Steak & Burger",
       "CHUBBY COOKIES",
       "BATTLE OF THE BRANDS DESSERTS",
-      "MINIME PANCAKES"
+      "MINIME PANCAKES",
+      "Wonder Burger"
     ],
     "completed_pages": [
       1,
