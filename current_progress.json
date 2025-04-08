@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:08:07.607209",
+  "last_updated": "2025-04-08T10:09:34.107786",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -361,7 +361,8 @@
       "Mandi Al Youm",
       "Sheel W Mashi",
       "Bento",
-      "KIN"
+      "KIN",
+      "Charlie`s"
     ],
     "completed_pages": [
       1,
