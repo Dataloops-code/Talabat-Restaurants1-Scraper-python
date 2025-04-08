@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:34:27.980724",
+  "last_updated": "2025-04-08T03:41:36.025369",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 31,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -351,7 +351,8 @@
       "Mobax",
       "Cake Me Away",
       "Fresh Mozzarella",
-      "Delicious Cakes"
+      "Delicious Cakes",
+      "PROJECT BAO"
     ],
     "completed_pages": [
       1,
