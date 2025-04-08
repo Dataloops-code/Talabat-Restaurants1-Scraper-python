@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:28:42.077870",
+  "last_updated": "2025-04-08T03:28:47.290541",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -337,7 +337,8 @@
       "Mood",
       "Victoria",
       "Burger Cut",
-      "Atyab Flowers"
+      "Atyab Flowers",
+      "Sheikha Flowers"
     ],
     "completed_pages": [
       1,
