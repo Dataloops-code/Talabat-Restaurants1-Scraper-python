@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T18:02:49.837951",
+  "last_updated": "2025-04-08T18:04:33.613905",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 45,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -472,7 +472,8 @@
       "Army Juice",
       "Cocoa bowl",
       "Ibn El Jabal",
-      "Ookie Cookie"
+      "Ookie Cookie",
+      "Biryani Gate"
     ],
     "completed_pages": [
       1,
