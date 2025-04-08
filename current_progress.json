@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:03:39.769324",
+  "last_updated": "2025-04-08T10:08:07.607209",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -360,7 +360,8 @@
       "Majan Omani Sweets",
       "Mandi Al Youm",
       "Sheel W Mashi",
-      "Bento"
+      "Bento",
+      "KIN"
     ],
     "completed_pages": [
       1,
