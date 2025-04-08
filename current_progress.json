@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T04:44:15.579495",
+  "last_updated": "2025-04-08T04:45:27.582320",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -366,7 +366,8 @@
       "295 Lb",
       "Machboos Trays",
       "Al Ajdad",
-      "Hybread"
+      "Hybread",
+      "TULE BAKERY"
     ],
     "completed_pages": [
       1,
