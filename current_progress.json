@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T11:28:29.808327",
+  "last_updated": "2025-04-08T11:31:24.311070",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 35,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -382,7 +382,8 @@
       "Mango Talaat",
       "Koshari Taw Alail",
       "Lavan",
-      "IHOP"
+      "IHOP",
+      "Nqsti"
     ],
     "completed_pages": [
       1,
