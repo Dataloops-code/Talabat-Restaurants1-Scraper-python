@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:29:42.762027",
+  "last_updated": "2025-04-08T03:30:58.758005",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -348,7 +348,8 @@
       "Rose Boutique",
       "Star Flowers",
       "7th Flowers",
-      "Mobax"
+      "Mobax",
+      "Cake Me Away"
     ],
     "completed_pages": [
       1,
