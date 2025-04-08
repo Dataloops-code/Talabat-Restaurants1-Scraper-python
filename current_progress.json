@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T17:07:59.618542",
+  "last_updated": "2025-04-08T17:10:09.028551",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 44,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -466,7 +466,8 @@
       "The Kind Ones",
       "Yardek Speciality Coffee",
       "Choco Land",
-      "Nab3 Al Diyafa"
+      "Nab3 Al Diyafa",
+      "Top Kapi"
     ],
     "completed_pages": [
       1,
