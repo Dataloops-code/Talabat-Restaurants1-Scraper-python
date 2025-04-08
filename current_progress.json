@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T14:51:47.199100",
+  "last_updated": "2025-04-08T14:53:49.680725",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 39,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -427,7 +427,8 @@
       "Sushi Express",
       "Healthy Snack Avenue",
       "Eat Smart",
-      "CHUBBY BALLS"
+      "CHUBBY BALLS",
+      "Desert Smoke"
     ],
     "completed_pages": [
       1,
