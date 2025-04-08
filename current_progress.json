@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T16:23:06.278412",
+  "last_updated": "2025-04-08T16:34:00.575135",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 42,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -454,7 +454,8 @@
       "Malek Al Fataier Al Shami",
       "Wahed Zaatar",
       "Shawarma Al Sham",
-      "SOMETHING MEXICAN"
+      "SOMETHING MEXICAN",
+      "Shrimp Basket"
     ],
     "completed_pages": [
       1,
