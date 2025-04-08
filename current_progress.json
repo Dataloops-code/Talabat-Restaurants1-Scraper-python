@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:39:12.628718",
+  "last_updated": "2025-04-08T10:40:40.307555",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -371,7 +371,8 @@
       "Tuta Sushi",
       "Koshari Boutique",
       "Rustic Thai Kitchen",
-      "Mchbosna"
+      "Mchbosna",
+      "Koursh"
     ],
     "completed_pages": [
       1,
