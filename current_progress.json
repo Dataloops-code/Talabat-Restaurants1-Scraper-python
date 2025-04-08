@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T12:52:16.419773",
+  "last_updated": "2025-04-08T12:56:09.309252",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 37,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -408,7 +408,8 @@
       "Swaikhat Lumi",
       "CAKE HEAVEN",
       "Lets Slider",
-      "Mr. Kuwaiti"
+      "Mr. Kuwaiti",
+      "Blaban El Asly"
     ],
     "completed_pages": [
       1,
