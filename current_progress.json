@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:28:28.032736",
+  "last_updated": "2025-04-08T03:28:42.077870",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -336,7 +336,8 @@
       "Ebi Japanese",
       "Mood",
       "Victoria",
-      "Burger Cut"
+      "Burger Cut",
+      "Atyab Flowers"
     ],
     "completed_pages": [
       1,
