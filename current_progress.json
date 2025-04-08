@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T09:44:32.593276",
+  "last_updated": "2025-04-08T09:52:08.202149",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 32,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -353,7 +353,8 @@
       "Fleek",
       "Wow Steak Pasta",
       "The Bowl",
-      "Bastooq"
+      "Bastooq",
+      "Spinners Italia"
     ],
     "completed_pages": [
       1,
