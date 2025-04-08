@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T16:34:00.575135",
+  "last_updated": "2025-04-08T16:38:35.533796",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 42,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -455,7 +455,8 @@
       "Wahed Zaatar",
       "Shawarma Al Sham",
       "SOMETHING MEXICAN",
-      "Shrimp Basket"
+      "Shrimp Basket",
+      "Istanbuliyah"
     ],
     "completed_pages": [
       1,
