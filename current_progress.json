@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T12:41:11.896994",
+  "last_updated": "2025-04-08T12:42:58.315778",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 37,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -403,7 +403,8 @@
       "Masgouf London",
       "Koala Abu Fatira",
       "OVENLY",
-      "Rapallo Sweet"
+      "Rapallo Sweet",
+      "Karaki"
     ],
     "completed_pages": [
       1,
