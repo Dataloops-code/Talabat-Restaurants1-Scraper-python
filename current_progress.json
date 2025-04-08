@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T15:46:36.619854",
+  "last_updated": "2025-04-08T15:54:55.608586",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 41,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -444,7 +444,8 @@
       "BUKHARI ALJAKH",
       "Trapani",
       "Zola",
-      "Shater Abbas"
+      "Shater Abbas",
+      "Latifa Cafe"
     ],
     "completed_pages": [
       1,
