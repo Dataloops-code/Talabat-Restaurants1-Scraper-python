@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T11:23:34.738378",
+  "last_updated": "2025-04-08T11:24:41.837526",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -379,7 +379,8 @@
       "Cake Tok",
       "Wachamean",
       "Bread & Spread",
-      "Mango Talaat"
+      "Mango Talaat",
+      "Koshari Taw Alail"
     ],
     "completed_pages": [
       1,
