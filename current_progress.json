@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T18:33:37.266696",
+  "last_updated": "2025-04-08T18:34:53.577548",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 46,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -477,7 +477,8 @@
       "PASTA DI RISOTTO ITALIA",
       "Hard Core",
       "ITHG",
-      "SOMETHING ITALIAN"
+      "SOMETHING ITALIAN",
+      "Shubak"
     ],
     "completed_pages": [
       1,
