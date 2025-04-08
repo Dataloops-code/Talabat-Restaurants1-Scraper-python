@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T05:15:25.076535",
+  "last_updated": "2025-04-08T05:18:54.065740",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -379,7 +379,8 @@
       "Hungr",
       "Roons",
       "GENERATION SALAD",
-      "Morn Morning"
+      "Morn Morning",
+      "FLIP MINI PANCAKES"
     ],
     "completed_pages": [
       1,
