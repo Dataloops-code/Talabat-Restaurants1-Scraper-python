@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T16:08:36.801425",
+  "last_updated": "2025-04-08T16:10:51.131246",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 42,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -451,7 +451,8 @@
       "Sheeatha",
       "Zufa",
       "Donutello Donuts",
-      "Malek Al Fataier Al Shami"
+      "Malek Al Fataier Al Shami",
+      "Wahed Zaatar"
     ],
     "completed_pages": [
       1,
