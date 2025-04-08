@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T11:50:09.304253",
+  "last_updated": "2025-04-08T11:52:21.816627",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 35,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -392,7 +392,8 @@
       "Zaman Ome",
       "Fatayer AlSham",
       "La Noisette Sweets & Pastries",
-      "Fattoush Al Qurain"
+      "Fattoush Al Qurain",
+      "BEAR"
     ],
     "completed_pages": [
       1,
