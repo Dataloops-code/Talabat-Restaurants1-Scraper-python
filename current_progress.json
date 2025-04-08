@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:32:39.764847",
+  "last_updated": "2025-04-08T03:34:11.373988",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -350,7 +350,8 @@
       "7th Flowers",
       "Mobax",
       "Cake Me Away",
-      "Fresh Mozzarella"
+      "Fresh Mozzarella",
+      "Delicious Cakes"
     ],
     "completed_pages": [
       1,
