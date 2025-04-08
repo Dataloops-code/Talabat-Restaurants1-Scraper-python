@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T08:52:01.619025",
+  "last_updated": "2025-04-08T08:53:19.651390",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -338,7 +338,8 @@
       "ACAI RUSH",
       "Shahrayar International",
       "THUNDER WINGS",
-      "Emirgan Sutis"
+      "Emirgan Sutis",
+      "Blaban Latha"
     ],
     "completed_pages": [
       1,
