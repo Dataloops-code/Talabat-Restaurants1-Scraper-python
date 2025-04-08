@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T09:52:16.101698",
+  "last_updated": "2025-04-08T09:54:59.342097",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 32,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -354,7 +354,8 @@
       "Wow Steak Pasta",
       "The Bowl",
       "Bastooq",
-      "Spinners Italia"
+      "Spinners Italia",
+      "Tokyo House"
     ],
     "completed_pages": [
       1,
