@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T11:56:35.523491",
+  "last_updated": "2025-04-08T12:02:02.655814",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 36,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -395,7 +395,8 @@
       "Fattoush Al Qurain",
       "BEAR",
       "Middle Eats",
-      "Lahm"
+      "Lahm",
+      "Karak Gholam"
     ],
     "completed_pages": [
       1,
