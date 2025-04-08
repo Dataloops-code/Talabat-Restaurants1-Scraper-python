@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T01:44:54.143628",
+  "last_updated": "2025-04-08T01:52:07.023933",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -313,7 +313,8 @@
       "Catch Of The Day",
       "Al Khbaz Al Turkii",
       "Mutabbaq & Rgag",
-      "10 Aseer"
+      "10 Aseer",
+      "BATTLE OF THE BRANDS"
     ],
     "completed_pages": [
       1,
