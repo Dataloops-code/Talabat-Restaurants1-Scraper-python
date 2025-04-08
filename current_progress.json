@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T04:40:26.623878",
+  "last_updated": "2025-04-08T04:42:41.661018",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -364,7 +364,8 @@
       "BATTLE OF THE BRANDS BURGERS",
       "Bakery Factory",
       "295 Lb",
-      "Machboos Trays"
+      "Machboos Trays",
+      "Al Ajdad"
     ],
     "completed_pages": [
       1,
