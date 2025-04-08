@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T06:29:26.322247",
+  "last_updated": "2025-04-08T06:30:55.319590",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -312,7 +312,8 @@
       "Pixel Burger",
       "Catch Of The Day",
       "Al Khbaz Al Turkii",
-      "Mutabbaq & Rgag"
+      "Mutabbaq & Rgag",
+      "Karak Hut"
     ],
     "completed_pages": [
       1,
