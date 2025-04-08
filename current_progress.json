@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T09:06:34.471913",
+  "last_updated": "2025-04-08T09:13:07.670925",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 31,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -343,7 +343,8 @@
       "jihan Restaurant",
       "ZWARA SWEETS & PASTRIES",
       "Creation Burger",
-      "PROJECT NOODLES"
+      "PROJECT NOODLES",
+      "ONE EATERY"
     ],
     "completed_pages": [
       1,
