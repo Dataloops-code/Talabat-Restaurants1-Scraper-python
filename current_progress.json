@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T08:10:17.534101",
+  "last_updated": "2025-04-08T08:15:08.089244",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -328,7 +328,8 @@
       "Juice Bio",
       "Socrates Bakery",
       "Swaps",
-      "Fresh Bites"
+      "Fresh Bites",
+      "Applebee's"
     ],
     "completed_pages": [
       1,
