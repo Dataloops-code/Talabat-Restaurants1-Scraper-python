@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T09:23:17.924100",
+  "last_updated": "2025-04-08T09:27:05.072316",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 32,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -346,7 +346,8 @@
       "PROJECT NOODLES",
       "ONE EATERY",
       "Chicken King",
-      "MISSION KATSU CURRY"
+      "MISSION KATSU CURRY",
+      "Empress"
     ],
     "completed_pages": [
       1,
