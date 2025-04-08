@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T16:55:29.118076",
+  "last_updated": "2025-04-08T16:56:43.017656",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 43,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -460,7 +460,8 @@
       "Sodfa Cafe",
       "China Lake",
       "Al Tanoor Al Sharqi",
-      "Mini Dessert"
+      "Mini Dessert",
+      "jumpy shrimp"
     ],
     "completed_pages": [
       1,
