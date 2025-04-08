@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T04:31:59.114879",
+  "last_updated": "2025-04-08T04:36:44.299295",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -362,7 +362,8 @@
       "Klaraig Sweets",
       "Chicken Chapati",
       "BATTLE OF THE BRANDS BURGERS",
-      "Bakery Factory"
+      "Bakery Factory",
+      "295 Lb"
     ],
     "completed_pages": [
       1,
