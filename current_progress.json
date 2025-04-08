@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T08:56:56.777964",
+  "last_updated": "2025-04-08T08:59:00.240514",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 31,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -341,7 +341,8 @@
       "Emirgan Sutis",
       "Blaban Latha",
       "jihan Restaurant",
-      "ZWARA SWEETS & PASTRIES"
+      "ZWARA SWEETS & PASTRIES",
+      "Creation Burger"
     ],
     "completed_pages": [
       1,
