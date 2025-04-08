@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T05:02:27.215937",
+  "last_updated": "2025-04-08T05:04:25.954213",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -374,7 +374,8 @@
       "CHUBBY CREPES",
       "Khadeer cafe",
       "Zaman Albukhari",
-      "Haroon"
+      "Haroon",
+      "Ben Mandeel"
     ],
     "completed_pages": [
       1,
