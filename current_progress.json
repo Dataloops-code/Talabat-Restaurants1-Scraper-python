@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T08:01:35.750909",
+  "last_updated": "2025-04-08T08:10:17.534101",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -327,7 +327,8 @@
       "Bora Bora Al Laziz",
       "Juice Bio",
       "Socrates Bakery",
-      "Swaps"
+      "Swaps",
+      "Fresh Bites"
     ],
     "completed_pages": [
       1,
