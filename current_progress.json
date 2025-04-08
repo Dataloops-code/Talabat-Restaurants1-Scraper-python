@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T02:57:25.720061",
+  "last_updated": "2025-04-08T03:03:45.619732",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -325,7 +325,8 @@
       "MINIME PANCAKES",
       "Wonder Burger",
       "Fruit & More",
-      "Seattle's Best Coffee"
+      "Seattle's Best Coffee",
+      "HT Cafe"
     ],
     "completed_pages": [
       1,
