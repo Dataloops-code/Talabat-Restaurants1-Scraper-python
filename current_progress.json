@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T18:12:40.652286",
+  "last_updated": "2025-04-08T18:25:54.667651",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 45,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -474,7 +474,8 @@
       "Ibn El Jabal",
       "Ookie Cookie",
       "Biryani Gate",
-      "PASTA DI RISOTTO ITALIA"
+      "PASTA DI RISOTTO ITALIA",
+      "Hard Core"
     ],
     "completed_pages": [
       1,
