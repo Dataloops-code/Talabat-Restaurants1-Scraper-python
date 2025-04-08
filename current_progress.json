@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T15:41:31.436127",
+  "last_updated": "2025-04-08T15:46:36.619854",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 41,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -443,7 +443,8 @@
       "Mr Zaatron",
       "BUKHARI ALJAKH",
       "Trapani",
-      "Zola"
+      "Zola",
+      "Shater Abbas"
     ],
     "completed_pages": [
       1,
