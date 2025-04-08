@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T09:40:10.921552",
+  "last_updated": "2025-04-08T09:41:39.644688",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 32,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -351,7 +351,8 @@
       "Aldomyati Althahabi",
       "Pinkberry, Mubarak Al Kabir",
       "Fleek",
-      "Wow Steak Pasta"
+      "Wow Steak Pasta",
+      "The Bowl"
     ],
     "completed_pages": [
       1,
