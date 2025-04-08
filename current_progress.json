@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T06:35:22.744734",
+  "last_updated": "2025-04-08T06:42:09.666739",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -314,7 +314,8 @@
       "Al Khbaz Al Turkii",
       "Mutabbaq & Rgag",
       "Karak Hut",
-      "Ahla Fatira"
+      "Ahla Fatira",
+      "NOBLE CHICKEN"
     ],
     "completed_pages": [
       1,
