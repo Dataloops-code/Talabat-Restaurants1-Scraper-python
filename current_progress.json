@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T06:06:10.089066",
+  "last_updated": "2025-04-08T06:13:14.671674",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 35,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -385,7 +385,8 @@
       "PROJECT TIKKA MASALA",
       "Toot Beirut Juice",
       "Nour Alyaman",
-      "PROJECT HEALTHY BOWLS"
+      "PROJECT HEALTHY BOWLS",
+      "MISSION NOODLES"
     ],
     "completed_pages": [
       1,
