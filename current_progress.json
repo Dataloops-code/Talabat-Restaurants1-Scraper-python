@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T12:16:02.038802",
+  "last_updated": "2025-04-08T12:23:03.017657",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 36,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -401,7 +401,8 @@
       "Hamsat Kuwaitia",
       "CHKN",
       "Masgouf London",
-      "Koala Abu Fatira"
+      "Koala Abu Fatira",
+      "OVENLY"
     ],
     "completed_pages": [
       1,
