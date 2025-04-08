@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T12:59:45.471191",
+  "last_updated": "2025-04-08T13:01:51.086725",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 37,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -410,7 +410,8 @@
       "Lets Slider",
       "Mr. Kuwaiti",
       "Blaban El Asly",
-      "Golden Wok Chinese"
+      "Golden Wok Chinese",
+      "Al Beek Palace"
     ],
     "completed_pages": [
       1,
