@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T11:36:47.135632",
+  "last_updated": "2025-04-08T11:38:48.620212",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 35,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -385,7 +385,8 @@
       "IHOP",
       "Nqsti",
       "Maki Special One",
-      "Mandi Sah"
+      "Mandi Sah",
+      "Mokaya"
     ],
     "completed_pages": [
       1,
