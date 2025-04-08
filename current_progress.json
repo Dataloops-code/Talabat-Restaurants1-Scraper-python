@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T18:35:26.442891",
+  "last_updated": "2025-04-08T18:39:30.385069",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 46,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -478,7 +478,8 @@
       "Hard Core",
       "ITHG",
       "SOMETHING ITALIAN",
-      "Shubak"
+      "Shubak",
+      "Carmen"
     ],
     "completed_pages": [
       1,
