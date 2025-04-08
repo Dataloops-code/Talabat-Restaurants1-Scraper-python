@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:35:38.114785",
+  "last_updated": "2025-04-08T10:37:10.188305",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -369,7 +369,8 @@
       "THRIVE SALADS",
       "Kefak Sweet",
       "Tuta Sushi",
-      "Koshari Boutique"
+      "Koshari Boutique",
+      "Rustic Thai Kitchen"
     ],
     "completed_pages": [
       1,
