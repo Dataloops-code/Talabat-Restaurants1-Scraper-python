@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T13:18:46.896687",
+  "last_updated": "2025-04-08T13:21:33.049044",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 38,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -417,7 +417,8 @@
       "Just Sweet",
       "Rich",
       "Savor",
-      "Bu Ali Restaurant"
+      "Bu Ali Restaurant",
+      "May Flower"
     ],
     "completed_pages": [
       1,
