@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T13:07:51.577518",
+  "last_updated": "2025-04-08T13:10:39.120198",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 38,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -413,7 +413,8 @@
       "Golden Wok Chinese",
       "Al Beek Palace",
       "Mynon Hashy",
-      "Nafeesah"
+      "Nafeesah",
+      "Just Sweet"
     ],
     "completed_pages": [
       1,
