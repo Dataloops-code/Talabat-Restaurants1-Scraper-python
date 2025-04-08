@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T01:52:07.023933",
+  "last_updated": "2025-04-08T01:54:28.661115",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -314,7 +314,8 @@
       "Al Khbaz Al Turkii",
       "Mutabbaq & Rgag",
       "10 Aseer",
-      "BATTLE OF THE BRANDS"
+      "BATTLE OF THE BRANDS",
+      "Al Dhaher Arabian Bakery"
     ],
     "completed_pages": [
       1,
