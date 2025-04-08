@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T05:27:17.084696",
+  "last_updated": "2025-04-08T05:31:52.260518",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -381,7 +381,8 @@
       "GENERATION SALAD",
       "Morn Morning",
       "FLIP MINI PANCAKES",
-      "SHAWARMA WORKSHOP"
+      "SHAWARMA WORKSHOP",
+      "PROJECT TIKKA MASALA"
     ],
     "completed_pages": [
       1,
