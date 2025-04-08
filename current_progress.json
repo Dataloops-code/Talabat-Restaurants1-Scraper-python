@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T02:25:08.391819",
+  "last_updated": "2025-04-08T02:29:58.691403",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -320,7 +320,8 @@
       "WAFFLE RUSH",
       "Dairy Milk",
       "Celebrity Steak & Burger",
-      "CHUBBY COOKIES"
+      "CHUBBY COOKIES",
+      "BATTLE OF THE BRANDS DESSERTS"
     ],
     "completed_pages": [
       1,
