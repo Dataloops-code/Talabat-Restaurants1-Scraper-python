@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T15:18:46.193697",
+  "last_updated": "2025-04-08T15:20:14.231251",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 40,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -435,7 +435,8 @@
       "Elate",
       "Qafsht Hala For Pies and Pastries",
       "Soul Coffee Bar",
-      "Bacha Wa Aish Bukhari"
+      "Bacha Wa Aish Bukhari",
+      "Check In"
     ],
     "completed_pages": [
       1,
