@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:48:40.942826",
+  "last_updated": "2025-04-08T10:48:49.036910",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -375,7 +375,8 @@
       "Koursh",
       "Kabab Factory",
       "Cacao",
-      "Abu Jbara"
+      "Abu Jbara",
+      "Cake Tok"
     ],
     "completed_pages": [
       1,
