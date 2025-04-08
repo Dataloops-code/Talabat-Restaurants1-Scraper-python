@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T02:30:14.771816",
+  "last_updated": "2025-04-08T02:34:08.409024",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -321,7 +321,8 @@
       "Dairy Milk",
       "Celebrity Steak & Burger",
       "CHUBBY COOKIES",
-      "BATTLE OF THE BRANDS DESSERTS"
+      "BATTLE OF THE BRANDS DESSERTS",
+      "MINIME PANCAKES"
     ],
     "completed_pages": [
       1,
