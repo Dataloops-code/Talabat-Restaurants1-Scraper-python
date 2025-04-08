@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T13:49:28.923851",
+  "last_updated": "2025-04-08T14:33:01.606502",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 39,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -422,7 +422,8 @@
       "Dukan Hala",
       "Sheikh AlFatayer",
       "Dar Alwazzan",
-      "Mngal Bared"
+      "Mngal Bared",
+      "Fruit Basket"
     ],
     "completed_pages": [
       1,
