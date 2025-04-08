@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:28:57.685809",
+  "last_updated": "2025-04-08T03:29:03.214146",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -340,7 +340,8 @@
       "Atyab Flowers",
       "Sheikha Flowers",
       "Gate Of Flowers",
-      "Kinder Joy Express Grocery"
+      "Kinder Joy Express Grocery",
+      "POOJi Flowers"
     ],
     "completed_pages": [
       1,
