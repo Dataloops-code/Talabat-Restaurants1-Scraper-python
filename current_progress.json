@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T16:58:15.876756",
+  "last_updated": "2025-04-08T16:59:44.321606",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 43,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -462,7 +462,8 @@
       "Al Tanoor Al Sharqi",
       "Mini Dessert",
       "jumpy shrimp",
-      "Blu Bun"
+      "Blu Bun",
+      "The Kind Ones"
     ],
     "completed_pages": [
       1,
