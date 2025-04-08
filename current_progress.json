@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T13:23:50.235727",
+  "last_updated": "2025-04-08T13:25:07.919107",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 38,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -419,7 +419,8 @@
       "Savor",
       "Bu Ali Restaurant",
       "May Flower",
-      "Dukan Hala"
+      "Dukan Hala",
+      "Sheikh AlFatayer"
     ],
     "completed_pages": [
       1,
