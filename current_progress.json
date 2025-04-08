@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T09:30:43.783695",
+  "last_updated": "2025-04-08T09:31:41.135731",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 32,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -348,7 +348,8 @@
       "Chicken King",
       "MISSION KATSU CURRY",
       "Empress",
-      "Aldomyati Althahabi"
+      "Aldomyati Althahabi",
+      "Pinkberry, Mubarak Al Kabir"
     ],
     "completed_pages": [
       1,
