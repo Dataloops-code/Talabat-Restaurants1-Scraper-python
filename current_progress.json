@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T14:38:01.109159",
+  "last_updated": "2025-04-08T14:39:43.671581",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 39,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -425,7 +425,8 @@
       "Mngal Bared",
       "Fruit Basket",
       "Sushi Express",
-      "Healthy Snack Avenue"
+      "Healthy Snack Avenue",
+      "Eat Smart"
     ],
     "completed_pages": [
       1,
