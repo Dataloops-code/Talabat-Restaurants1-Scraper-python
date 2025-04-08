@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T12:07:25.255783",
+  "last_updated": "2025-04-08T12:08:35.303813",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 36,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -398,7 +398,8 @@
       "Lahm",
       "Karak Gholam",
       "Medhal",
-      "Hamsat Kuwaitia"
+      "Hamsat Kuwaitia",
+      "CHKN"
     ],
     "completed_pages": [
       1,
