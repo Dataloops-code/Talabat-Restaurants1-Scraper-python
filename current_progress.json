@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T04:36:44.299295",
+  "last_updated": "2025-04-08T04:40:07.756342",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -363,7 +363,8 @@
       "Chicken Chapati",
       "BATTLE OF THE BRANDS BURGERS",
       "Bakery Factory",
-      "295 Lb"
+      "295 Lb",
+      "Machboos Trays"
     ],
     "completed_pages": [
       1,
