@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T15:36:53.615431",
+  "last_updated": "2025-04-08T15:38:58.583467",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 41,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -441,7 +441,8 @@
       "AlRuban Al Kuwaity",
       "Helen",
       "Mr Zaatron",
-      "BUKHARI ALJAKH"
+      "BUKHARI ALJAKH",
+      "Trapani"
     ],
     "completed_pages": [
       1,
