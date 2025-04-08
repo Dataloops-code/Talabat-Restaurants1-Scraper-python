@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:18:41.196532",
+  "last_updated": "2025-04-08T10:20:08.200043",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -364,7 +364,8 @@
       "KIN",
       "Charlie`s",
       "Mayar",
-      "Fata'er Gama'iat Al Adan Al Turki"
+      "Fata'er Gama'iat Al Adan Al Turki",
+      "China Zone"
     ],
     "completed_pages": [
       1,
