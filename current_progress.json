@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T07:10:14.374702",
+  "last_updated": "2025-04-08T07:12:04.120715",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 28,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -317,7 +317,8 @@
       "Ahla Fatira",
       "NOBLE CHICKEN",
       "Dr. Juice",
-      "HALF MILLION"
+      "HALF MILLION",
+      "Tiramisu For Sweets And Pastries"
     ],
     "completed_pages": [
       1,
