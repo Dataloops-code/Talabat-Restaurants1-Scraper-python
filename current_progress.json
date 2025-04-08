@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:03:45.619732",
+  "last_updated": "2025-04-08T03:11:39.506513",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -326,7 +326,8 @@
       "Wonder Burger",
       "Fruit & More",
       "Seattle's Best Coffee",
-      "HT Cafe"
+      "HT Cafe",
+      "SUNRISE PIZZA BOULEVARD"
     ],
     "completed_pages": [
       1,
