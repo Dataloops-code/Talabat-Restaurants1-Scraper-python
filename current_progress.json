@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T05:04:25.954213",
+  "last_updated": "2025-04-08T05:06:05.497846",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -375,7 +375,8 @@
       "Khadeer cafe",
       "Zaman Albukhari",
       "Haroon",
-      "Ben Mandeel"
+      "Ben Mandeel",
+      "Hungr"
     ],
     "completed_pages": [
       1,
