@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T08:38:13.218588",
+  "last_updated": "2025-04-08T08:40:10.755177",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -335,7 +335,8 @@
       "koshari time",
       "PASTA VITO",
       "Cake Master",
-      "ACAI RUSH"
+      "ACAI RUSH",
+      "Shahrayar International"
     ],
     "completed_pages": [
       1,
