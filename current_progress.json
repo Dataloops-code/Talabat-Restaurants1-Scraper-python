@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T15:16:43.109551",
+  "last_updated": "2025-04-08T15:18:46.193697",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 40,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -434,7 +434,8 @@
       "The Crushed",
       "Elate",
       "Qafsht Hala For Pies and Pastries",
-      "Soul Coffee Bar"
+      "Soul Coffee Bar",
+      "Bacha Wa Aish Bukhari"
     ],
     "completed_pages": [
       1,
