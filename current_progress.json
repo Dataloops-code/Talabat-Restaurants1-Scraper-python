@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:20:08.200043",
+  "last_updated": "2025-04-08T10:28:14.797671",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -365,7 +365,8 @@
       "Charlie`s",
       "Mayar",
       "Fata'er Gama'iat Al Adan Al Turki",
-      "China Zone"
+      "China Zone",
+      "THRIVE SALADS"
     ],
     "completed_pages": [
       1,
