@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T12:47:36.973451",
+  "last_updated": "2025-04-08T12:50:53.178769",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 37,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -406,7 +406,8 @@
       "Rapallo Sweet",
       "Karaki",
       "Swaikhat Lumi",
-      "CAKE HEAVEN"
+      "CAKE HEAVEN",
+      "Lets Slider"
     ],
     "completed_pages": [
       1,
