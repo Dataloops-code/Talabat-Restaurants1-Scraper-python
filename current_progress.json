@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T15:32:32.046882",
+  "last_updated": "2025-04-08T15:34:49.129474",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 40,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -439,7 +439,8 @@
       "Check In",
       "Al tabi Restaurant",
       "AlRuban Al Kuwaity",
-      "Helen"
+      "Helen",
+      "Mr Zaatron"
     ],
     "completed_pages": [
       1,
