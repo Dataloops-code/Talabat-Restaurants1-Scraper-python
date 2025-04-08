@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:26:59.470629",
+  "last_updated": "2025-04-08T03:28:12.113973",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -335,7 +335,8 @@
       "NABYNAKI SUSHI",
       "Ebi Japanese",
       "Mood",
-      "Victoria"
+      "Victoria",
+      "Burger Cut"
     ],
     "completed_pages": [
       1,
