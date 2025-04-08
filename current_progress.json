@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T15:30:53.997333",
+  "last_updated": "2025-04-08T15:32:32.046882",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 40,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -438,7 +438,8 @@
       "Bacha Wa Aish Bukhari",
       "Check In",
       "Al tabi Restaurant",
-      "AlRuban Al Kuwaity"
+      "AlRuban Al Kuwaity",
+      "Helen"
     ],
     "completed_pages": [
       1,
