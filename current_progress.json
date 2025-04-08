@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T13:25:16.907433",
+  "last_updated": "2025-04-08T13:26:36.451273",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 38,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -420,7 +420,8 @@
       "Bu Ali Restaurant",
       "May Flower",
       "Dukan Hala",
-      "Sheikh AlFatayer"
+      "Sheikh AlFatayer",
+      "Dar Alwazzan"
     ],
     "completed_pages": [
       1,
