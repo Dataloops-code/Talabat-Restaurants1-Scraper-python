@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T09:59:38.826522",
+  "last_updated": "2025-04-08T10:00:56.467679",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 32,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -358,7 +358,8 @@
       "Tokyo House",
       "ALNAHI",
       "Majan Omani Sweets",
-      "Mandi Al Youm"
+      "Mandi Al Youm",
+      "Sheel W Mashi"
     ],
     "completed_pages": [
       1,
