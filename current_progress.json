@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T18:27:14.191401",
+  "last_updated": "2025-04-08T18:33:00.594039",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 45,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -476,7 +476,8 @@
       "Biryani Gate",
       "PASTA DI RISOTTO ITALIA",
       "Hard Core",
-      "ITHG"
+      "ITHG",
+      "SOMETHING ITALIAN"
     ],
     "completed_pages": [
       1,
