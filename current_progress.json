@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T12:43:07.476117",
+  "last_updated": "2025-04-08T12:46:11.938555",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 37,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -404,7 +404,8 @@
       "Koala Abu Fatira",
       "OVENLY",
       "Rapallo Sweet",
-      "Karaki"
+      "Karaki",
+      "Swaikhat Lumi"
     ],
     "completed_pages": [
       1,
