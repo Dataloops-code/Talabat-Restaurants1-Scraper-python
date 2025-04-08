@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:15:54.952463",
+  "last_updated": "2025-04-08T03:17:15.028647",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -330,7 +330,8 @@
       "SUNRISE PIZZA BOULEVARD",
       "Sweet Althabiah",
       "Hometown Burger",
-      "Le Pier"
+      "Le Pier",
+      "Express Steak and Burger"
     ],
     "completed_pages": [
       1,
