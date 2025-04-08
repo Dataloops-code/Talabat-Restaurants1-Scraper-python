@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T03:29:25.844855",
+  "last_updated": "2025-04-08T03:29:31.500058",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 30,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -345,7 +345,8 @@
       "Dukan Sainsbury`s",
       "Liberty Flowers",
       "5 roses",
-      "Rose Boutique"
+      "Rose Boutique",
+      "Star Flowers"
     ],
     "completed_pages": [
       1,
