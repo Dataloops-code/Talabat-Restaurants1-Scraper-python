@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T17:21:31.986189",
+  "last_updated": "2025-04-08T17:48:45.076820",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 45,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -468,7 +468,8 @@
       "Choco Land",
       "Nab3 Al Diyafa",
       "Top Kapi",
-      "Arkan"
+      "Arkan",
+      "Army Juice"
     ],
     "completed_pages": [
       1,
