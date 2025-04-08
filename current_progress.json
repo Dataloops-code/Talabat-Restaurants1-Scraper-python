@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-07T23:42:02.569341",
+  "last_updated": "2025-04-08T00:05:34.370525",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 25,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -282,7 +282,8 @@
       "SUSHI TWON",
       "Joia Sushi",
       "Fruit Box",
-      "Pinki Burger"
+      "Pinki Burger",
+      "The Top"
     ],
     "completed_pages": [
       1,
