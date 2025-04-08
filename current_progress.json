@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T14:57:12.604043",
+  "last_updated": "2025-04-08T15:02:45.174817",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 39,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -429,7 +429,8 @@
       "Eat Smart",
       "CHUBBY BALLS",
       "Desert Smoke",
-      "Clock restaurant"
+      "Clock restaurant",
+      "Puresso"
     ],
     "completed_pages": [
       1,
