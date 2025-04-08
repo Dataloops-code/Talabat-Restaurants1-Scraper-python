@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T08:15:08.089244",
+  "last_updated": "2025-04-08T08:19:28.920820",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 29,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -329,7 +329,8 @@
       "Socrates Bakery",
       "Swaps",
       "Fresh Bites",
-      "Applebee's"
+      "Applebee's",
+      "Cookie Dough TGO,West Abu Fetera Small Indust TGO"
     ],
     "completed_pages": [
       1,
