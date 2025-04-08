@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T05:07:59.634689",
+  "last_updated": "2025-04-08T05:13:42.559781",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 34,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -377,7 +377,8 @@
       "Haroon",
       "Ben Mandeel",
       "Hungr",
-      "Roons"
+      "Roons",
+      "GENERATION SALAD"
     ],
     "completed_pages": [
       1,
