@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-08T10:33:20.458860",
+  "last_updated": "2025-04-08T10:34:35.522191",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 33,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -367,7 +367,8 @@
       "Fata'er Gama'iat Al Adan Al Turki",
       "China Zone",
       "THRIVE SALADS",
-      "Kefak Sweet"
+      "Kefak Sweet",
+      "Tuta Sushi"
     ],
     "completed_pages": [
       1,
