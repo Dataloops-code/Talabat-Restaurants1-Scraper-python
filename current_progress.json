@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:12:09.234502",
+  "last_updated": "2025-04-09T03:14:23.132474",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 50,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -506,7 +506,8 @@
       "Bento Bakery",
       "Mafroukeh",
       "Sushi Juntion",
-      "One Sushi"
+      "One Sushi",
+      "Crops"
     ],
     "completed_pages": [
       1,
