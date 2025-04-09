@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T22:21:04.845768",
+  "last_updated": "2025-04-09T22:22:24.981954",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -665,7 +665,8 @@
       "Akelna Mahyouf",
       "Three Fat Cows",
       "Midan AlSham",
-      "Fatayer Mama Sheikha"
+      "Fatayer Mama Sheikha",
+      "Noodles Town"
     ],
     "completed_pages": [
       1,
