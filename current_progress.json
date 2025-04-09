@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T02:03:44.415452",
+  "last_updated": "2025-04-09T02:05:58.953250",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 47,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -486,7 +486,8 @@
       "Forevermore",
       "TOBO",
       "Liken chicken",
-      "Caribou Coffee"
+      "Caribou Coffee",
+      "Cupncut"
     ],
     "completed_pages": [
       1,
