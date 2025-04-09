@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T13:52:35.482478",
+  "last_updated": "2025-04-09T14:01:36.586882",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -616,7 +616,8 @@
       "Pixi Bakery",
       "Pinki Burger",
       "League",
-      "Bukhari house"
+      "Bukhari house",
+      "Wahed Aseer"
     ],
     "completed_pages": [
       1,
