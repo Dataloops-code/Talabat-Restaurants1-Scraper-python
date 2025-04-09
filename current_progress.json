@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T08:08:34.171703",
+  "last_updated": "2025-04-09T08:11:21.212058",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 49,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -512,7 +512,8 @@
       "Hive Cake",
       "Line Juice",
       "Kateh",
-      "SUSHI WORKSHOP"
+      "SUSHI WORKSHOP",
+      "Neqsa"
     ],
     "completed_pages": [
       1,
