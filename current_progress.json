@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:20:19.728302",
+  "last_updated": "2025-04-09T23:22:00.625570",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 73,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -685,7 +685,8 @@
       "karak Mqanes",
       "Beit Ladan",
       "Bo Arram",
-      "Shrimpop"
+      "Shrimpop",
+      "Okra By Masgouf"
     ],
     "completed_pages": [
       1,
