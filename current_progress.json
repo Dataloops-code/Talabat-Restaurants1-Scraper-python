@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:31:46.687513",
+  "last_updated": "2025-04-09T07:33:01.787105",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -504,7 +504,8 @@
       "MISSION POKE BOWL",
       "Revere Chocolate",
       "Candy Cake",
-      "THE HEALTH EXPRESS"
+      "THE HEALTH EXPRESS",
+      "Malvih Pastry And Sweet"
     ],
     "completed_pages": [
       1,
