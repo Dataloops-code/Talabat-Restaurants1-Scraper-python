@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T10:04:10.490628",
+  "last_updated": "2025-04-09T10:10:35.403316",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 51,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -537,7 +537,8 @@
       "Loz wa Moz Juice",
       "Double Dose",
       "Biryani Handi",
-      "Bao Steamed Bun"
+      "Bao Steamed Bun",
+      "MISSION NOODLES"
     ],
     "completed_pages": [
       1,
