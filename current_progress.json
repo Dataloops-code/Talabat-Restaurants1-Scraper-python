@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T05:55:13.293903",
+  "last_updated": "2025-04-09T05:56:37.124737",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 56,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -543,7 +543,8 @@
       "MUG COFFEE & ROASTERY",
       "Mango Juice",
       "Top juice",
-      "Gravity"
+      "Gravity",
+      "GIA To Go"
     ],
     "completed_pages": [
       1,
