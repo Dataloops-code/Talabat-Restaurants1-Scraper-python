@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:48:57.366189",
+  "last_updated": "2025-04-09T03:51:49.045870",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -518,7 +518,8 @@
       "Midye Box",
       "Big Elephant",
       "SUSHIANA RESTAURANT",
-      "Ortakoy"
+      "Ortakoy",
+      "89 eighty nine"
     ],
     "completed_pages": [
       1,
