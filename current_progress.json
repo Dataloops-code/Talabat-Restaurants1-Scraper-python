@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:34:03.241876",
+  "last_updated": "2025-04-09T07:42:01.343468",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -506,7 +506,8 @@
       "Candy Cake",
       "THE HEALTH EXPRESS",
       "Malvih Pastry And Sweet",
-      "Segreto"
+      "Segreto",
+      "Seven Seasons"
     ],
     "completed_pages": [
       1,
