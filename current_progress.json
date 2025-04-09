@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T14:38:54.262504",
+  "last_updated": "2025-04-09T14:40:44.949336",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -632,7 +632,8 @@
       "Sea Taste Restaurant",
       "Chicken Banvit",
       "Dopamine",
-      "Next Level"
+      "Next Level",
+      "Planet Waraq 3anab"
     ],
     "completed_pages": [
       1,
