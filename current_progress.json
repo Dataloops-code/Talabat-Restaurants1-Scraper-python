@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:22:51.805228",
+  "last_updated": "2025-04-09T07:24:38.367486",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -501,7 +501,8 @@
       "Bakery Factory",
       "Dream cake",
       "Platinum Fit",
-      "MISSION POKE BOWL"
+      "MISSION POKE BOWL",
+      "Revere Chocolate"
     ],
     "completed_pages": [
       1,
