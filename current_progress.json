@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:07:38.728942",
+  "last_updated": "2025-04-09T06:12:49.287943",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 57,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -559,7 +559,8 @@
       "MONOPRIX",
       "De Cuisine",
       "Baqal By Talabat",
-      "Al Yasmin Pharmacy"
+      "Al Yasmin Pharmacy",
+      "BATTLE OF THE BRANDS DESSERTS"
     ],
     "completed_pages": [
       1,
