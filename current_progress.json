@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T20:25:37.229419",
+  "last_updated": "2025-04-09T20:27:38.078997",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -629,7 +629,8 @@
       "BBQ Bros",
       "MISSION NOODLES",
       "Lineup fit",
-      "Iota Express"
+      "Iota Express",
+      "js bakery"
     ],
     "completed_pages": [
       1,
