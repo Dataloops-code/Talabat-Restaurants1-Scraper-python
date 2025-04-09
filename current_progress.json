@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:04:21.285981",
+  "last_updated": "2025-04-09T06:06:03.059965",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 57,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -553,7 +553,8 @@
       "Jawharat Lebanon Bakery",
       "MSG supermarket",
       "Dukkan",
-      "Triple 8"
+      "Triple 8",
+      "Al Mawashi"
     ],
     "completed_pages": [
       1,
