@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T17:18:38.470139",
+  "last_updated": "2025-04-09T17:18:47.004088",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -675,7 +675,8 @@
       "Dine",
       "SOUPA SALAD",
       "PROJECT HEALTHY BOWLS",
-      "MISSION NOODLES"
+      "MISSION NOODLES",
+      "Cake Queen"
     ],
     "completed_pages": [
       1,
