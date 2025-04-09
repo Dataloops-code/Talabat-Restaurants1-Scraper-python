@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T22:26:24.021012",
+  "last_updated": "2025-04-09T22:28:34.371548",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -668,7 +668,8 @@
       "Fatayer Mama Sheikha",
       "Noodles Town",
       "Delizio",
-      "The Fishery"
+      "The Fishery",
+      "Dar Hamad"
     ],
     "completed_pages": [
       1,
