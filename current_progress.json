@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T04:32:14.494764",
+  "last_updated": "2025-04-09T04:35:29.173501",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 54,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -530,7 +530,8 @@
       "Buffalo's Ranch",
       "Shawarma Kareem",
       "Tekka Lumee",
-      "Burger Inn"
+      "Burger Inn",
+      "Thinnies"
     ],
     "completed_pages": [
       1,
