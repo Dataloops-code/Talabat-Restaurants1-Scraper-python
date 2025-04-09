@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:47:06.522939",
+  "last_updated": "2025-04-09T23:53:38.968027",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 74,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -695,7 +695,8 @@
       "Nahma Restaurant",
       "Abe Sushi",
       "Vasantha Bhavan For Snacks",
-      "Dino"
+      "Dino",
+      "Fh Cuisine"
     ],
     "completed_pages": [
       1,
