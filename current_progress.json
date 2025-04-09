@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T19:12:41.255765",
+  "last_updated": "2025-04-09T19:15:09.982721",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 64,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -612,7 +612,8 @@
       "Biryani Rashid",
       "Oxygen Juice",
       "Instant Cake",
-      "CHAPATI ROTI"
+      "CHAPATI ROTI",
+      "Mexico City"
     ],
     "completed_pages": [
       1,
