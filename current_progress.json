@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:06:20.873291",
+  "last_updated": "2025-04-09T06:07:20.926951",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 57,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -556,7 +556,8 @@
       "Triple 8",
       "Al Mawashi",
       "Telefonati",
-      "MONOPRIX"
+      "MONOPRIX",
+      "De Cuisine"
     ],
     "completed_pages": [
       1,
