@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T14:58:09.834416",
+  "last_updated": "2025-04-09T14:59:13.925148",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 67,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -636,7 +636,8 @@
       "Planet Waraq 3anab",
       "Sweet Design",
       "Pastamania",
-      "HUMBLE BURGERS"
+      "HUMBLE BURGERS",
+      "Baka"
     ],
     "completed_pages": [
       1,
