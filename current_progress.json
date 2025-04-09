@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T04:35:29.173501",
+  "last_updated": "2025-04-09T04:37:44.434856",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 54,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -531,7 +531,8 @@
       "Shawarma Kareem",
       "Tekka Lumee",
       "Burger Inn",
-      "Thinnies"
+      "Thinnies",
+      "Shawarma Hatem"
     ],
     "completed_pages": [
       1,
