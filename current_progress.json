@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:44:51.363224",
+  "last_updated": "2025-04-09T06:45:52.396804",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 46,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -483,7 +483,8 @@
       "Yogland",
       "Protein King",
       "CEREAL VILLAINS ADVENTURE",
-      "Control Cuisine Malas"
+      "Control Cuisine Malas",
+      "Virona"
     ],
     "completed_pages": [
       1,
