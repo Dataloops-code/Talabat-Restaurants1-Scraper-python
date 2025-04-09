@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T12:23:25.533374",
+  "last_updated": "2025-04-09T12:25:17.002563",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 53,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -570,7 +570,8 @@
       "Genki Sushi",
       "CHAPATI ROTI",
       "Shawarma Factory",
-      "Dallah"
+      "Dallah",
+      "Marble Dates"
     ],
     "completed_pages": [
       1,
