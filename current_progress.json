@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T19:48:27.911087",
+  "last_updated": "2025-04-09T19:50:49.259714",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -615,7 +615,8 @@
       "CHAPATI ROTI",
       "Mexico City",
       "CHUBBY CREPES",
-      "Hala Rotana Juice"
+      "Hala Rotana Juice",
+      "Michigan Burger"
     ],
     "completed_pages": [
       1,
