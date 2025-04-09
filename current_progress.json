@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:29:53.160010",
+  "last_updated": "2025-04-09T23:32:15.775487",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 73,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -690,7 +690,8 @@
       "Villa Vanilla Bakery",
       "Chippy",
       "Chicken Choice",
-      "Ghrelin"
+      "Ghrelin",
+      "Nine"
     ],
     "completed_pages": [
       1,
