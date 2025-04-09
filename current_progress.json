@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T14:29:52.143150",
+  "last_updated": "2025-04-09T14:33:27.237079",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -628,7 +628,8 @@
       "Hunny's",
       "Happy Crescent",
       "Molten & Sweet",
-      "Bayt Al Joud"
+      "Bayt Al Joud",
+      "Sea Taste Restaurant"
     ],
     "completed_pages": [
       1,
