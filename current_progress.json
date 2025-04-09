@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T02:31:36.748094",
+  "last_updated": "2025-04-09T02:35:08.684728",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -493,7 +493,8 @@
       "CheeseCake Museum",
       "Chessy",
       "Konafa Habiba",
-      "Al kadi"
+      "Al kadi",
+      "Mustard Burger"
     ],
     "completed_pages": [
       1,
