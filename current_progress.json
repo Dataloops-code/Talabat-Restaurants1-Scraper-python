@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T02:11:21.923409",
+  "last_updated": "2025-04-09T02:19:05.475579",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 47,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -489,7 +489,8 @@
       "Caribou Coffee",
       "Cupncut",
       "Aaya Sweets",
-      "Wholesome"
+      "Wholesome",
+      "CheeseCake Museum"
     ],
     "completed_pages": [
       1,
