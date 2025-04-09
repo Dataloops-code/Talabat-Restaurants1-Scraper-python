@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T22:49:31.506906",
+  "last_updated": "2025-04-09T22:54:04.068498",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 72,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -676,7 +676,8 @@
       "Babak - Al-Qurain tmp",
       "Awasha",
       "Honey Yard",
-      "Bakery House"
+      "Bakery House",
+      "TONY`S PIZZA"
     ],
     "completed_pages": [
       1,
