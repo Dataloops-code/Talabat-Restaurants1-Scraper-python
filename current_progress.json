@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:45:38.826536",
+  "last_updated": "2025-04-09T21:47:57.457931",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 68,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -655,7 +655,8 @@
       "Laban X Laban",
       "Laymoona Kitchen",
       "The Chocolate Bar",
-      "Batata Mudahdah"
+      "Batata Mudahdah",
+      "FRD"
     ],
     "completed_pages": [
       1,
