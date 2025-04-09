@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T19:02:55.850826",
+  "last_updated": "2025-04-09T19:12:41.255765",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 64,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -611,7 +611,8 @@
       "Line Juice",
       "Biryani Rashid",
       "Oxygen Juice",
-      "Instant Cake"
+      "Instant Cake",
+      "CHAPATI ROTI"
     ],
     "completed_pages": [
       1,
