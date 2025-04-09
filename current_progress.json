@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T10:57:42.122252",
+  "last_updated": "2025-04-09T11:00:14.671724",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -551,7 +551,8 @@
       "Watani Kitchen",
       "Nando`s",
       "Chocolait Co",
-      "Control Carb"
+      "Control Carb",
+      "Cousto"
     ],
     "completed_pages": [
       1,
