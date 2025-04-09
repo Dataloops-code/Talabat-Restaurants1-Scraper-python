@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:51:49.045870",
+  "last_updated": "2025-04-09T03:54:11.092713",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -519,7 +519,8 @@
       "Big Elephant",
       "SUSHIANA RESTAURANT",
       "Ortakoy",
-      "89 eighty nine"
+      "89 eighty nine",
+      "Misto Restaurant"
     ],
     "completed_pages": [
       1,
