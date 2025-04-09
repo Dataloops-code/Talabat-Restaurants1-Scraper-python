@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:00:14.671724",
+  "last_updated": "2025-04-09T11:02:20.990419",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -552,7 +552,8 @@
       "Nando`s",
       "Chocolait Co",
       "Control Carb",
-      "Cousto"
+      "Cousto",
+      "FARAHAT"
     ],
     "completed_pages": [
       1,
