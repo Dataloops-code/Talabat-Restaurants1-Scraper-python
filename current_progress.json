@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T12:43:23.202422",
+  "last_updated": "2025-04-09T12:48:05.111623",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 64,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -607,7 +607,8 @@
       "Nuvola",
       "Monay Flowers",
       "Royal Pharmacy Express",
-      "Planet Donuts"
+      "Planet Donuts",
+      "PROJECT CHINESE EATERY"
     ],
     "completed_pages": [
       1,
