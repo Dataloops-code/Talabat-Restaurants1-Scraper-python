@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T04:26:21.113227",
+  "last_updated": "2025-04-09T04:30:01.598335",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 54,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -528,7 +528,8 @@
       "Mughal Mahal",
       "Emberech",
       "Buffalo's Ranch",
-      "Shawarma Kareem"
+      "Shawarma Kareem",
+      "Tekka Lumee"
     ],
     "completed_pages": [
       1,
