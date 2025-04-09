@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T22:46:41.506119",
+  "last_updated": "2025-04-09T22:49:22.552999",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 72,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -675,7 +675,8 @@
       "Le Relais De l`Entrecôte, Sabhan tmp",
       "Babak - Al-Qurain tmp",
       "Awasha",
-      "Honey Yard"
+      "Honey Yard",
+      "Bakery House"
     ],
     "completed_pages": [
       1,
