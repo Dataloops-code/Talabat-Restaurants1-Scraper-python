@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T16:54:03.546605",
+  "last_updated": "2025-04-09T16:56:03.807386",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -671,7 +671,8 @@
       "Great Burger Pasta",
       "HATCH CHICKEN",
       "Sabka",
-      "Al Dewan Kitchen"
+      "Al Dewan Kitchen",
+      "Dine"
     ],
     "completed_pages": [
       1,
