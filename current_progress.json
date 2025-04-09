@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:01:28.552187",
+  "last_updated": "2025-04-09T23:05:08.518926",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 72,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -679,7 +679,8 @@
       "Bakery House",
       "TONY`S PIZZA",
       "Dar Obona",
-      "Burger Location"
+      "Burger Location",
+      "Manama Kitchen"
     ],
     "completed_pages": [
       1,
