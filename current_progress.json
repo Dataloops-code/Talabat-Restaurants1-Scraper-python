@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:06:59.647068",
+  "last_updated": "2025-04-09T07:08:16.001195",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 47,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -495,7 +495,8 @@
       "Haleeb We Hail",
       "Web Burger",
       "Cal",
-      "Flare Burger"
+      "Flare Burger",
+      "AUNTY JUJUS"
     ],
     "completed_pages": [
       1,
