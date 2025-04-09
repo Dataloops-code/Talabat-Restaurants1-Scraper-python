@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:18:59.322199",
+  "last_updated": "2025-04-09T23:20:19.728302",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 73,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -684,7 +684,8 @@
       "Biryani Pot",
       "karak Mqanes",
       "Beit Ladan",
-      "Bo Arram"
+      "Bo Arram",
+      "Shrimpop"
     ],
     "completed_pages": [
       1,
