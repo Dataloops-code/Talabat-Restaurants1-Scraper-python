@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:02:20.990419",
+  "last_updated": "2025-04-09T11:03:36.363005",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -553,7 +553,8 @@
       "Chocolait Co",
       "Control Carb",
       "Cousto",
-      "FARAHAT"
+      "FARAHAT",
+      "88 Juice"
     ],
     "completed_pages": [
       1,
