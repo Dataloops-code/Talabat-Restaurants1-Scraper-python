@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:51:56.136682",
+  "last_updated": "2025-04-09T21:56:45.164477",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 68,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -657,7 +657,8 @@
       "The Chocolate Bar",
       "Batata Mudahdah",
       "FRD",
-      "fatty dab's burger shack"
+      "fatty dab's burger shack",
+      "Mais Alghanim"
     ],
     "completed_pages": [
       1,
