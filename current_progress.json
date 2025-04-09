@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:08:25.966856",
+  "last_updated": "2025-04-09T07:10:37.908663",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 47,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -496,7 +496,8 @@
       "Web Burger",
       "Cal",
       "Flare Burger",
-      "AUNTY JUJUS"
+      "AUNTY JUJUS",
+      "Sweet Althabiah"
     ],
     "completed_pages": [
       1,
