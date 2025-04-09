@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T18:50:50.089638",
+  "last_updated": "2025-04-09T18:52:18.517047",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 64,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -608,7 +608,8 @@
       "Monay Flowers",
       "Royal Pharmacy Express",
       "THE LAST PIZZA",
-      "Line Juice"
+      "Line Juice",
+      "Biryani Rashid"
     ],
     "completed_pages": [
       1,
