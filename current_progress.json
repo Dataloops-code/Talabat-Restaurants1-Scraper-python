@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T08:20:14.886556",
+  "last_updated": "2025-04-09T08:21:58.300002",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 49,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -516,7 +516,8 @@
       "Neqsa",
       "life with cacao",
       "Al Nabulsi Sweets",
-      "Sale Sucre"
+      "Sale Sucre",
+      "Wee Gather"
     ],
     "completed_pages": [
       1,
