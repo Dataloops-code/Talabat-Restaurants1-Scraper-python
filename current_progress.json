@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T13:48:05.729484",
+  "last_updated": "2025-04-09T13:49:20.874533",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -613,7 +613,8 @@
       "3aks Al Ser Juices",
       "The Top",
       "World Of Fruit",
-      "Pixi Bakery"
+      "Pixi Bakery",
+      "Pinki Burger"
     ],
     "completed_pages": [
       1,
