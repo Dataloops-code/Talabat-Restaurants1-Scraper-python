@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:06:03.059965",
+  "last_updated": "2025-04-09T06:06:12.897139",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 57,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -554,7 +554,8 @@
       "MSG supermarket",
       "Dukkan",
       "Triple 8",
-      "Al Mawashi"
+      "Al Mawashi",
+      "Telefonati"
     ],
     "completed_pages": [
       1,
