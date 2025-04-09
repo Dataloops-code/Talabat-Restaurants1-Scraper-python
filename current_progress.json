@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T16:27:11.844420",
+  "last_updated": "2025-04-09T16:34:11.284799",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -663,7 +663,8 @@
       "Lucky Bun, Mahboula tgo",
       "Hail W Zaafran",
       "Maliki Rashid",
-      "China Town"
+      "China Town",
+      "SHAWARMA VILLAINS ADVENTURE"
     ],
     "completed_pages": [
       1,
