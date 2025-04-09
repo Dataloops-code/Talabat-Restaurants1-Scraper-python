@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T10:47:16.121393",
+  "last_updated": "2025-04-09T10:48:36.112452",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -549,7 +549,8 @@
       "Fatayer Flamingo",
       "Bistro Kuwait",
       "Watani Kitchen",
-      "Nando`s"
+      "Nando`s",
+      "Chocolait Co"
     ],
     "completed_pages": [
       1,
