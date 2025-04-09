@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:24:41.471983",
+  "last_updated": "2025-04-09T03:29:31.702702",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 51,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -511,7 +511,8 @@
       "Li Xin",
       "The Grounded Cow",
       "88 Juice",
-      "Vibes Coffee"
+      "Vibes Coffee",
+      "AlKanafani"
     ],
     "completed_pages": [
       1,
