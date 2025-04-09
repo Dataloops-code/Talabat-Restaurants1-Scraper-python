@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T02:41:50.705884",
+  "last_updated": "2025-04-09T02:44:26.851941",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -496,7 +496,8 @@
       "Al kadi",
       "Mustard Burger",
       "Shawarma Shuwaikh",
-      "Taco Street"
+      "Taco Street",
+      "Maki Express"
     ],
     "completed_pages": [
       1,
