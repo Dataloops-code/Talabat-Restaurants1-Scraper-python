@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T04:46:28.969090",
+  "last_updated": "2025-04-09T04:50:19.499160",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 55,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -534,7 +534,8 @@
       "Thinnies",
       "Shawarma Hatem",
       "Lavena",
-      "Lina's & Dina's Diet Center"
+      "Lina's & Dina's Diet Center",
+      "Altousha"
     ],
     "completed_pages": [
       1,
