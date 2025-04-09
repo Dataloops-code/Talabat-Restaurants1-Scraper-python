@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T14:14:51.275677",
+  "last_updated": "2025-04-09T14:16:58.785330",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -622,7 +622,8 @@
       "the bite house",
       "Kushi Biryani",
       "JUMBARI FISH RESTAURANT",
-      "Marahib Dubai"
+      "Marahib Dubai",
+      "Instant Cake"
     ],
     "completed_pages": [
       1,
