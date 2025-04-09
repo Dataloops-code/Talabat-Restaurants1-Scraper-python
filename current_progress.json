@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T09:32:18.677597",
+  "last_updated": "2025-04-09T09:33:58.522959",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 50,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -532,7 +532,8 @@
       "Eighty Five Eatery",
       "Wahat Al Bustan",
       "HUMBLE BURGERS",
-      "Aspro"
+      "Aspro",
+      "Pistrino"
     ],
     "completed_pages": [
       1,
