@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:25:29.196184",
+  "last_updated": "2025-04-09T23:27:11.431215",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 73,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -687,7 +687,8 @@
       "Bo Arram",
       "Shrimpop",
       "Okra By Masgouf",
-      "Villa Vanilla Bakery"
+      "Villa Vanilla Bakery",
+      "Chippy"
     ],
     "completed_pages": [
       1,
