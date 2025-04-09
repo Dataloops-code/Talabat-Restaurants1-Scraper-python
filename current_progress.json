@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:15:28.155836",
+  "last_updated": "2025-04-09T07:17:11.935219",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -499,7 +499,8 @@
       "AUNTY JUJUS",
       "Sweet Althabiah",
       "Bakery Factory",
-      "Dream cake"
+      "Dream cake",
+      "Platinum Fit"
     ],
     "completed_pages": [
       1,
