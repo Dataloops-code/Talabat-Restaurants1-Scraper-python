@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T22:03:56.186203",
+  "last_updated": "2025-04-09T22:08:21.869087",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 69,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -660,7 +660,8 @@
       "fatty dab's burger shack",
       "Mais Alghanim",
       "Elite Sweet",
-      "Little Ruby's"
+      "Little Ruby's",
+      "Urban"
     ],
     "completed_pages": [
       1,
