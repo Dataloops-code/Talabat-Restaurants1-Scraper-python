@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:19:08.223178",
+  "last_updated": "2025-04-09T03:20:19.633752",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 50,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -509,7 +509,8 @@
       "One Sushi",
       "Crops",
       "Li Xin",
-      "The Grounded Cow"
+      "The Grounded Cow",
+      "88 Juice"
     ],
     "completed_pages": [
       1,
