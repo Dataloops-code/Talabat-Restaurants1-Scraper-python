@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T10:36:23.272754",
+  "last_updated": "2025-04-09T10:41:24.685841",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -547,7 +547,8 @@
       "Fluffy Desserts",
       "Laban X Laban",
       "Fatayer Flamingo",
-      "Bistro Kuwait"
+      "Bistro Kuwait",
+      "Watani Kitchen"
     ],
     "completed_pages": [
       1,
