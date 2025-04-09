@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:03:39.809763",
+  "last_updated": "2025-04-09T21:06:38.253313",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -635,7 +635,8 @@
       "PANCAKE RUSH",
       "PROJECT HOTDOGS",
       "Lazeez Corner",
-      "Ghair"
+      "Ghair",
+      "Kabsa w daqqous"
     ],
     "completed_pages": [
       1,
