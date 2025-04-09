@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:14:32.604460",
+  "last_updated": "2025-04-09T03:15:43.628959",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 50,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -507,7 +507,8 @@
       "Mafroukeh",
       "Sushi Juntion",
       "One Sushi",
-      "Crops"
+      "Crops",
+      "Li Xin"
     ],
     "completed_pages": [
       1,
