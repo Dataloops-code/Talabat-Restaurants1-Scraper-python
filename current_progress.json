@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T19:59:55.817628",
+  "last_updated": "2025-04-09T20:01:37.107764",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -619,7 +619,8 @@
       "Michigan Burger",
       "Bun Panther",
       "PROPER STEAK SANDWICHES",
-      "Mallah Village Restaurant"
+      "Mallah Village Restaurant",
+      "Ridleys Burger"
     ],
     "completed_pages": [
       1,
