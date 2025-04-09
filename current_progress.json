@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:24:23.369037",
+  "last_updated": "2025-04-09T11:25:56.542336",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 53,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -559,7 +559,8 @@
       "Happy Ellie",
       "BBQ Burger",
       "Logymat house",
-      "Fateer Wa Teer"
+      "Fateer Wa Teer",
+      "Sweet me"
     ],
     "completed_pages": [
       1,
