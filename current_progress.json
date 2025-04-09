@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T15:54:29.336265",
+  "last_updated": "2025-04-09T16:02:31.338810",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 69,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -654,7 +654,8 @@
       "ZN Burger",
       "Noodles Town",
       "TONY`S PIZZA",
-      "SubStop"
+      "SubStop",
+      "Oxygen Juice"
     ],
     "completed_pages": [
       1,
