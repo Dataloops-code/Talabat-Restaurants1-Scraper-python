@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T05:58:32.897291",
+  "last_updated": "2025-04-09T06:00:51.368967",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 56,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -545,7 +545,8 @@
       "Top juice",
       "Gravity",
       "GIA To Go",
-      "Artista"
+      "Artista",
+      "Chestnut"
     ],
     "completed_pages": [
       1,
