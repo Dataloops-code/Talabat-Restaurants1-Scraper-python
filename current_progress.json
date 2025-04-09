@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T18:19:22.956682",
+  "last_updated": "2025-04-09T18:24:39.736583",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 72,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -693,7 +693,8 @@
       "Jar's Burger",
       "Hungr",
       "Cake Taj",
-      "EGG SQUARED"
+      "EGG SQUARED",
+      "BREAKFAST RUSH"
     ],
     "completed_pages": [
       1,
