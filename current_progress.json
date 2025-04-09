@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T18:11:12.687392",
+  "last_updated": "2025-04-09T18:12:58.442268",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 72,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -690,7 +690,8 @@
       "Fresh Mozzarella",
       "Azar",
       "Haroon",
-      "Jar's Burger"
+      "Jar's Burger",
+      "Hungr"
     ],
     "completed_pages": [
       1,
