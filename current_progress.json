@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T10:17:10.643321",
+  "last_updated": "2025-04-09T10:20:04.232487",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 51,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -541,7 +541,8 @@
       "MISSION NOODLES",
       "Ben's cookies",
       "Sushi Beirut",
-      "Shawarma & Grill"
+      "Shawarma & Grill",
+      "Blogger Meem"
     ],
     "completed_pages": [
       1,
