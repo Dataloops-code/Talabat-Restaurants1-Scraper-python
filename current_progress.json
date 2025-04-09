@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T17:36:31.319430",
+  "last_updated": "2025-04-09T17:39:30.034041",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 71,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -681,7 +681,8 @@
       "Candy Cake",
       "Aish Malek",
       "Zayer",
-      "Shaikh Al Mandi"
+      "Shaikh Al Mandi",
+      "The Dragon"
     ],
     "completed_pages": [
       1,
