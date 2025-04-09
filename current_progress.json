@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T14:08:02.975283",
+  "last_updated": "2025-04-09T14:10:29.819839",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -620,7 +620,8 @@
       "Wahed Aseer",
       "Victoria",
       "the bite house",
-      "Kushi Biryani"
+      "Kushi Biryani",
+      "JUMBARI FISH RESTAURANT"
     ],
     "completed_pages": [
       1,
