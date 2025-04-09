@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T09:00:55.961232",
+  "last_updated": "2025-04-09T09:02:42.861973",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 49,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -525,7 +525,8 @@
       "Perhaps",
       "Kotton",
       "XO JUICE",
-      "MISSION SUSHI"
+      "MISSION SUSHI",
+      "the bite house"
     ],
     "completed_pages": [
       1,
