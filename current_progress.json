@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T14:02:58.391342",
+  "last_updated": "2025-04-09T14:04:47.002962",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -618,7 +618,8 @@
       "League",
       "Bukhari house",
       "Wahed Aseer",
-      "Victoria"
+      "Victoria",
+      "the bite house"
     ],
     "completed_pages": [
       1,
