@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:22:09.415779",
+  "last_updated": "2025-04-09T23:25:29.196184",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 73,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -686,7 +686,8 @@
       "Beit Ladan",
       "Bo Arram",
       "Shrimpop",
-      "Okra By Masgouf"
+      "Okra By Masgouf",
+      "Villa Vanilla Bakery"
     ],
     "completed_pages": [
       1,
