@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T13:21:59.358988",
+  "last_updated": "2025-04-09T13:43:34.493553",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 64,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -611,7 +611,8 @@
       "PROJECT CHINESE EATERY",
       "Hazan",
       "3aks Al Ser Juices",
-      "The Top"
+      "The Top",
+      "World Of Fruit"
     ],
     "completed_pages": [
       1,
