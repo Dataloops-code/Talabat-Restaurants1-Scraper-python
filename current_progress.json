@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T15:42:19.509915",
+  "last_updated": "2025-04-09T15:48:30.386028",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 68,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -652,7 +652,8 @@
       "Snack Gourmet",
       "Dose Cafe",
       "ZN Burger",
-      "Noodles Town"
+      "Noodles Town",
+      "TONY`S PIZZA"
     ],
     "completed_pages": [
       1,
