@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:25:59.782675",
+  "last_updated": "2025-04-09T21:29:50.787264",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 67,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -647,7 +647,8 @@
       "Vigonovo",
       "Loop",
       "Nawara Original",
-      "Bu6a6tna"
+      "Bu6a6tna",
+      "DOH"
     ],
     "completed_pages": [
       1,
