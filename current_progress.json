@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T16:18:28.759341",
+  "last_updated": "2025-04-09T16:20:13.356671",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 69,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -659,7 +659,8 @@
       "Aysh Express",
       "PROJECT PIZZA",
       "Sushi Club",
-      "Bree"
+      "Bree",
+      "Lucky Bun, Mahboula tgo"
     ],
     "completed_pages": [
       1,
