@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:25:56.542336",
+  "last_updated": "2025-04-09T11:27:08.266934",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 53,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -560,7 +560,8 @@
       "BBQ Burger",
       "Logymat house",
       "Fateer Wa Teer",
-      "Sweet me"
+      "Sweet me",
+      "TULE BAKERY"
     ],
     "completed_pages": [
       1,
