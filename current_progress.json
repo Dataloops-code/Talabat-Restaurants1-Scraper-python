@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T15:39:05.725179",
+  "last_updated": "2025-04-09T15:40:21.577292",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 68,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -650,7 +650,8 @@
       "295 Lb",
       "Tikka Khaleel",
       "Snack Gourmet",
-      "Dose Cafe"
+      "Dose Cafe",
+      "ZN Burger"
     ],
     "completed_pages": [
       1,
