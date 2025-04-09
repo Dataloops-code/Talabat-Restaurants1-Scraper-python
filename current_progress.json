@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T08:11:21.212058",
+  "last_updated": "2025-04-09T08:13:06.938368",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 49,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -513,7 +513,8 @@
       "Line Juice",
       "Kateh",
       "SUSHI WORKSHOP",
-      "Neqsa"
+      "Neqsa",
+      "life with cacao"
     ],
     "completed_pages": [
       1,
