@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T16:16:54.951367",
+  "last_updated": "2025-04-09T16:18:28.759341",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 69,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -658,7 +658,8 @@
       "Oxygen Juice",
       "Aysh Express",
       "PROJECT PIZZA",
-      "Sushi Club"
+      "Sushi Club",
+      "Bree"
     ],
     "completed_pages": [
       1,
