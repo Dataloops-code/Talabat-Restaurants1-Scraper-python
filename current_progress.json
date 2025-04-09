@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T20:14:14.768357",
+  "last_updated": "2025-04-09T20:15:19.891237",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -625,7 +625,8 @@
       "TARO SUSHI",
       "Intoku Restaurant",
       "chocolada",
-      "Black Mushroom"
+      "Black Mushroom",
+      "BBQ Bros"
     ],
     "completed_pages": [
       1,
