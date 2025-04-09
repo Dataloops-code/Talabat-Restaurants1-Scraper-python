@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:14:49.890795",
+  "last_updated": "2025-04-09T11:16:46.041264",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -557,7 +557,8 @@
       "88 Juice",
       "kabsin",
       "Happy Ellie",
-      "BBQ Burger"
+      "BBQ Burger",
+      "Logymat house"
     ],
     "completed_pages": [
       1,
