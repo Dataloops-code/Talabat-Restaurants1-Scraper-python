@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:17:12.316535",
+  "last_updated": "2025-04-09T21:18:21.957069",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 67,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -641,7 +641,8 @@
       "Mood",
       "Kababji Al Jood",
       "Jawharat Khaitan",
-      "Ben Mandeel"
+      "Ben Mandeel",
+      "Fyonka"
     ],
     "completed_pages": [
       1,
