@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:48:18.738146",
+  "last_updated": "2025-04-09T12:00:35.533871",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 53,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -565,7 +565,8 @@
       "Papa John's Pizza",
       "JUNKYARD",
       "Delicious Cakes",
-      "295 Lb"
+      "295 Lb",
+      "Boordqa"
     ],
     "completed_pages": [
       1,
