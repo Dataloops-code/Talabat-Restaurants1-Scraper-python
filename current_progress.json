@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T02:49:03.646880",
+  "last_updated": "2025-04-09T02:53:49.804638",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 49,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -499,7 +499,8 @@
       "Taco Street",
       "Maki Express",
       "Bm Sweet",
-      "BRIOCHE HOUSE"
+      "BRIOCHE HOUSE",
+      "Kashounat Al Bait"
     ],
     "completed_pages": [
       1,
