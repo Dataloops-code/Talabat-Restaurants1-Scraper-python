@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:34:51.346487",
+  "last_updated": "2025-04-09T11:42:11.076982",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 53,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -562,7 +562,8 @@
       "Fateer Wa Teer",
       "Sweet me",
       "TULE BAKERY",
-      "Papa John's Pizza"
+      "Papa John's Pizza",
+      "JUNKYARD"
     ],
     "completed_pages": [
       1,
