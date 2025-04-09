@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:04:13.398588",
+  "last_updated": "2025-04-09T06:04:21.285981",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 57,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -552,7 +552,8 @@
       "Alf Leila Wa Leila Grocery",
       "Jawharat Lebanon Bakery",
       "MSG supermarket",
-      "Dukkan"
+      "Dukkan",
+      "Triple 8"
     ],
     "completed_pages": [
       1,
