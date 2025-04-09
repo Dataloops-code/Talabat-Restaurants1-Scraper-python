@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T01:56:55.319312",
+  "last_updated": "2025-04-09T02:03:44.415452",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 47,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -485,7 +485,8 @@
       "Azaim",
       "Forevermore",
       "TOBO",
-      "Liken chicken"
+      "Liken chicken",
+      "Caribou Coffee"
     ],
     "completed_pages": [
       1,
