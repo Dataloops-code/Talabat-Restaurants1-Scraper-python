@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:38:27.627987",
+  "last_updated": "2025-04-09T06:43:23.754052",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 46,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -481,7 +481,8 @@
       "Shubak",
       "Carmen",
       "Yogland",
-      "Protein King"
+      "Protein King",
+      "CEREAL VILLAINS ADVENTURE"
     ],
     "completed_pages": [
       1,
