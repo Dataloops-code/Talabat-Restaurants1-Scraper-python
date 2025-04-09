@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T09:33:58.522959",
+  "last_updated": "2025-04-09T09:58:38.625854",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 50,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -533,7 +533,8 @@
       "Wahat Al Bustan",
       "HUMBLE BURGERS",
       "Aspro",
-      "Pistrino"
+      "Pistrino",
+      "Loz wa Moz Juice"
     ],
     "completed_pages": [
       1,
