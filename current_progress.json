@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T17:23:05.818785",
+  "last_updated": "2025-04-09T17:26:17.842175",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 71,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -677,7 +677,8 @@
       "PROJECT HEALTHY BOWLS",
       "MISSION NOODLES",
       "Cake Queen",
-      "FOOD ADVENTURE BYO"
+      "FOOD ADVENTURE BYO",
+      "Candy Cake"
     ],
     "completed_pages": [
       1,
