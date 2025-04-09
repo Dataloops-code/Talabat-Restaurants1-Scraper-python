@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:33:35.933825",
+  "last_updated": "2025-04-09T03:37:09.376511",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -513,7 +513,8 @@
       "88 Juice",
       "Vibes Coffee",
       "AlKanafani",
-      "Afghan Bukhari"
+      "Afghan Bukhari",
+      "OPT Coffee"
     ],
     "completed_pages": [
       1,
