@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:14:19.454534",
+  "last_updated": "2025-04-09T06:17:32.387830",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 58,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -562,7 +562,8 @@
       "Al Yasmin Pharmacy",
       "BATTLE OF THE BRANDS DESSERTS",
       "101 Kids Toys",
-      "GulfMart by Talabat"
+      "GulfMart by Talabat",
+      "Aromas Golden"
     ],
     "completed_pages": [
       1,
