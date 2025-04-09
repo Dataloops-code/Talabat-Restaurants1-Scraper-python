@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:37:09.376511",
+  "last_updated": "2025-04-09T03:39:00.363193",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -514,7 +514,8 @@
       "Vibes Coffee",
       "AlKanafani",
       "Afghan Bukhari",
-      "OPT Coffee"
+      "OPT Coffee",
+      "Midye Box"
     ],
     "completed_pages": [
       1,
