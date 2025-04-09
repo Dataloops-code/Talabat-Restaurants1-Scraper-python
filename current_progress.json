@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T16:50:37.378408",
+  "last_updated": "2025-04-09T16:52:10.180752",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -669,7 +669,8 @@
       "Urge",
       "MEXICANO CANTEEN",
       "Great Burger Pasta",
-      "HATCH CHICKEN"
+      "HATCH CHICKEN",
+      "Sabka"
     ],
     "completed_pages": [
       1,
