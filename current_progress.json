@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:32:12.681919",
+  "last_updated": "2025-04-09T21:34:39.192522",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 68,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -649,7 +649,8 @@
       "Nawara Original",
       "Bu6a6tna",
       "DOH",
-      "Starbucks, Dhaher"
+      "Starbucks, Dhaher",
+      "Super Malghoum"
     ],
     "completed_pages": [
       1,
