@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T14:20:33.913379",
+  "last_updated": "2025-04-09T14:23:48.149308",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -624,7 +624,8 @@
       "JUMBARI FISH RESTAURANT",
       "Marahib Dubai",
       "Instant Cake",
-      "Mexico City"
+      "Mexico City",
+      "Hunny's"
     ],
     "completed_pages": [
       1,
