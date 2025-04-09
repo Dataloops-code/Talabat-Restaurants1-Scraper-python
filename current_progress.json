@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:55:32.281837",
+  "last_updated": "2025-04-09T23:56:47.706552",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 74,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -697,7 +697,8 @@
       "Vasantha Bhavan For Snacks",
       "Dino",
       "Fh Cuisine",
-      "Alrifai For Sweets And Pastries"
+      "Alrifai For Sweets And Pastries",
+      "Deyay T"
     ],
     "completed_pages": [
       1,
