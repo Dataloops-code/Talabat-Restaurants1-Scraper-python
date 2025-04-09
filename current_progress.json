@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T22:14:10.979334",
+  "last_updated": "2025-04-09T22:18:41.998154",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -663,7 +663,8 @@
       "Little Ruby's",
       "Urban",
       "Akelna Mahyouf",
-      "Three Fat Cows"
+      "Three Fat Cows",
+      "Midan AlSham"
     ],
     "completed_pages": [
       1,
