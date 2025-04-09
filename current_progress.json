@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:03:12.214841",
+  "last_updated": "2025-04-09T07:04:13.852292",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 47,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -493,7 +493,8 @@
       "JZ Chocolates",
       "Al Dhaher Arabian Bakery",
       "Haleeb We Hail",
-      "Web Burger"
+      "Web Burger",
+      "Cal"
     ],
     "completed_pages": [
       1,
