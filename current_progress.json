@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T20:27:38.078997",
+  "last_updated": "2025-04-09T20:47:03.997742",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -630,7 +630,8 @@
       "MISSION NOODLES",
       "Lineup fit",
       "Iota Express",
-      "js bakery"
+      "js bakery",
+      "Toot Beirut Juice"
     ],
     "completed_pages": [
       1,
