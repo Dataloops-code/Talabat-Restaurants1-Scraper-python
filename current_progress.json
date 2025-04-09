@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T19:24:01.185057",
+  "last_updated": "2025-04-09T19:48:27.911087",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -614,7 +614,8 @@
       "Instant Cake",
       "CHAPATI ROTI",
       "Mexico City",
-      "CHUBBY CREPES"
+      "CHUBBY CREPES",
+      "Hala Rotana Juice"
     ],
     "completed_pages": [
       1,
