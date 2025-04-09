@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:21:25.996950",
+  "last_updated": "2025-04-09T21:22:56.899894",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 67,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -644,7 +644,8 @@
       "Ben Mandeel",
       "Fyonka",
       "Mr Burger",
-      "Vigonovo"
+      "Vigonovo",
+      "Loop"
     ],
     "completed_pages": [
       1,
