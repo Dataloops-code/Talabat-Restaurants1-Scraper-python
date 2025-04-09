@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:34:47.957614",
+  "last_updated": "2025-04-09T21:38:14.614650",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 68,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -650,7 +650,8 @@
       "Bu6a6tna",
       "DOH",
       "Starbucks, Dhaher",
-      "Super Malghoum"
+      "Super Malghoum",
+      "Palm & Berdawny Restaurant"
     ],
     "completed_pages": [
       1,
