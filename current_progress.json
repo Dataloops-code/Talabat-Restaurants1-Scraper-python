@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:28:00.249413",
+  "last_updated": "2025-04-09T07:31:46.687513",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -503,7 +503,8 @@
       "Platinum Fit",
       "MISSION POKE BOWL",
       "Revere Chocolate",
-      "Candy Cake"
+      "Candy Cake",
+      "THE HEALTH EXPRESS"
     ],
     "completed_pages": [
       1,
