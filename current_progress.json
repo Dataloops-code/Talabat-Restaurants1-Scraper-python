@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:02:31.222264",
+  "last_updated": "2025-04-09T06:02:39.120307",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 57,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -548,7 +548,8 @@
       "Artista",
       "Chestnut",
       "Choco Alo",
-      "Al Hafez Pharmacy"
+      "Al Hafez Pharmacy",
+      "Alf Leila Wa Leila Grocery"
     ],
     "completed_pages": [
       1,
