@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:33:01.787105",
+  "last_updated": "2025-04-09T07:34:03.241876",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -505,7 +505,8 @@
       "Revere Chocolate",
       "Candy Cake",
       "THE HEALTH EXPRESS",
-      "Malvih Pastry And Sweet"
+      "Malvih Pastry And Sweet",
+      "Segreto"
     ],
     "completed_pages": [
       1,
