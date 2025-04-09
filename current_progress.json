@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T07:59:31.312358",
+  "last_updated": "2025-04-09T08:02:32.041421",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -510,7 +510,8 @@
       "Seven Seasons",
       "Al Roushena",
       "Hive Cake",
-      "Line Juice"
+      "Line Juice",
+      "Kateh"
     ],
     "completed_pages": [
       1,
