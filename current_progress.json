@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T05:07:29.793395",
+  "last_updated": "2025-04-09T05:11:08.886586",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 56,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -539,7 +539,8 @@
       "The Corn Club",
       "Pistachio Desserts & Caffee",
       "Tashakurat Al Turkii",
-      "Amiti Noura"
+      "Amiti Noura",
+      "MUG COFFEE & ROASTERY"
     ],
     "completed_pages": [
       1,
