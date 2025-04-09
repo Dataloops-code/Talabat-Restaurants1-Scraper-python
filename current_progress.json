@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T02:47:55.190090",
+  "last_updated": "2025-04-09T02:49:03.646880",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 49,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -498,7 +498,8 @@
       "Shawarma Shuwaikh",
       "Taco Street",
       "Maki Express",
-      "Bm Sweet"
+      "Bm Sweet",
+      "BRIOCHE HOUSE"
     ],
     "completed_pages": [
       1,
