@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T20:22:26.921890",
+  "last_updated": "2025-04-09T20:24:23.069916",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -627,7 +627,8 @@
       "chocolada",
       "Black Mushroom",
       "BBQ Bros",
-      "MISSION NOODLES"
+      "MISSION NOODLES",
+      "Lineup fit"
     ],
     "completed_pages": [
       1,
