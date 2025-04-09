@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T15:35:08.053079",
+  "last_updated": "2025-04-09T15:39:05.725179",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 68,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -649,7 +649,8 @@
       "Le Pier",
       "295 Lb",
       "Tikka Khaleel",
-      "Snack Gourmet"
+      "Snack Gourmet",
+      "Dose Cafe"
     ],
     "completed_pages": [
       1,
