@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T18:37:56.656460",
+  "last_updated": "2025-04-09T18:50:50.089638",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 64,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -607,7 +607,8 @@
       "Nuvola",
       "Monay Flowers",
       "Royal Pharmacy Express",
-      "THE LAST PIZZA"
+      "THE LAST PIZZA",
+      "Line Juice"
     ],
     "completed_pages": [
       1,
