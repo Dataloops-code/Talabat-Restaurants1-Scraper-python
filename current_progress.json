@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T08:37:19.061384",
+  "last_updated": "2025-04-09T08:54:57.752779",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 49,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -523,7 +523,8 @@
       "China Great Wall",
       "Sky Zone",
       "Perhaps",
-      "Kotton"
+      "Kotton",
+      "XO JUICE"
     ],
     "completed_pages": [
       1,
