@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T11:11:12.329605",
+  "last_updated": "2025-04-09T11:14:49.890795",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 52,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -556,7 +556,8 @@
       "FARAHAT",
       "88 Juice",
       "kabsin",
-      "Happy Ellie"
+      "Happy Ellie",
+      "BBQ Burger"
     ],
     "completed_pages": [
       1,
