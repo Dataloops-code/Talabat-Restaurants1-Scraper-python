@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T17:11:18.305217",
+  "last_updated": "2025-04-09T17:18:38.470139",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 70,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -674,7 +674,8 @@
       "Al Dewan Kitchen",
       "Dine",
       "SOUPA SALAD",
-      "PROJECT HEALTHY BOWLS"
+      "PROJECT HEALTHY BOWLS",
+      "MISSION NOODLES"
     ],
     "completed_pages": [
       1,
