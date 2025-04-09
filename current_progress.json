@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T03:55:57.839952",
+  "last_updated": "2025-04-09T03:58:30.116961",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 53,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -520,7 +520,8 @@
       "SUSHIANA RESTAURANT",
       "Ortakoy",
       "89 eighty nine",
-      "Misto Restaurant"
+      "Misto Restaurant",
+      "Simsim"
     ],
     "completed_pages": [
       1,
