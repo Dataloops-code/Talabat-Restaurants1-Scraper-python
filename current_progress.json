@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T15:09:14.444062",
+  "last_updated": "2025-04-09T15:10:57.439595",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 67,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -640,7 +640,8 @@
       "Baka",
       "Slider Store",
       "Adani Restaurant",
-      "Thrones Burger"
+      "Thrones Burger",
+      "Noun Sweet"
     ],
     "completed_pages": [
       1,
