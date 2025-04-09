@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T19:50:49.259714",
+  "last_updated": "2025-04-09T19:52:41.543672",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 65,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -616,7 +616,8 @@
       "Mexico City",
       "CHUBBY CREPES",
       "Hala Rotana Juice",
-      "Michigan Burger"
+      "Michigan Burger",
+      "Bun Panther"
     ],
     "completed_pages": [
       1,
