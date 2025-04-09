@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T20:15:38.330314",
+  "last_updated": "2025-04-09T20:22:26.921890",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -626,7 +626,8 @@
       "Intoku Restaurant",
       "chocolada",
       "Black Mushroom",
-      "BBQ Bros"
+      "BBQ Bros",
+      "MISSION NOODLES"
     ],
     "completed_pages": [
       1,
