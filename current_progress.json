@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T21:14:58.142579",
+  "last_updated": "2025-04-09T21:16:53.334307",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -640,7 +640,8 @@
       "Abby BRGR",
       "Mood",
       "Kababji Al Jood",
-      "Jawharat Khaitan"
+      "Jawharat Khaitan",
+      "Ben Mandeel"
     ],
     "completed_pages": [
       1,
