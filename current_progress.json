@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T02:38:22.610176",
+  "last_updated": "2025-04-09T02:41:26.695580",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 48,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -495,7 +495,8 @@
       "Konafa Habiba",
       "Al kadi",
       "Mustard Burger",
-      "Shawarma Shuwaikh"
+      "Shawarma Shuwaikh",
+      "Taco Street"
     ],
     "completed_pages": [
       1,
