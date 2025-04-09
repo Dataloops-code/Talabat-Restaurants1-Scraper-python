@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T16:21:43.178630",
+  "last_updated": "2025-04-09T16:23:24.513287",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 69,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -661,7 +661,8 @@
       "Sushi Club",
       "Bree",
       "Lucky Bun, Mahboula tgo",
-      "Hail W Zaafran"
+      "Hail W Zaafran",
+      "Maliki Rashid"
     ],
     "completed_pages": [
       1,
