@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T12:49:59.145355",
+  "last_updated": "2025-04-09T12:58:17.909124",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 64,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -609,7 +609,8 @@
       "Royal Pharmacy Express",
       "Planet Donuts",
       "PROJECT CHINESE EATERY",
-      "Hazan"
+      "Hazan",
+      "3aks Al Ser Juices"
     ],
     "completed_pages": [
       1,
