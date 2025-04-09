@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T06:07:30.867685",
+  "last_updated": "2025-04-09T06:07:38.728942",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 57,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -558,7 +558,8 @@
       "Telefonati",
       "MONOPRIX",
       "De Cuisine",
-      "Baqal By Talabat"
+      "Baqal By Talabat",
+      "Al Yasmin Pharmacy"
     ],
     "completed_pages": [
       1,
