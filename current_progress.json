@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T20:54:04.610352",
+  "last_updated": "2025-04-09T20:57:06.072020",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -632,7 +632,8 @@
       "Iota Express",
       "js bakery",
       "Toot Beirut Juice",
-      "PANCAKE RUSH"
+      "PANCAKE RUSH",
+      "PROJECT HOTDOGS"
     ],
     "completed_pages": [
       1,
