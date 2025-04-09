@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T20:24:23.069916",
+  "last_updated": "2025-04-09T20:25:37.229419",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 66,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -628,7 +628,8 @@
       "Black Mushroom",
       "BBQ Bros",
       "MISSION NOODLES",
-      "Lineup fit"
+      "Lineup fit",
+      "Iota Express"
     ],
     "completed_pages": [
       1,
