@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T18:08:21.651136",
+  "last_updated": "2025-04-09T18:10:01.809393",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 72,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -688,7 +688,8 @@
       "Chapatti Rashid khan",
       "Mama Joza",
       "Fresh Mozzarella",
-      "Azar"
+      "Azar",
+      "Haroon"
     ],
     "completed_pages": [
       1,
