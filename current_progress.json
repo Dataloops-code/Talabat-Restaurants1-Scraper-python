@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:00:49.016588",
+  "last_updated": "2025-04-10T18:00:57.285973",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -992,7 +992,8 @@
       "Gulf store",
       "Baity Roastery",
       "HSquare",
-      "Dukan Sainsbury`s"
+      "Dukan Sainsbury`s",
+      "Al lotus"
     ],
     "completed_pages": [
       1,
