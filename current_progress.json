@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:51:15.723411",
+  "last_updated": "2025-04-10T05:05:20.783597",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 84,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -778,7 +778,8 @@
       "Roy Chicken Fingers",
       "Hala International Restaurant",
       "Chili belly",
-      "Baking Studio"
+      "Baking Studio",
+      "Cloud Juice"
     ],
     "completed_pages": [
       1,
