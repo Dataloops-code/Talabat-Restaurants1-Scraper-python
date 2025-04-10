@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:13:32.966377",
+  "last_updated": "2025-04-10T03:15:31.466920",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 80,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -743,7 +743,8 @@
       "GOOD TACOS",
       "The Sandwich, West Abu Fatera",
       "Antep Sweets",
-      "Rashat Hail"
+      "Rashat Hail",
+      "Asel Al Kunafa"
     ],
     "completed_pages": [
       1,
