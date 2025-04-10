@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:04:20.594664",
+  "last_updated": "2025-04-10T04:06:57.423789",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 82,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -761,7 +761,8 @@
       "Lobster Lake",
       "THORA",
       "Queens Bakery",
-      "The AFC Fried Chicken"
+      "The AFC Fried Chicken",
+      "Wagta"
     ],
     "completed_pages": [
       1,
