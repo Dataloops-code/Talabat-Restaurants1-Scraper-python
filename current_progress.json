@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T00:25:30.619045",
+  "last_updated": "2025-04-10T00:26:33.833162",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 76,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -709,7 +709,8 @@
       "EGG BUN",
       "Dampa D Nest",
       "Dar Ali",
-      "ZN Burger"
+      "ZN Burger",
+      "Cake Aldahia"
     ],
     "completed_pages": [
       1,
