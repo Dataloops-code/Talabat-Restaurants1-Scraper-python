@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:26:34.229039",
+  "last_updated": "2025-04-10T16:27:17.094945",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 110,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -935,7 +935,8 @@
       "Kazablanka Rose",
       "Maison de Senteurs",
       "Honey Mujezat Al Shifa",
-      "Wonder Chicken"
+      "Wonder Chicken",
+      "Hassan's Optician"
     ],
     "completed_pages": [
       1,
