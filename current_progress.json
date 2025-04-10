@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:44:51.819437",
+  "last_updated": "2025-04-10T14:48:17.151047",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 102,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -864,7 +864,8 @@
       "Sweetie",
       "Tre Fiori And More",
       "PROJECT BAO",
-      "Yellow Bird"
+      "Yellow Bird",
+      "The Italian Traditional Oven"
     ],
     "completed_pages": [
       1,
