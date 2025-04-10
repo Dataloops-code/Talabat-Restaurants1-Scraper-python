@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:46:22.748591",
+  "last_updated": "2025-04-10T16:47:26.455093",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 111,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -943,7 +943,8 @@
       "SU By Soucolat",
       "Local Chicken",
       "Cecilia",
-      "Al Thuraya Delicacies"
+      "Al Thuraya Delicacies",
+      "Cheese & Crackers"
     ],
     "completed_pages": [
       1,
