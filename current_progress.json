@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:21:02.011638",
+  "last_updated": "2025-04-10T18:22:10.908966",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1004,7 +1004,8 @@
       "Magnum Opus",
       "AL Watan Sweets Co.",
       "Voyage",
-      "Almqsaf"
+      "Almqsaf",
+      "TOKYO"
     ],
     "completed_pages": [
       1,
