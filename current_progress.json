@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:04:24.791350",
+  "last_updated": "2025-04-10T03:05:35.170197",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 79,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -740,7 +740,8 @@
       "kohi cafe",
       "Anna Ice Cream",
       "Oishii Sushi",
-      "GOOD TACOS"
+      "GOOD TACOS",
+      "The Sandwich, West Abu Fatera"
     ],
     "completed_pages": [
       1,
