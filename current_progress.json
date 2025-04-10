@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:30:09.519623",
+  "last_updated": "2025-04-10T05:32:38.234129",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 85,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -789,7 +789,8 @@
       "Taj Al Azayem",
       "Genki Sushi",
       "Outback Steak",
-      "Cake Gallery"
+      "Cake Gallery",
+      "Sako Sushi"
     ],
     "completed_pages": [
       1,
