@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T01:51:13.725560",
+  "last_updated": "2025-04-10T01:52:47.592666",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 77,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -715,7 +715,8 @@
       "Mamma Bunz Cafe",
       "Luca",
       "RETAN",
-      "KOKOY"
+      "KOKOY",
+      "Pure health"
     ],
     "completed_pages": [
       1,
