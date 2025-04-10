@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:10:03.897931",
+  "last_updated": "2025-04-10T18:11:45.069101",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1000,7 +1000,8 @@
       "Rajdhani Palace",
       "Highway Center",
       "Zahra Al Zhor",
-      "Joly burger"
+      "Joly burger",
+      "Magnum Opus"
     ],
     "completed_pages": [
       1,
