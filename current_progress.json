@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T00:09:28.304197",
+  "last_updated": "2025-04-10T00:10:32.658443",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 75,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -701,7 +701,8 @@
       "Deyay T",
       "Azteca",
       "Flavor House",
-      "EL Baker"
+      "EL Baker",
+      "Melty"
     ],
     "completed_pages": [
       1,
