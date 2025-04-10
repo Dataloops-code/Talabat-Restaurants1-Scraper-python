@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T02:54:49.482909",
+  "last_updated": "2025-04-10T02:57:39.536121",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 79,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -737,7 +737,8 @@
       "Ice Inn",
       "Al-Nafila",
       "Bluezz",
-      "kohi cafe"
+      "kohi cafe",
+      "Anna Ice Cream"
     ],
     "completed_pages": [
       1,
