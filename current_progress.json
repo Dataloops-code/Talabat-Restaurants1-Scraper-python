@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:00:41.481201",
+  "last_updated": "2025-04-10T16:00:49.673899",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 106,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -917,7 +917,8 @@
       "Dana Restaurant",
       "The Butcher Shop",
       "Rahi W Wafi Restaurant",
-      "Volks Beetle"
+      "Volks Beetle",
+      "Candy mart"
     ],
     "completed_pages": [
       1,
