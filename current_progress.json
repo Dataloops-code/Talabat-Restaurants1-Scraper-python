@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:35:24.596700",
+  "last_updated": "2025-04-10T15:35:32.729994",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 105,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -899,7 +899,8 @@
       "Candy Shop",
       "Deyayna",
       "AlMazak AlDhamashqi",
-      "Top Shop"
+      "Top Shop",
+      "Al Mutawa Pharmacy"
     ],
     "completed_pages": [
       1,
