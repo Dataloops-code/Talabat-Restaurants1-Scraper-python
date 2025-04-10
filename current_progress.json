@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:12:21.413974",
+  "last_updated": "2025-04-10T05:15:40.041375",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 84,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -782,7 +782,8 @@
       "Cloud Juice",
       "Pistrino",
       "Double Dose",
-      "Pick"
+      "Pick",
+      "Candy Cake"
     ],
     "completed_pages": [
       1,
