@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:08:11.847823",
+  "last_updated": "2025-04-10T16:08:19.933445",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 107,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -922,7 +922,8 @@
       "Wingstreet",
       "Snack Gourmet",
       "Bj Beauty",
-      "Al Bairaq Al Shamekh Pharmacy"
+      "Al Bairaq Al Shamekh Pharmacy",
+      "La Cachette"
     ],
     "completed_pages": [
       1,
