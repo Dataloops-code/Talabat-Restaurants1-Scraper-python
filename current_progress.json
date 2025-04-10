@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:20:55.565535",
+  "last_updated": "2025-04-10T16:22:02.928779",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 109,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -930,7 +930,8 @@
       "Flormar",
       "Al Sofra Al Khlejya",
       "Reyhan",
-      "Mr Cleavers"
+      "Mr Cleavers",
+      "Sushi N Roll"
     ],
     "completed_pages": [
       1,
