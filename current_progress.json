@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:05:29.159641",
+  "last_updated": "2025-04-10T15:05:47.680174",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 103,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -873,7 +873,8 @@
       "Hope Bakery",
       "CEREAL VILLAINS ADVENTURE",
       "Malas",
-      "Ghaybooba"
+      "Ghaybooba",
+      "Mobile 2000"
     ],
     "completed_pages": [
       1,
