@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:27:37.882854",
+  "last_updated": "2025-04-10T18:29:12.014412",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1008,7 +1008,8 @@
       "TOKYO",
       "Starbucks Trolley Fintas",
       "Wake Up",
-      "LEMONADE BY LEMONICA"
+      "LEMONADE BY LEMONICA",
+      "Estekanah"
     ],
     "completed_pages": [
       1,
