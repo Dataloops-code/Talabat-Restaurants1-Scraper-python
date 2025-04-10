@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T13:18:49.097776",
+  "last_updated": "2025-04-10T13:24:20.848752",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 98,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -830,7 +830,8 @@
       "Shawarma Al Shater",
       "Blaban Blaban",
       "Canteen",
-      "Al Rifai"
+      "Al Rifai",
+      "Kings' Coffee"
     ],
     "completed_pages": [
       1,
