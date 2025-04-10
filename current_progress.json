@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:34:01.285573",
+  "last_updated": "2025-04-10T05:37:22.614746",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 86,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -790,7 +790,8 @@
       "Genki Sushi",
       "Outback Steak",
       "Cake Gallery",
-      "Sako Sushi"
+      "Sako Sushi",
+      "Sabaidee"
     ],
     "completed_pages": [
       1,
