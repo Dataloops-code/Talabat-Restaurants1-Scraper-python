@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:56:18.207544",
+  "last_updated": "2025-04-10T15:02:22.507279",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 102,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -870,7 +870,8 @@
       "Beauty by My Colors",
       "Vivenza",
       "THE HEALTH EXPRESS",
-      "Hope Bakery"
+      "Hope Bakery",
+      "CEREAL VILLAINS ADVENTURE"
     ],
     "completed_pages": [
       1,
