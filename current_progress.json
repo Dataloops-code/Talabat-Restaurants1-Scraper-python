@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:22:21.328944",
+  "last_updated": "2025-04-10T18:23:34.426485",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1005,7 +1005,8 @@
       "AL Watan Sweets Co.",
       "Voyage",
       "Almqsaf",
-      "TOKYO"
+      "TOKYO",
+      "Starbucks Trolley Fintas"
     ],
     "completed_pages": [
       1,
