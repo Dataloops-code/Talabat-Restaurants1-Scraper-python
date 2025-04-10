@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:08:58.391763",
+  "last_updated": "2025-04-10T18:10:03.897931",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -999,7 +999,8 @@
       "BCuz Burger",
       "Rajdhani Palace",
       "Highway Center",
-      "Zahra Al Zhor"
+      "Zahra Al Zhor",
+      "Joly burger"
     ],
     "completed_pages": [
       1,
