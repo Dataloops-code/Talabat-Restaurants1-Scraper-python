@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:35:57.060886",
+  "last_updated": "2025-04-10T15:36:05.245228",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 105,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -902,7 +902,8 @@
       "Top Shop",
       "Al Mutawa Pharmacy",
       "Pharmazone",
-      "Trolley"
+      "Trolley",
+      "Dandoosh Grocery"
     ],
     "completed_pages": [
       1,
