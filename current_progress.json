@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:22:25.163555",
+  "last_updated": "2025-04-10T15:23:10.983041",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 103,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -883,7 +883,8 @@
       "YIACO Pharmacy",
       "The Butchery",
       "Nutella House",
-      "FEI"
+      "FEI",
+      "Moda Body Shop"
     ],
     "completed_pages": [
       1,
