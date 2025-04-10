@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:33:46.579329",
+  "last_updated": "2025-04-10T18:40:00.482329",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1013,7 +1013,8 @@
       "H 9",
       "Danish Bakery",
       "Galleta",
-      "Lazar"
+      "Lazar",
+      "GOOD PASTA"
     ],
     "completed_pages": [
       1,
