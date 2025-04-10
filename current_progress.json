@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:31:21.033931",
+  "last_updated": "2025-04-10T17:32:07.916478",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -972,7 +972,8 @@
       "Al Attafa",
       "City Hypermarket",
       "Meat Chops",
-      "Al Salam Sweet"
+      "Al Salam Sweet",
+      "World Sweets"
     ],
     "completed_pages": [
       1,
