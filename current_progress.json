@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T02:53:05.397246",
+  "last_updated": "2025-04-10T02:54:40.326749",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 79,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -736,7 +736,8 @@
       "ALOHA POKE REEF",
       "Ice Inn",
       "Al-Nafila",
-      "Bluezz"
+      "Bluezz",
+      "kohi cafe"
     ],
     "completed_pages": [
       1,
