@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:10:34.302323",
+  "last_updated": "2025-04-10T17:11:17.186586",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -960,7 +960,8 @@
       "Wholehearted",
       "Hamour Sharq Restaurant",
       "Gifts Gate",
-      "Sabah AlSalem Co-Op"
+      "Sabah AlSalem Co-Op",
+      "FURDTK"
     ],
     "completed_pages": [
       1,
