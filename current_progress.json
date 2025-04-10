@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:58:37.690930",
+  "last_updated": "2025-04-10T04:02:35.497545",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 82,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -759,7 +759,8 @@
       "Chkn O cluck",
       "Ocean Basket",
       "Lobster Lake",
-      "THORA"
+      "THORA",
+      "Queens Bakery"
     ],
     "completed_pages": [
       1,
