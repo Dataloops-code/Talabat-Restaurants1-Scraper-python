@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T13:29:56.034352",
+  "last_updated": "2025-04-10T13:32:08.728576",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 99,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -833,7 +833,8 @@
       "Al Rifai",
       "Kings' Coffee",
       "Al Ameed Coffee",
-      "MP5"
+      "MP5",
+      "Malek Al Majbous"
     ],
     "completed_pages": [
       1,
