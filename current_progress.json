@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:36:05.245228",
+  "last_updated": "2025-04-10T15:38:40.806599",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 105,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -903,7 +903,8 @@
       "Al Mutawa Pharmacy",
       "Pharmazone",
       "Trolley",
-      "Dandoosh Grocery"
+      "Dandoosh Grocery",
+      "Hawwaj"
     ],
     "completed_pages": [
       1,
