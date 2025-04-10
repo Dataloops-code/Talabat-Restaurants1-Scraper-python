@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:23:10.983041",
+  "last_updated": "2025-04-10T15:23:21.083348",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 103,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -884,7 +884,8 @@
       "The Butchery",
       "Nutella House",
       "FEI",
-      "Moda Body Shop"
+      "Moda Body Shop",
+      "Avenue Health Pharmacy"
     ],
     "completed_pages": [
       1,
