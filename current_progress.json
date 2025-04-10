@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:11:26.355130",
+  "last_updated": "2025-04-10T16:14:48.898953",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 108,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -925,7 +925,8 @@
       "Al Bairaq Al Shamekh Pharmacy",
       "La Cachette",
       "Qidra And Khalila",
-      "Twarrad"
+      "Twarrad",
+      "Sushi In House"
     ],
     "completed_pages": [
       1,
