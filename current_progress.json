@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:01:05.565017",
+  "last_updated": "2025-04-10T18:01:14.278736",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -994,7 +994,8 @@
       "HSquare",
       "Dukan Sainsbury`s",
       "Al lotus",
-      "Diamonds Flowers"
+      "Diamonds Flowers",
+      "Lilies Flowers"
     ],
     "completed_pages": [
       1,
