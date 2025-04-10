@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:49:25.707498",
+  "last_updated": "2025-04-10T15:49:33.988696",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 106,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -911,7 +911,8 @@
       "Birdys Chicken Shop",
       "Top Offer",
       "Meat Hook Butchery",
-      "WASHOKU JAPANESE"
+      "WASHOKU JAPANESE",
+      "Happy Basket"
     ],
     "completed_pages": [
       1,
