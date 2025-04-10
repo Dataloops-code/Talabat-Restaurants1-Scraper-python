@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:04:41.600049",
+  "last_updated": "2025-04-10T16:05:53.221022",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 107,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -919,7 +919,8 @@
       "Rahi W Wafi Restaurant",
       "Volks Beetle",
       "Candy mart",
-      "Wingstreet"
+      "Wingstreet",
+      "Snack Gourmet"
     ],
     "completed_pages": [
       1,
