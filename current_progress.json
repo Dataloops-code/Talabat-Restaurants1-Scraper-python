@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:18:12.672748",
+  "last_updated": "2025-04-10T03:21:09.710488",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 80,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -745,7 +745,8 @@
       "Antep Sweets",
       "Rashat Hail",
       "Asel Al Kunafa",
-      "Five Brothers"
+      "Five Brothers",
+      "Texas De Brazil"
     ],
     "completed_pages": [
       1,
