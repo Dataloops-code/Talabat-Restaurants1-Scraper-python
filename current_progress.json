@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:11:37.875959",
+  "last_updated": "2025-04-10T03:12:39.950769",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 80,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -742,7 +742,8 @@
       "Oishii Sushi",
       "GOOD TACOS",
       "The Sandwich, West Abu Fatera",
-      "Antep Sweets"
+      "Antep Sweets",
+      "Rashat Hail"
     ],
     "completed_pages": [
       1,
