@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T06:06:47.932705",
+  "last_updated": "2025-04-10T06:14:49.451539",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 90,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -803,7 +803,8 @@
       "Mama Joza",
       "Solo cake",
       "Boulangerie",
-      "Chickz"
+      "Chickz",
+      "Cold Stone Creamery"
     ],
     "completed_pages": [
       1,
