@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:51:14.111023",
+  "last_updated": "2025-04-10T03:54:39.046123",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 81,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -756,7 +756,8 @@
       "Bu Qalbin",
       "Bold",
       "The Noodle Station",
-      "Chkn O cluck"
+      "Chkn O cluck",
+      "Ocean Basket"
     ],
     "completed_pages": [
       1,
