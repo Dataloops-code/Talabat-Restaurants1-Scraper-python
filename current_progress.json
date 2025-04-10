@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:36:17.561807",
+  "last_updated": "2025-04-10T04:37:30.546804",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 83,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -770,7 +770,8 @@
       "Mango Plus Juices",
       "Karma",
       "Serve",
-      "Segreto"
+      "Segreto",
+      "Quraish Valley Restaurant"
     ],
     "completed_pages": [
       1,
