@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T01:41:31.194895",
+  "last_updated": "2025-04-10T01:44:36.753571",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 76,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -711,7 +711,8 @@
       "Dar Ali",
       "ZN Burger",
       "Cake Aldahia",
-      "Al Nabulsi Sweets"
+      "Al Nabulsi Sweets",
+      "Mamma Bunz Cafe"
     ],
     "completed_pages": [
       1,
