@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:31:28.643870",
+  "last_updated": "2025-04-10T04:32:35.241940",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 83,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -767,7 +767,8 @@
       "Fluffy Desserts",
       "Al Badel",
       "Kebda W Mokh Al Mazag",
-      "Mango Plus Juices"
+      "Mango Plus Juices",
+      "Karma"
     ],
     "completed_pages": [
       1,
