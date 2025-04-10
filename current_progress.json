@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:35:31.646502",
+  "last_updated": "2025-04-10T17:37:40.052960",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -975,7 +975,8 @@
       "Al Salam Sweet",
       "World Sweets",
       "Dob Doh",
-      "Shawarma Twist"
+      "Shawarma Twist",
+      "Glace Sweets"
     ],
     "completed_pages": [
       1,
