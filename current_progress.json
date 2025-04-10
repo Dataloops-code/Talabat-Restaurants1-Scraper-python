@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T02:25:19.106317",
+  "last_updated": "2025-04-10T02:26:54.482280",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 78,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -726,7 +726,8 @@
       "Kumar",
       "Bake & Take",
       "Roy",
-      "Samwich"
+      "Samwich",
+      "Samosa time"
     ],
     "completed_pages": [
       1,
