@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:32:35.241940",
+  "last_updated": "2025-04-10T04:35:13.787903",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 83,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -768,7 +768,8 @@
       "Al Badel",
       "Kebda W Mokh Al Mazag",
       "Mango Plus Juices",
-      "Karma"
+      "Karma",
+      "Serve"
     ],
     "completed_pages": [
       1,
