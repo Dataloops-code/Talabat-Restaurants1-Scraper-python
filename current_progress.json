@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T01:52:47.592666",
+  "last_updated": "2025-04-10T01:56:13.630201",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 77,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -716,7 +716,8 @@
       "Luca",
       "RETAN",
       "KOKOY",
-      "Pure health"
+      "Pure health",
+      "Tmreya"
     ],
     "completed_pages": [
       1,
