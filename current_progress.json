@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:27:29.764998",
+  "last_updated": "2025-04-10T15:27:38.385427",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 104,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -893,7 +893,8 @@
       "Oxygen Nutrition",
       "Roche",
       "City Star Grocery",
-      "AlHajery Pharmacy"
+      "AlHajery Pharmacy",
+      "United Pharmacy"
     ],
     "completed_pages": [
       1,
