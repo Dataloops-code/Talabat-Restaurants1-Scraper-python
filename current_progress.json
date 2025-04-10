@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:08:02.500952",
+  "last_updated": "2025-04-10T14:10:07.690695",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 99,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -845,7 +845,8 @@
       "Egg Holic",
       "Izmerli",
       "NABYNAKI SUSHI",
-      "Taco Bell"
+      "Taco Bell",
+      "Social"
     ],
     "completed_pages": [
       1,
