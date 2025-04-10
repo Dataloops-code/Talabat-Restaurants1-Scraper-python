@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:16:25.480412",
+  "last_updated": "2025-04-10T05:18:39.460894",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 85,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -783,7 +783,8 @@
       "Pistrino",
       "Double Dose",
       "Pick",
-      "Candy Cake"
+      "Candy Cake",
+      "Konafa Jordanian And Nabulsi"
     ],
     "completed_pages": [
       1,
