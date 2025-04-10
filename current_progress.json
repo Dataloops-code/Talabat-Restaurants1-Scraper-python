@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:16:30.333367",
+  "last_updated": "2025-04-10T14:18:56.434925",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 100,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -851,7 +851,8 @@
       "Mijana",
       "G Line flowers",
       "Elite One Grocery",
-      "Fatayer Al Qadsia"
+      "Fatayer Al Qadsia",
+      "Flare Burger"
     ],
     "completed_pages": [
       1,
