@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:12:10.575777",
+  "last_updated": "2025-04-10T04:13:39.037046",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 83,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -764,7 +764,8 @@
       "The AFC Fried Chicken",
       "Wagta",
       "Kabab Almoualem",
-      "Fluffy Desserts"
+      "Fluffy Desserts",
+      "Al Badel"
     ],
     "completed_pages": [
       1,
