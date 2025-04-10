@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:10:47.573978",
+  "last_updated": "2025-04-10T15:21:30.597561",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 103,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -881,7 +881,8 @@
       "Gifted",
       "Burger Cut",
       "YIACO Pharmacy",
-      "The Butchery"
+      "The Butchery",
+      "Nutella House"
     ],
     "completed_pages": [
       1,
