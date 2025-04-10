@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:19:22.377062",
+  "last_updated": "2025-04-10T16:20:45.297360",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 109,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -929,7 +929,8 @@
       "Sushi In House",
       "Flormar",
       "Al Sofra Al Khlejya",
-      "Reyhan"
+      "Reyhan",
+      "Mr Cleavers"
     ],
     "completed_pages": [
       1,
