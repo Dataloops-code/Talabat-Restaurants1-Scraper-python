@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:30:25.560146",
+  "last_updated": "2025-04-10T18:31:32.144547",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1010,7 +1010,8 @@
       "Wake Up",
       "LEMONADE BY LEMONICA",
       "Estekanah",
-      "H 9"
+      "H 9",
+      "Danish Bakery"
     ],
     "completed_pages": [
       1,
