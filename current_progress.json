@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:55:34.254700",
+  "last_updated": "2025-04-10T16:00:22.140843",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 106,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -916,7 +916,8 @@
       "Flowers House",
       "Dana Restaurant",
       "The Butcher Shop",
-      "Rahi W Wafi Restaurant"
+      "Rahi W Wafi Restaurant",
+      "Volks Beetle"
     ],
     "completed_pages": [
       1,
