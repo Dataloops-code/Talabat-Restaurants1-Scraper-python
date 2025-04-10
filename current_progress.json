@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:22:34.748503",
+  "last_updated": "2025-04-10T17:22:44.970374",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -968,7 +968,8 @@
       "Smoke Circle",
       "Almaha Stationery",
       "Quick Paws",
-      "Tiramisu Options"
+      "Tiramisu Options",
+      "Al Attafa"
     ],
     "completed_pages": [
       1,
