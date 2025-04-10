@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:12:12.347041",
+  "last_updated": "2025-04-10T18:15:01.661784",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1001,7 +1001,8 @@
       "Highway Center",
       "Zahra Al Zhor",
       "Joly burger",
-      "Magnum Opus"
+      "Magnum Opus",
+      "AL Watan Sweets Co."
     ],
     "completed_pages": [
       1,
