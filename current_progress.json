@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:07:43.852077",
+  "last_updated": "2025-04-10T18:08:30.603196",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -997,7 +997,8 @@
       "Diamonds Flowers",
       "Lilies Flowers",
       "BCuz Burger",
-      "Rajdhani Palace"
+      "Rajdhani Palace",
+      "Highway Center"
     ],
     "completed_pages": [
       1,
