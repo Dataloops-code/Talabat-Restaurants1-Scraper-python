@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:39:55.115883",
+  "last_updated": "2025-04-10T17:40:03.445821",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -984,7 +984,8 @@
       "Gate Of Flowers",
       "Happy Toys",
       "Kinder Joy Express Grocery",
-      "Stately Flowers"
+      "Stately Flowers",
+      "Leaf Flowers"
     ],
     "completed_pages": [
       1,
