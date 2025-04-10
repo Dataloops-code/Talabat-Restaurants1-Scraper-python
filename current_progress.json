@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:54:05.387565",
+  "last_updated": "2025-04-10T05:56:50.818293",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 88,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -798,7 +798,8 @@
       "Mini Melts",
       "Shawarma Bo Assaf",
       "Fat Free",
-      "Bruno"
+      "Bruno",
+      "Pixi Bakery"
     ],
     "completed_pages": [
       1,
