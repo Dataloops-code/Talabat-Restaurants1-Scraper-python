@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:10:15.642828",
+  "last_updated": "2025-04-10T17:10:26.052524",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -958,7 +958,8 @@
       "Chicken Hub",
       "Clusters",
       "Wholehearted",
-      "Hamour Sharq Restaurant"
+      "Hamour Sharq Restaurant",
+      "Gifts Gate"
     ],
     "completed_pages": [
       1,
