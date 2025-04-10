@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:25:28.975113",
+  "last_updated": "2025-04-10T15:26:14.314364",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 104,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -889,7 +889,8 @@
       "Life Care Pharmacy",
       "Al Dawaeya Pharmacy",
       "Oncost powered by talabat",
-      "Beautika Secret"
+      "Beautika Secret",
+      "Oxygen Nutrition"
     ],
     "completed_pages": [
       1,
