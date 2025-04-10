@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:28:59.916276",
+  "last_updated": "2025-04-10T05:30:09.519623",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 85,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -788,7 +788,8 @@
       "the bite house",
       "Taj Al Azayem",
       "Genki Sushi",
-      "Outback Steak"
+      "Outback Steak",
+      "Cake Gallery"
     ],
     "completed_pages": [
       1,
