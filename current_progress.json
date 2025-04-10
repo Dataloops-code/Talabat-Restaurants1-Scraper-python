@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:54:50.547737",
+  "last_updated": "2025-04-10T17:59:49.721269",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -989,7 +989,8 @@
       "Balloons & More",
       "Smart Food",
       "POOJi Flowers",
-      "Gulf store"
+      "Gulf store",
+      "Baity Roastery"
     ],
     "completed_pages": [
       1,
