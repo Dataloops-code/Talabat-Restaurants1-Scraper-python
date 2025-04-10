@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:49:33.988696",
+  "last_updated": "2025-04-10T15:49:42.057527",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 106,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -912,7 +912,8 @@
       "Top Offer",
       "Meat Hook Butchery",
       "WASHOKU JAPANESE",
-      "Happy Basket"
+      "Happy Basket",
+      "Flowers House"
     ],
     "completed_pages": [
       1,
