@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:43:38.683530",
+  "last_updated": "2025-04-10T14:44:41.906156",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 102,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -863,7 +863,8 @@
       "Biryani Rishi",
       "Sweetie",
       "Tre Fiori And More",
-      "PROJECT BAO"
+      "PROJECT BAO",
+      "Yellow Bird"
     ],
     "completed_pages": [
       1,
