@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T02:50:47.578119",
+  "last_updated": "2025-04-10T02:51:58.062790",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 79,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -734,7 +734,8 @@
       "Chowking",
       "Almayass",
       "ALOHA POKE REEF",
-      "Ice Inn"
+      "Ice Inn",
+      "Al-Nafila"
     ],
     "completed_pages": [
       1,
