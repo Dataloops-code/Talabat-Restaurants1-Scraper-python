@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T18:01:51.074449",
+  "last_updated": "2025-04-10T18:03:13.309954",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -995,7 +995,8 @@
       "Dukan Sainsbury`s",
       "Al lotus",
       "Diamonds Flowers",
-      "Lilies Flowers"
+      "Lilies Flowers",
+      "BCuz Burger"
     ],
     "completed_pages": [
       1,
