@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:40:03.445821",
+  "last_updated": "2025-04-10T17:42:01.712791",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -985,7 +985,8 @@
       "Happy Toys",
       "Kinder Joy Express Grocery",
       "Stately Flowers",
-      "Leaf Flowers"
+      "Leaf Flowers",
+      "Balloons & More"
     ],
     "completed_pages": [
       1,
