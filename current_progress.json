@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:14:04.543273",
+  "last_updated": "2025-04-10T14:16:11.760205",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 100,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -850,7 +850,8 @@
       "Cutie Choco",
       "Mijana",
       "G Line flowers",
-      "Elite One Grocery"
+      "Elite One Grocery",
+      "Fatayer Al Qadsia"
     ],
     "completed_pages": [
       1,
