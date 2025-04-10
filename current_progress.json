@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T02:28:06.756949",
+  "last_updated": "2025-04-10T02:31:20.147772",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 78,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -728,7 +728,8 @@
       "Roy",
       "Samwich",
       "Samosa time",
-      "Diyafet Albukhari"
+      "Diyafet Albukhari",
+      "Zahret Classical Restaurant"
     ],
     "completed_pages": [
       1,
