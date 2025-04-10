@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:07:14.079860",
+  "last_updated": "2025-04-10T17:10:15.642828",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -957,7 +957,8 @@
       "Protein King",
       "Chicken Hub",
       "Clusters",
-      "Wholehearted"
+      "Wholehearted",
+      "Hamour Sharq Restaurant"
     ],
     "completed_pages": [
       1,
