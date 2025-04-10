@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:20:06.431778",
+  "last_updated": "2025-04-10T17:20:48.654299",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -966,7 +966,8 @@
       "The Ranch Boutique",
       "Swaikhat Lab",
       "Smoke Circle",
-      "Almaha Stationery"
+      "Almaha Stationery",
+      "Quick Paws"
     ],
     "completed_pages": [
       1,
