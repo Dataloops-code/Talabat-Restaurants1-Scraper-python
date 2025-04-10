@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:54:29.772076",
+  "last_updated": "2025-04-10T17:54:40.650287",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -987,7 +987,8 @@
       "Stately Flowers",
       "Leaf Flowers",
       "Balloons & More",
-      "Smart Food"
+      "Smart Food",
+      "POOJi Flowers"
     ],
     "completed_pages": [
       1,
