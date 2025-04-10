@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:24:45.181526",
+  "last_updated": "2025-04-10T16:25:47.333537",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 109,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -934,7 +934,8 @@
       "Sushi N Roll",
       "Kazablanka Rose",
       "Maison de Senteurs",
-      "Honey Mujezat Al Shifa"
+      "Honey Mujezat Al Shifa",
+      "Wonder Chicken"
     ],
     "completed_pages": [
       1,
