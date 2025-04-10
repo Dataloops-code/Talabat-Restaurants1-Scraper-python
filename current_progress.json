@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:23:06.551499",
+  "last_updated": "2025-04-10T16:24:34.577233",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 109,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -933,7 +933,8 @@
       "Mr Cleavers",
       "Sushi N Roll",
       "Kazablanka Rose",
-      "Maison de Senteurs"
+      "Maison de Senteurs",
+      "Honey Mujezat Al Shifa"
     ],
     "completed_pages": [
       1,
