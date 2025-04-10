@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T00:01:57.076295",
+  "last_updated": "2025-04-10T00:09:28.304197",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 75,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -700,7 +700,8 @@
       "Alrifai For Sweets And Pastries",
       "Deyay T",
       "Azteca",
-      "Flavor House"
+      "Flavor House",
+      "EL Baker"
     ],
     "completed_pages": [
       1,
