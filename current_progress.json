@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:04:24.370517",
+  "last_updated": "2025-04-10T17:07:14.079860",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -956,7 +956,8 @@
       "El sayad",
       "Protein King",
       "Chicken Hub",
-      "Clusters"
+      "Clusters",
+      "Wholehearted"
     ],
     "completed_pages": [
       1,
