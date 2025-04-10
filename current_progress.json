@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:58:31.516830",
+  "last_updated": "2025-04-10T17:00:28.582905",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 112,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -952,7 +952,8 @@
       "Bonjour",
       "Matbakh Yusria",
       "Enlist",
-      "Addoy's Sugar"
+      "Addoy's Sugar",
+      "El sayad"
     ],
     "completed_pages": [
       1,
