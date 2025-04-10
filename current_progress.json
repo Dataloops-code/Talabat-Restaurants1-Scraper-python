@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T00:10:32.658443",
+  "last_updated": "2025-04-10T00:12:10.297385",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 75,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -702,7 +702,8 @@
       "Azteca",
       "Flavor House",
       "EL Baker",
-      "Melty"
+      "Melty",
+      "Huge Pizza"
     ],
     "completed_pages": [
       1,
