@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:22:42.913522",
+  "last_updated": "2025-04-10T14:23:43.972879",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 100,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -854,7 +854,8 @@
       "Fatayer Al Qadsia",
       "Flare Burger",
       "Molten & Sweet",
-      "Kunafa Zone"
+      "Kunafa Zone",
+      "BIEV"
     ],
     "completed_pages": [
       1,
