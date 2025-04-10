@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:09:15.806433",
+  "last_updated": "2025-04-10T15:10:47.573978",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 103,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -880,7 +880,8 @@
       "Lime",
       "Gifted",
       "Burger Cut",
-      "YIACO Pharmacy"
+      "YIACO Pharmacy",
+      "The Butchery"
     ],
     "completed_pages": [
       1,
