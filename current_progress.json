@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:27:16.219214",
+  "last_updated": "2025-04-10T14:28:34.540459",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 101,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -856,7 +856,8 @@
       "Molten & Sweet",
       "Kunafa Zone",
       "BIEV",
-      "Chunk"
+      "Chunk",
+      "Reem Al Sham"
     ],
     "completed_pages": [
       1,
