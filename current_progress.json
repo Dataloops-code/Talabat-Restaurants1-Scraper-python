@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:28:46.302151",
+  "last_updated": "2025-04-10T15:29:53.534800",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 104,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -895,7 +895,8 @@
       "City Star Grocery",
       "AlHajery Pharmacy",
       "United Pharmacy",
-      "Azhar Al Saboun"
+      "Azhar Al Saboun",
+      "Candy Shop"
     ],
     "completed_pages": [
       1,
