@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:48:05.194655",
+  "last_updated": "2025-04-10T04:49:43.585531",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 84,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -776,7 +776,8 @@
       "Dream cake",
       "Aish Time",
       "Roy Chicken Fingers",
-      "Hala International Restaurant"
+      "Hala International Restaurant",
+      "Chili belly"
     ],
     "completed_pages": [
       1,
