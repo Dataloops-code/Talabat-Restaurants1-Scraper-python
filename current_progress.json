@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T06:03:15.710573",
+  "last_updated": "2025-04-10T06:04:17.157417",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 89,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -801,7 +801,8 @@
       "Bruno",
       "Pixi Bakery",
       "Mama Joza",
-      "Solo cake"
+      "Solo cake",
+      "Boulangerie"
     ],
     "completed_pages": [
       1,
