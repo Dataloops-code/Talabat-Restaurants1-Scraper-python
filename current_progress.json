@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-09T23:59:50.561491",
+  "last_updated": "2025-04-10T00:00:53.589758",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 74,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -699,7 +699,8 @@
       "Fh Cuisine",
       "Alrifai For Sweets And Pastries",
       "Deyay T",
-      "Azteca"
+      "Azteca",
+      "Flavor House"
     ],
     "completed_pages": [
       1,
