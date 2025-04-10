@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:49:49.161454",
+  "last_updated": "2025-04-10T03:51:04.570146",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 81,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -755,7 +755,8 @@
       "December Cake",
       "Bu Qalbin",
       "Bold",
-      "The Noodle Station"
+      "The Noodle Station",
+      "Chkn O cluck"
     ],
     "completed_pages": [
       1,
