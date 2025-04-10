@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T00:17:45.131697",
+  "last_updated": "2025-04-10T00:20:22.895207",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 76,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -706,7 +706,8 @@
       "Huge Pizza",
       "Umore",
       "Alwahda Alasli",
-      "EGG BUN"
+      "EGG BUN",
+      "Dampa D Nest"
     ],
     "completed_pages": [
       1,
