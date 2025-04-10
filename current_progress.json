@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:57:07.926551",
+  "last_updated": "2025-04-10T16:58:12.966472",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 112,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -951,7 +951,8 @@
       "Ruotini Nino",
       "Bonjour",
       "Matbakh Yusria",
-      "Enlist"
+      "Enlist",
+      "Addoy's Sugar"
     ],
     "completed_pages": [
       1,
