@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:39:20.342359",
+  "last_updated": "2025-04-10T16:40:22.914699",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 110,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -940,7 +940,8 @@
       "Singarea",
       "BBQ Burger Box",
       "iCook",
-      "SU By Soucolat"
+      "SU By Soucolat",
+      "Local Chicken"
     ],
     "completed_pages": [
       1,
