@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:37:30.546804",
+  "last_updated": "2025-04-10T04:40:30.705418",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 83,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -771,7 +771,8 @@
       "Karma",
       "Serve",
       "Segreto",
-      "Quraish Valley Restaurant"
+      "Quraish Valley Restaurant",
+      "Kateh"
     ],
     "completed_pages": [
       1,
