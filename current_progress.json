@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:27:17.094945",
+  "last_updated": "2025-04-10T16:28:34.837912",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 110,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -936,7 +936,8 @@
       "Maison de Senteurs",
       "Honey Mujezat Al Shifa",
       "Wonder Chicken",
-      "Hassan's Optician"
+      "Hassan's Optician",
+      "Singarea"
     ],
     "completed_pages": [
       1,
