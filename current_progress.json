@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:43:23.332654",
+  "last_updated": "2025-04-10T05:44:48.368299",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 87,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -793,7 +793,8 @@
       "Sako Sushi",
       "Sabaidee",
       "5G Burger",
-      "Village"
+      "Village",
+      "Dampa Middle East"
     ],
     "completed_pages": [
       1,
