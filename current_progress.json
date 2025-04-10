@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T06:54:51.996331",
+  "last_updated": "2025-04-10T12:40:28.543508",
   "current_progress": {
     "area_name": "الظهر",
-    "current_page": 95,
+    "current_page": 98,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -815,7 +815,21 @@
       "Happy Ellie",
       "Hunny's",
       "LIONS",
-      "White Bottle"
+      "White Bottle",
+      "Damascus Gardens",
+      "Gang Nam",
+      "Slider Station",
+      "Daddy's Burger",
+      "Epic",
+      "Almaten",
+      "Slider Store",
+      "Farooj Ahmad Al Abdalla",
+      "Ginza Sushi",
+      "Cake W Elba",
+      "Chiky Chiky",
+      "Shawarma Al Shater",
+      "Blaban Blaban",
+      "Canteen"
     ],
     "completed_pages": [
       1,
@@ -911,7 +925,10 @@
       91,
       92,
       93,
-      94
+      94,
+      95,
+      96,
+      97
     ]
   }
 }
