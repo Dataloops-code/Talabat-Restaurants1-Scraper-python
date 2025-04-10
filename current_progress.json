@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T04:43:03.828925",
+  "last_updated": "2025-04-10T04:44:12.020827",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 83,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -773,7 +773,8 @@
       "Segreto",
       "Quraish Valley Restaurant",
       "Kateh",
-      "Dream cake"
+      "Dream cake",
+      "Aish Time"
     ],
     "completed_pages": [
       1,
