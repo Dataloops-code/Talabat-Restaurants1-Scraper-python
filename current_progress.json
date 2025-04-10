@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:21:09.710488",
+  "last_updated": "2025-04-10T03:25:48.389350",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 80,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -746,7 +746,8 @@
       "Rashat Hail",
       "Asel Al Kunafa",
       "Five Brothers",
-      "Texas De Brazil"
+      "Texas De Brazil",
+      "WONDAS WAFFLE PARK"
     ],
     "completed_pages": [
       1,
