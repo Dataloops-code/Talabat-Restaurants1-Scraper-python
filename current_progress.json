@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:52:11.968425",
+  "last_updated": "2025-04-10T16:53:42.447075",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 112,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -947,7 +947,8 @@
       "Cheese & Crackers",
       "Kalila Cafe",
       "Haleeb We Hail",
-      "Lacopa"
+      "Lacopa",
+      "Ruotini Nino"
     ],
     "completed_pages": [
       1,
