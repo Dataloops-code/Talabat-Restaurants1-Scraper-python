@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:05:20.783597",
+  "last_updated": "2025-04-10T05:07:00.792894",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 84,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -779,7 +779,8 @@
       "Hala International Restaurant",
       "Chili belly",
       "Baking Studio",
-      "Cloud Juice"
+      "Cloud Juice",
+      "Pistrino"
     ],
     "completed_pages": [
       1,
