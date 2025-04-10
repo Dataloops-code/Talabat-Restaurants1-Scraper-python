@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T13:58:25.380685",
+  "last_updated": "2025-04-10T14:08:02.500952",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 99,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -844,7 +844,8 @@
       "Al Bait Al Adany",
       "Egg Holic",
       "Izmerli",
-      "NABYNAKI SUSHI"
+      "NABYNAKI SUSHI",
+      "Taco Bell"
     ],
     "completed_pages": [
       1,
