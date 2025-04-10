@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T13:24:31.096459",
+  "last_updated": "2025-04-10T13:28:21.395006",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 98,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -831,7 +831,8 @@
       "Blaban Blaban",
       "Canteen",
       "Al Rifai",
-      "Kings' Coffee"
+      "Kings' Coffee",
+      "Al Ameed Coffee"
     ],
     "completed_pages": [
       1,
