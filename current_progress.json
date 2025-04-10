@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:05:56.343846",
+  "last_updated": "2025-04-10T15:07:00.434996",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 103,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -875,7 +875,8 @@
       "Malas",
       "Ghaybooba",
       "Mobile 2000",
-      "Alshanakel"
+      "Alshanakel",
+      "Fouz Sweet"
     ],
     "completed_pages": [
       1,
