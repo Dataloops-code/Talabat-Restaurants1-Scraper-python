@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:34:29.835336",
+  "last_updated": "2025-04-10T14:35:40.048757",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 101,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -860,7 +860,8 @@
       "Reem Al Sham",
       "Al Safwa Market",
       "Sweet Design",
-      "Biryani Rishi"
+      "Biryani Rishi",
+      "Sweetie"
     ],
     "completed_pages": [
       1,
