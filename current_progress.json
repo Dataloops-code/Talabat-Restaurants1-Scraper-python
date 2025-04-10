@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:50:03.333547",
+  "last_updated": "2025-04-10T14:50:47.381536",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 102,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -867,7 +867,8 @@
       "Yellow Bird",
       "The Italian Traditional Oven",
       "Kryolan",
-      "Beauty by My Colors"
+      "Beauty by My Colors",
+      "Vivenza"
     ],
     "completed_pages": [
       1,
