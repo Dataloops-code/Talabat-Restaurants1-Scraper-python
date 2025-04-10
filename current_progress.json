@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T06:51:34.764127",
+  "last_updated": "2025-04-10T06:53:51.162260",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 94,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -814,7 +814,8 @@
       "JUMBARI FISH RESTAURANT",
       "Happy Ellie",
       "Hunny's",
-      "LIONS"
+      "LIONS",
+      "White Bottle"
     ],
     "completed_pages": [
       1,
