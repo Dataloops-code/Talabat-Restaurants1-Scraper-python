@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T00:12:47.519822",
+  "last_updated": "2025-04-10T00:14:26.463155",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 75,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -703,7 +703,8 @@
       "Flavor House",
       "EL Baker",
       "Melty",
-      "Huge Pizza"
+      "Huge Pizza",
+      "Umore"
     ],
     "completed_pages": [
       1,
