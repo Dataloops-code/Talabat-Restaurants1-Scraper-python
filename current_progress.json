@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T12:40:44.952719",
+  "last_updated": "2025-04-10T13:18:49.097776",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 98,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -829,7 +829,8 @@
       "Chiky Chiky",
       "Shawarma Al Shater",
       "Blaban Blaban",
-      "Canteen"
+      "Canteen",
+      "Al Rifai"
     ],
     "completed_pages": [
       1,
