@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:48:01.584923",
+  "last_updated": "2025-04-10T16:49:02.025393",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 111,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -944,7 +944,8 @@
       "Local Chicken",
       "Cecilia",
       "Al Thuraya Delicacies",
-      "Cheese & Crackers"
+      "Cheese & Crackers",
+      "Kalila Cafe"
     ],
     "completed_pages": [
       1,
