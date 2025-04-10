@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T02:21:35.917563",
+  "last_updated": "2025-04-10T02:23:45.001891",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 78,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -724,7 +724,8 @@
       "Salad Boutique",
       "life with cacao",
       "Kumar",
-      "Bake & Take"
+      "Bake & Take",
+      "Roy"
     ],
     "completed_pages": [
       1,
