@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:07:54.828924",
+  "last_updated": "2025-04-10T15:09:05.302604",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 103,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -878,7 +878,8 @@
       "Alshanakel",
       "Fouz Sweet",
       "Lime",
-      "Gifted"
+      "Gifted",
+      "Burger Cut"
     ],
     "completed_pages": [
       1,
