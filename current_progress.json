@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:41:32.291928",
+  "last_updated": "2025-04-10T05:42:57.877591",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 87,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -792,7 +792,8 @@
       "Cake Gallery",
       "Sako Sushi",
       "Sabaidee",
-      "5G Burger"
+      "5G Burger",
+      "Village"
     ],
     "completed_pages": [
       1,
