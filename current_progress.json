@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T06:32:12.418817",
+  "last_updated": "2025-04-10T06:34:21.497122",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 92,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -808,7 +808,8 @@
       "Loza",
       "Satay",
       "House Of Corn",
-      "China Great Wall"
+      "China Great Wall",
+      "Sale Sucre"
     ],
     "completed_pages": [
       1,
