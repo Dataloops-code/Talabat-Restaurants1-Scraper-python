@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T17:39:12.060332",
+  "last_updated": "2025-04-10T17:39:29.614971",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -980,7 +980,8 @@
       "Gardenia",
       "Sadad",
       "Love Events",
-      "London Chocolate"
+      "London Chocolate",
+      "Gate Of Flowers"
     ],
     "completed_pages": [
       1,
