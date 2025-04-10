@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T15:31:37.589825",
+  "last_updated": "2025-04-10T15:34:46.235666",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 104,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -897,7 +897,8 @@
       "United Pharmacy",
       "Azhar Al Saboun",
       "Candy Shop",
-      "Deyayna"
+      "Deyayna",
+      "AlMazak AlDhamashqi"
     ],
     "completed_pages": [
       1,
