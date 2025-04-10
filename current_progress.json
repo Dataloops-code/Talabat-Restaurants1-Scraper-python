@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T06:44:54.092659",
+  "last_updated": "2025-04-10T06:48:11.535011",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 93,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -812,7 +812,8 @@
       "Sale Sucre",
       "Nuts & More",
       "JUMBARI FISH RESTAURANT",
-      "Happy Ellie"
+      "Happy Ellie",
+      "Hunny's"
     ],
     "completed_pages": [
       1,
