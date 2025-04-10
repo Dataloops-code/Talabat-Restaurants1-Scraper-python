@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T01:46:44.478747",
+  "last_updated": "2025-04-10T01:48:36.344485",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 77,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -713,7 +713,8 @@
       "Cake Aldahia",
       "Al Nabulsi Sweets",
       "Mamma Bunz Cafe",
-      "Luca"
+      "Luca",
+      "RETAN"
     ],
     "completed_pages": [
       1,
