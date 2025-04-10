@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:43:49.112523",
+  "last_updated": "2025-04-10T03:45:08.925556",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 81,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -751,7 +751,8 @@
       "Hazan",
       "Aysh Express",
       "SOUPA SALAD",
-      "Frutta Station"
+      "Frutta Station",
+      "December Cake"
     ],
     "completed_pages": [
       1,
