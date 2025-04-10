@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T14:35:40.048757",
+  "last_updated": "2025-04-10T14:35:50.041415",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 101,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -861,7 +861,8 @@
       "Al Safwa Market",
       "Sweet Design",
       "Biryani Rishi",
-      "Sweetie"
+      "Sweetie",
+      "Tre Fiori And More"
     ],
     "completed_pages": [
       1,
