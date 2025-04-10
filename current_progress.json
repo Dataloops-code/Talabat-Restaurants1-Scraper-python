@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T13:45:52.570206",
+  "last_updated": "2025-04-10T13:49:13.703479",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 99,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -841,7 +841,8 @@
       "Burger Town",
       "Hybread",
       "Eleven Coffee",
-      "Al Bait Al Adany"
+      "Al Bait Al Adany",
+      "Egg Holic"
     ],
     "completed_pages": [
       1,
