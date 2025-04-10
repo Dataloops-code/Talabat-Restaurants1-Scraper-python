@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T03:05:35.170197",
+  "last_updated": "2025-04-10T03:11:01.015358",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 79,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -741,7 +741,8 @@
       "Anna Ice Cream",
       "Oishii Sushi",
       "GOOD TACOS",
-      "The Sandwich, West Abu Fatera"
+      "The Sandwich, West Abu Fatera",
+      "Antep Sweets"
     ],
     "completed_pages": [
       1,
