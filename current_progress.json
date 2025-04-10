@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T06:25:49.830571",
+  "last_updated": "2025-04-10T06:28:06.487861",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 91,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -806,7 +806,8 @@
       "Chickz",
       "Cold Stone Creamery",
       "Loza",
-      "Satay"
+      "Satay",
+      "House Of Corn"
     ],
     "completed_pages": [
       1,
