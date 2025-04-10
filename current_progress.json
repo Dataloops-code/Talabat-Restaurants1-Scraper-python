@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T16:14:48.898953",
+  "last_updated": "2025-04-10T16:15:35.240791",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 108,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -926,7 +926,8 @@
       "La Cachette",
       "Qidra And Khalila",
       "Twarrad",
-      "Sushi In House"
+      "Sushi In House",
+      "Flormar"
     ],
     "completed_pages": [
       1,
