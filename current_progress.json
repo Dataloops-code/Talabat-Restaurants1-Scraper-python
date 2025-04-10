@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-10T05:47:56.608132",
+  "last_updated": "2025-04-10T05:49:38.584985",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 88,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -795,7 +795,8 @@
       "5G Burger",
       "Village",
       "Dampa Middle East",
-      "Mini Melts"
+      "Mini Melts",
+      "Shawarma Bo Assaf"
     ],
     "completed_pages": [
       1,
