@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:26:45.506507",
+  "last_updated": "2025-04-11T21:28:03.741874",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 124,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1072,7 +1072,8 @@
       "Eggs",
       "BCuz Burger",
       "Pump'd",
-      "Beauty by My Colors"
+      "Beauty by My Colors",
+      "Zwara"
     ],
     "completed_pages": [
       1,
