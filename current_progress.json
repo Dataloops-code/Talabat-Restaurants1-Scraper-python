@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T16:34:45.464254",
+  "last_updated": "2025-04-11T16:36:07.624464",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1091,7 +1091,8 @@
       "Highway Center",
       "Cocoanut",
       "Le Buffet",
-      "Teo"
+      "Teo",
+      "Magnum Opus"
     ],
     "completed_pages": [
       1,
