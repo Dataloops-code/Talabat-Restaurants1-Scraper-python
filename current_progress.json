@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T13:29:03.507395",
+  "last_updated": "2025-04-11T13:30:05.638259",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1006,7 +1006,8 @@
       "Melted Steak",
       "Crepe & Dip",
       "Shawarma Twist",
-      "Chef@Home"
+      "Chef@Home",
+      "Dob Doh"
     ],
     "completed_pages": [
       1,
