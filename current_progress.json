@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:45:53.188477",
+  "last_updated": "2025-04-11T05:47:12.076503",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1082,7 +1082,8 @@
       "Mini Sweet N Bakery",
       "Meat Town",
       "Choco Balls",
-      "Pizza Master"
+      "Pizza Master",
+      "Jeder Fatoha"
     ],
     "completed_pages": [
       1,
