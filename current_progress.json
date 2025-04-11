@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:04:49.580343",
+  "last_updated": "2025-04-11T14:06:45.186291",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1030,7 +1030,8 @@
       "Italian Flowers",
       "Al Nuzha Butchery",
       "Rose Style",
-      "Salt Cave Spa"
+      "Salt Cave Spa",
+      "Aqua Cool Water"
     ],
     "completed_pages": [
       1,
