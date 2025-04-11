@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:53:10.081745",
+  "last_updated": "2025-04-11T22:53:21.823713",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1101,7 +1101,8 @@
       "Num Num",
       "Addoy's Sugar",
       "Bonjour",
-      "Baraka Gourmet"
+      "Baraka Gourmet",
+      "Seen Flower"
     ],
     "completed_pages": [
       1,
