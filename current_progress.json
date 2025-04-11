@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:23:50.060125",
+  "last_updated": "2025-04-11T21:25:27.588285",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1070,7 +1070,8 @@
       "Asuman",
       "Hababah",
       "Eggs",
-      "BCuz Burger"
+      "BCuz Burger",
+      "Pump'd"
     ],
     "completed_pages": [
       1,
