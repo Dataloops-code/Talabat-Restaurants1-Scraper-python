@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:55:59.787435",
+  "last_updated": "2025-04-11T05:57:08.158419",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 128,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1089,7 +1089,8 @@
       "Mister Shawarma",
       "glutless",
       "Royo Cafe",
-      "Safi Sweets"
+      "Safi Sweets",
+      "Carne"
     ],
     "completed_pages": [
       1,
