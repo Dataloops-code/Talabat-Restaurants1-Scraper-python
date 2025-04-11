@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:04:05.079233",
+  "last_updated": "2025-04-11T23:05:25.711462",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1107,7 +1107,8 @@
       "Wholehearted",
       "Cocoanut",
       "Look N Look Pizza",
-      "Jibla"
+      "Jibla",
+      "Yoza Restaurant"
     ],
     "completed_pages": [
       1,
