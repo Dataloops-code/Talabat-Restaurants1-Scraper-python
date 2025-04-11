@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T03:21:46.902995",
+  "last_updated": "2025-04-11T03:21:57.237983",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1015,7 +1015,8 @@
       "Jazzar Burger",
       "Thailandy",
       "Daily's Bakery",
-      "Sweet Design"
+      "Sweet Design",
+      "Tre Fiori And More"
     ],
     "completed_pages": [
       1,
