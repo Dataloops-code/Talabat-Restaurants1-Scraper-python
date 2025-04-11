@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:36:03.969368",
+  "last_updated": "2025-04-11T22:37:09.624591",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1092,7 +1092,8 @@
       "Kababish",
       "Lovebird",
       "Whiskin Around",
-      "Qualified Burger"
+      "Qualified Burger",
+      "Meat Town"
     ],
     "completed_pages": [
       1,
