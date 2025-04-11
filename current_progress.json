@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:33:41.736720",
+  "last_updated": "2025-04-11T19:34:45.449817",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1009,7 +1009,8 @@
       "Gioia Artisan Gelato",
       "Cake Al Mabrook",
       "Cutie Choco",
-      "Ghaybooba"
+      "Ghaybooba",
+      "DM Sweet"
     ],
     "completed_pages": [
       1,
