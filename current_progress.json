@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T02:31:28.345338",
+  "last_updated": "2025-04-11T03:09:37.979851",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1007,7 +1007,8 @@
       "Mubkhar",
       "Maison de Senteurs",
       "Vivenza",
-      "Hassan's Optician"
+      "Hassan's Optician",
+      "Taybeen Juices"
     ],
     "completed_pages": [
       1,
