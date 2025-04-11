@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:35:41.608700",
+  "last_updated": "2025-04-11T18:37:48.034359",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -983,7 +983,8 @@
       "Floralia",
       "Deda",
       "Washa Choco",
-      "Uncle Fluffy"
+      "Uncle Fluffy",
+      "Raju & Sons"
     ],
     "completed_pages": [
       1,
