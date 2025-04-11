@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:17:32.283852",
+  "last_updated": "2025-04-11T20:18:39.590542",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 119,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1025,7 +1025,8 @@
       "MF",
       "Alshanakel",
       "Ahlia Gourmet",
-      "De Flore Cake"
+      "De Flore Cake",
+      "The Butcher Shop"
     ],
     "completed_pages": [
       1,
