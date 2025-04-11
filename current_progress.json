@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:43:48.393926",
+  "last_updated": "2025-04-11T22:44:56.259222",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1098,7 +1098,8 @@
       "Coco Thai",
       "Seasons Bakery",
       "Alto",
-      "Num Num"
+      "Num Num",
+      "Addoy's Sugar"
     ],
     "completed_pages": [
       1,
