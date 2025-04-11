@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:00:53.289746",
+  "last_updated": "2025-04-11T19:02:00.310415",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -993,7 +993,8 @@
       "H 9",
       "Shawarma Toshka",
       "The Chocolate Gate",
-      "Control Carb"
+      "Control Carb",
+      "Mama Macs"
     ],
     "completed_pages": [
       1,
