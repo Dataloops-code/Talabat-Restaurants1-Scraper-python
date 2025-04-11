@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:17:57.944818",
+  "last_updated": "2025-04-11T14:22:52.541709",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1040,7 +1040,8 @@
       "Sheikha Flowers",
       "Happy Toys",
       "Dar Camellia",
-      "Kinder Joy Express Grocery"
+      "Kinder Joy Express Grocery",
+      "Wingstreet"
     ],
     "completed_pages": [
       1,
