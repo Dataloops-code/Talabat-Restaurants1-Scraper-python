@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:47:43.677725",
+  "last_updated": "2025-04-11T23:48:49.517044",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 129,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1126,7 +1126,8 @@
       "Lima & The Sun",
       "Dandoosh",
       "Kabsat Al Fakhar",
-      "The Face Shop"
+      "The Face Shop",
+      "Koub Karak"
     ],
     "completed_pages": [
       1,
