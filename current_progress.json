@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:25:23.437322",
+  "last_updated": "2025-04-11T15:25:32.770252",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1064,7 +1064,8 @@
       "Findik Nuts",
       "Valer Boutique",
       "Flower Bar",
-      "5 roses"
+      "5 roses",
+      "Vera Flowers"
     ],
     "completed_pages": [
       1,
