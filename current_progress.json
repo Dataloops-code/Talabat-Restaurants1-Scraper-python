@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T17:57:21.270568",
+  "last_updated": "2025-04-11T17:58:28.640175",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1122,7 +1122,8 @@
       "Al Fakher",
       "Biriyani Tower",
       "DNA",
-      "Knead Bakery"
+      "Knead Bakery",
+      "Shawarma Lina"
     ],
     "completed_pages": [
       1,
