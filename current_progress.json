@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T07:13:51.313079",
+  "last_updated": "2025-04-11T07:15:56.761904",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 133,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1123,7 +1123,8 @@
       "The Ranch Boutique",
       "Whammy",
       "Saffron",
-      "Uncle Jasem Burger"
+      "Uncle Jasem Burger",
+      "Loqma Shamya"
     ],
     "completed_pages": [
       1,
