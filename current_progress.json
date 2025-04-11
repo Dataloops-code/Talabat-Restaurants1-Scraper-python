@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:02:43.677527",
+  "last_updated": "2025-04-11T20:02:53.066524",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1022,7 +1022,8 @@
       "Al Roushena",
       "Scale Healthy Restaurant",
       "The Butchery",
-      "MF"
+      "MF",
+      "Alshanakel"
     ],
     "completed_pages": [
       1,
