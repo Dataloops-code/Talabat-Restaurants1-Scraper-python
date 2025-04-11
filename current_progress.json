@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:14:57.862099",
+  "last_updated": "2025-04-11T04:16:41.710550",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1046,7 +1046,8 @@
       "SALTA",
       "Shosho Cake",
       "Le Royal Cake",
-      "Denver"
+      "Denver",
+      "Lovebird"
     ],
     "completed_pages": [
       1,
