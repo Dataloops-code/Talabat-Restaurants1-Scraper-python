@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:30:50.680632",
+  "last_updated": "2025-04-11T20:31:50.834122",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1034,7 +1034,8 @@
       "Delights",
       "Magrabi",
       "Sai Garden",
-      "The Brooklyn Creamery"
+      "The Brooklyn Creamery",
+      "BIEV"
     ],
     "completed_pages": [
       1,
