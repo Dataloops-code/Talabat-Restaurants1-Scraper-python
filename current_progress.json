@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:00:48.236628",
+  "last_updated": "2025-04-11T14:04:28.949155",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1027,7 +1027,8 @@
       "Eataly Grocery",
       "Joly burger",
       "Yasmin Farms",
-      "Italian Flowers"
+      "Italian Flowers",
+      "Al Nuzha Butchery"
     ],
     "completed_pages": [
       1,
