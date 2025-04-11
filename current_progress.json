@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:45:06.449726",
+  "last_updated": "2025-04-11T18:46:29.433756",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -987,7 +987,8 @@
       "Raju & Sons",
       "Karak AlTaybeen",
       "Starbucks Trolley Fintas",
-      "Wake Up"
+      "Wake Up",
+      "LEMONADE BY LEMONICA"
     ],
     "completed_pages": [
       1,
