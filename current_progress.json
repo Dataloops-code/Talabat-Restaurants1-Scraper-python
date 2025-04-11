@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:29:34.312592",
+  "last_updated": "2025-04-11T20:30:39.194889",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1033,7 +1033,8 @@
       "CocoaVia, West Abu Fetera Small Indust",
       "Delights",
       "Magrabi",
-      "Sai Garden"
+      "Sai Garden",
+      "The Brooklyn Creamery"
     ],
     "completed_pages": [
       1,
