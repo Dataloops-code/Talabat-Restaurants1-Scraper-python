@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:47:12.076503",
+  "last_updated": "2025-04-11T05:48:16.223372",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1083,7 +1083,8 @@
       "Meat Town",
       "Choco Balls",
       "Pizza Master",
-      "Jeder Fatoha"
+      "Jeder Fatoha",
+      "Sushi Elhara"
     ],
     "completed_pages": [
       1,
