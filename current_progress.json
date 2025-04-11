@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:21:44.497594",
+  "last_updated": "2025-04-11T22:22:52.928208",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1082,7 +1082,8 @@
       "Nepton Juice",
       "TosTado",
       "Karak Corner",
-      "Rolly's Bakehouse"
+      "Rolly's Bakehouse",
+      "One More Sweet"
     ],
     "completed_pages": [
       1,
