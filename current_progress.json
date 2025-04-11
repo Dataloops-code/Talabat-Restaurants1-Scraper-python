@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:28:09.652872",
+  "last_updated": "2025-04-11T19:29:59.894242",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1006,7 +1006,8 @@
       "Donnrua",
       "Happy Crescent",
       "Reve",
-      "Gioia Artisan Gelato"
+      "Gioia Artisan Gelato",
+      "Cake Al Mabrook"
     ],
     "completed_pages": [
       1,
