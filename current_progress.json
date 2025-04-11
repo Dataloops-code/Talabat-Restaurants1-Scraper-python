@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:12:02.017645",
+  "last_updated": "2025-04-11T14:13:12.412641",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1034,7 +1034,8 @@
       "Aqua Cool Water",
       "The Ice cream Bar",
       "Blend Kuwait",
-      "FleyFley"
+      "FleyFley",
+      "Morni"
     ],
     "completed_pages": [
       1,
