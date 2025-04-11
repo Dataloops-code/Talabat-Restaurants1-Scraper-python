@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:10:59.249027",
+  "last_updated": "2025-04-11T04:12:39.515508",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1043,7 +1043,8 @@
       "Backyard",
       "Chef@Home",
       "Hope Bakery",
-      "SALTA"
+      "SALTA",
+      "Shosho Cake"
     ],
     "completed_pages": [
       1,
