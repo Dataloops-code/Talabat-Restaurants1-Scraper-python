@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:07:52.810238",
+  "last_updated": "2025-04-11T21:09:00.057963",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1062,7 +1062,8 @@
       "Le Royal Cake",
       "Kalemat Bookstore",
       "Chef@Home",
-      "Singarea"
+      "Singarea",
+      "Denver"
     ],
     "completed_pages": [
       1,
