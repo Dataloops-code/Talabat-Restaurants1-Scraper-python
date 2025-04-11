@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:46:05.791702",
+  "last_updated": "2025-04-11T14:47:28.639657",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 119,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1052,7 +1052,8 @@
       "Baity Roastery",
       "HSquare",
       "Dukan Sainsbury`s",
-      "Royal Garden"
+      "Royal Garden",
+      "Organic meat"
     ],
     "completed_pages": [
       1,
