@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T02:15:42.368967",
+  "last_updated": "2025-04-11T02:16:23.417464",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -994,7 +994,8 @@
       "Shish Othman",
       "The Cake Shop",
       "Bawaabat Alhaumidih",
-      "Shawarma Lina"
+      "Shawarma Lina",
+      "Flormar"
     ],
     "completed_pages": [
       1,
