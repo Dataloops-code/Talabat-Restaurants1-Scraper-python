@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:09:41.972895",
+  "last_updated": "2025-04-11T18:11:02.910202",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 128,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1132,7 +1132,8 @@
       "Jazzar Burger",
       "Croissant",
       "Cadenze",
-      "Shish Othman"
+      "Shish Othman",
+      "Royal Foods"
     ],
     "completed_pages": [
       1,
