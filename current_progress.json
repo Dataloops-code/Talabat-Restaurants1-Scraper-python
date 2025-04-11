@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:34:15.136709",
+  "last_updated": "2025-04-11T20:35:01.805660",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1037,7 +1037,8 @@
       "The Brooklyn Creamery",
       "BIEV",
       "Shawarma Lina",
-      "Bj Beauty"
+      "Bj Beauty",
+      "Results"
     ],
     "completed_pages": [
       1,
