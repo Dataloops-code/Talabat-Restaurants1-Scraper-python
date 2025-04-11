@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:47:40.006907",
+  "last_updated": "2025-04-11T14:47:49.291930",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 119,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1054,7 +1054,8 @@
       "Dukan Sainsbury`s",
       "Royal Garden",
       "Organic meat",
-      "Al lotus"
+      "Al lotus",
+      "Diamonds Flowers"
     ],
     "completed_pages": [
       1,
