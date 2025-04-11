@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T02:05:59.301496",
+  "last_updated": "2025-04-11T02:06:59.898127",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -988,7 +988,8 @@
       "Biriyani Tower",
       "Croissant",
       "Cadenze",
-      "Reyhan"
+      "Reyhan",
+      "DNA"
     ],
     "completed_pages": [
       1,
