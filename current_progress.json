@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T17:07:38.177419",
+  "last_updated": "2025-04-11T17:08:44.835144",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1105,7 +1105,8 @@
       "Electric Burger",
       "The Chocolate Gate",
       "Milk & Cream",
-      "Khokh W Mango"
+      "Khokh W Mango",
+      "Crazy Toast"
     ],
     "completed_pages": [
       1,
