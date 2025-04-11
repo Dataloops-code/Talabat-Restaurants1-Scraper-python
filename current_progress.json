@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T12:43:40.887228",
+  "last_updated": "2025-04-11T12:44:44.469943",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -983,7 +983,8 @@
       "Floralia",
       "Deda",
       "Addoy's Sugar",
-      "Lavida, Ardiya TMP"
+      "Lavida, Ardiya TMP",
+      "Chicken Hub"
     ],
     "completed_pages": [
       1,
