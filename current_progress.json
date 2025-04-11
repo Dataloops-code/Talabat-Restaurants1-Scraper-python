@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:42:43.919472",
+  "last_updated": "2025-04-11T05:43:55.611085",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1080,7 +1080,8 @@
       "Rolly's Bakehouse",
       "Location X",
       "Mini Sweet N Bakery",
-      "Meat Town"
+      "Meat Town",
+      "Choco Balls"
     ],
     "completed_pages": [
       1,
