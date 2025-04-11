@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:32:07.777279",
+  "last_updated": "2025-04-11T15:32:16.962720",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1076,7 +1076,8 @@
       "Sakura (crowne plaza)",
       "Nisha Flowers",
       "Flower Project",
-      "Casa Rosa Flowers"
+      "Casa Rosa Flowers",
+      "Retro Games"
     ],
     "completed_pages": [
       1,
