@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:32:30.672148",
+  "last_updated": "2025-04-11T06:33:32.918632",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 130,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1103,7 +1103,8 @@
       "Chicken Hub",
       "Carnaval Grocery",
       "Whiskin Around",
-      "Qualified Burger"
+      "Qualified Burger",
+      "Shake Shack - The Lake Mall, Fnaitees,(Dh Kitchen)"
     ],
     "completed_pages": [
       1,
