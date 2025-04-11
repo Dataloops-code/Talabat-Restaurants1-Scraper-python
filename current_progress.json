@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:49:26.531189",
+  "last_updated": "2025-04-11T18:50:44.548376",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -990,7 +990,8 @@
       "Wake Up",
       "LEMONADE BY LEMONICA",
       "Estekanah",
-      "H 9"
+      "H 9",
+      "Shawarma Toshka"
     ],
     "completed_pages": [
       1,
