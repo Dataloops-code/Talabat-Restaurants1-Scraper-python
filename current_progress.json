@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:27:29.680741",
+  "last_updated": "2025-04-11T22:28:30.828543",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1087,7 +1087,8 @@
       "Masala Zone",
       "Pizza Master",
       "Jeder Fatoha",
-      "Auto 1"
+      "Auto 1",
+      "VOV"
     ],
     "completed_pages": [
       1,
