@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T03:47:04.484532",
+  "last_updated": "2025-04-11T03:50:58.463569",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 119,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1034,7 +1034,8 @@
       "Dar AlKhabbaz",
       "Mr Cleavers",
       "Farahat",
-      "Kefan Optics"
+      "Kefan Optics",
+      "Estraht Al Thahya Restaurant"
     ],
     "completed_pages": [
       1,
