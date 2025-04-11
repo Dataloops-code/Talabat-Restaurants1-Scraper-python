@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:40:45.098960",
+  "last_updated": "2025-04-11T22:42:00.324575",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1096,7 +1096,8 @@
       "Meat Town",
       "Dajaj Soya",
       "Coco Thai",
-      "Seasons Bakery"
+      "Seasons Bakery",
+      "Alto"
     ],
     "completed_pages": [
       1,
