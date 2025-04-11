@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T13:08:03.026964",
+  "last_updated": "2025-04-11T13:13:13.651156",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -998,7 +998,8 @@
       "Smoke Circle",
       "World Sweets",
       "Meat Chops",
-      "Luren Restaurant"
+      "Luren Restaurant",
+      "HT Cafe"
     ],
     "completed_pages": [
       1,
