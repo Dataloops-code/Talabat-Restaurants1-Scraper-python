@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:27:17.966707",
+  "last_updated": "2025-04-11T22:27:29.680741",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1086,7 +1086,8 @@
       "One More Sweet",
       "Masala Zone",
       "Pizza Master",
-      "Jeder Fatoha"
+      "Jeder Fatoha",
+      "Auto 1"
     ],
     "completed_pages": [
       1,
