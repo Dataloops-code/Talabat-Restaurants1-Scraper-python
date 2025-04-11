@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:17:28.611234",
+  "last_updated": "2025-04-11T14:17:38.072521",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1037,7 +1037,8 @@
       "FleyFley",
       "Morni",
       "Episode 4",
-      "Sheikha Flowers"
+      "Sheikha Flowers",
+      "Happy Toys"
     ],
     "completed_pages": [
       1,
