@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:24:38.818468",
+  "last_updated": "2025-04-11T14:24:48.104332",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1043,7 +1043,8 @@
       "Kinder Joy Express Grocery",
       "Wingstreet",
       "Kunooz Alteeb",
-      "Stately Flowers"
+      "Stately Flowers",
+      "Leaf Flowers"
     ],
     "completed_pages": [
       1,
