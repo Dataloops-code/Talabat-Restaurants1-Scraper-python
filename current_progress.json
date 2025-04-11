@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:07:52.766467",
+  "last_updated": "2025-04-11T06:11:06.788272",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 129,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1093,7 +1093,8 @@
       "Carne",
       "VOV",
       "Dajaj Soya",
-      "Baraka Gourmet"
+      "Baraka Gourmet",
+      "Celebrity Steak & Burger"
     ],
     "completed_pages": [
       1,
