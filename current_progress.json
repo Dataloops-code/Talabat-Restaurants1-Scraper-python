@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:12:07.916518",
+  "last_updated": "2025-04-11T23:13:00.482847",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1111,7 +1111,8 @@
       "Yoza Restaurant",
       "89 Burger",
       "Koshari Station",
-      "Ero"
+      "Ero",
+      "Sultan Al Kebab"
     ],
     "completed_pages": [
       1,
