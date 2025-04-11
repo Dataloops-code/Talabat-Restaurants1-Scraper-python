@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T12:42:00.912444",
+  "last_updated": "2025-04-11T12:43:40.887228",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -982,7 +982,8 @@
       "Leto Caffe",
       "Floralia",
       "Deda",
-      "Addoy's Sugar"
+      "Addoy's Sugar",
+      "Lavida, Ardiya TMP"
     ],
     "completed_pages": [
       1,
