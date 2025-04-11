@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T12:52:42.170767",
+  "last_updated": "2025-04-11T12:55:31.280038",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -990,7 +990,8 @@
       "Ero",
       "Lima & The Sun",
       "FURDTK",
-      "The Face Shop"
+      "The Face Shop",
+      "Swaikhat Lab"
     ],
     "completed_pages": [
       1,
