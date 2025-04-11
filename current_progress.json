@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:04:51.452430",
+  "last_updated": "2025-04-11T18:05:57.916493",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1128,7 +1128,8 @@
       "Sai Garden",
       "Sweet Land",
       "Packaway",
-      "Eternity"
+      "Eternity",
+      "Jazzar Burger"
     ],
     "completed_pages": [
       1,
