@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:16:18.320787",
+  "last_updated": "2025-04-11T22:17:25.567537",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1079,7 +1079,8 @@
       "Real Veal Burger (RV BRGR)",
       "Mama Mawaheb",
       "Baker & Spice",
-      "Nepton Juice"
+      "Nepton Juice",
+      "TosTado"
     ],
     "completed_pages": [
       1,
