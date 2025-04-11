@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:50:45.896858",
+  "last_updated": "2025-04-11T20:51:55.497328",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1052,7 +1052,8 @@
       "Shawaya Bros",
       "Eternity",
       "Jazzar Burger",
-      "Croissant"
+      "Croissant",
+      "Shish Othman"
     ],
     "completed_pages": [
       1,
