@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T17:39:10.233734",
+  "last_updated": "2025-04-11T17:40:12.679596",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1111,7 +1111,8 @@
       "Doctor Secret Recipe",
       "Khoosh Frish",
       "Popcornopolis",
-      "Cloud 9"
+      "Cloud 9",
+      "ETO paris"
     ],
     "completed_pages": [
       1,
