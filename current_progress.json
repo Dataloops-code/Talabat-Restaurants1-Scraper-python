@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:49:33.083868",
+  "last_updated": "2025-04-11T19:55:27.680216",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1016,7 +1016,8 @@
       "Numou",
       "Lydor",
       "Copper Chimney",
-      "The Cake Shop"
+      "The Cake Shop",
+      "Bake Shop Cake"
     ],
     "completed_pages": [
       1,
