@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:15:36.292689",
+  "last_updated": "2025-04-11T21:20:59.454472",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1067,7 +1067,8 @@
       "Full House Burger",
       "Fruity Snap",
       "B Better",
-      "Asuman"
+      "Asuman",
+      "Hababah"
     ],
     "completed_pages": [
       1,
