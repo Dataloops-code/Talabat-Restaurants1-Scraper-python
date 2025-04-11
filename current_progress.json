@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T07:21:08.454158",
+  "last_updated": "2025-04-11T07:24:23.008008",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 134,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1125,7 +1125,8 @@
       "Saffron",
       "Uncle Jasem Burger",
       "Loqma Shamya",
-      "GIA"
+      "GIA",
+      "Fighter K"
     ],
     "completed_pages": [
       1,
