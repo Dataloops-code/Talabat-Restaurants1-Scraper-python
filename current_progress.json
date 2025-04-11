@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T03:26:13.755639",
+  "last_updated": "2025-04-11T03:26:24.078202",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1020,7 +1020,8 @@
       "Sweetie",
       "G Line flowers",
       "De Flore Cake",
-      "Pablo Lounge"
+      "Pablo Lounge",
+      "Al Bairaq Al Shamekh Pharmacy"
     ],
     "completed_pages": [
       1,
