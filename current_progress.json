@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:09:11.740857",
+  "last_updated": "2025-04-11T21:10:25.645984",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1063,7 +1063,8 @@
       "Kalemat Bookstore",
       "Chef@Home",
       "Singarea",
-      "Denver"
+      "Denver",
+      "Full House Burger"
     ],
     "completed_pages": [
       1,
