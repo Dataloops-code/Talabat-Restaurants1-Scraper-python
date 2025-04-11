@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:51:36.331647",
+  "last_updated": "2025-04-11T18:53:51.000299",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -991,7 +991,8 @@
       "LEMONADE BY LEMONICA",
       "Estekanah",
       "H 9",
-      "Shawarma Toshka"
+      "Shawarma Toshka",
+      "The Chocolate Gate"
     ],
     "completed_pages": [
       1,
