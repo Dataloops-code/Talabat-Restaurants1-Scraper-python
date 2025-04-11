@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:04:40.238545",
+  "last_updated": "2025-04-11T14:04:49.580343",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1029,7 +1029,8 @@
       "Yasmin Farms",
       "Italian Flowers",
       "Al Nuzha Butchery",
-      "Rose Style"
+      "Rose Style",
+      "Salt Cave Spa"
     ],
     "completed_pages": [
       1,
