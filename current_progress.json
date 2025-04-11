@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:23:27.068800",
+  "last_updated": "2025-04-11T19:24:41.033879",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1003,7 +1003,8 @@
       "Lafayette Cake",
       "Hail And Cake Bakery",
       "AM Sweet",
-      "Donnrua"
+      "Donnrua",
+      "Happy Crescent"
     ],
     "completed_pages": [
       1,
