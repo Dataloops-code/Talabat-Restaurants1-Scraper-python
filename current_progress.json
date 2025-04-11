@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T16:31:15.881401",
+  "last_updated": "2025-04-11T16:33:06.793151",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1089,7 +1089,8 @@
       "Pino Juices",
       "BCuz Burger",
       "Highway Center",
-      "Cocoanut"
+      "Cocoanut",
+      "Le Buffet"
     ],
     "completed_pages": [
       1,
