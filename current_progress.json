@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:00:13.629633",
+  "last_updated": "2025-04-11T04:02:39.494540",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1038,7 +1038,8 @@
       "Estraht Al Thahya Restaurant",
       "MOG By Chocomelt",
       "Auto 1",
-      "Sushi In House"
+      "Sushi In House",
+      "Bloomsberry bakery"
     ],
     "completed_pages": [
       1,
