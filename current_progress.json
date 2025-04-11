@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:38:09.052156",
+  "last_updated": "2025-04-11T18:39:46.020116",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -984,7 +984,8 @@
       "Deda",
       "Washa Choco",
       "Uncle Fluffy",
-      "Raju & Sons"
+      "Raju & Sons",
+      "Karak AlTaybeen"
     ],
     "completed_pages": [
       1,
