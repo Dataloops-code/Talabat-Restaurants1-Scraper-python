@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:57:24.268332",
+  "last_updated": "2025-04-11T23:58:55.528646",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 129,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1130,7 +1130,8 @@
       "Koub Karak",
       "Hamour Sharq Restaurant",
       "Saffron",
-      "Illinois"
+      "Illinois",
+      "Salad Creations"
     ],
     "completed_pages": [
       1,
