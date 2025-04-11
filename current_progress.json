@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:54:41.087003",
+  "last_updated": "2025-04-11T06:58:47.258810",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 132,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1115,7 +1115,8 @@
       "Yoza Restaurant",
       "Bread &",
       "enough",
-      "El sayad"
+      "El sayad",
+      "Rajdhani Palace"
     ],
     "completed_pages": [
       1,
