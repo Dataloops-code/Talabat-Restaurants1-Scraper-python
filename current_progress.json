@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:54:46.785364",
+  "last_updated": "2025-04-11T20:55:52.316479",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1054,7 +1054,8 @@
       "Jazzar Burger",
       "Croissant",
       "Shish Othman",
-      "Sushi In House"
+      "Sushi In House",
+      "Kefan Optics"
     ],
     "completed_pages": [
       1,
