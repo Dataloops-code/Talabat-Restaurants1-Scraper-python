@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T12:57:58.453173",
+  "last_updated": "2025-04-11T12:58:09.632736",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -993,7 +993,8 @@
       "The Face Shop",
       "Swaikhat Lab",
       "Illinois",
-      "Quick Paws"
+      "Quick Paws",
+      "City Hypermarket"
     ],
     "completed_pages": [
       1,
