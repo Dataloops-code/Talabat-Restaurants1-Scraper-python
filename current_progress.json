@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:35:01.805660",
+  "last_updated": "2025-04-11T20:36:25.090177",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1038,7 +1038,8 @@
       "BIEV",
       "Shawarma Lina",
       "Bj Beauty",
-      "Results"
+      "Results",
+      "Reem Al Sham"
     ],
     "completed_pages": [
       1,
