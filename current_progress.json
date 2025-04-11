@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:40:26.219932",
+  "last_updated": "2025-04-11T04:41:28.750294",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 124,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1059,7 +1059,8 @@
       "Beauty by My Colors",
       "Ghaybooba",
       "Fruity Snap",
-      "One Eighty"
+      "One Eighty",
+      "ROSSO"
     ],
     "completed_pages": [
       1,
