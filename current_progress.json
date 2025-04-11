@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:22:16.426216",
+  "last_updated": "2025-04-11T04:24:49.130455",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1049,7 +1049,8 @@
       "Denver",
       "Lovebird",
       "Full House Burger",
-      "B Better"
+      "B Better",
+      "Baker & Spice"
     ],
     "completed_pages": [
       1,
