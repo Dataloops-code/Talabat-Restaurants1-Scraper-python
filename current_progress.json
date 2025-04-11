@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:22:52.541709",
+  "last_updated": "2025-04-11T14:24:27.821149",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1041,7 +1041,8 @@
       "Happy Toys",
       "Dar Camellia",
       "Kinder Joy Express Grocery",
-      "Wingstreet"
+      "Wingstreet",
+      "Kunooz Alteeb"
     ],
     "completed_pages": [
       1,
