@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:15:57.705082",
+  "last_updated": "2025-04-11T19:18:54.960717",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1001,7 +1001,8 @@
       "Marble Dates",
       "Crazy Toast",
       "Lafayette Cake",
-      "Hail And Cake Bakery"
+      "Hail And Cake Bakery",
+      "AM Sweet"
     ],
     "completed_pages": [
       1,
