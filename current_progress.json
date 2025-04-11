@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T03:23:18.691220",
+  "last_updated": "2025-04-11T03:24:21.486287",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1018,7 +1018,8 @@
       "Sweet Design",
       "Tre Fiori And More",
       "Sweetie",
-      "G Line flowers"
+      "G Line flowers",
+      "De Flore Cake"
     ],
     "completed_pages": [
       1,
