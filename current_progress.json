@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:11:56.088979",
+  "last_updated": "2025-04-11T19:14:22.284782",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -999,7 +999,8 @@
       "Milk & Cream",
       "Halat Dinyak",
       "Marble Dates",
-      "Crazy Toast"
+      "Crazy Toast",
+      "Lafayette Cake"
     ],
     "completed_pages": [
       1,
