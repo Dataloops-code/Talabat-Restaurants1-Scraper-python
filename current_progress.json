@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T17:56:03.056465",
+  "last_updated": "2025-04-11T17:57:09.897196",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1121,7 +1121,8 @@
       "Dar AlKhabbaz",
       "Al Fakher",
       "Biriyani Tower",
-      "DNA"
+      "DNA",
+      "Knead Bakery"
     ],
     "completed_pages": [
       1,
