@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:14:48.531514",
+  "last_updated": "2025-04-11T05:15:55.177418",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1066,7 +1066,8 @@
       "Refuel Juice",
       "Real Veal Burger (RV BRGR)",
       "Revolution Burger",
-      "Singarea"
+      "Singarea",
+      "Mama Mawaheb"
     ],
     "completed_pages": [
       1,
