@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T03:23:08.386160",
+  "last_updated": "2025-04-11T03:23:18.691220",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1017,7 +1017,8 @@
       "Daily's Bakery",
       "Sweet Design",
       "Tre Fiori And More",
-      "Sweetie"
+      "Sweetie",
+      "G Line flowers"
     ],
     "completed_pages": [
       1,
