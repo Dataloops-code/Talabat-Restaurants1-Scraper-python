@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:28:13.374718",
+  "last_updated": "2025-04-11T15:29:22.940712",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1069,7 +1069,8 @@
       "Sloane",
       "Rose Boutique",
       "Mini & Many",
-      "Sweet Store"
+      "Sweet Store",
+      "Yummy Desserts"
     ],
     "completed_pages": [
       1,
