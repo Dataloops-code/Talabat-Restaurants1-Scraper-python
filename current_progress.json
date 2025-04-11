@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T17:49:48.392502",
+  "last_updated": "2025-04-11T17:50:55.422428",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1116,7 +1116,8 @@
       "Pablo Lounge",
       "Scoop A Cone",
       "Magrabi",
-      "CocoaVia, West Abu Fetera Small Indust"
+      "CocoaVia, West Abu Fetera Small Indust",
+      "Delights"
     ],
     "completed_pages": [
       1,
