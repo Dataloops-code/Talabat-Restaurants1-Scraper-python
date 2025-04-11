@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T12:51:57.285945",
+  "last_updated": "2025-04-11T12:52:42.170767",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -989,7 +989,8 @@
       "Sabah AlSalem Co-Op",
       "Ero",
       "Lima & The Sun",
-      "FURDTK"
+      "FURDTK",
+      "The Face Shop"
     ],
     "completed_pages": [
       1,
