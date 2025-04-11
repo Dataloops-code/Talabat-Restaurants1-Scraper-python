@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T12:47:49.760382",
+  "last_updated": "2025-04-11T12:47:58.502962",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -985,7 +985,8 @@
       "Addoy's Sugar",
       "Lavida, Ardiya TMP",
       "Chicken Hub",
-      "El sayad"
+      "El sayad",
+      "Sabah AlSalem Co-Op"
     ],
     "completed_pages": [
       1,
