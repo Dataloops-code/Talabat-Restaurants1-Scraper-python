@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T01:39:17.010352",
+  "last_updated": "2025-04-11T01:41:08.408392",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 112,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -982,7 +982,8 @@
       "Leto Caffe",
       "Floralia",
       "Deda",
-      "Sai Garden"
+      "Sai Garden",
+      "Delights"
     ],
     "completed_pages": [
       1,
