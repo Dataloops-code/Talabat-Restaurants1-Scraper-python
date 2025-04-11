@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:08:55.267005",
+  "last_updated": "2025-04-11T14:12:02.017645",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 117,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1033,7 +1033,8 @@
       "Salt Cave Spa",
       "Aqua Cool Water",
       "The Ice cream Bar",
-      "Blend Kuwait"
+      "Blend Kuwait",
+      "FleyFley"
     ],
     "completed_pages": [
       1,
