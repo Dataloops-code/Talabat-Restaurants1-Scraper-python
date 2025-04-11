@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:28:05.206674",
+  "last_updated": "2025-04-11T06:29:05.239270",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 129,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1099,7 +1099,8 @@
       "Matbakh Yusria",
       "Toot Alennaby",
       "Abby Fatayer",
-      "Look N Look Pizza"
+      "Look N Look Pizza",
+      "Chicken Hub"
     ],
     "completed_pages": [
       1,
