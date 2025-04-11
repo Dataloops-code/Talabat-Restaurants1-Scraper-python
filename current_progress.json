@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T16:18:01.840443",
+  "last_updated": "2025-04-11T16:19:35.398444",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1083,7 +1083,8 @@
       "Madame Lily Florist",
       "Alsafeer Aljadeed",
       "Karak AlTaybeen",
-      "Taybeen Juices"
+      "Taybeen Juices",
+      "Washa Choco"
     ],
     "completed_pages": [
       1,
