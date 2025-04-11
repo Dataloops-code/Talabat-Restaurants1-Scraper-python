@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:31:17.961971",
+  "last_updated": "2025-04-11T15:31:27.564663",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1074,7 +1074,8 @@
       "Jawa Flowers",
       "X O",
       "Sakura (crowne plaza)",
-      "Nisha Flowers"
+      "Nisha Flowers",
+      "Flower Project"
     ],
     "completed_pages": [
       1,
