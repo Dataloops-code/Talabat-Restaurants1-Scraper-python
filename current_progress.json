@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:37:09.624591",
+  "last_updated": "2025-04-11T22:38:15.573279",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1093,7 +1093,8 @@
       "Lovebird",
       "Whiskin Around",
       "Qualified Burger",
-      "Meat Town"
+      "Meat Town",
+      "Dajaj Soya"
     ],
     "completed_pages": [
       1,
