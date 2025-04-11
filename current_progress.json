@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:45:06.929247",
+  "last_updated": "2025-04-11T20:45:18.452139",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1046,7 +1046,8 @@
       "La Cachette",
       "Flormar",
       "Royal Foods",
-      "Packaway"
+      "Packaway",
+      "KA4 Hyper"
     ],
     "completed_pages": [
       1,
