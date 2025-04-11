@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:28:30.828543",
+  "last_updated": "2025-04-11T22:29:38.131938",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1088,7 +1088,8 @@
       "Pizza Master",
       "Jeder Fatoha",
       "Auto 1",
-      "VOV"
+      "VOV",
+      "Kababish"
     ],
     "completed_pages": [
       1,
