@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:57:58.578154",
+  "last_updated": "2025-04-11T20:59:28.995480",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1057,7 +1057,8 @@
       "Sushi In House",
       "Kefan Optics",
       "Twarrad",
-      "SALTA"
+      "SALTA",
+      "Shosho Cake"
     ],
     "completed_pages": [
       1,
