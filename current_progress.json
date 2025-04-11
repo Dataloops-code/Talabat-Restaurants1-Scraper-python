@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:10:43.716673",
+  "last_updated": "2025-04-11T23:12:07.916518",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1110,7 +1110,8 @@
       "Jibla",
       "Yoza Restaurant",
       "89 Burger",
-      "Koshari Station"
+      "Koshari Station",
+      "Ero"
     ],
     "completed_pages": [
       1,
