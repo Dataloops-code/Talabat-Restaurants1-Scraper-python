@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T17:11:42.616499",
+  "last_updated": "2025-04-11T17:13:34.860859",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1107,7 +1107,8 @@
       "Milk & Cream",
       "Khokh W Mango",
       "Crazy Toast",
-      "Cake Al Mabrook"
+      "Cake Al Mabrook",
+      "Doctor Secret Recipe"
     ],
     "completed_pages": [
       1,
