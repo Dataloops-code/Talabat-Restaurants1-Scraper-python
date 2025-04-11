@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T07:24:23.008008",
+  "last_updated": "2025-04-11T07:27:57.998510",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 134,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1126,7 +1126,8 @@
       "Uncle Jasem Burger",
       "Loqma Shamya",
       "GIA",
-      "Fighter K"
+      "Fighter K",
+      "Food Palace"
     ],
     "completed_pages": [
       1,
