@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:33:33.737086",
+  "last_updated": "2025-04-11T05:35:17.374530",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1074,7 +1074,8 @@
       "Lacopa",
       "Second Cup",
       "Asuman",
-      "Pure Pressed"
+      "Pure Pressed",
+      "Pump'd"
     ],
     "completed_pages": [
       1,
