@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:47:48.147641",
+  "last_updated": "2025-04-11T06:49:05.053849",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 131,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1111,7 +1111,8 @@
       "Potat",
       "Dandoosh",
       "Gifts Gate",
-      "Kabsat Al Fakhar"
+      "Kabsat Al Fakhar",
+      "Yoza Restaurant"
     ],
     "completed_pages": [
       1,
