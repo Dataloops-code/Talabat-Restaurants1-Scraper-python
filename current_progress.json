@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T13:38:47.474203",
+  "last_updated": "2025-04-11T13:38:56.765623",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1009,7 +1009,8 @@
       "Chef@Home",
       "Dob Doh",
       "Bun Squared",
-      "Toys R Us"
+      "Toys R Us",
+      "Gardenia"
     ],
     "completed_pages": [
       1,
