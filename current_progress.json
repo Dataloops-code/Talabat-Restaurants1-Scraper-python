@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T17:54:58.691121",
+  "last_updated": "2025-04-11T17:56:03.056465",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1120,7 +1120,8 @@
       "Delights",
       "Dar AlKhabbaz",
       "Al Fakher",
-      "Biriyani Tower"
+      "Biriyani Tower",
+      "DNA"
     ],
     "completed_pages": [
       1,
