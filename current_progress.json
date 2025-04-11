@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:27:11.436532",
+  "last_updated": "2025-04-11T20:27:55.242939",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 119,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1031,7 +1031,8 @@
       "Tre Fiori And More",
       "Scoop A Cone",
       "CocoaVia, West Abu Fetera Small Indust",
-      "Delights"
+      "Delights",
+      "Magrabi"
     ],
     "completed_pages": [
       1,
