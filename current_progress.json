@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:29:24.691811",
+  "last_updated": "2025-04-11T20:29:34.312592",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1032,7 +1032,8 @@
       "Scoop A Cone",
       "CocoaVia, West Abu Fetera Small Indust",
       "Delights",
-      "Magrabi"
+      "Magrabi",
+      "Sai Garden"
     ],
     "completed_pages": [
       1,
