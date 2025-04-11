@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:43:03.831304",
+  "last_updated": "2025-04-11T04:44:26.328703",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 124,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1061,7 +1061,8 @@
       "Fruity Snap",
       "One Eighty",
       "ROSSO",
-      "Mama Macs"
+      "Mama Macs",
+      "Health Planet"
     ],
     "completed_pages": [
       1,
