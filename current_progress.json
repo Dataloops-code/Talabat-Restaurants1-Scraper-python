@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:01:15.764804",
+  "last_updated": "2025-04-11T20:02:32.207428",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1021,7 +1021,8 @@
       "Jazzly",
       "Al Roushena",
       "Scale Healthy Restaurant",
-      "The Butchery"
+      "The Butchery",
+      "MF"
     ],
     "completed_pages": [
       1,
