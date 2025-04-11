@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:58:50.800030",
+  "last_updated": "2025-04-11T23:02:36.904487",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1105,7 +1105,8 @@
       "Seen Flower",
       "Cecilia",
       "Wholehearted",
-      "Cocoanut"
+      "Cocoanut",
+      "Look N Look Pizza"
     ],
     "completed_pages": [
       1,
