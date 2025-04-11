@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:22:44.183232",
+  "last_updated": "2025-04-11T05:23:47.984800",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1070,7 +1070,8 @@
       "Mama Mawaheb",
       "Eggs",
       "Japang: Japanese Fried Chicken",
-      "Seasons Bakery"
+      "Seasons Bakery",
+      "Lacopa"
     ],
     "completed_pages": [
       1,
