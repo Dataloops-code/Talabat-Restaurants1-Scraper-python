@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:06:49.620331",
+  "last_updated": "2025-04-11T23:10:43.716673",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1109,7 +1109,8 @@
       "Look N Look Pizza",
       "Jibla",
       "Yoza Restaurant",
-      "89 Burger"
+      "89 Burger",
+      "Koshari Station"
     ],
     "completed_pages": [
       1,
