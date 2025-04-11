@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:28:03.741874",
+  "last_updated": "2025-04-11T21:29:11.201725",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 124,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1073,7 +1073,8 @@
       "BCuz Burger",
       "Pump'd",
       "Beauty by My Colors",
-      "Zwara"
+      "Zwara",
+      "Hope Bakery"
     ],
     "completed_pages": [
       1,
