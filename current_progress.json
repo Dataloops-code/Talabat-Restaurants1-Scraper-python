@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T13:25:07.550674",
+  "last_updated": "2025-04-11T13:28:52.485820",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1005,7 +1005,8 @@
       "Wonder Burger",
       "Melted Steak",
       "Crepe & Dip",
-      "Shawarma Twist"
+      "Shawarma Twist",
+      "Chef@Home"
     ],
     "completed_pages": [
       1,
