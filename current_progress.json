@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:03:43.037392",
+  "last_updated": "2025-04-11T04:06:50.841790",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1040,7 +1040,8 @@
       "Auto 1",
       "Sushi In House",
       "Bloomsberry bakery",
-      "Backyard"
+      "Backyard",
+      "Chef@Home"
     ],
     "completed_pages": [
       1,
