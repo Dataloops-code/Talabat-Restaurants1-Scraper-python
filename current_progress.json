@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:07:04.091178",
+  "last_updated": "2025-04-11T18:08:06.039923",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1130,7 +1130,8 @@
       "Packaway",
       "Eternity",
       "Jazzar Burger",
-      "Croissant"
+      "Croissant",
+      "Cadenze"
     ],
     "completed_pages": [
       1,
