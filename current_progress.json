@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:52:03.591896",
+  "last_updated": "2025-04-11T21:53:48.577701",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 124,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1077,7 +1077,8 @@
       "Hope Bakery",
       "Refuel Juice",
       "Real Veal Burger (RV BRGR)",
-      "Mama Mawaheb"
+      "Mama Mawaheb",
+      "Baker & Spice"
     ],
     "completed_pages": [
       1,
