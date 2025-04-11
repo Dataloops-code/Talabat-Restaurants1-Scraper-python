@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T13:54:04.642835",
+  "last_updated": "2025-04-11T13:54:15.819029",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1019,7 +1019,8 @@
       "Gioia Artisan Gelato",
       "Valor",
       "Sage",
-      "Al Rawdatain"
+      "Al Rawdatain",
+      "Zahra Al Zhor"
     ],
     "completed_pages": [
       1,
