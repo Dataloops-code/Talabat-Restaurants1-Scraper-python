@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:52:33.213509",
+  "last_updated": "2025-04-11T05:53:37.998768",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 128,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1086,7 +1086,8 @@
       "Jeder Fatoha",
       "Sushi Elhara",
       "Ruotini Nino",
-      "Mister Shawarma"
+      "Mister Shawarma",
+      "glutless"
     ],
     "completed_pages": [
       1,
