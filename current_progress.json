@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:32:35.540470",
+  "last_updated": "2025-04-11T15:32:44.884224",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1079,7 +1079,8 @@
       "Casa Rosa Flowers",
       "Retro Games",
       "Mobax",
-      "Alfuhod Games"
+      "Alfuhod Games",
+      "Madame Lily Florist"
     ],
     "completed_pages": [
       1,
