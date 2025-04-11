@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:45:18.452139",
+  "last_updated": "2025-04-11T20:45:27.901609",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1047,7 +1047,8 @@
       "Flormar",
       "Royal Foods",
       "Packaway",
-      "KA4 Hyper"
+      "KA4 Hyper",
+      "Eleen Sweet"
     ],
     "completed_pages": [
       1,
