@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T03:12:10.978171",
+  "last_updated": "2025-04-11T03:13:41.281965",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 115,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1009,7 +1009,8 @@
       "Vivenza",
       "Hassan's Optician",
       "Taybeen Juices",
-      "Social"
+      "Social",
+      "Honey Mujezat Al Shifa"
     ],
     "completed_pages": [
       1,
