@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T16:33:27.169854",
+  "last_updated": "2025-04-11T16:34:45.464254",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1090,7 +1090,8 @@
       "BCuz Burger",
       "Highway Center",
       "Cocoanut",
-      "Le Buffet"
+      "Le Buffet",
+      "Teo"
     ],
     "completed_pages": [
       1,
