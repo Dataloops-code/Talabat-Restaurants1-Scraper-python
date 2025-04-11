@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:33:24.793454",
+  "last_updated": "2025-04-11T22:34:32.894642",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 126,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1090,7 +1090,8 @@
       "Auto 1",
       "VOV",
       "Kababish",
-      "Lovebird"
+      "Lovebird",
+      "Whiskin Around"
     ],
     "completed_pages": [
       1,
