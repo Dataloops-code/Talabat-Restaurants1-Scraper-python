@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T04:28:27.392549",
+  "last_updated": "2025-04-11T04:28:37.664312",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1052,7 +1052,8 @@
       "B Better",
       "Baker & Spice",
       "keif",
-      "Kalemat Bookstore"
+      "Kalemat Bookstore",
+      "Al Essa Med"
     ],
     "completed_pages": [
       1,
