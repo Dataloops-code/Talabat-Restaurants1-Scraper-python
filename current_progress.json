@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:26:01.961560",
+  "last_updated": "2025-04-11T22:27:17.966707",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1085,7 +1085,8 @@
       "Rolly's Bakehouse",
       "One More Sweet",
       "Masala Zone",
-      "Pizza Master"
+      "Pizza Master",
+      "Jeder Fatoha"
     ],
     "completed_pages": [
       1,
