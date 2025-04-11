@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:17:26.880206",
+  "last_updated": "2025-04-11T05:20:58.751659",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1068,7 +1068,8 @@
       "Revolution Burger",
       "Singarea",
       "Mama Mawaheb",
-      "Eggs"
+      "Eggs",
+      "Japang: Japanese Fried Chicken"
     ],
     "completed_pages": [
       1,
