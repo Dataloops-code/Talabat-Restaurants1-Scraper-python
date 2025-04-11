@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T02:04:01.599213",
+  "last_updated": "2025-04-11T02:04:57.913877",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -986,7 +986,8 @@
       "Delights",
       "Khoosh Frish",
       "Biriyani Tower",
-      "Croissant"
+      "Croissant",
+      "Cadenze"
     ],
     "completed_pages": [
       1,
