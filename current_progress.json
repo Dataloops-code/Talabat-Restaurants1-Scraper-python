@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:38:58.348307",
+  "last_updated": "2025-04-11T06:40:13.396907",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 131,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1107,7 +1107,8 @@
       "Shake Shack - The Lake Mall, Fnaitees,(Dh Kitchen)",
       "Jaja",
       "Cocoanut",
-      "Enlist"
+      "Enlist",
+      "Potat"
     ],
     "completed_pages": [
       1,
