@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:56:32.527373",
+  "last_updated": "2025-04-11T20:57:58.578154",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1056,7 +1056,8 @@
       "Shish Othman",
       "Sushi In House",
       "Kefan Optics",
-      "Twarrad"
+      "Twarrad",
+      "SALTA"
     ],
     "completed_pages": [
       1,
