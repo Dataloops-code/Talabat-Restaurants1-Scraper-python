@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:39:33.037335",
+  "last_updated": "2025-04-11T16:17:50.238023",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1082,7 +1082,8 @@
       "Alfuhod Games",
       "Madame Lily Florist",
       "Alsafeer Aljadeed",
-      "Karak AlTaybeen"
+      "Karak AlTaybeen",
+      "Taybeen Juices"
     ],
     "completed_pages": [
       1,
