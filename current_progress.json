@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T02:02:58.567150",
+  "last_updated": "2025-04-11T02:04:01.599213",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -985,7 +985,8 @@
       "Sai Garden",
       "Delights",
       "Khoosh Frish",
-      "Biriyani Tower"
+      "Biriyani Tower",
+      "Croissant"
     ],
     "completed_pages": [
       1,
