@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T02:09:25.938738",
+  "last_updated": "2025-04-11T02:13:26.631553",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 113,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -991,7 +991,8 @@
       "Reyhan",
       "DNA",
       "Finity",
-      "Shish Othman"
+      "Shish Othman",
+      "The Cake Shop"
     ],
     "completed_pages": [
       1,
