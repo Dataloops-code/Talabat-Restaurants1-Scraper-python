@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:14:28.200593",
+  "last_updated": "2025-04-11T21:15:36.292689",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1066,7 +1066,8 @@
       "Denver",
       "Full House Burger",
       "Fruity Snap",
-      "B Better"
+      "B Better",
+      "Asuman"
     ],
     "completed_pages": [
       1,
