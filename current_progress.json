@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:49:22.293026",
+  "last_updated": "2025-04-11T21:50:33.355430",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 124,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1075,7 +1075,8 @@
       "Beauty by My Colors",
       "Zwara",
       "Hope Bakery",
-      "Refuel Juice"
+      "Refuel Juice",
+      "Real Veal Burger (RV BRGR)"
     ],
     "completed_pages": [
       1,
