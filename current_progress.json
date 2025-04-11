@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T20:41:37.109175",
+  "last_updated": "2025-04-11T20:41:48.865424",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 121,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1042,7 +1042,8 @@
       "Reem Al Sham",
       "DNA",
       "Knead Bakery",
-      "Choco Cave"
+      "Choco Cave",
+      "La Cachette"
     ],
     "completed_pages": [
       1,
