@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T21:06:11.620415",
+  "last_updated": "2025-04-11T21:07:31.673071",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1061,7 +1061,8 @@
       "Shosho Cake",
       "Le Royal Cake",
       "Kalemat Bookstore",
-      "Chef@Home"
+      "Chef@Home",
+      "Singarea"
     ],
     "completed_pages": [
       1,
