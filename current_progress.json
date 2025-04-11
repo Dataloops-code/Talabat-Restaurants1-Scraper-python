@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:35:32.478941",
+  "last_updated": "2025-04-11T06:37:00.866567",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 130,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1105,7 +1105,8 @@
       "Whiskin Around",
       "Qualified Burger",
       "Shake Shack - The Lake Mall, Fnaitees,(Dh Kitchen)",
-      "Jaja"
+      "Jaja",
+      "Cocoanut"
     ],
     "completed_pages": [
       1,
