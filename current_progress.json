@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T05:53:37.998768",
+  "last_updated": "2025-04-11T05:54:41.024106",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 128,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1087,7 +1087,8 @@
       "Sushi Elhara",
       "Ruotini Nino",
       "Mister Shawarma",
-      "glutless"
+      "glutless",
+      "Royo Cafe"
     ],
     "completed_pages": [
       1,
