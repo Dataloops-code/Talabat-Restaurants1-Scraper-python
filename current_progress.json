@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T18:40:58.536524",
+  "last_updated": "2025-04-11T18:42:14.739245",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -985,7 +985,8 @@
       "Washa Choco",
       "Uncle Fluffy",
       "Raju & Sons",
-      "Karak AlTaybeen"
+      "Karak AlTaybeen",
+      "Starbucks Trolley Fintas"
     ],
     "completed_pages": [
       1,
