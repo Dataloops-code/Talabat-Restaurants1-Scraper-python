@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T19:25:48.358262",
+  "last_updated": "2025-04-11T19:27:36.599567",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 116,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1005,7 +1005,8 @@
       "AM Sweet",
       "Donnrua",
       "Happy Crescent",
-      "Reve"
+      "Reve",
+      "Gioia Artisan Gelato"
     ],
     "completed_pages": [
       1,
