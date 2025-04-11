@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:33:54.555372",
+  "last_updated": "2025-04-11T23:35:42.239667",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 128,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1119,7 +1119,8 @@
       "enough",
       "Al Bait Al Adany",
       "Loqma Shamya",
-      "The Ranch Boutique"
+      "The Ranch Boutique",
+      "Le Buffet"
     ],
     "completed_pages": [
       1,
