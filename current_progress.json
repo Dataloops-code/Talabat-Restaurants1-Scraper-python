@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:17:25.567537",
+  "last_updated": "2025-04-11T22:20:32.220286",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1080,7 +1080,8 @@
       "Mama Mawaheb",
       "Baker & Spice",
       "Nepton Juice",
-      "TosTado"
+      "TosTado",
+      "Karak Corner"
     ],
     "completed_pages": [
       1,
