@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:24:41.221611",
+  "last_updated": "2025-04-11T06:27:54.474184",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 129,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1098,7 +1098,8 @@
       "Sultan Al Kebab",
       "Matbakh Yusria",
       "Toot Alennaby",
-      "Abby Fatayer"
+      "Abby Fatayer",
+      "Look N Look Pizza"
     ],
     "completed_pages": [
       1,
