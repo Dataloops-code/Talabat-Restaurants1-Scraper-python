@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T16:59:55.174928",
+  "last_updated": "2025-04-11T17:06:58.242471",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 125,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1104,7 +1104,8 @@
       "BURNT TOAST",
       "Electric Burger",
       "The Chocolate Gate",
-      "Milk & Cream"
+      "Milk & Cream",
+      "Khokh W Mango"
     ],
     "completed_pages": [
       1,
