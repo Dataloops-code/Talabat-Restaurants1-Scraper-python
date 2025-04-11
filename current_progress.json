@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:15:18.277165",
+  "last_updated": "2025-04-11T23:18:57.043685",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 128,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1113,7 +1113,8 @@
       "Koshari Station",
       "Ero",
       "Sultan Al Kebab",
-      "Canteen Cookies"
+      "Canteen Cookies",
+      "Dana Restaurant"
     ],
     "completed_pages": [
       1,
