@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T22:55:20.163687",
+  "last_updated": "2025-04-11T22:57:12.963144",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 127,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1103,7 +1103,8 @@
       "Bonjour",
       "Baraka Gourmet",
       "Seen Flower",
-      "Cecilia"
+      "Cecilia",
+      "Wholehearted"
     ],
     "completed_pages": [
       1,
