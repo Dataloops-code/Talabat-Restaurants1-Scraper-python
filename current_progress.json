@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T23:37:31.832189",
+  "last_updated": "2025-04-11T23:39:50.448374",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 128,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1121,7 +1121,8 @@
       "Loqma Shamya",
       "The Ranch Boutique",
       "Le Buffet",
-      "Sweet Adora"
+      "Sweet Adora",
+      "Novo"
     ],
     "completed_pages": [
       1,
