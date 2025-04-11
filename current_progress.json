@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T06:58:57.931608",
+  "last_updated": "2025-04-11T07:00:16.032302",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 132,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1116,7 +1116,8 @@
       "Bread &",
       "enough",
       "El sayad",
-      "Rajdhani Palace"
+      "Rajdhani Palace",
+      "89 Burger"
     ],
     "completed_pages": [
       1,
