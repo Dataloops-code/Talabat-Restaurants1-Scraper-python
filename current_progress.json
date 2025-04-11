@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T16:29:36.303284",
+  "last_updated": "2025-04-11T16:31:15.881401",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 123,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1088,7 +1088,8 @@
       "By Royal Movenpick",
       "Pino Juices",
       "BCuz Burger",
-      "Highway Center"
+      "Highway Center",
+      "Cocoanut"
     ],
     "completed_pages": [
       1,
