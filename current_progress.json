@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T14:24:48.104332",
+  "last_updated": "2025-04-11T14:26:52.199354",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 118,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1044,7 +1044,8 @@
       "Wingstreet",
       "Kunooz Alteeb",
       "Stately Flowers",
-      "Leaf Flowers"
+      "Leaf Flowers",
+      "Balloons & More"
     ],
     "completed_pages": [
       1,
