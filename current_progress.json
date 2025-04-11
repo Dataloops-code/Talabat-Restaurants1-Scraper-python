@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T02:24:57.879842",
+  "last_updated": "2025-04-11T02:25:05.995725",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 114,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1000,7 +1000,8 @@
       "Wawan protein",
       "Qidra And Khalila",
       "Moishi",
-      "Electric Sport"
+      "Electric Sport",
+      "KA4 Hyper"
     ],
     "completed_pages": [
       1,
