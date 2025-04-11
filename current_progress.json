@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:25:04.766557",
+  "last_updated": "2025-04-11T15:25:13.976249",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 120,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1062,7 +1062,8 @@
       "Abyat Flowers",
       "Bayan Italiano",
       "Findik Nuts",
-      "Valer Boutique"
+      "Valer Boutique",
+      "Flower Bar"
     ],
     "completed_pages": [
       1,
