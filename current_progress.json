@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T16:41:02.650220",
+  "last_updated": "2025-04-11T16:42:27.435940",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 124,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1095,7 +1095,8 @@
       "Magnum Opus",
       "Gate Of Flowers",
       "Almqsaf",
-      "Wake Up"
+      "Wake Up",
+      "LEMONADE BY LEMONICA"
     ],
     "completed_pages": [
       1,
