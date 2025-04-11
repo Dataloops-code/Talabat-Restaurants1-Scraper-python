@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-11T15:38:01.030562",
+  "last_updated": "2025-04-11T15:39:33.037335",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 122,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1081,7 +1081,8 @@
       "Mobax",
       "Alfuhod Games",
       "Madame Lily Florist",
-      "Alsafeer Aljadeed"
+      "Alsafeer Aljadeed",
+      "Karak AlTaybeen"
     ],
     "completed_pages": [
       1,
