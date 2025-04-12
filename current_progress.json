@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T20:51:10.518285",
+  "last_updated": "2025-04-12T20:54:37.127641",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -147,7 +147,8 @@
       "Zaatar W Zeit",
       "Aseer Time (Fresh Juices)",
       "Mhammash Restaurant",
-      "McDonald's, Mahboula -Platinum"
+      "McDonald's, Mahboula -Platinum",
+      "Pistachio Desserts & Caffee"
     ],
     "completed_pages": [
       1,
