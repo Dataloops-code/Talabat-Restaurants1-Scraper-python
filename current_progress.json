@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:53:48.766038",
+  "last_updated": "2025-04-12T02:56:01.843426",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 136,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1197,7 +1197,8 @@
       "Episode 4",
       "Whoopie",
       "Om Premez",
-      "Grey Flowers"
+      "Grey Flowers",
+      "Sofra Grills"
     ],
     "completed_pages": [
       1,
