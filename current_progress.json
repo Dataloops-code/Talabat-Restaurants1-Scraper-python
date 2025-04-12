@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T05:32:14.169933",
+  "last_updated": "2025-04-12T05:35:50.631530",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 1,
     "total_pages": 144,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -28,7 +28,9 @@
       "Triangle",
       "Triangle",
       "Koub Karak",
-      "Koub Karak"
+      "Koub Karak",
+      "Zero Carb",
+      "Zero Carb"
     ],
     "completed_pages": []
   }
