@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T21:05:34.411587",
+  "last_updated": "2025-04-12T21:10:06.514290",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -152,7 +152,8 @@
       "Farooj Republic",
       "Shrimp House",
       "Koobs",
-      "Tatbilat Bahreniya"
+      "Tatbilat Bahreniya",
+      "Krispy Kreme"
     ],
     "completed_pages": [
       1,
