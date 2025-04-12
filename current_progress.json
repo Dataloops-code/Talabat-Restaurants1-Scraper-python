@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:22:46.233348",
+  "last_updated": "2025-04-12T03:22:57.980108",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 137,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1213,7 +1213,8 @@
       "Bloemens",
       "Rococo Flowers",
       "La Maison Du Gout",
-      "Dar Al Tayabeen"
+      "Dar Al Tayabeen",
+      "Holland Flower"
     ],
     "completed_pages": [
       1,
