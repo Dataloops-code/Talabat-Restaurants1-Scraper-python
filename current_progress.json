@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T00:21:10.147359",
+  "last_updated": "2025-04-12T00:22:14.874075",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 131,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1143,7 +1143,8 @@
       "Bourgeois",
       "City Hypermarket",
       "Meat Chops",
-      "Mango Chutney"
+      "Mango Chutney",
+      "Smoke Circle"
     ],
     "completed_pages": [
       1,
