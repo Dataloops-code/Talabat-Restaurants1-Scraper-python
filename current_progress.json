@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T06:17:51.235462",
+  "last_updated": "2025-04-12T06:20:24.677519",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 2,
     "total_pages": 144,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -48,7 +48,9 @@
       "Fatayer Ala Al Tayer",
       "Fatayer Ala Al Tayer",
       "The Coffee Bean & Tea Leaf",
-      "The Coffee Bean & Tea Leaf"
+      "The Coffee Bean & Tea Leaf",
+      "SunShine",
+      "SunShine"
     ],
     "completed_pages": [
       1,
