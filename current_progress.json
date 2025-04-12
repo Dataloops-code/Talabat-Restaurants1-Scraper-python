@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:23:07.700598",
+  "last_updated": "2025-04-12T03:23:17.253206",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 137,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1215,7 +1215,8 @@
       "La Maison Du Gout",
       "Dar Al Tayabeen",
       "Holland Flower",
-      "Prestige Flower"
+      "Prestige Flower",
+      "TOYS4HOME"
     ],
     "completed_pages": [
       1,
