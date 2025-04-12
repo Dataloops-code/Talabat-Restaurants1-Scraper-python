@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:07:23.866678",
+  "last_updated": "2025-04-12T02:07:35.927332",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 134,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1171,7 +1171,8 @@
       "Passion",
       "Ferero Rose",
       "KDD",
-      "Domino's Pizza"
+      "Domino's Pizza",
+      "Zahra Al Zhor"
     ],
     "completed_pages": [
       1,
