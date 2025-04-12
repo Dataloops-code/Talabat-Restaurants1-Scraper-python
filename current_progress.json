@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T05:52:22.377635",
+  "last_updated": "2025-04-12T05:55:22.504115",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 2,
     "total_pages": 144,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -40,7 +40,9 @@
       "Byalat Karak",
       "Byalat Karak",
       "Live Life",
-      "Live Life"
+      "Live Life",
+      "Blue Egg",
+      "Blue Egg"
     ],
     "completed_pages": [
       1,
