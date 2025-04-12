@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:14:01.995361",
+  "last_updated": "2025-04-12T19:16:37.491238",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -120,7 +120,8 @@
       "Shawarma Shuwaikh",
       "Raising Cane's",
       "Treek",
-      "Five Guys"
+      "Five Guys",
+      "Say Suco"
     ],
     "completed_pages": [
       1,
