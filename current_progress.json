@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T20:10:11.392914",
+  "last_updated": "2025-04-12T20:11:31.096309",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -138,7 +138,8 @@
       "Shawarma Kareem",
       "Maki",
       "Konafa Habiba",
-      "Lahm"
+      "Lahm",
+      "Tuta Sushi"
     ],
     "completed_pages": [
       1,
