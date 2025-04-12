@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T17:47:52.979703",
+  "last_updated": "2025-04-12T18:08:49.050553",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 10,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -185,7 +185,8 @@
       "As Chicken",
       "Muscle Fuel",
       "Happy Burger",
-      "Blaban Latha"
+      "Blaban Latha",
+      "Khokh We Meshmesh"
     ],
     "completed_pages": [
       1,
