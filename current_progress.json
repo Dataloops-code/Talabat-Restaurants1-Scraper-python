@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:45:31.089977",
+  "last_updated": "2025-04-12T02:48:34.092995",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 135,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1194,7 +1194,8 @@
       "Cafeteria Al Dahiya",
       "Yomi",
       "Spanish House Factory For Sweets",
-      "Episode 4"
+      "Episode 4",
+      "Whoopie"
     ],
     "completed_pages": [
       1,
