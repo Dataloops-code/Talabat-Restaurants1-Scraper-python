@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T01:40:36.870921",
+  "last_updated": "2025-04-12T01:44:17.186326",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 132,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1152,7 +1152,8 @@
       "Asmak Sayd Albahar",
       "Luren Restaurant",
       "Tiramisu Options",
-      "Sharkah"
+      "Sharkah",
+      "Sweet Mandarin"
     ],
     "completed_pages": [
       1,
