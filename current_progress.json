@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T17:13:50.712412",
+  "last_updated": "2025-04-12T17:15:37.140211",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 9,
     "total_pages": 144,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -175,7 +175,8 @@
       "Bazooka",
       "Tatbilat Bahreniya",
       "Shrimp House",
-      "Mhammash Restaurant"
+      "Mhammash Restaurant",
+      "BBT"
     ],
     "completed_pages": [
       1,
