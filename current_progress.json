@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T01:45:58.381487",
+  "last_updated": "2025-04-12T01:47:18.876722",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 132,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1155,7 +1155,8 @@
       "Sharkah",
       "Sweet Mandarin",
       "Al Asausi and Ramlawi Sweets and Pastries",
-      "Al Attafa"
+      "Al Attafa",
+      "Teo"
     ],
     "completed_pages": [
       1,
