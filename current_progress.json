@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T17:36:08.889695",
+  "last_updated": "2025-04-12T17:39:29.633335",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 10,
     "total_pages": 144,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -181,7 +181,8 @@
       "Meme's Curry",
       "Shawarma Arabi",
       "Check In",
-      "Cro"
+      "Cro",
+      "As Chicken"
     ],
     "completed_pages": [
       1,
