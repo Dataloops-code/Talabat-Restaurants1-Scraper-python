@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T20:14:35.313618",
+  "last_updated": "2025-04-12T20:17:31.893236",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -140,7 +140,8 @@
       "Konafa Habiba",
       "Lahm",
       "Tuta Sushi",
-      "Taco Street"
+      "Taco Street",
+      "Overjar"
     ],
     "completed_pages": [
       1,
