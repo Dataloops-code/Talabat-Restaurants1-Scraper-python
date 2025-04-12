@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:29:04.059343",
+  "last_updated": "2025-04-12T03:29:15.753901",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 137,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1219,7 +1219,8 @@
       "TOYS4HOME",
       "AlAfasy Perfumes",
       "Azumami",
-      "Bun Kitchen"
+      "Bun Kitchen",
+      "Happy Toys"
     ],
     "completed_pages": [
       1,
