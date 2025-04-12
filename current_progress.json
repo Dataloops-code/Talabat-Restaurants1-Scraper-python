@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:55:07.446804",
+  "last_updated": "2025-04-12T04:55:17.351325",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1268,7 +1268,8 @@
       "Jawa Flowers",
       "Rock Chipsy",
       "Black Rock",
-      "Rivera Rose"
+      "Rivera Rose",
+      "Anncy Flowers"
     ],
     "completed_pages": [
       1,
