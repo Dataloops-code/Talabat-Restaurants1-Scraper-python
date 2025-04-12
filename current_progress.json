@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:46:01.643466",
+  "last_updated": "2025-04-12T04:46:11.632394",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 140,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1258,7 +1258,8 @@
       "Valer Boutique",
       "Flower Bar",
       "Vera Flowers",
-      "3roodQ8"
+      "3roodQ8",
+      "Sloane"
     ],
     "completed_pages": [
       1,
