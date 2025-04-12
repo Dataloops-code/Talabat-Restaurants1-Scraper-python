@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T14:57:33.248650",
+  "last_updated": "2025-04-12T15:00:16.933994",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -147,7 +147,8 @@
       "89 Sweets",
       "ITHG",
       "Swaikhat",
-      "Kefak Sweet"
+      "Kefak Sweet",
+      "DIET CARE Abu Halifa"
     ],
     "completed_pages": [
       1,
