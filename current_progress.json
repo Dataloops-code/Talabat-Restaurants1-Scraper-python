@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T05:06:26.033135",
+  "last_updated": "2025-04-12T05:06:36.047407",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 142,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 5,
     "processed_restaurants": [
       "Master Chef",
@@ -1280,7 +1280,8 @@
       "The Wholesale Flower Center",
       "Casa Rosa Flowers",
       "Retro Games",
-      "Bloom Flowers"
+      "Bloom Flowers",
+      "Alfuhod Games"
     ],
     "completed_pages": [
       1,
