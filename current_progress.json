@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T05:40:19.610962",
+  "last_updated": "2025-04-12T05:43:48.828013",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 1,
     "total_pages": 144,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -32,7 +32,9 @@
       "Zero Carb",
       "Zero Carb",
       "Burger King",
-      "Burger King"
+      "Burger King",
+      "Wadi Al Ghoroub",
+      "Wadi Al Ghoroub"
     ],
     "completed_pages": []
   }
