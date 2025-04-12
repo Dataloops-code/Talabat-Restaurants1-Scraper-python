@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:37:12.825886",
+  "last_updated": "2025-04-12T19:42:30.879524",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -127,7 +127,8 @@
       "Starbucks, The Venue",
       "Raising Cane`s, Sabah Al-Salem",
       "Arabica",
-      "Melenzane"
+      "Melenzane",
+      "Farooj Abo Alabed"
     ],
     "completed_pages": [
       1,
