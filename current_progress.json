@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T17:25:42.689393",
+  "last_updated": "2025-04-12T17:30:19.604922",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 10,
     "total_pages": 144,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -178,7 +178,8 @@
       "Mhammash Restaurant",
       "BBT",
       "Buffalo's Ranch",
-      "Meme's Curry"
+      "Meme's Curry",
+      "Shawarma Arabi"
     ],
     "completed_pages": [
       1,
