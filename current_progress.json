@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:49:28.955239",
+  "last_updated": "2025-04-12T19:52:52.382840",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -131,7 +131,8 @@
       "Farooj Abo Alabed",
       "Mr Subs and Wraps",
       "Forevermore",
-      "Dolcini"
+      "Dolcini",
+      "Call Me Chicken"
     ],
     "completed_pages": [
       1,
