@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T05:00:45.331290",
+  "last_updated": "2025-04-12T05:02:55.261931",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1273,7 +1273,8 @@
       "China Magic",
       "Hope Bouquet",
       "Fresh Fruits",
-      "BeautyCare"
+      "BeautyCare",
+      "Pick Food"
     ],
     "completed_pages": [
       1,
