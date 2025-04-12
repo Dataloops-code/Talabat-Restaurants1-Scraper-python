@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:16:37.491238",
+  "last_updated": "2025-04-12T19:20:08.164686",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -121,7 +121,8 @@
       "Raising Cane's",
       "Treek",
       "Five Guys",
-      "Say Suco"
+      "Say Suco",
+      "Cruck Burger"
     ],
     "completed_pages": [
       1,
