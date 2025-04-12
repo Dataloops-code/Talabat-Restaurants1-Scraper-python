@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T05:51:57.572461",
+  "last_updated": "2025-04-12T05:52:09.616517",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 1,
     "total_pages": 144,
-    "current_restaurant": 15,
+    "current_restaurant": 0,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -42,6 +42,9 @@
       "Live Life",
       "Live Life"
     ],
-    "completed_pages": []
+    "completed_pages": [
+      1,
+      1
+    ]
   }
 }
