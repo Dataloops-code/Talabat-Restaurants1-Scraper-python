@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T20:08:24.956656",
+  "last_updated": "2025-04-12T20:09:58.408364",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -137,7 +137,8 @@
       "VINE",
       "Shawarma Kareem",
       "Maki",
-      "Konafa Habiba"
+      "Konafa Habiba",
+      "Lahm"
     ],
     "completed_pages": [
       1,
