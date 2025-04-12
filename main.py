@@ -127,23 +127,52 @@ class MainScraper:
         except Exception as e:
             print(f"Error saving scraped progress: {e}")
 
-    def commit_progress(self, message: str = "Periodic progress update"):
-        if not self.github_token:
-            print("No GITHUB_TOKEN available, skipping commit")
-            return
+    # def commit_progress(self, message: str = "Periodic progress update"):
+    #     if not self.github_token:
+    #         print("No GITHUB_TOKEN available, skipping commit")
+    #         return
         
+    #     try:
+    #         subprocess.run(["git", "config", "--global", "user.name", "GitHub Action"], check=True)
+    #         subprocess.run(["git", "config", "--global", "user.email", "action@github.com"], check=True)
+    #         subprocess.run(["git", "add", self.CURRENT_PROGRESS_FILE, self.SCRAPED_PROGRESS_FILE, self.output_dir], check=True)
+    #         result = subprocess.run(["git", "commit", "-m", message], capture_output=True, text=True)
+    #         if result.returncode == 0 or "nothing to commit" in result.stdout:
+    #             subprocess.run(["git", "push"], check=True, env={"GIT_AUTH_TOKEN": self.github_token})
+    #             print(f"Committed progress: {message}")
+    #         else:
+    #             print("No changes to commit")
+    #     except subprocess.CalledProcessError as e:
+    #         print(f"Error committing progress: {e}")
+
+    def commit_progress(self, message: str = "Periodic progress update"):
         try:
-            subprocess.run(["git", "config", "--global", "user.name", "GitHub Action"], check=True)
-            subprocess.run(["git", "config", "--global", "user.email", "action@github.com"], check=True)
+            # Stage changes
             subprocess.run(["git", "add", self.CURRENT_PROGRESS_FILE, self.SCRAPED_PROGRESS_FILE, self.output_dir], check=True)
+            # Commit changes
             result = subprocess.run(["git", "commit", "-m", message], capture_output=True, text=True)
             if result.returncode == 0 or "nothing to commit" in result.stdout:
-                subprocess.run(["git", "push"], check=True, env={"GIT_AUTH_TOKEN": self.github_token})
-                print(f"Committed progress: {message}")
+                # Fetch and pull remote changes
+                subprocess.run(["git", "fetch"], check=True)
+                pull_result = subprocess.run(["git", "pull", "--rebase"], capture_output=True, text=True)
+                if pull_result.returncode != 0:
+                    print(f"Pull failed: {pull_result.stderr}")
+                    # If rebase fails, try a merge
+                    subprocess.run(["git", "rebase", "--abort"], check=False)
+                    subprocess.run(["git", "pull", "--no-rebase"], check=True)
+                # Push changes
+                env = {"GIT_AUTH_TOKEN": self.github_token} if self.github_token else {}
+                subprocess.run(["git", "push"], check=True, env=env)
+                print(f"Committed and pushed progress: {message}")
             else:
                 print("No changes to commit")
         except subprocess.CalledProcessError as e:
             print(f"Error committing progress: {e}")
+            # Save progress locally even if push fails
+            self.save_current_progress()
+            self.save_scraped_progress()
+        except Exception as e:
+            print(f"Unexpected error during git operations: {e}")
 
     def print_progress_details(self):
         try:
@@ -429,46 +458,50 @@ class MainScraper:
 
     def create_excel_sheet(self, workbook, sheet_name: str, data: List[Dict]):
         sheet = workbook.create_sheet(title=sheet_name)
-        simplified_data = []
-        for restaurant in data:
-            restaurant_info = {
-                "Name": restaurant.get("name", ""),
-                "Cuisine": restaurant.get("cuisine", ""),
-                "Rating": restaurant.get("rating", ""),
-                "Delivery Time": restaurant.get("delivery_time", ""),
-                "Delivery Fee": restaurant.get("delivery_fee", ""),
-                "Min Order": restaurant.get("min_order", ""),
-                "URL": restaurant.get("url", ""),
-            }
-            if restaurant.get("info"):
-                restaurant_info.update({
-                    "Address": restaurant["info"].get("Address", ""),
-                    "Working Hours": restaurant["info"].get("Working Hours", ""),
-                })
-            if restaurant.get("reviews") and restaurant["reviews"].get("Rating_value"):
-                restaurant_info.update({
-                    "Rating Value": restaurant["reviews"]["Rating_value"],
-                    "Ratings Count": restaurant["reviews"].get("Ratings_count", ""),
-                    "Reviews Count": restaurant["reviews"].get("Reviews_count", ""),
-                })
-            if restaurant.get("menu_items"):
-                restaurant_info["Menu Categories"] = len(restaurant["menu_items"])
-                item_count = sum(len(items) for items in restaurant["menu_items"].values())
-                restaurant_info["Menu Items"] = item_count
-            simplified_data.append(restaurant_info)
+        try:
+            simplified_data = []
+            for restaurant in data:
+                restaurant_info = {
+                    "Name": restaurant.get("name", ""),
+                    "Cuisine": restaurant.get("cuisine", ""),
+                    "Rating": restaurant.get("rating", ""),
+                    "Delivery Time": restaurant.get("delivery_time", ""),
+                    "Delivery Fee": restaurant.get("delivery_fee", ""),
+                    "Min Order": restaurant.get("min_order", ""),
+                    "URL": restaurant.get("url", ""),
+                }
+                if restaurant.get("info"):
+                    restaurant_info.update({
+                        "Address": restaurant["info"].get("Address", ""),
+                        "Working Hours": restaurant["info"].get("Working Hours", ""),
+                    })
+                if restaurant.get("reviews") and restaurant["reviews"].get("Rating_value"):
+                    restaurant_info.update({
+                        "Rating Value": restaurant["reviews"]["Rating_value"],
+                        "Ratings Count": restaurant["reviews"].get("Ratings_count", ""),
+                        "Reviews Count": restaurant["reviews"].get("Reviews_count", ""),
+                    })
+                if restaurant.get("menu_items"):
+                    restaurant_info["Menu Categories"] = len(restaurant["menu_items"])
+                    item_count = sum(len(items) for items in restaurant["menu_items"].values())
+                    restaurant_info["Menu Items"] = item_count
+                simplified_data.append(restaurant_info)
+            
+            if simplified_data:
+                df = pd.DataFrame(simplified_data)
+                for r_idx, row in enumerate(dataframe_to_rows(df, index=False, header=True), 1):
+                    for c_idx, value in enumerate(row, 1):
+                        sheet.cell(row=r_idx, column=c_idx, value=value)
+                for column in sheet.columns:
+                    max_length = max(len(str(cell.value or "")) for cell in column)
+                    column_letter = get_column_letter(column[0].column)
+                    sheet.column_dimensions[column_letter].width = min(max_length + 2, 50)
+            else:
+                sheet.cell(row=1, column=1, value="No data found for this area")
+        except Exception as e:
+            print(f"Error creating Excel sheet for {sheet_name}: {str(e)}")
+            sheet.cell(row=1, column=1, value=f"Error processing data: {str(e)}")
         
-        if simplified_data:
-            df = pd.DataFrame(simplified_data)
-            for r_idx, row in enumerate(dataframe_to_rows(df, index=False, header=True), 1):
-                for c_idx, value in enumerate(row, 1):
-                    sheet.cell(row=r_idx, column=c_idx, value=value)
-            for column in sheet.columns:
-                max_length = max(len(str(cell.value or "")) for cell in column)
-                column_letter = get_column_letter(column[0].column)
-                sheet.column_dimensions[column_letter].width = min(max_length + 2, 50)
-        else:
-            sheet.cell(row=1, column=1, value="No data found for this area")
-
     def upload_to_drive(self, file_path):
         print(f"\nUploading {file_path} to Google Drive...")
         try:
