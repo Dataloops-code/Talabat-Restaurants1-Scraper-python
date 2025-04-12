@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T21:48:56.609234",
+  "last_updated": "2025-04-12T21:52:17.712128",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 9,
     "total_pages": 144,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -160,7 +160,8 @@
       "EAST",
       "Koshary and Halawani Abu Tarek",
       "Hash",
-      "Dragon Fruit"
+      "Dragon Fruit",
+      "MJ Burger"
     ],
     "completed_pages": [
       1,
