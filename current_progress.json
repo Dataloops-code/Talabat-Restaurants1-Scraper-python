@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T13:54:31.401651",
+  "last_updated": "2025-04-12T13:57:43.314993",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -128,7 +128,8 @@
       "Samboosa Box",
       "OPT Coffee",
       "Bm Sweet",
-      "Chocolateness"
+      "Chocolateness",
+      "Abby Shawaya"
     ],
     "completed_pages": [
       1,
