@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T13:57:43.314993",
+  "last_updated": "2025-04-12T14:00:42.250010",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -129,7 +129,8 @@
       "OPT Coffee",
       "Bm Sweet",
       "Chocolateness",
-      "Abby Shawaya"
+      "Abby Shawaya",
+      "Kubba Thahab"
     ],
     "completed_pages": [
       1,
