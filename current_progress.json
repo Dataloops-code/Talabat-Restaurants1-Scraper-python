@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:25:42.328206",
+  "last_updated": "2025-04-12T19:27:23.908113",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -123,7 +123,8 @@
       "Five Guys",
       "Say Suco",
       "Cruck Burger",
-      "Texas RoadHouse, Sidra Mahboula"
+      "Texas RoadHouse, Sidra Mahboula",
+      "Starbucks, The Venue"
     ],
     "completed_pages": [
       1,
