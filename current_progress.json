@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:06:13.097275",
+  "last_updated": "2025-04-12T04:06:23.137885",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 139,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1245,7 +1245,8 @@
       "Diamonds Flowers",
       "Lilies Flowers",
       "Premiers Tea",
-      "Abyat Flowers"
+      "Abyat Flowers",
+      "Blossoms Flowers"
     ],
     "completed_pages": [
       1,
