@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T15:52:04.389163",
+  "last_updated": "2025-04-12T15:55:39.240445",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -157,7 +157,8 @@
       "Rock House Sliders",
       "Jimmi's bucket",
       "Fresh Mango",
-      "Dolcini"
+      "Dolcini",
+      "The Gathering Bistro"
     ],
     "completed_pages": [
       1,
