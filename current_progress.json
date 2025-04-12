@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:15:25.170746",
+  "last_updated": "2025-04-12T03:17:50.148443",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 136,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1206,7 +1206,8 @@
       "Magnum Opus",
       "Kairali",
       "Khattar",
-      "Souvlaki Station"
+      "Souvlaki Station",
+      "The Black Olive"
     ],
     "completed_pages": [
       1,
