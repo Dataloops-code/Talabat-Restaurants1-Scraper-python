@@ -3,18 +3,20 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T05:14:43.536161",
+  "last_updated": "2025-04-12T05:15:47.369343",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 1,
     "total_pages": 144,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
       "Lazy Cat",
       "Pret A Manger",
-      "Pret A Manger"
+      "Pret A Manger",
+      "Nuts & Crisps",
+      "Nuts & Crisps"
     ],
     "completed_pages": []
   }
