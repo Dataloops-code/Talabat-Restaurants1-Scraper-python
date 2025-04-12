@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T01:34:39.162393",
+  "last_updated": "2025-04-12T01:35:44.357113",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 132,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1149,7 +1149,8 @@
       "Fighter K",
       "Food Palace",
       "Al Salam Sweet",
-      "Asmak Sayd Albahar"
+      "Asmak Sayd Albahar",
+      "Luren Restaurant"
     ],
     "completed_pages": [
       1,
