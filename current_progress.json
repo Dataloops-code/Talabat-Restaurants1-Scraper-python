@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:53:39.226689",
+  "last_updated": "2025-04-12T02:53:48.766038",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 136,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1196,7 +1196,8 @@
       "Spanish House Factory For Sweets",
       "Episode 4",
       "Whoopie",
-      "Om Premez"
+      "Om Premez",
+      "Grey Flowers"
     ],
     "completed_pages": [
       1,
