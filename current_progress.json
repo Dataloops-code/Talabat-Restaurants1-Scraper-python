@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T18:09:45.348567",
+  "last_updated": "2025-04-12T18:11:56.645963",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 11,
     "total_pages": 144,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -186,7 +186,8 @@
       "Muscle Fuel",
       "Happy Burger",
       "Blaban Latha",
-      "Khokh We Meshmesh"
+      "Khokh We Meshmesh",
+      "Shake Shack, Al-Ahmadi"
     ],
     "completed_pages": [
       1,
