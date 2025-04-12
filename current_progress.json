@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:23:17.253206",
+  "last_updated": "2025-04-12T03:24:31.588291",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 137,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1216,7 +1216,8 @@
       "Dar Al Tayabeen",
       "Holland Flower",
       "Prestige Flower",
-      "TOYS4HOME"
+      "TOYS4HOME",
+      "AlAfasy Perfumes"
     ],
     "completed_pages": [
       1,
