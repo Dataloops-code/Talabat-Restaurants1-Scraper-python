@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T15:00:16.933994",
+  "last_updated": "2025-04-12T15:07:29.532993",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -148,7 +148,8 @@
       "ITHG",
       "Swaikhat",
       "Kefak Sweet",
-      "DIET CARE Abu Halifa"
+      "DIET CARE Abu Halifa",
+      "Mishmash"
     ],
     "completed_pages": [
       1,
