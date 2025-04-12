@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:51:01.095867",
+  "last_updated": "2025-04-12T04:53:16.466230",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1265,7 +1265,8 @@
       "Yummy Desserts",
       "The Set Up Flower",
       "X O",
-      "Jawa Flowers"
+      "Jawa Flowers",
+      "Rock Chipsy"
     ],
     "completed_pages": [
       1,
