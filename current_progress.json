@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:35:17.107367",
+  "last_updated": "2025-04-12T02:37:16.834121",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 135,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1190,7 +1190,8 @@
       "Salt Cave Spa",
       "The Ice cream Bar",
       "Blend Kuwait",
-      "Zafran Restaurant"
+      "Zafran Restaurant",
+      "Cafeteria Al Dahiya"
     ],
     "completed_pages": [
       1,
