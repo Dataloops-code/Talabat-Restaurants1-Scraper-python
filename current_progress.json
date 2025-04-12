@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T17:08:02.114288",
+  "last_updated": "2025-04-12T17:10:57.813467",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 9,
     "total_pages": 144,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -172,7 +172,8 @@
       "Zaatar W Zeit",
       "Pistachio Desserts & Caffee",
       "Farooj Republic",
-      "Bazooka"
+      "Bazooka",
+      "Tatbilat Bahreniya"
     ],
     "completed_pages": [
       1,
