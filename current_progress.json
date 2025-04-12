@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T20:25:11.646554",
+  "last_updated": "2025-04-12T20:27:04.595056",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -142,7 +142,8 @@
       "Tuta Sushi",
       "Taco Street",
       "Overjar",
-      "Tabel"
+      "Tabel",
+      "Starbucks, Riqqa Park"
     ],
     "completed_pages": [
       1,
