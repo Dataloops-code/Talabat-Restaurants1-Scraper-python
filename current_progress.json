@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T13:19:50.654182",
+  "last_updated": "2025-04-12T13:23:04.491581",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -118,7 +118,8 @@
       "Ghraeyf",
       "Starbucks, Riqqa Park",
       "Baix Bakery",
-      "Sukkar"
+      "Sukkar",
+      "Kashounat Al Bait"
     ],
     "completed_pages": [
       1,
