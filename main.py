@@ -4,6 +4,7 @@ import os
 import tempfile
 import sys
 import subprocess
+from retry import retry
 import re
 from typing import Dict, List, Tuple
 import pandas as pd
@@ -23,7 +24,8 @@ class MainScraper:
     def __init__(self):
         self.talabat_scraper = TalabatScraper()
         self.output_dir = "output"
-        self.drive_uploader = SavingOnDrive('credentials.json')
+        credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
+        self.drive_uploader = SavingOnDrive(credentials_json=credentials_json)
         
         os.makedirs(self.output_dir, exist_ok=True)
         
@@ -152,27 +154,31 @@ class MainScraper:
             # Commit changes
             result = subprocess.run(["git", "commit", "-m", message], capture_output=True, text=True)
             if result.returncode == 0 or "nothing to commit" in result.stdout:
+                if not self.github_token:
+                    print("No GITHUB_TOKEN available, skipping push but saving locally")
+                    self.save_current_progress()
+                    self.save_scraped_progress()
+                    return
                 # Fetch and pull remote changes
                 subprocess.run(["git", "fetch"], check=True)
                 pull_result = subprocess.run(["git", "pull", "--rebase"], capture_output=True, text=True)
                 if pull_result.returncode != 0:
                     print(f"Pull failed: {pull_result.stderr}")
-                    # If rebase fails, try a merge
                     subprocess.run(["git", "rebase", "--abort"], check=False)
                     subprocess.run(["git", "pull", "--no-rebase"], check=True)
                 # Push changes
-                env = {"GIT_AUTH_TOKEN": self.github_token} if self.github_token else {}
-                subprocess.run(["git", "push"], check=True, env=env)
+                subprocess.run(["git", "push"], check=True, env={"GIT_AUTH_TOKEN": self.github_token})
                 print(f"Committed and pushed progress: {message}")
             else:
                 print("No changes to commit")
         except subprocess.CalledProcessError as e:
             print(f"Error committing progress: {e}")
-            # Save progress locally even if push fails
             self.save_current_progress()
             self.save_scraped_progress()
         except Exception as e:
             print(f"Unexpected error during git operations: {e}")
+            self.save_current_progress()
+            self.save_scraped_progress()
 
     def print_progress_details(self):
         try:
@@ -502,14 +508,41 @@ class MainScraper:
             print(f"Error creating Excel sheet for {sheet_name}: {str(e)}")
             sheet.cell(row=1, column=1, value=f"Error processing data: {str(e)}")
         
+    # def upload_to_drive(self, file_path):
+    #     print(f"\nUploading {file_path} to Google Drive...")
+    #     try:
+    #         if not self.drive_uploader.authenticate():
+    #             print("Failed to authenticate with Google Drive")
+    #             return False
+    #         file_ids = self.drive_uploader.upload_to_multiple_folders(file_path)
+    #         return len(file_ids) == 2
+    #     except Exception as e:
+    #         print(f"Error uploading to Google Drive: {str(e)}")
+    #         return False
+    
+    @retry(tries=3, delay=2, backoff=2)
     def upload_to_drive(self, file_path):
         print(f"\nUploading {file_path} to Google Drive...")
         try:
-            if not self.drive_uploader.authenticate():
-                print("Failed to authenticate with Google Drive")
+            # Get credentials JSON from environment variable
+            credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
+            if not credentials_json:
+                print("Error: TALABAT_GCLOUD_KEY_JSON environment variable is empty or not set!")
                 return False
+            # Reinitialize drive_uploader with credentials JSON
+            self.drive_uploader = SavingOnDrive(credentials_json=credentials_json)
+            # Authenticate
+            if not self.drive_uploader.authenticate():
+                print("Failed to authenticate with Google Drive. Check TALABAT_GCLOUD_KEY_JSON validity.")
+                return False
+            # Upload file
             file_ids = self.drive_uploader.upload_to_multiple_folders(file_path)
-            return len(file_ids) == 2
+            success = len(file_ids) == 2
+            if success:
+                print(f"Successfully uploaded {file_path} to Google Drive")
+            else:
+                print(f"Failed to upload {file_path}: Incomplete upload to folders")
+            return success
         except Exception as e:
             print(f"Error uploading to Google Drive: {str(e)}")
             return False
@@ -625,29 +658,49 @@ class MainScraper:
         
         self.commit_progress("Final progress update after run")
 
-def create_credentials_file():
-    try:
-        credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
-        if not credentials_json:
-            print("ERROR: TALABAT_GCLOUD_KEY_JSON not found!")
-            return False
-        with open('credentials.json', 'w') as f:
-            f.write(credentials_json)
-        print("Created credentials.json")
-        return True
-    except Exception as e:
-        print(f"ERROR: Failed to create credentials.json: {str(e)}")
-        return False
+# def create_credentials_file():
+#     try:
+#         credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
+#         if not credentials_json:
+#             print("ERROR: TALABAT_GCLOUD_KEY_JSON not found!")
+#             return False
+#         with open('credentials.json', 'w') as f:
+#             f.write(credentials_json)
+#         print("Created credentials.json")
+#         return True
+#     except Exception as e:
+#         print(f"ERROR: Failed to create credentials.json: {str(e)}")
+#         return False
 
+# async def main():
+#     if not create_credentials_file():
+#         print("Could not create credentials.json")
+#         sys.exit(1)
+    
+#     if not os.path.exists('credentials.json'):
+#         print("ERROR: credentials.json not found!")
+#         sys.exit(1)
+    
+#     try:
+#         scraper = MainScraper()
+#         await scraper.run()
+#     except KeyboardInterrupt:
+#         print("\nInterrupted. Saving progress...")
+#         if 'scraper' in locals():
+#             scraper.save_current_progress()
+#             scraper.save_scraped_progress()
+#             scraper.commit_progress("Progress saved after interruption")
+#         print("Progress saved. Exiting.")
+#     except Exception as e:
+#         print(f"Critical error: {e}")
+#         import traceback
+#         traceback.print_exc()
+#         if 'scraper' in locals():
+#             scraper.save_current_progress()
+#             scraper.save_scraped_progress()
+#             scraper.commit_progress("Progress saved after critical error")
+#         sys.exit(1)
 async def main():
-    if not create_credentials_file():
-        print("Could not create credentials.json")
-        sys.exit(1)
-    
-    if not os.path.exists('credentials.json'):
-        print("ERROR: credentials.json not found!")
-        sys.exit(1)
-    
     try:
         scraper = MainScraper()
         await scraper.run()
@@ -667,7 +720,7 @@ async def main():
             scraper.save_scraped_progress()
             scraper.commit_progress("Progress saved after critical error")
         sys.exit(1)
-
+        
 if __name__ == "__main__":
     scraper = MainScraper()
     scraper.print_progress_details()
