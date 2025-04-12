@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:37:22.749966",
+  "last_updated": "2025-04-12T03:38:36.484148",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 138,
     "total_pages": 142,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1230,7 +1230,8 @@
       "Balloons & More",
       "Bazza Grab And Go",
       "Flowers Lab",
-      "Florista For Flowers And Plants"
+      "Florista For Flowers And Plants",
+      "Jai Biryani House"
     ],
     "completed_pages": [
       1,
