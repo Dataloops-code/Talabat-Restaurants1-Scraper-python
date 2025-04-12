@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T17:39:29.633335",
+  "last_updated": "2025-04-12T17:43:59.121704",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 10,
     "total_pages": 144,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -182,7 +182,8 @@
       "Shawarma Arabi",
       "Check In",
       "Cro",
-      "As Chicken"
+      "As Chicken",
+      "Muscle Fuel"
     ],
     "completed_pages": [
       1,
