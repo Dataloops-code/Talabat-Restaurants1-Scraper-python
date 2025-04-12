@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:48:32.550172",
+  "last_updated": "2025-04-12T04:49:38.575252",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 140,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1261,7 +1261,8 @@
       "3roodQ8",
       "Sloane",
       "Mini & Many",
-      "Sweet Store"
+      "Sweet Store",
+      "Yummy Desserts"
     ],
     "completed_pages": [
       1,
