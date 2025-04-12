@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:31:52.004509",
+  "last_updated": "2025-04-12T03:32:59.758581",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 138,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1224,7 +1224,8 @@
       "Dar Camellia",
       "Rave Rose",
       "Kunooz Alteeb",
-      "Stately Flowers"
+      "Stately Flowers",
+      "Biga Pizza by AZ Kitchen"
     ],
     "completed_pages": [
       1,
