@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:46:56.915998",
+  "last_updated": "2025-04-12T19:49:28.955239",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -130,7 +130,8 @@
       "Melenzane",
       "Farooj Abo Alabed",
       "Mr Subs and Wraps",
-      "Forevermore"
+      "Forevermore",
+      "Dolcini"
     ],
     "completed_pages": [
       1,
