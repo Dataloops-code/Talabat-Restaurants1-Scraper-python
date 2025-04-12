@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T21:04:09.376634",
+  "last_updated": "2025-04-12T21:05:34.411587",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -151,7 +151,8 @@
       "Pistachio Desserts & Caffee",
       "Farooj Republic",
       "Shrimp House",
-      "Koobs"
+      "Koobs",
+      "Tatbilat Bahreniya"
     ],
     "completed_pages": [
       1,
