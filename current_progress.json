@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T15:23:51.000061",
+  "last_updated": "2025-04-12T15:28:38.163149",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -154,7 +154,8 @@
       "AlKhabaz & Fattoush",
       "WK",
       "Yemen Gate",
-      "Rock House Sliders"
+      "Rock House Sliders",
+      "Jimmi's bucket"
     ],
     "completed_pages": [
       1,
