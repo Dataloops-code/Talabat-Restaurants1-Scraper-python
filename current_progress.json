@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T18:32:07.746524",
+  "last_updated": "2025-04-12T18:36:18.039291",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 4,
     "total_pages": 144,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -108,7 +108,8 @@
       "Karam Sweet",
       "Karam Sweet",
       "Ebn 3my",
-      "Vibes Coffee"
+      "Vibes Coffee",
+      "Wahed Falafel"
     ],
     "completed_pages": [
       1,
