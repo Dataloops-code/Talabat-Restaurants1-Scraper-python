@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T01:49:45.965057",
+  "last_updated": "2025-04-12T01:51:50.701026",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 133,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1157,7 +1157,8 @@
       "Al Asausi and Ramlawi Sweets and Pastries",
       "Al Attafa",
       "Teo",
-      "Crepe & Dip"
+      "Crepe & Dip",
+      "Mr. Greek"
     ],
     "completed_pages": [
       1,
