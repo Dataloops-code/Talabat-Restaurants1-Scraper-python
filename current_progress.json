@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T18:58:26.489923",
+  "last_updated": "2025-04-12T19:02:10.794476",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -115,7 +115,8 @@
       "Mishmash",
       "Maya",
       "TOBO",
-      "Swaikhat"
+      "Swaikhat",
+      "Sea Sweet"
     ],
     "completed_pages": [
       1,
