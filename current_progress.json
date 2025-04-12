@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:08:11.556712",
+  "last_updated": "2025-04-12T04:09:28.135358",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 139,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1247,7 +1247,8 @@
       "Premiers Tea",
       "Abyat Flowers",
       "Blossoms Flowers",
-      "Edoko Sushi Bar"
+      "Edoko Sushi Bar",
+      "Baked And Fried Sushi"
     ],
     "completed_pages": [
       1,
