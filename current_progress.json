@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T14:15:30.168116",
+  "last_updated": "2025-04-12T14:18:36.527058",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -137,7 +137,8 @@
       "Zwarit Alhabaib",
       "Lazy Cat",
       "Dyaytna",
-      "Tasa Express"
+      "Tasa Express",
+      "Al Riqqa Arabian Bakery"
     ],
     "completed_pages": [
       1,
