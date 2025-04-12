@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T16:42:37.878383",
+  "last_updated": "2025-04-12T16:47:23.965491",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 9,
     "total_pages": 144,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -165,7 +165,8 @@
       "Burger Inn",
       "Al Khbaz Al Turkii",
       "Cafe Bazza",
-      "Barid Yesarsih"
+      "Barid Yesarsih",
+      "Chili Pepper"
     ],
     "completed_pages": [
       1,
