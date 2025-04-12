@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:20:33.135467",
+  "last_updated": "2025-04-12T02:26:34.833711",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 135,
     "total_pages": 142,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1183,7 +1183,8 @@
       "Joly burger",
       "Coca-Cola Store",
       "Italian Flowers",
-      "Sakura (crowne plaza)"
+      "Sakura (crowne plaza)",
+      "Orange juice"
     ],
     "completed_pages": [
       1,
