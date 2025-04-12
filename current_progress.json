@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T06:07:38.581560",
+  "last_updated": "2025-04-12T06:17:51.235462",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 2,
     "total_pages": 144,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -46,7 +46,9 @@
       "Mama's Bakery",
       "Mama's Bakery",
       "Fatayer Ala Al Tayer",
-      "Fatayer Ala Al Tayer"
+      "Fatayer Ala Al Tayer",
+      "The Coffee Bean & Tea Leaf",
+      "The Coffee Bean & Tea Leaf"
     ],
     "completed_pages": [
       1,
