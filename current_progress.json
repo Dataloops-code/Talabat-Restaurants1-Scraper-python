@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T15:16:33.890650",
+  "last_updated": "2025-04-12T15:20:05.152630",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -152,7 +152,8 @@
       "Mishmash",
       "iTea",
       "AlKhabaz & Fattoush",
-      "WK"
+      "WK",
+      "Yemen Gate"
     ],
     "completed_pages": [
       1,
