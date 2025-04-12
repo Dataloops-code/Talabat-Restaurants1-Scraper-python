@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:31:40.598680",
+  "last_updated": "2025-04-12T02:31:52.891321",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 135,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1186,7 +1186,8 @@
       "Sakura (crowne plaza)",
       "Orange juice",
       "Burger & Grill",
-      "Al Nuzha Butchery"
+      "Al Nuzha Butchery",
+      "Salt Cave Spa"
     ],
     "completed_pages": [
       1,
