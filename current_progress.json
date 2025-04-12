@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:47:46.531518",
+  "last_updated": "2025-04-12T04:48:32.550172",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 140,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1260,7 +1260,8 @@
       "Vera Flowers",
       "3roodQ8",
       "Sloane",
-      "Mini & Many"
+      "Mini & Many",
+      "Sweet Store"
     ],
     "completed_pages": [
       1,
