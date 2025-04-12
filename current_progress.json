@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T00:11:50.558951",
+  "last_updated": "2025-04-12T00:12:53.829921",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 131,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1139,7 +1139,8 @@
       "Quick Paws",
       "FURDTK",
       "Potat",
-      "World Sweets"
+      "World Sweets",
+      "Bourgeois"
     ],
     "completed_pages": [
       1,
