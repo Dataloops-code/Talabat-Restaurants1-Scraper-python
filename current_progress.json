@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T05:06:45.916855",
+  "last_updated": "2025-04-12T05:06:55.942788",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 142,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 0,
     "total_restaurants": 5,
     "processed_restaurants": [
       "Master Chef",
@@ -1425,7 +1425,8 @@
       138,
       139,
       140,
-      141
+      141,
+      142
     ]
   }
 }
