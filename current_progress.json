@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T06:25:02.634833",
+  "last_updated": "2025-04-12T06:27:48.805238",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 2,
     "total_pages": 144,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -54,7 +54,9 @@
       "Starbucks, Mahboula Land (Sidra)",
       "Starbucks, Mahboula Land (Sidra)",
       "Fatayer Station",
-      "Fatayer Station"
+      "Fatayer Station",
+      "Starbucks, Starbucks Arabia Mall",
+      "Starbucks, Starbucks Arabia Mall"
     ],
     "completed_pages": [
       1,
