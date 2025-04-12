@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T18:43:18.977110",
+  "last_updated": "2025-04-12T18:50:16.526270",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 4,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -111,7 +111,8 @@
       "Vibes Coffee",
       "Wahed Falafel",
       "Moosh",
-      "Bo Masoud"
+      "Bo Masoud",
+      "Mishmash"
     ],
     "completed_pages": [
       1,
