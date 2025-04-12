@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T21:54:40.073783",
+  "last_updated": "2025-04-12T21:57:57.548602",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 9,
     "total_pages": 144,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -162,7 +162,8 @@
       "Hash",
       "Dragon Fruit",
       "MJ Burger",
-      "Snack house"
+      "Snack house",
+      "CocoaVia, West Abu Fetera Small Indust"
     ],
     "completed_pages": [
       1,
