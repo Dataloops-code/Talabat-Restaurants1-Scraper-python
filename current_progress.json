@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:55:17.351325",
+  "last_updated": "2025-04-12T04:58:09.469422",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1269,7 +1269,8 @@
       "Rock Chipsy",
       "Black Rock",
       "Rivera Rose",
-      "Anncy Flowers"
+      "Anncy Flowers",
+      "China Magic"
     ],
     "completed_pages": [
       1,
