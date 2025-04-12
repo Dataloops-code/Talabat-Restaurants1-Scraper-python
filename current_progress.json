@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T20:44:11.745580",
+  "last_updated": "2025-04-12T20:48:08.797602",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -145,7 +145,8 @@
       "Tabel",
       "Starbucks, Riqqa Park",
       "Zaatar W Zeit",
-      "Aseer Time (Fresh Juices)"
+      "Aseer Time (Fresh Juices)",
+      "Mhammash Restaurant"
     ],
     "completed_pages": [
       1,
