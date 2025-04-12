@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T14:02:39.908971",
+  "last_updated": "2025-04-12T14:04:27.095923",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -131,7 +131,8 @@
       "Chocolateness",
       "Abby Shawaya",
       "Kubba Thahab",
-      "AlDikan"
+      "AlDikan",
+      "Home Made"
     ],
     "completed_pages": [
       1,
