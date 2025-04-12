@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T05:23:05.184982",
+  "last_updated": "2025-04-12T05:28:36.332828",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 1,
     "total_pages": 144,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -22,7 +22,9 @@
       "Finger Sushi",
       "Finger Sushi",
       "Shake Shack, Al-Ahmadi",
-      "Shake Shack, Al-Ahmadi"
+      "Shake Shack, Al-Ahmadi",
+      "Lunch & Dinner",
+      "Lunch & Dinner"
     ],
     "completed_pages": []
   }
