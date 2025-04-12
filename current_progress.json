@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T07:07:29.368497",
+  "last_updated": "2025-04-12T07:08:54.669208",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 3,
     "total_pages": 144,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -74,7 +74,9 @@
       "Baix Bakery",
       "Baix Bakery",
       "Chicken Rashed",
-      "Chicken Rashed"
+      "Chicken Rashed",
+      "Zaatar W Zeit",
+      "Zaatar W Zeit"
     ],
     "completed_pages": [
       1,
