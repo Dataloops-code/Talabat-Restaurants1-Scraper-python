@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:20:05.119036",
+  "last_updated": "2025-04-12T03:20:14.725437",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 137,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1210,7 +1210,8 @@
       "The Black Olive",
       "Impression Chocolate",
       "Flower King",
-      "Bloemens"
+      "Bloemens",
+      "Rococo Flowers"
     ],
     "completed_pages": [
       1,
