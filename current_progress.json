@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T00:03:19.207578",
+  "last_updated": "2025-04-12T00:03:28.949942",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 129,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1134,7 +1134,8 @@
       "Salad Creations",
       "Sabah AlSalem Co-Op",
       "Swaikhat Lab",
-      "Brookies"
+      "Brookies",
+      "Almaha Stationery"
     ],
     "completed_pages": [
       1,
