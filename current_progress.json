@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T07:10:24.668435",
+  "last_updated": "2025-04-12T07:13:35.434010",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 3,
     "total_pages": 144,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -78,7 +78,9 @@
       "Zaatar W Zeit",
       "Zaatar W Zeit",
       "Mutabbaq & Rgag",
-      "Mutabbaq & Rgag"
+      "Mutabbaq & Rgag",
+      "Al Riqqa Arabian Bakery",
+      "Al Riqqa Arabian Bakery"
     ],
     "completed_pages": [
       1,
