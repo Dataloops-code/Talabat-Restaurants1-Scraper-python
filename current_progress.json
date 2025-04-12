@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T07:09:16.895746",
+  "last_updated": "2025-04-12T07:10:24.668435",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 3,
     "total_pages": 144,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -76,7 +76,9 @@
       "Chicken Rashed",
       "Chicken Rashed",
       "Zaatar W Zeit",
-      "Zaatar W Zeit"
+      "Zaatar W Zeit",
+      "Mutabbaq & Rgag",
+      "Mutabbaq & Rgag"
     ],
     "completed_pages": [
       1,
