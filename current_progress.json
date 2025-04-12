@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T17:20:37.872543",
+  "last_updated": "2025-04-12T17:20:50.308920",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 9,
     "total_pages": 144,
-    "current_restaurant": 15,
+    "current_restaurant": 0,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -190,7 +190,8 @@
       5,
       6,
       7,
-      8
+      8,
+      9
     ]
   }
 }
