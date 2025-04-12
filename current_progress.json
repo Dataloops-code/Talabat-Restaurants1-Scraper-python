@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:12:10.230573",
+  "last_updated": "2025-04-12T03:14:14.436031",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 136,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1204,7 +1204,8 @@
       "Burger Vibes Resturant",
       "Beirut 75",
       "Magnum Opus",
-      "Kairali"
+      "Kairali",
+      "Khattar"
     ],
     "completed_pages": [
       1,
