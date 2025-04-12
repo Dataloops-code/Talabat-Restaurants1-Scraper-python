@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T18:17:41.556192",
+  "last_updated": "2025-04-12T18:19:53.228833",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 11,
     "total_pages": 144,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -190,7 +190,8 @@
       "Shake Shack, Al-Ahmadi",
       "Adam Chef",
       "Mamas Chicken",
-      "Boba Dots"
+      "Boba Dots",
+      "Pizza Express, Al Ahmadi"
     ],
     "completed_pages": [
       1,
