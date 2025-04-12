@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:12:09.748539",
+  "last_updated": "2025-04-12T04:42:07.308619",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 139,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1251,7 +1251,8 @@
       "Baked And Fried Sushi",
       "Bayan Italiano",
       "Boutiqaat Flower",
-      "The Flowers Land"
+      "The Flowers Land",
+      "Findik Nuts"
     ],
     "completed_pages": [
       1,
