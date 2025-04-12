@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:59:36.897204",
+  "last_updated": "2025-04-12T05:00:45.331290",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1272,7 +1272,8 @@
       "Anncy Flowers",
       "China Magic",
       "Hope Bouquet",
-      "Fresh Fruits"
+      "Fresh Fruits",
+      "BeautyCare"
     ],
     "completed_pages": [
       1,
