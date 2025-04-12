@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T14:11:30.576101",
+  "last_updated": "2025-04-12T14:13:03.454729",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -135,7 +135,8 @@
       "Home Made",
       "Biryani Rubyan",
       "Zwarit Alhabaib",
-      "Lazy Cat"
+      "Lazy Cat",
+      "Dyaytna"
     ],
     "completed_pages": [
       1,
