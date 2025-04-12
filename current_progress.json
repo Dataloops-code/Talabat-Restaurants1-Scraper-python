@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T01:56:51.813313",
+  "last_updated": "2025-04-12T01:57:03.582569",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 133,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1165,7 +1165,8 @@
       "KdCow",
       "Gardenia",
       "Dough Corner",
-      "Glace Sweets"
+      "Glace Sweets",
+      "Love Events"
     ],
     "completed_pages": [
       1,
