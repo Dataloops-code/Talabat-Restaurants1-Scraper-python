@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T14:04:27.095923",
+  "last_updated": "2025-04-12T14:06:56.795151",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -132,7 +132,8 @@
       "Abby Shawaya",
       "Kubba Thahab",
       "AlDikan",
-      "Home Made"
+      "Home Made",
+      "Biryani Rubyan"
     ],
     "completed_pages": [
       1,
