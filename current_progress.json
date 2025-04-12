@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T14:45:03.596325",
+  "last_updated": "2025-04-12T14:48:09.897017",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -144,7 +144,8 @@
       "Lunch & Dinner",
       "Salad Creation",
       "Bread Talk",
-      "89 Sweets"
+      "89 Sweets",
+      "ITHG"
     ],
     "completed_pages": [
       1,
