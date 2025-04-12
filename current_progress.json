@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:09:12.209880",
+  "last_updated": "2025-04-12T02:09:23.761297",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 134,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1173,7 +1173,8 @@
       "KDD",
       "Domino's Pizza",
       "Zahra Al Zhor",
-      "Karaz Restaurant"
+      "Karaz Restaurant",
+      "Stems"
     ],
     "completed_pages": [
       1,
