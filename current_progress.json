@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:27:23.908113",
+  "last_updated": "2025-04-12T19:30:58.219224",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -124,7 +124,8 @@
       "Say Suco",
       "Cruck Burger",
       "Texas RoadHouse, Sidra Mahboula",
-      "Starbucks, The Venue"
+      "Starbucks, The Venue",
+      "Raising Cane`s, Sabah Al-Salem"
     ],
     "completed_pages": [
       1,
