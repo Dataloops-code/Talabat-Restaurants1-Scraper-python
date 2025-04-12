@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:55:02.803949",
+  "last_updated": "2025-04-12T03:55:12.584161",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 138,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1235,7 +1235,8 @@
       "Smart Food",
       "Aldaiaa",
       "Choco Boutique",
-      "POOJi Flowers"
+      "POOJi Flowers",
+      "Gulf store"
     ],
     "completed_pages": [
       1,
