@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:33:38.933821",
+  "last_updated": "2025-04-12T19:37:12.825886",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -126,7 +126,8 @@
       "Texas RoadHouse, Sidra Mahboula",
       "Starbucks, The Venue",
       "Raising Cane`s, Sabah Al-Salem",
-      "Arabica"
+      "Arabica",
+      "Melenzane"
     ],
     "completed_pages": [
       1,
