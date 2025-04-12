@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:39:06.912019",
+  "last_updated": "2025-04-12T02:42:12.837981",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 135,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1192,7 +1192,8 @@
       "Blend Kuwait",
       "Zafran Restaurant",
       "Cafeteria Al Dahiya",
-      "Yomi"
+      "Yomi",
+      "Spanish House Factory For Sweets"
     ],
     "completed_pages": [
       1,
