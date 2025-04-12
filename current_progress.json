@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T05:02:55.261931",
+  "last_updated": "2025-04-12T05:04:42.503119",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1274,7 +1274,8 @@
       "Hope Bouquet",
       "Fresh Fruits",
       "BeautyCare",
-      "Pick Food"
+      "Pick Food",
+      "Rock And Roll"
     ],
     "completed_pages": [
       1,
