@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T00:23:53.326439",
+  "last_updated": "2025-04-12T00:27:12.391828",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 132,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1145,7 +1145,8 @@
       "Meat Chops",
       "Mango Chutney",
       "Smoke Circle",
-      "Blend Burger"
+      "Blend Burger",
+      "Fighter K"
     ],
     "completed_pages": [
       1,
