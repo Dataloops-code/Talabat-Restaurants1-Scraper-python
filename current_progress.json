@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T20:00:31.437020",
+  "last_updated": "2025-04-12T20:02:15.575647",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -135,7 +135,8 @@
       "Call Me Chicken",
       "Qasdeer",
       "VINE",
-      "Shawarma Kareem"
+      "Shawarma Kareem",
+      "Maki"
     ],
     "completed_pages": [
       1,
