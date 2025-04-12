@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T06:54:20.199611",
+  "last_updated": "2025-04-12T06:56:59.409173",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 2,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -68,7 +68,9 @@
       "Simsim",
       "Simsim",
       "Voyage",
-      "Voyage"
+      "Voyage",
+      "Karak Al Shayeb",
+      "Karak Al Shayeb"
     ],
     "completed_pages": [
       1,
