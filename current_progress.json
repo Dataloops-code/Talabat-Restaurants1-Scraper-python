@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:09:28.135358",
+  "last_updated": "2025-04-12T04:11:47.895567",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 139,
     "total_pages": 142,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1248,7 +1248,8 @@
       "Abyat Flowers",
       "Blossoms Flowers",
       "Edoko Sushi Bar",
-      "Baked And Fried Sushi"
+      "Baked And Fried Sushi",
+      "Bayan Italiano"
     ],
     "completed_pages": [
       1,
