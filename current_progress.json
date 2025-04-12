@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T12:48:29.008664",
+  "last_updated": "2025-04-12T12:53:25.657245",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 4,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -109,7 +109,8 @@
       "Karam Sweet",
       "Caesars Restaurant",
       "Fatayer Levo",
-      "Dulcis"
+      "Dulcis",
+      "Dar Jasem"
     ],
     "completed_pages": [
       1,
