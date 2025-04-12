@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:50:00.287881",
+  "last_updated": "2025-04-12T04:50:10.074722",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 140,
     "total_pages": 142,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1263,7 +1263,8 @@
       "Mini & Many",
       "Sweet Store",
       "Yummy Desserts",
-      "The Set Up Flower"
+      "The Set Up Flower",
+      "X O"
     ],
     "completed_pages": [
       1,
