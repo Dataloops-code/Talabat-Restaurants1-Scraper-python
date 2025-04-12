@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:33:11.368023",
+  "last_updated": "2025-04-12T03:35:00.612201",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 138,
     "total_pages": 142,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1226,7 +1226,8 @@
       "Kunooz Alteeb",
       "Stately Flowers",
       "Biga Pizza by AZ Kitchen",
-      "Leaf Flowers"
+      "Leaf Flowers",
+      "Balloons & More"
     ],
     "completed_pages": [
       1,
