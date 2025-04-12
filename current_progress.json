@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T13:00:58.774454",
+  "last_updated": "2025-04-12T13:05:55.163995",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -113,7 +113,8 @@
       "Dar Jasem",
       "La Baguette",
       "Health Stop",
-      "Sable"
+      "Sable",
+      "Istanbuliyah"
     ],
     "completed_pages": [
       1,
