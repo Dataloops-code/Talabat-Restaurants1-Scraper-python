@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T14:27:59.406745",
+  "last_updated": "2025-04-12T14:35:27.915396",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 7,
     "total_pages": 144,
-    "current_restaurant": 3,
+    "current_restaurant": 4,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -140,7 +140,8 @@
       "Tasa Express",
       "Al Riqqa Arabian Bakery",
       "Jollibee",
-      "Moosh"
+      "Moosh",
+      "Lunch & Dinner"
     ],
     "completed_pages": [
       1,
