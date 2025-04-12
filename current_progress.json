@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T16:11:21.165521",
+  "last_updated": "2025-04-12T16:15:06.964719",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -163,7 +163,8 @@
       "Naif Chicken Restaurant",
       "Shake Shack - The Gate Mall, Egalia",
       "Burger Inn",
-      "Al Khbaz Al Turkii"
+      "Al Khbaz Al Turkii",
+      "Cafe Bazza"
     ],
     "completed_pages": [
       1,
