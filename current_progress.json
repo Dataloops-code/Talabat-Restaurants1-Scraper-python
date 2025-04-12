@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:50:41.652925",
+  "last_updated": "2025-04-12T03:53:11.338044",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 138,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1232,7 +1232,8 @@
       "Flowers Lab",
       "Florista For Flowers And Plants",
       "Jai Biryani House",
-      "Smart Food"
+      "Smart Food",
+      "Aldaiaa"
     ],
     "completed_pages": [
       1,
