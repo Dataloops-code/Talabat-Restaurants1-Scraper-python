@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T21:13:55.823894",
+  "last_updated": "2025-04-12T21:16:14.682728",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -154,7 +154,8 @@
       "Koobs",
       "Tatbilat Bahreniya",
       "Krispy Kreme",
-      "Shawarma Arabi"
+      "Shawarma Arabi",
+      "Happy Burger"
     ],
     "completed_pages": [
       1,
