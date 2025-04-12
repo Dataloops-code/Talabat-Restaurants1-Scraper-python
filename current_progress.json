@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T05:05:14.241103",
+  "last_updated": "2025-04-12T05:05:24.209476",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1278,7 +1278,8 @@
       "Rock And Roll",
       "LEVEL UP",
       "The Wholesale Flower Center",
-      "Casa Rosa Flowers"
+      "Casa Rosa Flowers",
+      "Retro Games"
     ],
     "completed_pages": [
       1,
