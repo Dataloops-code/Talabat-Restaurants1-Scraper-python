@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T01:52:22.097977",
+  "last_updated": "2025-04-12T01:53:06.021896",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 133,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1161,7 +1161,8 @@
       "Mr. Greek",
       "Rose Line",
       "Quarter",
-      "Toys R Us"
+      "Toys R Us",
+      "KdCow"
     ],
     "completed_pages": [
       1,
