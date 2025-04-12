@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T05:04:54.222264",
+  "last_updated": "2025-04-12T05:05:04.239461",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 141,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1276,7 +1276,8 @@
       "BeautyCare",
       "Pick Food",
       "Rock And Roll",
-      "LEVEL UP"
+      "LEVEL UP",
+      "The Wholesale Flower Center"
     ],
     "completed_pages": [
       1,
