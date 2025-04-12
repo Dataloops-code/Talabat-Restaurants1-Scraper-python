@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T21:00:05.310763",
+  "last_updated": "2025-04-12T21:04:09.376634",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -150,7 +150,8 @@
       "McDonald's, Mahboula -Platinum",
       "Pistachio Desserts & Caffee",
       "Farooj Republic",
-      "Shrimp House"
+      "Shrimp House",
+      "Koobs"
     ],
     "completed_pages": [
       1,
