@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:31:52.891321",
+  "last_updated": "2025-04-12T02:33:44.248949",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 135,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1187,7 +1187,8 @@
       "Orange juice",
       "Burger & Grill",
       "Al Nuzha Butchery",
-      "Salt Cave Spa"
+      "Salt Cave Spa",
+      "The Ice cream Bar"
     ],
     "completed_pages": [
       1,
