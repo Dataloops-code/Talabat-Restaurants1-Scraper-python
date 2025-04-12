@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T06:22:23.146493",
+  "last_updated": "2025-04-12T06:25:02.634833",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 2,
     "total_pages": 144,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -52,7 +52,9 @@
       "SunShine",
       "SunShine",
       "Starbucks, Mahboula Land (Sidra)",
-      "Starbucks, Mahboula Land (Sidra)"
+      "Starbucks, Mahboula Land (Sidra)",
+      "Fatayer Station",
+      "Fatayer Station"
     ],
     "completed_pages": [
       1,
