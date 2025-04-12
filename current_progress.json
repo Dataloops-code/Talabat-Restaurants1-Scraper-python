@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:37:16.834121",
+  "last_updated": "2025-04-12T02:39:06.912019",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 135,
     "total_pages": 142,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1191,7 +1191,8 @@
       "The Ice cream Bar",
       "Blend Kuwait",
       "Zafran Restaurant",
-      "Cafeteria Al Dahiya"
+      "Cafeteria Al Dahiya",
+      "Yomi"
     ],
     "completed_pages": [
       1,
