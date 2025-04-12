@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T13:36:37.261690",
+  "last_updated": "2025-04-12T13:41:54.227088",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 13,
+    "current_restaurant": 14,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -122,7 +122,8 @@
       "Kashounat Al Bait",
       "Dar Hamad",
       "Daar Alsaad",
-      "The Breakfast Club"
+      "The Breakfast Club",
+      "The Local beet"
     ],
     "completed_pages": [
       1,
