@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T19:08:43.326292",
+  "last_updated": "2025-04-12T19:10:15.281624",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -118,7 +118,8 @@
       "Swaikhat",
       "Sea Sweet",
       "Shawarma Shuwaikh",
-      "Raising Cane's"
+      "Raising Cane's",
+      "Treek"
     ],
     "completed_pages": [
       1,
