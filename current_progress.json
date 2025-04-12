@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:14:57.263499",
+  "last_updated": "2025-04-12T02:16:06.014146",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 134,
     "total_pages": 142,
-    "current_restaurant": 10,
+    "current_restaurant": 11,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1178,7 +1178,8 @@
       "Clusters",
       "TASHQILA",
       "Holiday Inn Catering",
-      "Eataly Grocery"
+      "Eataly Grocery",
+      "Yasmin Farms"
     ],
     "completed_pages": [
       1,
