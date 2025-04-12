@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:35:00.612201",
+  "last_updated": "2025-04-12T03:37:01.359287",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 138,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1227,7 +1227,8 @@
       "Stately Flowers",
       "Biga Pizza by AZ Kitchen",
       "Leaf Flowers",
-      "Balloons & More"
+      "Balloons & More",
+      "Bazza Grab And Go"
     ],
     "completed_pages": [
       1,
