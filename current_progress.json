@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T00:10:35.823966",
+  "last_updated": "2025-04-12T00:11:29.030477",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 131,
     "total_pages": 142,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1138,7 +1138,8 @@
       "Almaha Stationery",
       "Quick Paws",
       "FURDTK",
-      "Potat"
+      "Potat",
+      "World Sweets"
     ],
     "completed_pages": [
       1,
