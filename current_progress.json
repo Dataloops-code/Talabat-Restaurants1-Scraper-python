@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T01:53:17.578926",
+  "last_updated": "2025-04-12T01:54:29.775127",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 133,
     "total_pages": 142,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1163,7 +1163,8 @@
       "Quarter",
       "Toys R Us",
       "KdCow",
-      "Gardenia"
+      "Gardenia",
+      "Dough Corner"
     ],
     "completed_pages": [
       1,
