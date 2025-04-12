@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T18:14:09.623764",
+  "last_updated": "2025-04-12T18:16:10.916542",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 11,
     "total_pages": 144,
-    "current_restaurant": 5,
+    "current_restaurant": 6,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -188,7 +188,8 @@
       "Blaban Latha",
       "Khokh We Meshmesh",
       "Shake Shack, Al-Ahmadi",
-      "Adam Chef"
+      "Adam Chef",
+      "Mamas Chicken"
     ],
     "completed_pages": [
       1,
