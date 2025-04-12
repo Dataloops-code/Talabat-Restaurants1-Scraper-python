@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T18:51:03.568653",
+  "last_updated": "2025-04-12T18:53:34.665507",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -112,7 +112,8 @@
       "Wahed Falafel",
       "Moosh",
       "Bo Masoud",
-      "Mishmash"
+      "Mishmash",
+      "Maya"
     ],
     "completed_pages": [
       1,
