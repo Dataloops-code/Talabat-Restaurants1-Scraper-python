@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:04:13.041188",
+  "last_updated": "2025-04-12T04:04:24.776435",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 139,
     "total_pages": 142,
-    "current_restaurant": 2,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1240,7 +1240,8 @@
       "Baity Roastery",
       "HSquare",
       "Mr Flame",
-      "Organic meat"
+      "Organic meat",
+      "Al lotus"
     ],
     "completed_pages": [
       1,
