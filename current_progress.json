@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T13:25:24.793366",
+  "last_updated": "2025-04-12T13:33:02.312591",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 5,
     "total_pages": 144,
-    "current_restaurant": 11,
+    "current_restaurant": 12,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -120,7 +120,8 @@
       "Baix Bakery",
       "Sukkar",
       "Kashounat Al Bait",
-      "Dar Hamad"
+      "Dar Hamad",
+      "Daar Alsaad"
     ],
     "completed_pages": [
       1,
