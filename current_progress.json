@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T15:48:04.153330",
+  "last_updated": "2025-04-12T15:51:51.880450",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 8,
     "total_pages": 144,
-    "current_restaurant": 6,
+    "current_restaurant": 7,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -156,7 +156,8 @@
       "Yemen Gate",
       "Rock House Sliders",
       "Jimmi's bucket",
-      "Fresh Mango"
+      "Fresh Mango",
+      "Dolcini"
     ],
     "completed_pages": [
       1,
