@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T13:48:24.130137",
+  "last_updated": "2025-04-12T13:50:20.165099",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 6,
     "total_pages": 144,
-    "current_restaurant": 1,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -125,7 +125,8 @@
       "The Breakfast Club",
       "The Local beet",
       "Mughal Mahal",
-      "Samboosa Box"
+      "Samboosa Box",
+      "OPT Coffee"
     ],
     "completed_pages": [
       1,
