@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T04:01:09.481039",
+  "last_updated": "2025-04-12T04:02:52.682436",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 139,
     "total_pages": 142,
-    "current_restaurant": 0,
+    "current_restaurant": 1,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1238,7 +1238,8 @@
       "POOJi Flowers",
       "Gulf store",
       "Baity Roastery",
-      "HSquare"
+      "HSquare",
+      "Mr Flame"
     ],
     "completed_pages": [
       1,
