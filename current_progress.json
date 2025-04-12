@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:59:58.780733",
+  "last_updated": "2025-04-12T04:00:44.553982",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 138,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1237,7 +1237,8 @@
       "Choco Boutique",
       "POOJi Flowers",
       "Gulf store",
-      "Baity Roastery"
+      "Baity Roastery",
+      "HSquare"
     ],
     "completed_pages": [
       1,
