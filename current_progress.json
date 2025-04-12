@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T12:36:29.946857",
+  "last_updated": "2025-04-12T12:41:01.277721",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 4,
     "total_pages": 144,
-    "current_restaurant": 9,
+    "current_restaurant": 10,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Urge",
@@ -106,7 +106,8 @@
       "Chowking",
       "Chowking",
       "Karam Sweet",
-      "Karam Sweet"
+      "Karam Sweet",
+      "Caesars Restaurant"
     ],
     "completed_pages": [
       1,
