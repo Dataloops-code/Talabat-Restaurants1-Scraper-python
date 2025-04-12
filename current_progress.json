@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-12T05:28:36.332828",
+  "last_updated": "2025-04-12T05:31:10.602102",
   "current_progress": {
     "area_name": "الرقه",
     "current_page": 1,
     "total_pages": 144,
-    "current_restaurant": 7,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Lazy Cat",
@@ -24,7 +24,9 @@
       "Shake Shack, Al-Ahmadi",
       "Shake Shack, Al-Ahmadi",
       "Lunch & Dinner",
-      "Lunch & Dinner"
+      "Lunch & Dinner",
+      "Triangle",
+      "Triangle"
     ],
     "completed_pages": []
   }
