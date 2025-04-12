@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T03:17:50.148443",
+  "last_updated": "2025-04-12T03:18:53.112616",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 136,
     "total_pages": 142,
-    "current_restaurant": 12,
+    "current_restaurant": 13,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1207,7 +1207,8 @@
       "Kairali",
       "Khattar",
       "Souvlaki Station",
-      "The Black Olive"
+      "The Black Olive",
+      "Impression Chocolate"
     ],
     "completed_pages": [
       1,
