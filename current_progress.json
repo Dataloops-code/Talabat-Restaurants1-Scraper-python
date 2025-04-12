@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T05:06:36.047407",
+  "last_updated": "2025-04-12T05:06:45.916855",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 142,
     "total_pages": 142,
-    "current_restaurant": 4,
+    "current_restaurant": 5,
     "total_restaurants": 5,
     "processed_restaurants": [
       "Master Chef",
@@ -1281,7 +1281,8 @@
       "Casa Rosa Flowers",
       "Retro Games",
       "Bloom Flowers",
-      "Alfuhod Games"
+      "Alfuhod Games",
+      "Rashat Al Ward"
     ],
     "completed_pages": [
       1,
