@@ -1,12 +1,12 @@
 {
   "completed_areas": [],
   "current_area_index": 0,
-  "last_updated": "2025-04-12T02:18:42.783060",
+  "last_updated": "2025-04-12T02:19:50.628611",
   "current_progress": {
     "area_name": "الظهر",
     "current_page": 134,
     "total_pages": 142,
-    "current_restaurant": 14,
+    "current_restaurant": 15,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Master Chef",
@@ -1182,7 +1182,8 @@
       "Yasmin Farms",
       "Joly burger",
       "Coca-Cola Store",
-      "Italian Flowers"
+      "Italian Flowers",
+      "Sakura (crowne plaza)"
     ],
     "completed_pages": [
       1,
