@@ -323,14 +323,14 @@ class MainScraper:
                     print(f"Skipping processed restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name}")
                     continue
                 
-                # Check if restaurant exists in all_area_results to prevent reprocessing
+                # Check if restaurant was processed before starting scraping
                 is_already_processed = any(
                     r.get("name", "").strip() == restaurant_name and r.get("page", 0) == page_num
                     for r in all_area_results
-                )
+                ) or restaurant_name in current_progress["processed_restaurants"]
                 
                 if is_already_processed:
-                    print(f"Skipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name} - Already processed on page {page_num}")
+                    print(f"Skipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name} - Already processed")
                     current_progress["current_restaurant"] = rest_num
                     scraped_current_progress["current_restaurant"] = rest_num
                     self.save_current_progress()
