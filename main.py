@@ -441,7 +441,7 @@ class MainScraper:
     #     return all_area_results
 
 
-     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
+    async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         print(f"\n{'='*50}")
         print(f"SCRAPING AREA: {area_name}")
         print(f"URL: {area_url}")
