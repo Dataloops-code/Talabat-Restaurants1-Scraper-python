@@ -168,59 +168,6 @@ class MainScraper:
             return default_progress
 
 
-    def save_scraped_progress(self, progress: Dict = None):
-        if progress is None:
-            progress = self.scraped_progress
-        try:
-            progress["last_updated"] = datetime.now().isoformat()
-            # Deduplicate processed_restaurants and completed_pages
-            if "current_progress" in progress:
-                progress["current_progress"]["processed_restaurants"] = list(set(
-                    str(item) for item in progress["current_progress"].get("processed_restaurants", [])
-                ))
-                progress["current_progress"]["completed_pages"] = sorted(list(set(
-                    int(page) for page in progress["current_progress"].get("completed_pages", [])
-                    if isinstance(page, (int, float)) and page >= 1
-                )))
-            # Validate JSON serializability
-            json.dumps(progress, ensure_ascii=False)
-            with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
-                json.dump(progress, temp_file, indent=2, ensure_ascii=False)
-                temp_file.flush()
-                os.fsync(temp_file.fileno())
-                temp_filename = temp_file.name
-            os.replace(temp_filename, self.SCRAPED_PROGRESS_FILE)
-            print(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE}")
-            logging.info(f"Saved scraped progress: {json.dumps(progress, ensure_ascii=False)}")
-        except Exception as e:
-            print(f"Failed to save scraped progress: {e}")
-            logging.error(f"Failed to save scraped progress: {e}")
-
-    def commit_progress(self, message: str = "Periodic progress update"):
-        try:
-            subprocess.run(["git", "add", self.CURRENT_PROGRESS_FILE, self.SCRAPED_PROGRESS_FILE, self.output_dir], check=True)
-            result = subprocess.run(["git", "commit", "-m", message], capture_output=True, text=True)
-            if result.returncode == 0 or "nothing to commit" in result.stdout:
-                if not self.github_token:
-                    print("No GITHUB_TOKEN available, saving locally")
-                    self.save_current_progress()
-                    self.save_scraped_progress()
-                    return
-                subprocess.run(["git", "push"], check=True, env={"GIT_AUTH_TOKEN": self.github_token})
-                print(f"Committed and pushed progress: {message}")
-            else:
-                print("No changes to commit")
-        except subprocess.CalledProcessError as e:
-            print(f"Failed to commit progress: {e}")
-            logging.error(f"Failed to commit progress: {e}")
-            self.save_current_progress()
-            self.save_scraped_progress()
-        except Exception as e:
-            print(f"Unexpected error during commit: {e}")
-            logging.error(f"Unexpected error during commit: {e}")
-            self.save_current_progress()
-            self.save_scraped_progress()
-
     def print_progress_details(self):
         try:
             with open(self.CURRENT_PROGRESS_FILE, 'r', encoding='utf-8') as f:
@@ -494,7 +441,7 @@ class MainScraper:
     #     return all_area_results
 
 
-    async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
+     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         print(f"\n{'='*50}")
         print(f"SCRAPING AREA: {area_name}")
         print(f"URL: {area_url}")
@@ -666,6 +613,7 @@ class MainScraper:
                         current_progress["processed_restaurants"].append(restaurant_name)
                         scraped_current_progress["processed_restaurants"].append(restaurant_name)
                     self.scraped_progress["all_results"][area_name] = all_area_results
+                    logging.debug(f"Updated all_results for {area_name}: {len(all_area_results)} restaurants")
                     
                     # Save JSON and progress after each restaurant
                     try:
@@ -673,6 +621,10 @@ class MainScraper:
                         with open(json_filename, 'w', encoding='utf-8') as f:
                             json.dump(all_area_results, f, indent=2, ensure_ascii=False)
                         logging.info(f"Saved {len(all_area_results)} restaurants to {json_filename}")
+                        
+                        # Log progress state before saving
+                        logging.debug(f"Current progress before save: {json.dumps(self.current_progress, ensure_ascii=False)}")
+                        logging.debug(f"Scraped progress before save: {json.dumps(self.scraped_progress, ensure_ascii=False)}")
                         
                         self.save_current_progress()
                         self.save_scraped_progress()
@@ -714,7 +666,6 @@ class MainScraper:
             scraped_current_progress["current_restaurant"] = 0
             self.save_current_progress()
             self.save_scraped_progress()
-            self.print_progress_details()
             self.commit_progress(f"Completed page {page_num} in {area_name}")
             await asyncio.sleep(3)
         
@@ -759,6 +710,75 @@ class MainScraper:
         
         print(f"Saved {len(all_area_results)} restaurants for {area_name}")
         return all_area_results
+    
+    def save_scraped_progress(self, progress: Dict = None):
+        if progress is None:
+            progress = self.scraped_progress
+        try:
+            progress["last_updated"] = datetime.now().isoformat()
+            if "current_progress" in progress:
+                progress["current_progress"]["completed_pages"] = sorted(list(set(
+                    int(page) for page in progress["current_progress"].get("completed_pages", [])
+                    if isinstance(page, (int, float)) and page >= 1
+                )))
+            # Log content before saving
+            content_str = json.dumps(progress, ensure_ascii=False)
+            logging.debug(f"Saving scraped_progress content: {content_str}")
+            json.dumps(progress, ensure_ascii=False)  # Validate serializability
+            with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
+                json.dump(progress, temp_file, indent=2, ensure_ascii=False)
+                temp_file.flush()
+                os.fsync(temp_file.fileno())
+                temp_filename = temp_file.name
+            os.replace(temp_filename, self.SCRAPED_PROGRESS_FILE)
+            # Verify file content after write
+            with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
+                written_content = f.read()
+            logging.debug(f"Verified scraped_progress.json content after write: {written_content}")
+            mtime = os.path.getmtime(self.SCRAPED_PROGRESS_FILE)
+            print(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE} at {datetime.fromtimestamp(mtime).isoformat()}")
+            logging.info(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE}")
+        except Exception as e:
+            print(f"Failed to save scraped progress: {e}")
+            logging.error(f"Failed to save scraped progress: {e}")
+            raise
+    
+    def commit_progress(self, message: str):
+        try:
+            # Check git status before staging
+            status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True)
+            logging.debug(f"Git status before staging: {status_result.stdout}")
+            
+            # Explicitly stage files
+            subprocess.run(["git", "add", self.CURRENT_PROGRESS_FILE], check=True)
+            subprocess.run(["git", "add", self.SCRAPED_PROGRESS_FILE], check=True)
+            subprocess.run(["git", "add", self.output_dir], check=True)
+            
+            # Check git diff to confirm changes
+            diff_result = subprocess.run(["git", "diff", "--staged"], capture_output=True, text=True, check=True)
+            logging.debug(f"Git diff --staged: {diff_result.stdout}")
+            
+            # Attempt to commit
+            result = subprocess.run(["git", "commit", "-m", message], capture_output=True, text=True)
+            if result.returncode == 0:
+                print(f"Committed progress: {message}")
+                logging.info(f"Committed progress: {message}")
+            else:
+                print(f"No changes to commit for: {message}")
+                logging.warning(f"No changes to commit: {result.stderr}")
+            
+            # Push to remote
+            push_result = subprocess.run(["git", "push"], capture_output=True, text=True)
+            if push_result.returncode == 0:
+                print(f"Pushed progress: {message}")
+                logging.info(f"Pushed progress: {message}")
+            else:
+                print(f"Failed to push progress: {push_result.stderr}")
+                logging.error(f"Failed to push progress: {push_result.stderr}")
+            
+        except subprocess.CalledProcessError as e:
+            print(f"Failed to commit progress: {e}")
+            logging.error(f"Failed to commit progress: {e}")
     
     async def determine_total_pages(self, area_url: str) -> int:
         print(f"Determining total pages for URL: {area_url}")
