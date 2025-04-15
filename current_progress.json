@@ -6,9 +6,9 @@
   "last_updated": "2025-04-15T08:14:59.807183",
   "current_progress": {
     "area_name": "الرقه",
-    "current_page": 24,
+    "current_page": 23,
     "total_pages": 144,
-    "current_restaurant": 8,
+    "current_restaurant": 0,
     "total_restaurants": 15,
     "processed_restaurants": [
       "GIA To Go",
@@ -304,8 +304,7 @@
       19,
       20,
       21,
-      22,
-      23
+      22
     ]
   }
 }
