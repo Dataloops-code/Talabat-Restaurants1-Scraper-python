@@ -361,17 +361,35 @@ class MainScraper:
                     restaurant.setdefault("reviews", {})
                     restaurant["page"] = page_num
                     
-                    menu_data = await self.talabat_scraper.get_restaurant_menu(restaurant['url'])
+                    # Set a timeout for scraping tasks (60 seconds per task)
+                    async def timeout_task(task, timeout=60):
+                        try:
+                            return await asyncio.wait_for(task, timeout=timeout)
+                        except asyncio.TimeoutError:
+                            print(f"Timeout while processing {task.__name__} for {restaurant_name}")
+                            logging.error(f"Timeout while processing {task.__name__} for {restaurant_name}")
+                            return None
+                    
+                    print(f"Fetching menu for {restaurant_name}...")
+                    menu_data = await timeout_task(self.talabat_scraper.get_restaurant_menu(restaurant['url']))
                     if menu_data:
                         restaurant['menu_items'] = menu_data
+                    else:
+                        print(f"No menu data retrieved for {restaurant_name}")
                     
-                    info_data = await self.talabat_scraper.get_restaurant_info(restaurant['url'])
+                    print(f"Fetching info for {restaurant_name}...")
+                    info_data = await timeout_task(self.talabat_scraper.get_restaurant_info(restaurant['url']))
                     if info_data:
                         restaurant['info'] = info_data
+                    else:
+                        print(f"No info data retrieved for {restaurant_name}")
                     
                     if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
-                        reviews_data = self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
+                        print(f"Fetching reviews for {restaurant_name}...")
+                        reviews_data = await timeout_task(asyncio.to_thread(self.talabat_scraper.get_reviews_data, restaurant['info']['Reviews URL']))
                         restaurant['reviews'] = reviews_data or {}
+                    else:
+                        print(f"No reviews URL available for {restaurant_name}")
                     
                     # Append to lists
                     page_restaurants.append(restaurant)
