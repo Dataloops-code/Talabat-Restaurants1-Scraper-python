@@ -18,7 +18,6 @@ from time import sleep
 from datetime import datetime
 import logging
 
-
 logging.basicConfig(
     filename='scraper.log',
     level=logging.DEBUG,
@@ -82,10 +81,7 @@ class MainScraper:
                 logging.warning(f"Invalid current progress file structure")
                 self.save_current_progress(default_progress)
                 return default_progress
-            # Deduplicate processed_restaurants and completed_pages
-            progress["current_progress"]["processed_restaurants"] = list(set(
-                str(item) for item in progress["current_progress"].get("processed_restaurants", [])
-            ))
+            # Keep processed_restaurants as-is, deduplication handled at append
             progress["current_progress"]["completed_pages"] = sorted(list(set(
                 int(page) for page in progress["current_progress"].get("completed_pages", [])
                 if isinstance(page, (int, float)) and page >= 1
@@ -104,11 +100,8 @@ class MainScraper:
             progress = self.current_progress
         try:
             progress["last_updated"] = datetime.now().isoformat()
-            # Deduplicate processed_restaurants and completed_pages
+            # Only deduplicate completed_pages
             if "current_progress" in progress:
-                progress["current_progress"]["processed_restaurants"] = list(set(
-                    str(item) for item in progress["current_progress"].get("processed_restaurants", [])
-                ))
                 progress["current_progress"]["completed_pages"] = sorted(list(set(
                     int(page) for page in progress["current_progress"].get("completed_pages", [])
                     if isinstance(page, (int, float)) and page >= 1
@@ -157,10 +150,7 @@ class MainScraper:
                 logging.warning(f"Invalid scraped progress file structure")
                 self.save_scraped_progress(default_progress)
                 return default_progress
-            # Deduplicate processed_restaurants and completed_pages
-            progress["current_progress"]["processed_restaurants"] = list(set(
-                str(item) for item in progress["current_progress"].get("processed_restaurants", [])
-            ))
+            # Keep processed_restaurants as-is, deduplication handled at append
             progress["current_progress"]["completed_pages"] = sorted(list(set(
                 int(page) for page in progress["current_progress"].get("completed_pages", [])
                 if isinstance(page, (int, float)) and page >= 1
@@ -179,11 +169,8 @@ class MainScraper:
             progress = self.scraped_progress
         try:
             progress["last_updated"] = datetime.now().isoformat()
-            # Deduplicate processed_restaurants and completed_pages
+            # Only deduplicate completed_pages
             if "current_progress" in progress:
-                progress["current_progress"]["processed_restaurants"] = list(set(
-                    str(item) for item in progress["current_progress"].get("processed_restaurants", [])
-                ))
                 progress["current_progress"]["completed_pages"] = sorted(list(set(
                     int(page) for page in progress["current_progress"].get("completed_pages", [])
                     if isinstance(page, (int, float)) and page >= 1
@@ -374,15 +361,22 @@ class MainScraper:
                     
                     if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
                         reviews_data = self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
-                        if reviews_data:
-                            restaurant['reviews'] = reviews_data
+                        restaurant['reviews'] = reviews_data or {}
                     
+                    # Append to lists
                     page_restaurants.append(restaurant)
                     all_area_results.append(restaurant)
                     if restaurant["name"] not in current_progress["processed_restaurants"]:
                         current_progress["processed_restaurants"].append(restaurant["name"])
                         scraped_current_progress["processed_restaurants"].append(restaurant["name"])
                     self.scraped_progress["all_results"][area_name] = all_area_results
+                    
+                    # Save incrementally
+                    json_filename = os.path.join(self.output_dir, f"{area_name}.json")
+                    with open(json_filename, 'w', encoding='utf-8') as f:
+                        json.dump(all_area_results, f, indent=2, ensure_ascii=False)
+                    logging.info(f"Saved {len(all_area_results)} restaurants to {json_filename}")
+                    
                     self.save_current_progress()
                     self.save_scraped_progress()
                     self.print_progress_details()
@@ -404,7 +398,11 @@ class MainScraper:
             
             # Save page restaurants to detailed Excel
             if page_restaurants:
-                self.create_detailed_excel_sheet(area_name, page_restaurants, detailed_excel_filename)
+                try:
+                    self.create_detailed_excel_sheet(area_name, page_restaurants, detailed_excel_filename)
+                except Exception as e:
+                    print(f"Failed to save detailed Excel for page {page_num}: {e}")
+                    logging.error(f"Failed to save detailed Excel for page {page_num}: {e}")
             
             if page_num not in current_progress["completed_pages"]:
                 current_progress["completed_pages"].append(page_num)
@@ -417,9 +415,11 @@ class MainScraper:
             self.commit_progress(f"Completed page {page_num} in {area_name}")
             await asyncio.sleep(3)
         
+        # Final JSON save
         json_filename = os.path.join(self.output_dir, f"{area_name}.json")
         with open(json_filename, 'w', encoding='utf-8') as f:
             json.dump(all_area_results, f, indent=2, ensure_ascii=False)
+        logging.info(f"Final save: {len(all_area_results)} restaurants to {json_filename}")
         
         # Create simplified Excel workbook
         simplified_workbook = Workbook()
@@ -567,7 +567,6 @@ class MainScraper:
         except Exception as e:
             print(f"Error creating Excel sheet for {sheet_name}: {str(e)}")
             sheet.cell(row=1, column=1, value=f"Error processing data: {str(e)}")
-        
 
     def flatten_menu_items(self, menu_items):
         if not isinstance(menu_items, dict):
@@ -672,7 +671,7 @@ class MainScraper:
         except Exception as e:
             print(f"Error saving detailed Excel sheet for {area_name}: {str(e)}")
             logging.error(f"Error saving detailed Excel sheet for {area_name}: {str(e)}")
-    
+
     @retry(tries=3, delay=2, backoff=2)
     def upload_to_drive(self, file_path):
         print(f"\nUploading {file_path} to Google Drive...")
@@ -807,7 +806,7 @@ class MainScraper:
             print(f"Scraping incomplete ({len(completed_areas)}/{len(ahmadi_areas)} areas)")
         
         self.commit_progress("Final progress update after run")
-    
+
 async def main():
     try:
         scraper = MainScraper()
@@ -833,7 +832,6 @@ if __name__ == "__main__":
     scraper = MainScraper()
     scraper.print_progress_details()
     asyncio.run(scraper.run())
-
 
 
 
