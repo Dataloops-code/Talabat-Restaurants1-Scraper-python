@@ -14,7 +14,6 @@ from collections import defaultdict
 import re
 
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.firefox.options import FirefoxOptions
 from selenium.webdriver import Firefox
 
 # Apply nest_asyncio at the module level
