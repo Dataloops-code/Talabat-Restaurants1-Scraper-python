@@ -16,6 +16,13 @@ from talabat_main_scraper import TalabatScraper
 from SavingOnDrive import SavingOnDrive
 from time import sleep
 from datetime import datetime
+import logging
+
+logging.basicConfig(
+    filename='scraper.log',
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 
 class MainScraper:
     CURRENT_PROGRESS_FILE = "current_progress.json"
@@ -43,6 +50,7 @@ class MainScraper:
             print("Playwright browsers installed successfully")
         except subprocess.CalledProcessError as e:
             print(f"Error installing Playwright browsers: {e}")
+            logging.error(f"Error installing Playwright browsers: {e}")
 
     # def load_current_progress(self) -> Dict:
     #     if os.path.exists(self.CURRENT_PROGRESS_FILE):
@@ -72,19 +80,6 @@ class MainScraper:
     #     return default_progress
 
     def load_current_progress(self) -> Dict:
-        if os.path.exists(self.CURRENT_PROGRESS_FILE):
-            try:
-                with open(self.CURRENT_PROGRESS_FILE, 'r', encoding='utf-8') as f:
-                    progress = json.load(f)
-                # Deduplicate processed_restaurants and completed_pages
-                if "current_progress" in progress:
-                    progress["current_progress"]["processed_restaurants"] = list(set(progress["current_progress"]["processed_restaurants"]))
-                    progress["current_progress"]["completed_pages"] = sorted(list(set(progress["current_progress"]["completed_pages"])))
-                print(f"Loaded current progress from {self.CURRENT_PROGRESS_FILE}")
-                return progress
-            except Exception as e:
-                print(f"Error loading current progress: {e}")
-        
         default_progress = {
             "completed_areas": [],
             "current_area_index": 0,
@@ -99,8 +94,36 @@ class MainScraper:
                 "completed_pages": []
             }
         }
-        self.save_current_progress(default_progress)
-        return default_progress
+        if not os.path.exists(self.CURRENT_PROGRESS_FILE):
+            print(f"No current progress file found, initializing {self.CURRENT_PROGRESS_FILE}")
+            self.save_current_progress(default_progress)
+            return default_progress
+        
+        try:
+            with open(self.CURRENT_PROGRESS_FILE, 'r', encoding='utf-8') as f:
+                progress = json.load(f)
+            # Validate structure
+            if not isinstance(progress, dict) or "current_progress" not in progress:
+                print(f"Invalid current progress file, resetting to default")
+                logging.warning(f"Invalid current progress file structure")
+                self.save_current_progress(default_progress)
+                return default_progress
+            # Deduplicate processed_restaurants and completed_pages
+            progress["current_progress"]["processed_restaurants"] = list(set(
+                str(item) for item in progress["current_progress"].get("processed_restaurants", [])
+            ))
+            progress["current_progress"]["completed_pages"] = sorted(list(set(
+                int(page) for page in progress["current_progress"].get("completed_pages", [])
+                if isinstance(page, (int, float)) and page >= 1
+            )))
+            print(f"Loaded current progress from {self.CURRENT_PROGRESS_FILE}")
+            logging.info(f"Loaded current progress: {json.dumps(progress, ensure_ascii=False)}")
+            return progress
+        except Exception as e:
+            print(f"Error loading current progress: {e}")
+            logging.error(f"Error loading current progress: {e}")
+            self.save_current_progress(default_progress)
+            return default_progress
 
     # def save_current_progress(self, progress: Dict = None):
     #     if progress is None:
@@ -124,8 +147,15 @@ class MainScraper:
             progress["last_updated"] = datetime.now().isoformat()
             # Deduplicate processed_restaurants and completed_pages
             if "current_progress" in progress:
-                progress["current_progress"]["processed_restaurants"] = list(set(progress["current_progress"]["processed_restaurants"]))
-                progress["current_progress"]["completed_pages"] = sorted(list(set(progress["current_progress"]["completed_pages"])))
+                progress["current_progress"]["processed_restaurants"] = list(set(
+                    str(item) for item in progress["current_progress"].get("processed_restaurants", [])
+                ))
+                progress["current_progress"]["completed_pages"] = sorted(list(set(
+                    int(page) for page in progress["current_progress"].get("completed_pages", [])
+                    if isinstance(page, (int, float)) and page >= 1
+                )))
+            # Validate JSON serializability
+            json.dumps(progress, ensure_ascii=False)
             with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
                 json.dump(progress, temp_file, indent=2, ensure_ascii=False)
                 temp_file.flush()
@@ -133,8 +163,10 @@ class MainScraper:
                 temp_filename = temp_file.name
             os.replace(temp_filename, self.CURRENT_PROGRESS_FILE)
             print(f"Saved current progress to {self.CURRENT_PROGRESS_FILE}")
+            logging.info(f"Saved current progress: {json.dumps(progress, ensure_ascii=False)}")
         except Exception as e:
-            print(f"Error saving current progress: {e}")
+            print(f"Failed to save current progress: {e}")
+            logging.error(f"Failed to save current progress: {e}")
 
     # def load_scraped_progress(self) -> Dict:
     #     if os.path.exists(self.SCRAPED_PROGRESS_FILE):
@@ -165,19 +197,6 @@ class MainScraper:
     #     return default_progress
 
     def load_scraped_progress(self) -> Dict:
-        if os.path.exists(self.SCRAPED_PROGRESS_FILE):
-            try:
-                with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
-                    progress = json.load(f)
-                # Deduplicate processed_restaurants and completed_pages
-                if "current_progress" in progress:
-                    progress["current_progress"]["processed_restaurants"] = list(set(progress["current_progress"]["processed_restaurants"]))
-                    progress["current_progress"]["completed_pages"] = sorted(list(set(progress["current_progress"]["completed_pages"])))
-                print(f"Loaded scraped progress from {self.SCRAPED_PROGRESS_FILE}")
-                return progress
-            except Exception as e:
-                print(f"Error loading scraped progress: {e}")
-        
         default_progress = {
             "completed_areas": [],
             "current_area_index": 0,
@@ -193,8 +212,36 @@ class MainScraper:
                 "completed_pages": []
             }
         }
-        self.save_scraped_progress(default_progress)
-        return default_progress
+        if not os.path.exists(self.SCRAPED_PROGRESS_FILE):
+            print(f"No scraped progress file found, initializing {self.SCRAPED_PROGRESS_FILE}")
+            self.save_scraped_progress(default_progress)
+            return default_progress
+        
+        try:
+            with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
+                progress = json.load(f)
+            # Validate structure
+            if not isinstance(progress, dict) or "current_progress" not in progress or "all_results" not in progress:
+                print(f"Invalid scraped progress file, resetting to default")
+                logging.warning(f"Invalid scraped progress file structure")
+                self.save_scraped_progress(default_progress)
+                return default_progress
+            # Deduplicate processed_restaurants and completed_pages
+            progress["current_progress"]["processed_restaurants"] = list(set(
+                str(item) for item in progress["current_progress"].get("processed_restaurants", [])
+            ))
+            progress["current_progress"]["completed_pages"] = sorted(list(set(
+                int(page) for page in progress["current_progress"].get("completed_pages", [])
+                if isinstance(page, (int, float)) and page >= 1
+            )))
+            print(f"Loaded scraped progress from {self.SCRAPED_PROGRESS_FILE}")
+            logging.info(f"Loaded scraped progress: {json.dumps(progress, ensure_ascii=False)}")
+            return progress
+        except Exception as e:
+            print(f"Error loading scraped progress: {e}")
+            logging.error(f"Error loading scraped progress: {e}")
+            self.save_scraped_progress(default_progress)
+            return default_progress
 
     # def save_scraped_progress(self, progress: Dict = None):
     #     if progress is None:
@@ -218,8 +265,15 @@ class MainScraper:
             progress["last_updated"] = datetime.now().isoformat()
             # Deduplicate processed_restaurants and completed_pages
             if "current_progress" in progress:
-                progress["current_progress"]["processed_restaurants"] = list(set(progress["current_progress"]["processed_restaurants"]))
-                progress["current_progress"]["completed_pages"] = sorted(list(set(progress["current_progress"]["completed_pages"])))
+                progress["current_progress"]["processed_restaurants"] = list(set(
+                    str(item) for item in progress["current_progress"].get("processed_restaurants", [])
+                ))
+                progress["current_progress"]["completed_pages"] = sorted(list(set(
+                    int(page) for page in progress["current_progress"].get("completed_pages", [])
+                    if isinstance(page, (int, float)) and page >= 1
+                )))
+            # Validate JSON serializability
+            json.dumps(progress, ensure_ascii=False)
             with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
                 json.dump(progress, temp_file, indent=2, ensure_ascii=False)
                 temp_file.flush()
@@ -227,8 +281,10 @@ class MainScraper:
                 temp_filename = temp_file.name
             os.replace(temp_filename, self.SCRAPED_PROGRESS_FILE)
             print(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE}")
+            logging.info(f"Saved scraped progress: {json.dumps(progress, ensure_ascii=False)}")
         except Exception as e:
-            print(f"Error saving scraped progress: {e}")
+            print(f"Failed to save scraped progress: {e}")
+            logging.error(f"Failed to save scraped progress: {e}")
 
     # def commit_progress(self, message: str = "Periodic progress update"):
     #     if not self.github_token:
@@ -250,34 +306,26 @@ class MainScraper:
 
     def commit_progress(self, message: str = "Periodic progress update"):
         try:
-            # Stage changes
             subprocess.run(["git", "add", self.CURRENT_PROGRESS_FILE, self.SCRAPED_PROGRESS_FILE, self.output_dir], check=True)
-            # Commit changes
             result = subprocess.run(["git", "commit", "-m", message], capture_output=True, text=True)
             if result.returncode == 0 or "nothing to commit" in result.stdout:
                 if not self.github_token:
-                    print("No GITHUB_TOKEN available, skipping push but saving locally")
+                    print("No GITHUB_TOKEN available, saving locally")
                     self.save_current_progress()
                     self.save_scraped_progress()
                     return
-                # Fetch and pull remote changes
-                subprocess.run(["git", "fetch"], check=True)
-                pull_result = subprocess.run(["git", "pull", "--rebase"], capture_output=True, text=True)
-                if pull_result.returncode != 0:
-                    print(f"Pull failed: {pull_result.stderr}")
-                    subprocess.run(["git", "rebase", "--abort"], check=False)
-                    subprocess.run(["git", "pull", "--no-rebase"], check=True)
-                # Push changes
                 subprocess.run(["git", "push"], check=True, env={"GIT_AUTH_TOKEN": self.github_token})
                 print(f"Committed and pushed progress: {message}")
             else:
                 print("No changes to commit")
         except subprocess.CalledProcessError as e:
-            print(f"Error committing progress: {e}")
+            print(f"Failed to commit progress: {e}")
+            logging.error(f"Failed to commit progress: {e}")
             self.save_current_progress()
             self.save_scraped_progress()
         except Exception as e:
-            print(f"Unexpected error during git operations: {e}")
+            print(f"Unexpected error during commit: {e}")
+            logging.error(f"Unexpected error during commit: {e}")
             self.save_current_progress()
             self.save_scraped_progress()
 
@@ -287,13 +335,9 @@ class MainScraper:
                 current = json.load(f)
             print("\nCurrent Progress:")
             print(json.dumps(current, indent=2, ensure_ascii=False))
-
-            # with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
-            #     scraped = json.load(f)
-            # print("\nScraped Progress with Results:")
-            # print(json.dumps(scraped, indent=2, ensure_ascii=False))
         except Exception as e:
-            print(f"Error printing progress: {str(e)}")
+            print(f"Error printing current progress: {e}")
+            logging.error(f"Error printing current progress: {e}")
 
     # async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
     #     print(f"\n{'='*50}")
@@ -497,7 +541,7 @@ class MainScraper:
         
     #     print(f"Saved {len(all_area_results)} restaurants for {area_name}")
     #     return all_area_results
-    
+
     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
         print(f"\n{'='*50}")
         print(f"SCRAPING AREA: {area_name}")
@@ -510,7 +554,7 @@ class MainScraper:
         
         is_resuming = current_progress["area_name"] == area_name
         start_page = current_progress["current_page"] if is_resuming else 1
-        start_restaurant = current_progress["current_restaurant"] if is_resuming else 0  # 0 means start from first
+        start_restaurant = current_progress["current_restaurant"] if is_resuming else 0
         
         if is_resuming:
             print(f"Resuming area {area_name} from page {start_page} restaurant {start_restaurant + 1 if start_restaurant > 0 else 1}")
@@ -570,6 +614,7 @@ class MainScraper:
                     break
                 except Exception as e:
                     print(f"Error on page {page_num}: {e}")
+                    logging.error(f"Error on page {page_num}: {e}")
                     if attempt < max_retries - 1:
                         print(f"Retrying ({attempt + 1}/{max_retries})...")
                         await asyncio.sleep(5)
@@ -585,12 +630,11 @@ class MainScraper:
                     scraped_current_progress["current_restaurant"] = 0
             
             for rest_idx, restaurant in enumerate(restaurants_on_page):
-                rest_num = rest_idx + 1  # Start counting from 1
+                rest_num = rest_idx + 1
                 if rest_num <= current_progress["current_restaurant"]:
                     print(f"Skipping processed restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant['name']}")
                     continue
                 
-                # Check if restaurant is already processed to avoid duplicates
                 if restaurant["name"] in current_progress["processed_restaurants"]:
                     print(f"Skipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant['name']} - Already processed previously")
                     current_progress["current_restaurant"] = rest_num
@@ -647,7 +691,8 @@ class MainScraper:
                     await asyncio.sleep(2)
                 
                 except Exception as e:
-                    print(f"Error processing restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant['name']}: {str(e)}")
+                    print(f"Error processing restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant['name']}: {e}")
+                    logging.error(f"Error processing restaurant {restaurant['name']}: {e}")
                     import traceback
                     traceback.print_exc()
                     if restaurant["name"] not in current_progress["processed_restaurants"]:
@@ -658,7 +703,6 @@ class MainScraper:
                     self.print_progress_details()
                     self.commit_progress(f"Error processing restaurant {restaurant['name']} on page {page_num} in {area_name}")
             
-            # Add page to completed_pages, ensuring no duplicates
             if page_num not in current_progress["completed_pages"]:
                 current_progress["completed_pages"].append(page_num)
                 scraped_current_progress["completed_pages"].append(page_num)
@@ -830,18 +874,14 @@ class MainScraper:
     def upload_to_drive(self, file_path):
         print(f"\nUploading {file_path} to Google Drive...")
         try:
-            # Get credentials JSON from environment variable
             credentials_json = os.environ.get('TALABAT_GCLOUD_KEY_JSON')
             if not credentials_json:
                 print("Error: TALABAT_GCLOUD_KEY_JSON environment variable is empty or not set!")
                 return False
-            # Reinitialize drive_uploader with credentials JSON
             self.drive_uploader = SavingOnDrive(credentials_json=credentials_json)
-            # Authenticate
             if not self.drive_uploader.authenticate():
                 print("Failed to authenticate with Google Drive. Check TALABAT_GCLOUD_KEY_JSON validity.")
                 return False
-            # Upload file
             file_ids = self.drive_uploader.upload_to_multiple_folders(file_path)
             success = len(file_ids) == 2
             if success:
@@ -937,7 +977,8 @@ class MainScraper:
                 await asyncio.sleep(5)
             
             except Exception as e:
-                print(f"Error processing area {area_name}: {str(e)}")
+                print(f"Error processing area {area_name}: {e}")
+                logging.error(f"Error processing area {area_name}: {e}")
                 import traceback
                 traceback.print_exc()
                 self.save_current_progress()
