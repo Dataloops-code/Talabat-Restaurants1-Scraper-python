@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-15T10:07:12.210662",
+  "last_updated": "2025-04-15T11:34:46.491252",
   "current_progress": {
     "area_name": "الرقه",
-    "current_page": 26,
+    "current_page": 28,
     "total_pages": 144,
-    "current_restaurant": 3,
+    "current_restaurant": 8,
     "total_restaurants": 15,
     "processed_restaurants": [
       "GIA To Go",
@@ -296,7 +296,27 @@
       "Domino's Pizza",
       "Dogmatic - A philosophy of Hot Dogs",
       "Sray Albait",
-      "Diet Care, Egaila"
+      "Diet Care, Egaila",
+      "Katkoot Restaurant",
+      "Juice Rotana Refreshment",
+      "Aldomyati Althahabi",
+      "Reyhoon",
+      "Farooj Abo Alabed",
+      "Lavan",
+      "The Corn Club",
+      "Morano Pastries",
+      "Fire Up",
+      "Seafood Dynamite Kitchen",
+      "Dono",
+      "Ayoush Beitna",
+      "Middle Eats",
+      "Police Steak",
+      "Tromso",
+      "Liken chicken",
+      "China Lake",
+      "Fruit Basket",
+      "Diyafet Albukhari",
+      "HALF MILLION"
     ],
     "completed_pages": [
       1,
@@ -323,7 +343,9 @@
       22,
       23,
       24,
-      25
+      25,
+      26,
+      27
     ]
   }
 }
