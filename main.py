@@ -225,25 +225,233 @@ class MainScraper:
             logging.error(f"Error printing current progress: {e}")
 
     async def scrape_and_save_area(self, area_name: str, area_url: str) -> List[Dict]:
-        print(f"\n{'='*50}")
-        print(f"SCRAPING AREA: {area_name}")
-        print(f"URL: {area_url}")
-        print(f"{'='*50}\n")
-        
-        all_area_results = self.scraped_progress["all_results"].get(area_name, [])
-        current_progress = self.current_progress["current_progress"]
-        scraped_current_progress = self.scraped_progress["current_progress"]
-        
-        is_resuming = current_progress["area_name"] == area_name
-        start_page = current_progress["current_page"] if is_resuming else 1
-        start_restaurant = current_progress["current_restaurant"] if is_resuming else 0
-        
-        if is_resuming:
-            print(f"Resuming area {area_name} from page {start_page} restaurant {start_restaurant + 1 if start_restaurant > 0 else 1}")
-        else:
+            print(f"\n{'='*50}")
+            print(f"SCRAPING AREA: {area_name}")
+            print(f"URL: {area_url}")
+            print(f"{'='*50}\n")
+            
+            all_area_results = self.scraped_progress["all_results"].get(area_name, [])
+            current_progress = self.current_progress["current_progress"]
+            scraped_current_progress = self.scraped_progress["current_progress"]
+            
+            is_resuming = current_progress["area_name"] == area_name
+            start_page = current_progress["current_page"] if is_resuming else 1
+            start_restaurant = current_progress["current_restaurant"] if is_resuming else 0
+            
+            if is_resuming:
+                print(f"Resuming area {area_name} from page {start_page} restaurant {start_restaurant + 1 if start_restaurant > 0 else 1}")
+            else:
+                current_progress.update({
+                    "area_name": area_name,
+                    "current_page": start_page,
+                    "total_pages": 0,
+                    "current_restaurant": 0,
+                    "total_restaurants": 0,
+                    "processed_restaurants": [],
+                    "completed_pages": []
+                })
+                scraped_current_progress.update(current_progress)
+                self.save_current_progress()
+                self.save_scraped_progress()
+                self.commit_progress(f"Started scraping area {area_name}")
+            
+            skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
+            
+            if current_progress["total_pages"] == 0:
+                total_pages = await self.determine_total_pages(area_url)
+                current_progress["total_pages"] = total_pages
+                scraped_current_progress["total_pages"] = total_pages
+                self.save_current_progress()
+                self.save_scraped_progress()
+                self.commit_progress(f"Determined {total_pages} pages for {area_name}")
+            else:
+                total_pages = current_progress["total_pages"]
+            
+            print(f"Total pages for {area_name}: {total_pages}")
+            
+            detailed_excel_filename = os.path.join(self.output_dir, f"{area_name}_detailed.xlsx")
+            
+            for page_num in range(start_page, total_pages + 1):
+                if page_num in current_progress["completed_pages"]:
+                    print(f"Skipping completed page {page_num}")
+                    continue
+                
+                page_url = area_url if page_num == 1 else (
+                    re.sub(r'page=\d+', f'page={page_num}', area_url) if "page=" in area_url else
+                    f"{area_url}{'&' if '?' in area_url else '?'}page={page_num}"
+                )
+                
+                print(f"\n--- Processing Page {page_num}/{total_pages} for {area_name} ---")
+                current_progress["current_page"] = page_num
+                scraped_current_progress["current_page"] = page_num
+                self.save_current_progress()
+                self.save_scraped_progress()
+                self.commit_progress(f"Started page {page_num} in {area_name}")
+                
+                max_retries = 3
+                for attempt in range(max_retries):
+                    try:
+                        restaurants_on_page = await self.get_page_restaurants(page_url, page_num)
+                        if not restaurants_on_page:
+                            raise Exception("No restaurants found")
+                        print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
+                        break
+                    except Exception as e:
+                        print(f"Error on page {page_num}: {e}")
+                        logging.error(f"Error on page {page_num}: {e}")
+                        if attempt < max_retries - 1:
+                            print(f"Retrying ({attempt + 1}/{max_retries})...")
+                            await asyncio.sleep(5)
+                        else:
+                            print(f"Skipping page {page_num} after {max_retries} attempts")
+                            restaurants_on_page = []
+                
+                if current_progress["total_restaurants"] == 0 or page_num > start_page:
+                    current_progress["total_restaurants"] = len(restaurants_on_page)
+                    scraped_current_progress["total_restaurants"] = len(restaurants_on_page)
+                    if not is_resuming or page_num > start_page:
+                        current_progress["current_restaurant"] = 0
+                        scraped_current_progress["current_restaurant"] = 0
+                
+                page_restaurants = []
+                for rest_idx, restaurant in enumerate(restaurants_on_page):
+                    rest_num = rest_idx + 1
+                    restaurant_name = restaurant.get("name", "").strip()
+                    
+                    # Skip if restaurant is already processed on this page
+                    if rest_num <= current_progress["current_restaurant"]:
+                        print(f"Skipping processed restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name}")
+                        continue
+                    
+                    # Check if restaurant exists in all_area_results to prevent reprocessing
+                    is_already_processed = any(
+                        r.get("name", "").strip() == restaurant_name and r.get("page", 0) == page_num
+                        for r in all Sundays
+                    )
+                    
+                    if is_already_processed:
+                        print(f"Skipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name} - Already processed on page {page_num}")
+                        current_progress["current_restaurant"] = rest_num
+                        scraped_current_progress["current_restaurant"] = rest_num
+                        self.save_current_progress()
+                        self.save_scraped_progress()
+                        self.print_progress_details()
+                        self.commit_progress(f"Skipped restaurant {restaurant_name} on page {page_num} in {area_name} (already processed)")
+                        continue
+                    
+                    current_progress["current_restaurant"] = rest_num
+                    scraped_current_progress["current_restaurant"] = rest_num
+                    
+                    if any(category in restaurant['cuisine'] for category in skip_categories):
+                        print(f"\nSkipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name} - Category: {restaurant['cuisine']}")
+                        if restaurant_name and restaurant_name not in current_progress["processed_restaurants"]:
+                            current_progress["processed_restaurants"].append(restaurant_name)
+                            scraped_current_progress["processed_restaurants"].append(restaurant_name)
+                        self.save_current_progress()
+                        self.save_scraped_progress()
+                        self.print_progress_details()
+                        self.commit_progress(f"Skipped restaurant {restaurant_name} on page {page_num} in {area_name}")
+                        continue
+                    
+                    print(f"\nProcessing restaurant {rest_num}/{len(restaurants_on_page)} on page {page_num}: {restaurant_name}")
+                    
+                    try:
+                        restaurant.setdefault("menu_items", {})
+                        restaurant.setdefault("info", {})
+                        restaurant.setdefault("reviews", {})
+                        restaurant["page"] = page_num
+                        
+                        menu_data = await self.talabat_scraper.get_restaurant_menu(restaurant['url'])
+                        if menu_data:
+                            restaurant['menu_items'] = menu_data
+                        
+                        info_data = await self.talabat_scraper.get_restaurant_info(restaurant['url'])
+                        if info_data:
+                            restaurant['info'] = info_data
+                        
+                        if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
+                            reviews_data = self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
+                            restaurant['reviews'] = reviews_data or {}
+                        
+                        # Append to lists
+                        page_restaurants.append(restaurant)
+                        all_area_results.append(restaurant)
+                        if restaurant_name and restaurant_name not in current_progress["processed_restaurants"]:
+                            current_progress["processed_restaurants"].append(restaurant_name)
+                            scraped_current_progress["processed_restaurants"].append(restaurant_name)
+                        self.scraped_progress["all_results"][area_name] = all_area_results
+                        
+                        # Save incrementally
+                        json_filename = os.path.join(self.output_dir, f"{area_name}.json")
+                        with open(json_filename, 'w', encoding='utf-8') as f:
+                            json.dump(all_area_results, f, indent=2, ensure_ascii=False)
+                        logging.info(f"Saved {len(all_area_results)} restaurants to {json_filename}")
+                        
+                        self.save_current_progress()
+                        self.save_scraped_progress()
+                        self.print_progress_details()
+                        self.commit_progress(f"Processed restaurant {restaurant_name} on page {page_num} in {area_name}")
+                        await asyncio.sleep(2)
+                    
+                    except Exception as e:
+                        print(f"Error processing restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name}: {e}")
+                        logging.error(f"Error processing restaurant {restaurant_name}: {e}")
+                        import traceback
+                        traceback.print_exc()
+                        if restaurant_name and restaurant_name not in current_progress["processed_restaurants"]:
+                            current_progress["processed_restaurants"].append(restaurant_name)
+                            scraped_current_progress["processed_restaurants"].append(restaurant_name)
+                        self.save_current_progress()
+                        self.save_scraped_progress()
+                        self.print_progress_details()
+                        self.commit_progress(f"Error processing restaurant {restaurant_name} on page {page_num} in {area_name}")
+                
+                # Save page restaurants to detailed Excel
+                if page_restaurants:
+                    try:
+                        self.create_detailed_excel_sheet(area_name, page_restaurants, detailed_excel_filename)
+                    except Exception as e:
+                        print(f"Failed to save detailed Excel for page {page_num}: {e}")
+                        logging.error(f"Failed to save detailed Excel for page {page_num}: {e}")
+                
+                if page_num not in current_progress["completed_pages"]:
+                    current_progress["completed_pages"].append(page_num)
+                    scraped_current_progress["completed_pages"].append(page_num)
+                current_progress["current_restaurant"] = 0
+                scraped_current_progress["current_restaurant"] = 0
+                self.save_current_progress()
+                self.save_scraped_progress()
+                self.print_progress_details()
+                self.commit_progress(f"Completed page {page_num} in {area_name}")
+                await asyncio.sleep(3)
+            
+            # Final JSON save
+            json_filename = os.path.join(self.output_dir, f"{area_name}.json")
+            with open(json_filename, 'w', encoding='utf-8') as f:
+                json.dump(all_area_results, f, indent=2, ensure_ascii=False)
+            logging.info(f"Final save: {len(all_area_results)} restaurants to {json_filename}")
+            
+            # Create simplified Excel workbook
+            simplified_workbook = Workbook()
+            self.create_excel_sheet(simplified_workbook, area_name, all_area_results)
+            simplified_excel_filename = os.path.join(self.output_dir, f"{area_name}.xlsx")
+            simplified_workbook.save(simplified_excel_filename)
+            print(f"Simplified Excel file saved: {simplified_excel_filename}")
+            
+            # Upload both Excel files to Google Drive
+            if self.upload_to_drive(simplified_excel_filename):
+                print(f"Uploaded {simplified_excel_filename} to Google Drive")
+            else:
+                print(f"Failed to upload {simplified_excel_filename} to Google Drive")
+            
+            if self.upload_to_drive(detailed_excel_filename):
+                print(f"Uploaded {detailed_excel_filename} to Google Drive")
+            else:
+                print(f"Failed to upload {detailed_excel_filename} to Google Drive")
+            
             current_progress.update({
-                "area_name": area_name,
-                "current_page": start_page,
+                "area_name": None,
+                "current_page": 0,
                 "total_pages": 0,
                 "current_restaurant": 0,
                 "total_restaurants": 0,
@@ -253,219 +461,11 @@ class MainScraper:
             scraped_current_progress.update(current_progress)
             self.save_current_progress()
             self.save_scraped_progress()
-            self.commit_progress(f"Started scraping area {area_name}")
-        
-        skip_categories = {"Grocery, Convenience Store", "Pharmacy", "Flowers", "Electronics", "Grocery, Hypermarket"}
-        
-        if current_progress["total_pages"] == 0:
-            total_pages = await self.determine_total_pages(area_url)
-            current_progress["total_pages"] = total_pages
-            scraped_current_progress["total_pages"] = total_pages
-            self.save_current_progress()
-            self.save_scraped_progress()
-            self.commit_progress(f"Determined {total_pages} pages for {area_name}")
-        else:
-            total_pages = current_progress["total_pages"]
-        
-        print(f"Total pages for {area_name}: {total_pages}")
-        
-        detailed_excel_filename = os.path.join(self.output_dir, f"{area_name}_detailed.xlsx")
-        
-        for page_num in range(start_page, total_pages + 1):
-            if page_num in current_progress["completed_pages"]:
-                print(f"Skipping completed page {page_num}")
-                continue
-            
-            page_url = area_url if page_num == 1 else (
-                re.sub(r'page=\d+', f'page={page_num}', area_url) if "page=" in area_url else
-                f"{area_url}{'&' if '?' in area_url else '?'}page={page_num}"
-            )
-            
-            print(f"\n--- Processing Page {page_num}/{total_pages} for {area_name} ---")
-            current_progress["current_page"] = page_num
-            scraped_current_progress["current_page"] = page_num
-            self.save_current_progress()
-            self.save_scraped_progress()
-            self.commit_progress(f"Started page {page_num} in {area_name}")
-            
-            max_retries = 3
-            for attempt in range(max_retries):
-                try:
-                    restaurants_on_page = await self.get_page_restaurants(page_url, page_num)
-                    if not restaurants_on_page:
-                        raise Exception("No restaurants found")
-                    print(f"Found {len(restaurants_on_page)} restaurants on page {page_num}")
-                    break
-                except Exception as e:
-                    print(f"Error on page {page_num}: {e}")
-                    logging.error(f"Error on page {page_num}: {e}")
-                    if attempt < max_retries - 1:
-                        print(f"Retrying ({attempt + 1}/{max_retries})...")
-                        await asyncio.sleep(5)
-                    else:
-                        print(f"Skipping page {page_num} after {max_retries} attempts")
-                        restaurants_on_page = []
-            
-            if current_progress["total_restaurants"] == 0 or page_num > start_page:
-                current_progress["total_restaurants"] = len(restaurants_on_page)
-                scraped_current_progress["total_restaurants"] = len(restaurants_on_page)
-                if not is_resuming or page_num > start_page:
-                    current_progress["current_restaurant"] = 0
-                    scraped_current_progress["current_restaurant"] = 0
-            
-            page_restaurants = []
-            for rest_idx, restaurant in enumerate(restaurants_on_page):
-                rest_num = rest_idx + 1
-                restaurant_name = restaurant.get("name", "").strip()
-                
-                # Skip if restaurant is already processed on this page
-                if rest_num <= current_progress["current_restaurant"]:
-                    print(f"Skipping processed restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name}")
-                    continue
-                
-                # Check if restaurant exists in all_area_results to prevent reprocessing
-                is_already_processed = any(
-                    r.get("name", "").strip() == restaurant_name and r.get("page", 0) == page_num
-                    for r in all Sundays
-                )
-                
-                if is_already_processed:
-                    print(f"Skipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name} - Already processed on page {page_num}")
-                    current_progress["current_restaurant"] = rest_num
-                    scraped_current_progress["current_restaurant"] = rest_num
-                    self.save_current_progress()
-                    self.save_scraped_progress()
-                    self.print_progress_details()
-                    self.commit_progress(f"Skipped restaurant {restaurant_name} on page {page_num} in {area_name} (already processed)")
-                    continue
-                
-                current_progress["current_restaurant"] = rest_num
-                scraped_current_progress["current_restaurant"] = rest_num
-                
-                if any(category in restaurant['cuisine'] for category in skip_categories):
-                    print(f"\nSkipping restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name} - Category: {restaurant['cuisine']}")
-                    if restaurant_name and restaurant_name not in current_progress["processed_restaurants"]:
-                        current_progress["processed_restaurants"].append(restaurant_name)
-                        scraped_current_progress["processed_restaurants"].append(restaurant_name)
-                    self.save_current_progress()
-                    self.save_scraped_progress()
-                    self.print_progress_details()
-                    self.commit_progress(f"Skipped restaurant {restaurant_name} on page {page_num} in {area_name}")
-                    continue
-                
-                print(f"\nProcessing restaurant {rest_num}/{len(restaurants_on_page)} on page {page_num}: {restaurant_name}")
-                
-                try:
-                    restaurant.setdefault("menu_items", {})
-                    restaurant.setdefault("info", {})
-                    restaurant.setdefault("reviews", {})
-                    restaurant["page"] = page_num
-                    
-                    menu_data = await self.talabat_scraper.get_restaurant_menu(restaurant['url'])
-                    if menu_data:
-                        restaurant['menu_items'] = menu_data
-                    
-                    info_data = await self.talabat_scraper.get_restaurant_info(restaurant['url'])
-                    if info_data:
-                        restaurant['info'] = info_data
-                    
-                    if restaurant['info'].get('Reviews URL') and restaurant['info']['Reviews URL'] != 'Not Available':
-                        reviews_data = self.talabat_scraper.get_reviews_data(restaurant['info']['Reviews URL'])
-                        restaurant['reviews'] = reviews_data or {}
-                    
-                    # Append to lists
-                    page_restaurants.append(restaurant)
-                    all_area_results.append(restaurant)
-                    if restaurant_name and restaurant_name not in current_progress["processed_restaurants"]:
-                        current_progress["processed_restaurants"].append(restaurant_name)
-                        scraped_current_progress["processed_restaurants"].append(restaurant_name)
-                    self.scraped_progress["all_results"][area_name] = all_area_results
-                    
-                    # Save incrementally
-                    json_filename = os.path.join(self.output_dir, f"{area_name}.json")
-                    with open(json_filename, 'w', encoding='utf-8') as f:
-                        json.dump(all_area_results, f, indent=2, ensure_ascii=False)
-                    logging.info(f"Saved {len(all_area_results)} restaurants to {json_filename}")
-                    
-                    self.save_current_progress()
-                    self.save_scraped_progress()
-                    self.print_progress_details()
-                    self.commit_progress(f"Processed restaurant {restaurant_name} on page {page_num} in {area_name}")
-                    await asyncio.sleep(2)
-                
-                except Exception as e:
-                    print(f"Error processing restaurant {rest_num}/{len(restaurants_on_page)}: {restaurant_name}: {e}")
-                    logging.error(f"Error processing restaurant {restaurant_name}: {e}")
-                    import traceback
-                    traceback.print_exc()
-                    if restaurant_name and restaurant_name not in current_progress["processed_restaurants"]:
-                        current_progress["processed_restaurants"].append(restaurant_name)
-                        scraped_current_progress["processed_restaurants"].append(restaurant_name)
-                    self.save_current_progress()
-                    self.save_scraped_progress()
-                    self.print_progress_details()
-                    self.commit_progress(f"Error processing restaurant {restaurant_name} on page {page_num} in {area_name}")
-            
-            # Save page restaurants to detailed Excel
-            if page_restaurants:
-                try:
-                    self.create_detailed_excel_sheet(area_name, page_restaurants, detailed_excel_filename)
-                except Exception as e:
-                    print(f"Failed to save detailed Excel for page {page_num}: {e}")
-                    logging.error(f"Failed to save detailed Excel for page {page_num}: {e}")
-            
-            if page_num not in current_progress["completed_pages"]:
-                current_progress["completed_pages"].append(page_num)
-                scraped_current_progress["completed_pages"].append(page_num)
-            current_progress["current_restaurant"] = 0
-            scraped_current_progress["current_restaurant"] = 0
-            self.save_current_progress()
-            self.save_scraped_progress()
             self.print_progress_details()
-            self.commit_progress(f"Completed page {page_num} in {area_name}")
-            await asyncio.sleep(3)
-        
-        # Final JSON save
-        json_filename = os.path.join(self.output_dir, f"{area_name}.json")
-        with open(json_filename, 'w', encoding='utf-8') as f:
-            json.dump(all_area_results, f, indent=2, ensure_ascii=False)
-        logging.info(f"Final save: {len(all_area_results)} restaurants to {json_filename}")
-        
-        # Create simplified Excel workbook
-        simplified_workbook = Workbook()
-        self.create_excel_sheet(simplified_workbook, area_name, all_area_results)
-        simplified_excel_filename = os.path.join(self.output_dir, f"{area_name}.xlsx")
-        simplified_workbook.save(simplified_excel_filename)
-        print(f"Simplified Excel file saved: {simplified_excel_filename}")
-        
-        # Upload both Excel files to Google Drive
-        if self.upload_to_drive(simplified_excel_filename):
-            print(f"Uploaded {simplified_excel_filename} to Google Drive")
-        else:
-            print(f"Failed to upload {simplified_excel_filename} to Google Drive")
-        
-        if self.upload_to_drive(detailed_excel_filename):
-            print(f"Uploaded {detailed_excel_filename} to Google Drive")
-        else:
-            print(f"Failed to upload {detailed_excel_filename} to Google Drive")
-        
-        current_progress.update({
-            "area_name": None,
-            "current_page": 0,
-            "total_pages": 0,
-            "current_restaurant": 0,
-            "total_restaurants": 0,
-            "processed_restaurants": [],
-            "completed_pages": []
-        })
-        scraped_current_progress.update(current_progress)
-        self.save_current_progress()
-        self.save_scraped_progress()
-        self.print_progress_details()
-        self.commit_progress(f"Completed area {area_name}")
-        
-        print(f"Saved {len(all_area_results)} restaurants for {area_name}")
-        return all_area_results
+            self.commit_progress(f"Completed area {area_name}")
+            
+            print(f"Saved {len(all_area_results)} restaurants for {area_name}")
+            return all_area_results
         
     async def determine_total_pages(self, area_url: str) -> int:
         print(f"Determining total pages for URL: {area_url}")
