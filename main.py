@@ -120,6 +120,75 @@ class MainScraper:
             print(f"Failed to save current progress: {e}")
             logging.error(f"Failed to save current progress: {e}")
 
+    # def load_scraped_progress(self) -> Dict:
+    #     default_progress = {
+    #         "completed_areas": [],
+    #         "current_area_index": 0,
+    #         "last_updated": None,
+    #         "all_results": {},
+    #         "current_progress": {
+    #             "area_name": None,
+    #             "current_page": 0,
+    #             "total_pages": 0,
+    #             "current_restaurant": 0,
+    #             "total_restaurants": 0,
+    #             "processed_restaurants": [],
+    #             "completed_pages": []
+    #         }
+    #     }
+    #     if not os.path.exists(self.SCRAPED_PROGRESS_FILE):
+    #         print(f"No scraped progress file found, initializing {self.SCRAPED_PROGRESS_FILE}")
+    #         self.save_scraped_progress(default_progress)
+    #         return default_progress
+        
+    #     try:
+    #         with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
+    #             progress = json.load(f)
+    #         # Validate structure
+    #         if not isinstance(progress, dict) or "current_progress" not in progress or "all_results" not in progress:
+    #             print(f"Invalid scraped progress file, resetting to default")
+    #             logging.warning(f"Invalid scraped progress file structure")
+    #             self.save_scraped_progress(default_progress)
+    #             return default_progress
+    #         # Keep processed_restaurants as-is, deduplication handled at append
+    #         progress["current_progress"]["completed_pages"] = sorted(list(set(
+    #             int(page) for page in progress["current_progress"].get("completed_pages", [])
+    #             if isinstance(page, (int, float)) and page >= 1
+    #         )))
+    #         print(f"Loaded scraped progress from {self.SCRAPED_PROGRESS_FILE}")
+    #         logging.info(f"Loaded scraped progress: {json.dumps(progress, ensure_ascii=False)}")
+    #         return progress
+    #     except Exception as e:
+    #         print(f"Error loading scraped progress: {e}")
+    #         logging.error(f"Error loading scraped progress: {e}")
+    #         self.save_scraped_progress(default_progress)
+    #         return default_progress
+
+    # def save_scraped_progress(self, progress: Dict = None):
+    #     if progress is None:
+    #         progress = self.scraped_progress
+    #     try:
+    #         progress["last_updated"] = datetime.now().isoformat()
+    #         # Only deduplicate completed_pages
+    #         if "current_progress" in progress:
+    #             progress["current_progress"]["completed_pages"] = sorted(list(set(
+    #                 int(page) for page in progress["current_progress"].get("completed_pages", [])
+    #                 if isinstance(page, (int, float)) and page >= 1
+    #             )))
+    #         # Validate JSON serializability
+    #         json.dumps(progress, ensure_ascii=False)
+    #         with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
+    #             json.dump(progress, temp_file, indent=2, ensure_ascii=False)
+    #             temp_file.flush()
+    #             os.fsync(temp_file.fileno())
+    #             temp_filename = temp_file.name
+    #         os.replace(temp_filename, self.SCRAPED_PROGRESS_FILE)
+    #         print(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE}")
+    #         logging.info(f"Saved scraped progress: {json.dumps(progress, ensure_ascii=False)}")
+    #     except Exception as e:
+    #         print(f"Failed to save scraped progress: {e}")
+    #         logging.error(f"Failed to save scraped progress: {e}")
+
     def load_scraped_progress(self) -> Dict:
         default_progress = {
             "completed_areas": [],
@@ -144,13 +213,16 @@ class MainScraper:
         try:
             with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
                 progress = json.load(f)
-            # Validate structure
             if not isinstance(progress, dict) or "current_progress" not in progress or "all_results" not in progress:
-                print(f"Invalid scraped progress file, resetting to default")
-                logging.warning(f"Invalid scraped progress file structure")
+                print(f"Invalid scraped progress file structure, resetting to default")
+                logging.warning(f"Invalid scraped progress file structure: {progress}")
                 self.save_scraped_progress(default_progress)
                 return default_progress
-            # Keep processed_restaurants as-is, deduplication handled at append
+            if not isinstance(progress["all_results"], dict):
+                print(f"Invalid all_results in scraped progress, resetting to default")
+                logging.warning(f"Invalid all_results: {progress['all_results']}")
+                self.save_scraped_progress(default_progress)
+                return default_progress
             progress["current_progress"]["completed_pages"] = sorted(list(set(
                 int(page) for page in progress["current_progress"].get("completed_pages", [])
                 if isinstance(page, (int, float)) and page >= 1
@@ -160,34 +232,43 @@ class MainScraper:
             return progress
         except Exception as e:
             print(f"Error loading scraped progress: {e}")
+            try:
+                with open(self.SCRAPED_PROGRESS_FILE, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    logging.error(f"Scraped progress file content: {content}")
+            except Exception as read_err:
+                logging.error(f"Could not read scraped progress file: {read_err}")
             logging.error(f"Error loading scraped progress: {e}")
             self.save_scraped_progress(default_progress)
             return default_progress
-
+    
     def save_scraped_progress(self, progress: Dict = None):
         if progress is None:
             progress = self.scraped_progress
         try:
             progress["last_updated"] = datetime.now().isoformat()
-            # Only deduplicate completed_pages
             if "current_progress" in progress:
                 progress["current_progress"]["completed_pages"] = sorted(list(set(
                     int(page) for page in progress["current_progress"].get("completed_pages", [])
                     if isinstance(page, (int, float)) and page >= 1
                 )))
-            # Validate JSON serializability
-            json.dumps(progress, ensure_ascii=False)
+            # Log content for debugging
+            logging.debug(f"Preparing to save scraped_progress: {json.dumps(progress, ensure_ascii=False)}")
+            json.dumps(progress, ensure_ascii=False)  # Validate serializability
             with tempfile.NamedTemporaryFile('w', delete=False, dir='.') as temp_file:
                 json.dump(progress, temp_file, indent=2, ensure_ascii=False)
                 temp_file.flush()
                 os.fsync(temp_file.fileno())
                 temp_filename = temp_file.name
             os.replace(temp_filename, self.SCRAPED_PROGRESS_FILE)
-            print(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE}")
-            logging.info(f"Saved scraped progress: {json.dumps(progress, ensure_ascii=False)}")
+            # Verify file was updated
+            mtime = os.path.getmtime(self.SCRAPED_PROGRESS_FILE)
+            print(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE} at {datetime.fromtimestamp(mtime).isoformat()}")
+            logging.info(f"Saved scraped progress to {self.SCRAPED_PROGRESS_FILE}")
         except Exception as e:
             print(f"Failed to save scraped progress: {e}")
             logging.error(f"Failed to save scraped progress: {e}")
+            raise  # Re-raise to catch issues earlier
 
     def commit_progress(self, message: str = "Periodic progress update"):
         try:
