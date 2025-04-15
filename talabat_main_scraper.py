@@ -13,6 +13,10 @@ from bs4 import BeautifulSoup
 from collections import defaultdict
 import re
 
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.firefox.options import FirefoxOptions
+from selenium.webdriver import Firefox
+
 # Apply nest_asyncio at the module level
 nest_asyncio.apply()
 
@@ -742,6 +746,7 @@ class TalabatScraper:
     #                 driver.quit()
     #             except Exception as e:
     #                 print(f"Error closing driver: {e}")
+
     def get_reviews_data(self, reviews_url: str) -> Optional[Dict]:
         """
         Scrapes review data with enhanced extraction - collects up to 100 customer reviews.
@@ -756,7 +761,7 @@ class TalabatScraper:
             firefox_options.add_argument('--disable-gpu')
     
             # Initialize Firefox WebDriver
-            driver = webdriver.Firefox(options=firefox_options)
+            driver = Firefox(options=firefox_options)
             driver.get(reviews_url)
     
             # Set explicit wait
@@ -775,43 +780,80 @@ class TalabatScraper:
                 "Customer_reviews": []
             }
     
-            # Get basic rating information
+            # Get basic rating information with fallback
             try:
-                rating_value = driver.find_element(By.CSS_SELECTOR, "[data-testid='brand-rating-number']").text
-                result["Rating_value"] = rating_value
-                print(f"Found rating: {rating_value}")
-            except NoSuchElementException:
-                print(f"No rating found for reviews page: {reviews_url}")
+                rating_elements = [
+                    "[data-testid='brand-rating-number']",
+                    ".rating-value",
+                    ".overall-rating"
+                ]
+                rating_value = None
+                for selector in rating_elements:
+                    try:
+                        rating_value = wait.until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                        ).text.strip()
+                        break
+                    except:
+                        continue
+                result["Rating_value"] = rating_value if rating_value else "Not found"
+                print(f"Found rating: {result['Rating_value']}")
             except Exception as e:
                 print(f"Error extracting rating: {e}")
+                result["Rating_value"] = "Not found"
     
             try:
-                ratings_number = driver.find_element(By.CSS_SELECTOR, "[data-testid='brand-total-ratings']").text
+                ratings_elements = [
+                    "[data-testid='brand-total-ratings']",
+                    ".ratings-count",
+                    ".total-ratings"
+                ]
+                ratings_number = None
+                for selector in ratings_elements:
+                    try:
+                        ratings_number = wait.until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                        ).text.strip()
+                        break
+                    except:
+                        continue
                 result["Ratings_count"] = ''.join(filter(str.isdigit, ratings_number)) if ratings_number else "0"
-            except NoSuchElementException:
-                print("Could not find ratings number")
+                print(f"Found ratings count: {result['Ratings_count']}")
             except Exception as e:
                 print(f"Error extracting ratings number: {e}")
+                result["Ratings_count"] = "0"
     
             try:
-                reviews_number = driver.find_element(By.CSS_SELECTOR, "[data-testid='brand-total-reviews']").text
-                reviews_count_text = reviews_number.strip()
-                total_reviews = int(''.join(filter(str.isdigit, reviews_count_text)))
+                reviews_elements = [
+                    "[data-testid='brand-total-reviews']",
+                    ".reviews-count",
+                    ".total-reviews"
+                ]
+                reviews_number = None
+                for selector in reviews_elements:
+                    try:
+                        reviews_number = wait.until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                        ).text.strip()
+                        break
+                    except:
+                        continue
+                total_reviews = int(''.join(filter(str.isdigit, reviews_number))) if reviews_number else 0
                 result["Reviews_count"] = str(total_reviews)
                 print(f"Total reviews available: {total_reviews}")
-            except NoSuchElementException:
-                print("Could not find reviews number")
             except Exception as e:
                 print(f"Error extracting reviews number: {e}")
+                result["Reviews_count"] = "0"
     
             # Extract General Review Paragraphs
             try:
-                markdown_div = driver.find_element(By.CSS_SELECTOR, ".markdown-rich-text-block")
-                if markdown_div:
-                    paragraphs = markdown_div.find_elements(By.TAG_NAME, "p")
-                    result["General_review"] = [p.text.strip() for p in paragraphs if p.text.strip()]
-                    print(f"Found {len(result['General_review'])} general review paragraphs")
-            except NoSuchElementException:
+                markdown_div = wait.until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, ".markdown-rich-text-block"))
+                )
+                paragraphs = markdown_div.find_elements(By.TAG_NAME, "p")
+                result["General_review"] = [p.text.strip() for p in paragraphs if p.text.strip()]
+                print(f"Found {len(result['General_review'])} general review paragraphs")
+            except Exception:
                 try:
                     paragraphs = driver.find_elements(By.CSS_SELECTOR, ".brand-reviews p, .restaurant-description p")
                     result["General_review"] = [p.text.strip() for p in paragraphs[:3] if p.text.strip()]
@@ -925,7 +967,9 @@ class TalabatScraper:
     
                     for by, selector in button_selectors:
                         try:
-                            elements = driver.find_elements(by, selector)
+                            elements = wait.until(
+                                EC.presence_of_all_elements_located((by, selector))
+                            )
                             for element in elements:
                                 if element.is_displayed() and element.is_enabled():
                                     button = element
