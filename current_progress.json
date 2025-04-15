@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-15T11:34:46.491252",
+  "last_updated": "2025-04-15T12:22:12.026824",
   "current_progress": {
     "area_name": "الرقه",
-    "current_page": 28,
+    "current_page": 30,
     "total_pages": 144,
-    "current_restaurant": 8,
+    "current_restaurant": 3,
     "total_restaurants": 15,
     "processed_restaurants": [
       "GIA To Go",
@@ -316,7 +316,18 @@
       "China Lake",
       "Fruit Basket",
       "Diyafet Albukhari",
-      "HALF MILLION"
+      "HALF MILLION",
+      "Costa Coffee",
+      "Sheikh Alfreej",
+      "Villa Fayrouz Express",
+      "Mhammash Restaurant",
+      "PASTA FOUNDRY",
+      "Fruit Cut",
+      "FRD",
+      "As Chicken",
+      "Fat Free",
+      "Miami burger",
+      "Chaykhana"
     ],
     "completed_pages": [
       1,
@@ -345,7 +356,9 @@
       24,
       25,
       26,
-      27
+      27,
+      28,
+      29
     ]
   }
 }
