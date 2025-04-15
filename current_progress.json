@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-15T08:14:59.807183",
+  "last_updated": "2025-04-15T09:08:19.101588",
   "current_progress": {
     "area_name": "الرقه",
-    "current_page": 23,
+    "current_page": 25,
     "total_pages": 144,
-    "current_restaurant": 0,
+    "current_restaurant": 2,
     "total_restaurants": 15,
     "processed_restaurants": [
       "GIA To Go",
@@ -280,7 +280,11 @@
       "Nab3 Al Diyafa",
       "Little Caesars Pizza",
       "SunShine",
-      "Forevermore"
+      "Forevermore",
+      "Hardee's",
+      "THRIVE SALADS",
+      "PASTA VITO",
+      "Molton Cookies"
     ],
     "completed_pages": [
       1,
@@ -304,7 +308,9 @@
       19,
       20,
       21,
-      22
+      22,
+      23,
+      24
     ]
   }
 }
