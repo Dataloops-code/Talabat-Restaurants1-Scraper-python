@@ -3,12 +3,12 @@
     "الظهر"
   ],
   "current_area_index": 1,
-  "last_updated": "2025-04-15T13:12:43.770114",
+  "last_updated": "2025-04-15T19:25:23.751585",
   "current_progress": {
     "area_name": "الرقه",
-    "current_page": 1,
+    "current_page": 2,
     "total_pages": 145,
-    "current_restaurant": 8,
+    "current_restaurant": 9,
     "total_restaurants": 15,
     "processed_restaurants": [
       "Pret A Manger",
@@ -26,8 +26,26 @@
       "Next Level",
       "Next Level",
       "BBT",
-      "BBT"
+      "BBT",
+      "Wimpy",
+      "Kine",
+      "Burger King",
+      "Naif Chicken Restaurant",
+      "Cramello Sweet",
+      "Pinkberry, Egaila",
+      "Karak Station",
+      "Wadi Al Ghoroub",
+      "Rochas sweets",
+      "Good Stuff",
+      "Dunkin Donuts",
+      "Haba Bukhari",
+      "Mama's Bakery",
+      "Al Dhahia juice",
+      "Bartone",
+      "Byalat Karak"
     ],
-    "completed_pages": []
+    "completed_pages": [
+      1
+    ]
   }
 }
